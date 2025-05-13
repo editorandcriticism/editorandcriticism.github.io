@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Steve Hoenisch">
+  <title>Principles of Separating Content from Presentation</title>
+  <meta name="description" content="Principles of separating content from presentation with XML, XSLT, CSS">
+  <meta name="keywords" content="<p>XML, XSLT, CSS, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XSLT, XHTML, content, presentation, DTD</p>">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+
+<!-- ============================================= -->
+
+
+
+
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+
+
+
+
+
+
+
+
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                  <li class="active">
+                    <a href="/cc/white-papers.html">White Papers</a>
+                  </li>
+                  <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+                   <li class="">
+                    <a href="/philosophy/">Critical Theory</a>
+                  </li>
+                  
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+                  <!-- <li><a href="#">Blog</a></li> -->
+                  <li><a href="/cc/white-papers.html">Technical White Papers</a></li>
+                    <li><a href="/cc/articles.html">Articles</a></li>
+                    <li><a href="/cc/portfolio.html">Portfolio</a></li>
+                    <li><a href="/seo/search-engine-optimization.html">SEO</a></li>
+
+                    <!-- adds tk: portfolio/guides.html; cc/blog.html; cc/shbio.html; -->
+
+
+
+                <!--   
+                  <li class="divider"></li>
+
+                
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+
+                  </ul></li>
+                </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+
+                </p>
+
+
+
+
+                
+                
+
+
+              </div>
+            </div>
+          
+
+
+
+
+
+
+
+
+
+
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content -->
+
+
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">Principles of Separating Content from Presentation</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i> Steve Hoenisch</p>
+</header>
+<p>There are principles of separation that can be immensely useful in building well-engineered, text-based web pages with XML, XSLT, CSS, and HTML. An overarching objective is to use XML <a href="structuring_docs.html">to structure content</a> and XSLT and CSS to format it in a way that minimizes redundancy and maximizes flexibility, including the capability to repurpose content and publish it in various formats. Most of the principles listed below are best applied to narrative-oriented documents that will be published as white papers, technical manuals, help files, essays, and so forth. Keep in mind that these principles are merely a guide and that the list of exceptions is long: Your data, purpose, audience, delivery format, and other factors will influence how you engineer your system's own matrix of structure, metainformation, parameters, content, and presentation. <img src="/images/B0000667G4.jpg" align="right" /></p>
+<ul>
+<li><strong>XML documents:</strong> Strive to maximize the content that exists as text, not as tags, in your XML documents. In other words, content that you expect authors or end users to see should usually be set as content, not as elements or attributes. Avoid setting content as tags, either as elements or attributes, even if doing so comes at the cost of some redundancy; it's easier for content authors to work with content that is out in the open, not hidden as the value of attributes or as elements themselves. Instead, use <a href="dtd1.html#section-Declaring-Elements-and-their-Contents">elements</a> to describe the structure or content of your material; use <a href="dtd2.html#section-ATTRIBUTES">attributes</a> to capture metainformation about the content or its structure and to encode parameters that are used to process the content. Place recurring content, especially content that may change, such as the name of a product under development, in <a href="dtd2.html#section-ENTITIES">entities</a>. Shy away from placing formatting or styling information in your XML documents, though it may be expedient to include some table and image formatting instructions.</li>
+<li><strong>XSLT stylesheets:</strong> Place as much formatting information as possible in your XSLT stylesheet and eschew using it as a container for standard content. Instead, place content out in the open in your XML documents even if doing so comes as the expense of a little duplication. However, highly variable content, such as the date of publication and the version number, may be best placed in the XSLT stylesheet as entities. It may also benefit you to make exceptions for content that varies by audience, as in the case of parameterized settings used in internationalization. <img src="/images/0201674874.jpg" align="right" /></li>
+<li><strong>Cascading Stylesheets,</strong> as I mentioned above, should complement the XSLT stylesheet by containing as many as possible of the formatting code's visual styling properties.</li>
+</ul>
+<p>In the examples that accompany this and later tutorials in the series, you'll see some of these principles at work.</p>
+<h1 id="related-pages">Related Pages</h1>
+<p>The tutorials in this series proceed as follows:</p>
+<ol type="1">
+<li><a href="xml_intro.html">An Introduction to XML</a></li>
+<li><a href="structuring_docs.html">Structuring Documents in XML</a></li>
+<li><a href="dtd1.html">Developing a Document Type Definition</a></li>
+<li><a href="dtd2.html">Attributes and Entities in DTDs</a></li>
+<li><a href="xsl1.html">An Introduction to XSL</a></li>
+<li><a href="xsl2.html">Using XSLT to Separate Content from Presentation</a></li>
+</ol>
+<hr height="1" style="color: silver;">
+<a class="addthis_button" href="http://www.addthis.com/bookmark.html?v=250&amp;username=xa-4c1170b1069b8c72"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c1170b1069b8c72"></script>
+
+<div class="footer">
+<p>&nbsp;</p>
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/philosophy/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+| <i class="fa fa-search-plus" aria-hidden="true"></i> <a class="botLink" href="/seo/search-engine-optimization.html"> SEO</a>
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2017</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Steve Hoenisch">
+  <title>XSLT’s Power and Elegance Separates Content from Presentation</title>
+  <meta name="description" content="A magazine article that demonstrates the power and elegance of XSLT stylesheets in separating content from presentation.">
+  <meta name="keywords" content="XML, XSL, XSLT, CSS, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XHTML, content, presentation, DTD, formatting XML, XSL:FO, formatting objects">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                  <!--
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                  -->
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics. The future is critical. 
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">XSLT’s Power and Elegance Separates Content from Presentation</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i></i> Steve Hoenisch</p>
+</header>
+<nav id="TOC">
+<ul>
+<li><a href="#introduction">INTRODUCTION</a></li>
+<li><a href="#review-the-template-rule">REVIEW: THE TEMPLATE RULE</a></li>
+<li><a href="#building-a-complex-stylesheet">BUILDING A COMPLEX STYLESHEET</a></li>
+<li><a href="#creating-an-html-container">CREATING AN HTML CONTAINER</a></li>
+<li><a href="#further-reading">FURTHER READING</a></li>
+<li><a href="#related-tutorials">RELATED TUTORIALS</a></li>
+<li><a href="#end-of-tutorial-series-photograph">END OF TUTORIAL SERIES PHOTOGRAPH</a></li>
+</ul>
+</nav>
+<p>This article appeared in Volume 3, Issue 3 of <em>XML Journal</em> magazine.</p>
+<h3 id="introduction">INTRODUCTION</h3>
+<p>The power and elegance of the Extensible Stylesheet Language for Transformations stems from its ability to transform XML documents into other output formats like HTML, fulfilling one of the original promises of XML: separating content from presentation.</p>
+<p>XSLT is particularly powerful because a single stylesheet can format all the XML documents conforming to a DTD into HTML for publication on a web site. The stylesheet can also be used to automatically generate such features as a hyperlinked table of contents, the building of which without XML requires substantial manual work.</p>
+<p><img src="/images/xmlj_v3i3.jpg" align="right"/></p>
+<p>XSLT is also elegant, because if you need to reformat all the pages in your web site, for instance, you need to change the code in only one place, the stylesheet, so long as your source documents are in XML.</p>
+<p>Written primarily for content authors, technical writers, web designers, and other nonprogrammers, this tutorial aims demonstrate some of XSLT’s power and elegance in separating content from presentation and in automatically generating narrative-oriented HTML documents while showing you how to create progressively more complex template rules – rules that are at the core of XSLT.</p>
+<h3 id="review-the-template-rule">REVIEW: THE TEMPLATE RULE</h3>
+<p>In its most basic form, an XSLT stylesheet uses what are called template rules to match nodes in an XML document and transform them into another format. A template rule is an XSL element that matches a node in the XML source document and typically applies an output format, such as HTML, to it. For example, say you have the following simple XML document:</p>
+<pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;document&gt;
+&lt;body&gt;You&#39;ve probably heard the propaganda by now: 
+XML blesses you with a way to separate content from presentation.&lt;/body&gt;
+&lt;/document&gt;</code></pre>
+<p>You can use a template rule to find the children of the root element and to format its contents in HTML for presentation. Here’s an template rule that does just that:</p>
+<pre><code>&lt;xsl:template match=&quot;/&quot;&gt;
+     &lt;html&gt;
+          &lt;body&gt;
+               &lt;p&gt;&lt;xsl:apply-templates/&gt;&lt;/p&gt;
+          &lt;/body&gt;
+     &lt;/html&gt;
+&lt;/xsl:template&gt;</code></pre>
+<p>In the above rule, the <code>&lt;xsl:template match=&quot;/&quot;&gt;</code> element uses the value of its match attribute to find a node in the XML source. The forward slash operator, an XPath expression, specifies the document’s root node. The rule could also match on the same node by specifying it explicitly in the template rule, that is, <code>&lt;xsl:template match=&quot;document&quot;&gt;</code>. By matching on the root node of the document, we’re able to build an HTML container that provides the skeleton code (here, just <code>&lt;html&gt;</code> and <code>&lt;body&gt;</code>) for our document. Below, I will expand on this concept.</p>
+<p>The <code>&lt;xsl:apply-templates&gt;</code> element invokes a built-in XSLT template rule that processes the children of the matched node, meaning roughly that it outputs the children. Because there is only one child of the <code>&lt;document&gt;</code> node in our XML file, <code>&lt;xsl:apply-templates&gt;</code> suffices to print the meager contents of the file. If, however, the <code>&lt;document&gt;</code> element contained more children, <code>&lt;xsl:apply-templates&gt;</code> would print them all out, too, and we would want additional template rules to control how they are formatted.</p>
+<p>Before we can push our source XML and its accompanying stylesheet through an XSLT processor to render the HTML output, we need do a couple more things. First, we need to add an XML processing instruction to the top of the stylesheet. Second, we must wrap the template rule with the <code>&lt;xsl:stylesheet&gt;</code> element, which all XSL stylesheets require as their top-level element, and set a namespace for it (note that some versions of Internet Explorer and the MSXML parser may require a different namespace; see http://msdn.microsoft.com/ and the Unofficial MSXML XSLT FAQ at http://www.netcrucible.com/xslt/msxml-faq.htm for details):</p>
+<pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; 
+version=&quot;1.0&quot;&gt;
+     &lt;xsl:template match=&quot;/&quot;&gt;
+          &lt;html&gt;
+               &lt;body&gt;
+                    &lt;p&gt;&lt;xsl:apply-templates/&gt;&lt;/p&gt;
+               &lt;/body&gt;
+          &lt;/html&gt;
+     &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code></pre>
+<p>We now have a minimal stylesheet that will convert our XML source to HTML. To view the output in Internet Explorer 5 or greater with version 3 of the MSXML parser, we first need to make a change to the XML source document: It must include a stylesheet processing instruction, appended after the XML processing instruction, that references our new minimal stylesheet, which is in this case located in the same directory as the source file, as the path in the href attribute’s value testifies:</p>
+<pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;?xml:stylesheet type=&quot;text/xsl&quot; href=&quot;my_stylesheet.xsl&quot;?&gt;
+&lt;document&gt;
+&lt;body&gt;You&#39;ve probably heard the propaganda by now: 
+XML blesses you with a way to separate content from presentation.&lt;/body&gt;
+&lt;/document&gt;</code></pre>
+<p>Let’s expand our minimal stylesheet to do a few more things. First, we’ll modify our template rule to output the body element specifically (as opposed to all the children of the root element); second, we’ll add a link to a Cascading Style Sheet that specifies the visual properties of our HTML formatting:</p>
+<pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; 
+version=&quot;1.0&quot; &gt;
+     &lt;xsl:template match=&quot;document&quot;&gt;
+          &lt;html&gt;
+               &lt;head&gt;
+                    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;doc.css&quot;/&gt;
+               &lt;/head&gt;
+               &lt;body&gt;
+                    &lt;p&gt;&lt;xsl:value-of select=&quot;body&quot;/&gt;&lt;/p&gt;
+               &lt;/body&gt;
+          &lt;/html&gt;
+     &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code></pre>
+<p>This stylesheet first matches the root node explicitly by name (document), builds an HTML container for it as before, and then uses the <code>&lt;xsl:value-of&gt;</code> element to select and output the text contents of the message node. The select attribute identifies the element whose contents are to be processed.</p>
+<p>Notice that in the stylesheet I also added a link to a sample Cascading Style Sheet in the same directory as the XSLT stylesheet. (The The CSS file contains the code in . In this example, only a few of the CSS rules are used, but the rest of them will be put into play as we expand our rudimentary stylesheet to process a more complex XML document.</p>
+<p>Using CSS to complement XSLT is a powerful strategy for building web pages – a strategy that splits presentation into what I call formatting and styling. Formatting can be seen to include basic HTML markup like headings, horizontal rules, lists and the like. Styling, meantime, defines the visual properties of markup: Its colors, sizes, widths, margins, bullet types, and so forth. Separating visual styling from formatting gives you a way to make wholesale design changes to a web site without having to change the formatting code in every HTML document; if you’ve set up your web pages properly, with all of them linking to a single CSS, you merely make the stylistic changes in one file, the Cascading Style Sheet.</p>
+<p>Cascading Style Sheets: The Definitive Guide, published by O’Reilly, provides a detailed account of how to use CSS. The W3C CSS specifications are available at http://www.w3c.org/Style/CSS/.</p>
+<h3 id="building-a-complex-stylesheet">BUILDING A COMPLEX STYLESHEET</h3>
+<p>This section builds on the review above to create an XSLT stylesheet that transforms any document that conforms to our DTD into an HTML document. We’ll create the stylesheet from the top down, step by step, explicating most of the template rules as we go.</p>
+<p>Consider the code in the sample XML document that appears in the pop-up window when you click here.</p>
+<p>The document is based on a sample DTD. (This DTD is very loosely based on a scaled down version of the TEI Lite DTD with some XHTML and other customizations thrown in; it’s been constructed to demonstrate the XSL transformations in this tutorial and, unlike TEI Lite, isn’t suitable for other uses; for information about TEI Lite, see http://www.tei-c.org/.) The XSLT stylesheet is also based on the DTD. Why bring a DTD into this discussion? The answer is that it’s best to build the stylesheet based on your DTD to ensure that all elements and attributes are processed fully and according to your requirements. The DTD provides the cues by which you build your stylesheet. That is, to build a suitable stylesheet – one that processes all the elements and attributes in your XML document fully and appropriately – you should develop your stylesheet based on your DTD, not on a mere XML document alone. For more information about analyzing DTDs to develop stylesheets, see Chapter 21, DTD Analysis, in The XSL Companion, by Neil Bradley (Addison-Wesley).</p>
+<p>Let’s start building the stylesheet. Since XSL stylesheets are themselves XML documents, they should generally begin with an XML processing instruction as their first line: <code>&lt;?xml version=&quot;1.0&quot;?&gt;</code>. The next line contains an optional document type declaration for the stylesheet to specify the stylesheet’s root element, xsl:stylesheet. I’m including the document type declaration in our stylesheet because I want to declare several general entities as an internal DTD subset for use in the stylesheet. (Recall that general entities let you replace an entity with its value; that is, wherever the entity pub.date appears in the stylesheet as text, it is replaced by its value as defined in the entity declaration, here June 1, 2002.)</p>
+<pre><code>&lt;!DOCTYPE xsl:stylesheet [
+    &lt;!ENTITY pub.date &quot;June 1, 2002&quot;&gt;
+    &lt;!ENTITY mdash &quot;--&quot;&gt;
+    &lt;!ENTITY nbsp &quot;&amp;#160;&quot;&gt;
+    ]&gt;</code></pre>
+<p>The root element for an XSLT stylesheet must be either xsl:stylesheet or xsl:transform. The xsl: prefix before stylesheet and transform is the customary XSL namespace; all the XSL elements are in the http://www.w3.org/1999/XSL/Transform namespace, which must be referenced as the value of the xmlns:xsl attribute of the xsl:stylesheet root element, as I’ve done here (see the chapter titled XSL Transformations in O’Reilly’s XML in a Nutshell for additional information about the namespace):</p>
+<pre><code>&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; version=&quot;1.0&quot;&gt;</code></pre>
+<p>Next, I set the output method to HTML and include a reference to the HTML version I want to use:</p>
+<pre><code>&lt;xsl:output method=&quot;html&quot; doctype-public=&quot;-//W3C//DTD HTML 4.0 Transitional//EN&quot;/&gt;</code></pre>
+<h3 id="creating-an-html-container">CREATING AN HTML CONTAINER</h3>
+<p>Now, bringing a simple template-matching rule into play, we begin building the HTML skeleton for the output file:</p>
+<pre><code>&lt;xsl:template match=&quot;document&quot;&gt;
+ [...HTML SKELETON CODE...]
+&lt;/xsl:template&gt;</code></pre>
+<p>This template rule selects the XML document’s root element, <code>&lt;document&gt;</code>, and circumfuses it with HTML code, forming a skeleton that will contain the body of the XML document. In the case of this stylesheet, the skeleton is in the form of a header, a content area, and a footer.</p>
+<p>In the header, I have used an XSL element – <code>&lt;xsl:value-of select=&quot;docinfo/title&quot;/&gt;</code> – to select the title of the XML document and to output it in the title slot of the HTML document that I’m building.</p>
+<p>Notice, too, that between the HTML <code>&lt;head&gt;</code> tags I’ve also created an HTML link to a Cascading Style Sheet, which contains as much as possible of the styling information for my HTML formatting:</p>
+<pre><code>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;doc.css&quot;/&gt;</code></pre>
+<p>In the next XSL command, I again select the value of the <code>&lt;title&gt;</code> tag in the XML document, this time for use as a headline atop the HTML document:</p>
+<pre><code>&lt;xsl:value-of select=&quot;docinfo/title&quot;/&gt;</code></pre>
+<p>Now skip over the rest of the HTML code in the header and bore into the content area until you find the next command prefaced by the XSL namespace:</p>
+<pre><code>&lt;xsl:apply-templates select=&quot;body&quot;/&gt;</code></pre>
+<p>This template rule selects the entire contents of the body element in the XML document, processes it according to the other template rules in the stylesheet, and outputs the result at the point of this command inside the HTML container that we built when we matched on the root element earlier.</p>
+<h4 id="formatting-the-body">Formatting the Body</h4>
+<p>To format the body of the XML document, my stylesheet includes a template rule that selects the body element: <code>&lt;xsl:template match=&quot;body&quot;&gt;</code>. This template does three things: It inserts a Table of Contents headline, calls another template that dynamically builds a table of contents, and processes all <code>&lt;div1&gt;</code> elements. The <code>&lt;xsl:call-template name=&quot;toc&quot;/&gt;</code> command calls a macro (located toward the end of the stylesheet in the Macros section) that cycles through the six levels of <code>&lt;div&gt;</code> elements, makes a reference to the <code>&lt;div&gt;</code> element’s heading in the form of a hyperlink, and numbers the section headings using the 1.1 format.</p>
+<p>The set of macros that build the table of contents originated in the W3C’s XSLT stylesheet for the XML Recommendation. Reverse engineering it is a potent method of teaching yourself some of the advanced capabilities of XSLT. The W3C’s stylesheet is available in the download file for Chapter 9 of Michael Kay’s book titled XSLT Programmer’s Reference at http://www.wrox.com/. In IE5.0 or greater, you can view the XML source code for the W3C’s XML Recommendation at http://www.w3.org/TR/2000/REC-xml-20001006.xml; or you can download it and view it using an editor like XML Spy.</p>
+<p>The next set of templates in our stylesheet creates headings for the <code>&lt;div&gt;</code> elements, mapping the <code>&lt;head&gt;</code> element in <code>&lt;div1&gt;</code> to the HTML heading element <code>&lt;h1&gt;</code> and so forth through <code>&lt;div6&gt;</code> and <code>&lt;h6&gt;</code>. The template-matching rules for the head elements also call another template, named “head”, which inserts an ID attribute in each heading and numbers them with the command mode=“number”.</p>
+<h4 id="processing-the-child-nodes">Processing the Child Nodes</h4>
+<p>Finally, after building the table of contents and the headings for each <code>&lt;div&gt;</code> section, the stylesheet uses the following code to process all the children of the <code>&lt;div1&gt;</code> element:</p>
+<pre><code>&lt;xsl:template match=&quot;div1&quot;&gt;
+     &lt;xsl:apply-templates/&gt;
+&lt;/xsl:template&gt;</code></pre>
+<p>In this code, the <code>&lt;xsl:apply-templates/&gt;</code> simple tells the XSLT processor to process all the child elements of <code>&lt;div1&gt;</code> and to output them according to the template rules for each child element listed further down in the stylesheet. Many of these child elements are processed simply by what I’ve called the XHTML Quick Print Module. This template rule selects any of the elements listed in the value of the match attribute, makes a copy of the element, makes a copy of all the element’s attributes, and simply passes them through to the target output file intact. Because my DTD contains several XHTML elements for low-lying nodes, I can use this template rule instead of writing a separate template rule for each XHTML element.</p>
+<p>This sample XSLT stylesheet may be viewed in a pop-up window.</p>
+<h3 id="further-reading">FURTHER READING</h3>
+<p>On the heels of this column’s brief introduction to XSLT, I suggest you spend a couple of hours in your neighborhood bookstore reading the following chapters in this order:</p>
+<ul>
+<li>Chapter 6, Transformation: Repurposing Documents, in O’Reilly’s Learning XML.</li>
+<li>Chapter 8, XSL Transformations, in O’Reilly’s XML in a Nutshell.</li>
+<li>Whatever selections you deem useful from Wrox’s XSLT Programmer’s Reference by Micheal Kay.</li>
+</ul>
+<p>Finally, take some time to browse through the resources listed on World Wide Web Consortium’s XSL specification page at http://www.w3.org/Style/XSL/. The page includes links to other tutorials, an FAQ, the XSL specifications, and a variety of resources.</p>
+<p>I also suggest you start playing around with XSLT a little on your own; it’s the best way to learn how to use it. Try playing with the code accompanying this column: Add some elements to the DTD and the XML document and then write template matching rules to process and output them in Internet Explorer. You may have to install the newest version of the MSXML parser to get the code to display correctly; see http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/766/msdncompositedoc.xml for details.</p>
+<p>This column has only scratched the surface of XSLT. Its a complex but powerful programming language that, once you learn how to use it, yields the vast gains in productivity that spring from the original promise of XML: separating content from presentation.</p>
+<h3 id="related-tutorials">RELATED TUTORIALS</h3>
+<p>The tutorials in this series proceed as follows:</p>
+<ol type="1">
+<li><a href="xml_intro.html">An Introduction to XML</a></li>
+<li><a href="structuring_docs.html">Structuring Documents in XML</a></li>
+<li><a href="dtd1.html">Developing a Document Type Definition</a></li>
+<li><a href="dtd2.html">Attributes and Entities in DTDs</a></li>
+<li><a href="xsl1.html">An Introduction to XSL</a></li>
+<li><a href="xsl2.html">Using XSLT to Separate Content from Presentation</a> <i class="fa fa-check-square" aria-hidden="true"></i></li>
+</ol>
+<h3 id="end-of-tutorial-series-photograph">END OF TUTORIAL SERIES PHOTOGRAPH</h3>
+<p><img alt="Sunset over Snoqualmie Pass" src="/photos/snoqualmie-pass-summit-west-sunset.jpg" width="682" height="512" /></p>
+<p>A sunset over the Summit West ski area, Snoqualmie Pass, Wash., February 2020. <i class="fa fa-picture-o" aria-hidden="true"></i> Photo Credit: Steve Hoenisch.</p>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

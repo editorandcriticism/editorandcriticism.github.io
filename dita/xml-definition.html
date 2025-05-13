@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Steve Hoenisch">
+  <title>What Is XML? A Metalanguage for Describing and Structuring Data</title>
+  <meta name="description" content="A definition of XML as a metalanguage for describing and structuring data.">
+  <meta name="keywords" content="XML, XSL, XSLT, CSS, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XHTML, content, presentation, DTD, formatting XML, XSL:FO, formatting objects. metalanguage">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                  <!--
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                  -->
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">What Is XML? A Metalanguage for Describing and Structuring Data</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i></i> Steve Hoenisch</p>
+</header>
+<p>All this talk about XML raises the question: What is it anyway? And what about the jumble of abbreviations that cloaks XML from the curious eyes of an HTML coder or content author? How do XSLT, DTD, XLink and all the rest fit into the XML equation?</p>
+<p>Extensible Markup Language is, first and foremost, a metalanguage for describing and structuring data with tags. “Metalanguage” means a language for how to describe other languages. Like HTML, XML uses tags (words bracketed by “&lt;” and “&gt;”), but unlike HTML, XML has neither a predefined set of tags nor rules for how to use them (though XML does have generic rules governing markup; for instance, tags may not overlap).</p>
+<p>In XML, tags and the rules for them, or grammar, are defined by the users themselves. XML programmers use tags and their corresponding grammar to describe and structure data in a simple text format like that of HTML (as opposed to a binary format). Because users can define their own tags, XML, as its full name implies, is also extensible, meaning that, unlike HTML, it is capable of being extended. You will begin learning how to create your own XML tags today, in the tutorial section below.</p>
+<h3 id="a-family-of-technologies">A Family of Technologies</h3>
+<p>The hodgepodge of abbreviations and acronyms surrounding XML points up another of its characteristics: It is a family of technologies designed to be used over the Internet. Some of XML’s family members and their main functions are as follows:</p>
+<ul>
+<li><p>Extensible Stylesheet Language (XSL), which in turn comprises Extensible Stylesheet Language Transformations (XSLT) and Extensible Stylesheet Language Formatting Objects (XSL-FO). XSL is an XML-based language for expressing stylesheets. XSLT is a language for transforming XML documents into (typically) other XML documents, HTML, and WML. XSL-FO is used to format XML documents for printing. My third column will present a tutorial on XSLT. Later columns will delve into XSL-FO and expand on XSLT.</p></li>
+<li><p>Document Type Definition (DTD). Stemming from Standard Generalized Markup Language, the progenitor of both HTML and XML, a DTD defines the rules that constrain an XML document or a set of XML documents. In my third column, I’ll teach you how to construct a DTD.</p></li>
+<li><p>XML Schema, for which we’ve thankfully been spared yet another abbreviation to remember, may eventually supplant DTDs as the primary mechanism for constraining XML data. An XML Schema, which is itself in the format of an XML document, serves the same function as a DTD while correcting some of its limitations. This column will cover XML Schema at a later time.</p></li>
+<li><p>XLink, XPath, and XPointer together provide the foundation for creating links and asserting relationships within and among XML documents. XLink describes how to create hyperlinks among XML documents and provides mechanisms for advanced capabilities like multidirectional linking. XPath, widely used by XSLT, allows users to locate specific nodes or node sets within XML documents (you’ll learn about nodes next month). XPointer specifies how to describe and point to locations of various kinds within an XML document. My fifth column will address linking in XML. Meantime, for a quick description of it, check out XML Linking: An Introduction at http://www.stg.brown.edu/~sjd/xlinkintro.html.</p></li>
+<li><p>Namespaces is a specification that describes how to associate a URL with all the tags in an XML document to ensure that they are unique, thereby eliminating ambiguity when the same tag is used by different XML coders. I’ll introduce you to Namespaces after we move through some of the more fundamental aspects of XML.</p></li>
+<li><p>The Document Object Model (DOM) and the Simple API for XML (SAX). The Document Object Model, itself an Application Programming Interface, or API, is used to represent the structure and content of XML (and other) documents and provides an interface that allows programs and scripts to manipulate them. SAX, like DOM, also allows applications to get information from an XML document and do something with it. This column will provide an introductory tutorial on DOM and SAX toward the end of the year.</p></li>
+</ul>
+<p>These are just some of the XML-related technologies relevant to a broadly focused XML tutorial. As you may have guessed, there is a plethora of other XML-related specifications and applications, most of which are still evolving: XML Query, XML Base, XML Signature and Canonicalization, XML Protocol, MathML, SMIL, SVG, and FpML, to name a few. You can visit the World Wide Web Consortium’s (W3C) web site, http://www.w3c.org, for the rundown on most of these initiatives.</p>
+<p>To get a more complete description of what XML is and what its core related technologies are, read two short pieces: an article on the W3C web site called “XML in 10 Points,” at http://www.w3.org/XML/1999/XML-in-10-points, and the first half of Chapter 1 in Brett McLaughlin’s book, Java and XML, published by O’Reilly. For a slighly more technical introduction to XML, visit http://www.xml.com/pub/a/98/10/guide0.html.</p>
+<h3 id="related">Related</h3>
+<p>The tutorials in this series proceed as follows:</p>
+<ol type="1">
+<li><a href="xml_intro.html">An Introduction to XML</a></li>
+<li><a href="structuring_docs.html">Structuring Documents in XML</a></li>
+<li><a href="dtd1.html">Developing a Document Type Definition</a></li>
+<li><a href="dtd2.html">Attributes and Entities in DTDs</a></li>
+<li><a href="xsl1.html">An Introduction to XSL</a></li>
+<li><a href="xsl2.html">Using XSLT to Separate Content from Presentation</a></li>
+</ol>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

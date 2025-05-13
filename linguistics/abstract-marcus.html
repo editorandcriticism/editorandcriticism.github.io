@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Marcus's Computational Account of Some Constraints on Language</title>
+  <meta name="description" content="Marcus, M. 1986. A Computational Account of Some Constraints on Language. In Readings in Natural Language Processing, Grosz, Jones and Webber, eds. 1986. Los Altos, Calif.: Morgan Kaufmann.">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                  <!--
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                  -->
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">Marcus's Computational Account of Some Constraints on Language</h1>
+</header>
+<p>Abstract last updated on August 11, 2004<br />
+</p>
+<h1 id="citation">1 Citation</h1>
+<p><strong>From:</strong> Marcus, M. 1986. A Computational Account of Some Constraints on Language. In Readings in Natural Language Processing, Grosz, Jones and Webber, eds. 1986. Los Altos, Calif.: Morgan Kaufmann.</p>
+<h1 id="determinism-hypothesis">2 Determinism Hypothesis</h1>
+<p>The purpose of Marcus's paper is to present arguments showing that the constraints imposed by the structure of the grammar interpreter called PARSIFAL are such that grammar rules cannot parse sentences violating either the Specified Subject Constraint or the Subjacency Principle, a result that stems from a component of the grammar interpreter motivated by what Marcus calls the Determinism Hypothesis. This hypothesis &quot;claims that natural language can be parsed by a computationally simply mechanism that uses neither backtracking nor pseudo-parallelism, and in which all grammatical structure created by the parser is `indelible' in that it must all be output as part of the structural analysis of the parser's input&quot; (89). The structure of PARSIFAL, Marcus says, is based upon the hypothesis that a parser for natural language does not need to simulate a nondeterministic machine.</p>
+<p>PARSIFAL uses two major data structures, one of which is &quot;a pushdown stack of incomplete constituents called <em>the active node stack</em>&quot; (90; emphasis in original). The other structure, which distinguishes the parser from others, is &quot;a small three-place <em>constituent buffer</em> which contains constituents which are complete, but whose higher level grammatical function is as yet uncertain&quot; (90; emphasis in original). The structure and operation of the parser is motivated by several properties that Marcus maintains a nondeterministic parser should include and which PARSIFAL embodies: the parser should be partially data-driven, able to &quot;reflect expectations that follow from the partial structures built up during the parsing process&quot; (91), and have a constrained look-ahead capacity.</p>
+<p>After outlining the grammar interpreter, Marcus, working within the Chomskian framework that postulates traces, demonstrates how the SSC and the Subjacency Principle &quot;fall out&quot; from the formulation of PASSIVE. Marcus shows that in the context of a grammar for the parser, a solution emerges for constructions of passivization and, without adding complexity to the grammar, raising. Marcus demonstrates these claims by successfully applying the parser to examples of passivization and raising. In doing so, he develops a computational account of NP-movement (but not WH-movement) in accordance with the SSC and Subjacency Principle.</p>
+<p>However, as Marcus himself acknowledges, he does not present strong, complete evidence for the Determinism Hypothesis. He concludes only that the NP-movement subcases of the constraints follow from the grammar interpreter, a result that provides some evidence for the Determinism Hypothesis but does not confirm it outright. Accordingly, the paper provides clear evidence for the parser's power in handling NP-movement in accordance with Chomsky's constraints but leaves undetermined whether the parser can also handle cases of, for instance, WH-movement. The result is a strong contribution to the development of computational models based on the generative grammar of Chomsky.</p>
+<h1 id="related">3 Related</h1>
+<ul>
+<li><p><a href="abstract-abney.html">Abstract: Abney's Memory Requirements and Lexical Ambiguities of Parsing Strategies</a></p></li>
+<li><p><a href="abstract-earley.html">Abstract: Earley's Efficient Context-Free Parsing Algorithm</a></p></li>
+</ul>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

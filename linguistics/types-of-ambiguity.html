@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Steve Hoenisch">
+  <title>Identifying and Resolving Ambiguity</title>
+  <meta name="description" content="Examples and analysis of linguistic ambiguity in newspaper headlines.">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                  <!--
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                  -->
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">Identifying and Resolving Ambiguity</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i></i> Steve Hoenisch</p>
+</header>
+<h1 id="examples-of-ambiguity">1 Examples of Ambiguity</h1>
+<p>Listed below are some headlines that exhibit at least one of three kinds of ambiguity – lexical (part-of-speech), syntactic (structural), and semantic. In some of these examples – all from actual newspaper headlines – the unintended meaning is so strong that, on first reading, it overshadows the intended one.</p>
+<p>drunk gets nine months in violin case</p>
+<p>Iraqi head seeks arms</p>
+<p>prostitutes appeal to pope</p>
+<p>teacher strikes idle kids</p>
+<p>squad helps dog bite victim</p>
+<p>enraged cow injures farmer with ax</p>
+<p>miners refuse to work after death</p>
+<p>juvenile court to try shooting defendant</p>
+<p>stolen painting found by tree</p>
+<p>two Soviet ships collide, one dies</p>
+<p>two sisters reunited after 18 years in checkout counter</p>
+<h1 id="analysis-of-ambiguity">2 Analysis of Ambiguity</h1>
+<h2 id="semantic-ambiguity">2.1 Semantic Ambiguity</h2>
+<p><strong>Headline:</strong></p>
+<pre class="program"><code>Iraqi head seeks arms</code></pre>
+<p><strong>Ambiguity type:</strong> Semantic.</p>
+<p><strong>Identification and explanation:</strong> The homograph “head” can be interpreted as a noun meaning either chief or the anatomical head of a body. Likewise, the homograph “arms” can be interpreted as a plural noun meaning either weapons or body parts.</p>
+<p><strong>What makes headline humorous:</strong> The headline can easily be read as a disembodied head searching for arms (body parts) or wanting to have them attached.</p>
+<p><strong>Computational Resolution:</strong> The ambiguity could be resolved for a computer parser by specifying in the lexical entry for each item its semantic features.</p>
+<h2 id="lexical-ambiguity">2.2 Lexical Ambiguity</h2>
+<p><strong>Headline:</strong></p>
+<pre class="program"><code>Teacher strikes idle kids</code></pre>
+<p><strong>Ambiguity type:</strong> Lexical (part of speech or category ambiguity).</p>
+<p><strong>Identification and explanation:</strong> “strikes” can occur as either an verb meaning to hit or a noun meaning a refusal to work. Meantime, “idle” can occur as either an verb or an adjective.</p>
+<p><strong>What makes headline humorous:</strong> The headline can easily be read as “teacher hits idle kids’ even though it was meant to mean that the walkout of teachers has left pupils idle.</p>
+<h2 id="structural-ambiguity">2.3 Structural Ambiguity</h2>
+<p><strong>Headline:</strong></p>
+<pre class="program"><code>Stolen painting found by tree</code></pre>
+<p><strong>Ambiguity type:</strong> Structural.</p>
+<p><strong>Identification and explanation:</strong> The headline’s two alternative syntactic representations make it structurally ambivalent:</p>
+<p>(1) A tree found a stolen painting.</p>
+<p>(2) A person found a stolen painting near a tree.</p>
+<p><strong>What makes headline humorous:</strong> The headline can easily be read as the representation in (1): A tree found a painting, which is humorous because trees, being inanimate, generally don’t find things.</p>
+<p><strong>Computational Resolution:</strong> Specifying in the computational lexicon that the verb “find” usually takes an agent with the property [+animate].</p>
+<h1 id="related">3 Related</h1>
+<p><i class="fa fa-file-text"></i> <a href="abstract-abney.html">Abstract: Abney’s Memory Requirements and Lexical Ambiguities of Parsing Strategies</a></p>
+<p><i class="fa fa-file-text"></i> <a href="abstract-marcus.html">Abstract: Marcus’s Computational Account of Some Constraints on Language</a></p>
+<p><i class="fa fa-file-text"></i> <a href="abstract-earley.html">Abstract: Earley’s Efficient Context-Free Parsing Algorithm</a></p>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

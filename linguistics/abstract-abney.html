@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Memory Requirements and Lexical Ambiguities of Parsing Strategies</title>
+  <meta name="description" content="<p>Abney, S. and Johnson, M. 1991. Memory Requirements and Lexical Ambiguities of Parsing Strategies, Journal of Psycholinguistics Research 20:233-250.</p>">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+
+<!-- ============================================= -->
+
+
+
+
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+
+
+
+
+
+
+
+
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                  <li class="active">
+                    <a href="/cc/white-papers.html">White Papers</a>
+                  </li>
+                  <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+                   <li class="">
+                    <a href="/philosophy/">Critical Theory</a>
+                  </li>
+                  
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+                  <!-- <li><a href="#">Blog</a></li> -->
+                  <li><a href="/cc/white-papers.html">Technical White Papers</a></li>
+                    <li><a href="/cc/articles.html">Articles</a></li>
+                    <li><a href="/cc/portfolio.html">Portfolio</a></li>
+                    <li><a href="/seo/search-engine-optimization.html">SEO</a></li>
+
+                    <!-- adds tk: portfolio/guides.html; cc/blog.html; cc/shbio.html; -->
+
+
+
+                <!--   
+                  <li class="divider"></li>
+
+                
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+
+                  </ul></li>
+                </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+
+                </p>
+
+
+
+
+                
+                
+
+
+              </div>
+            </div>
+          
+
+
+
+
+
+
+
+
+
+
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content -->
+
+
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">Memory Requirements and Lexical Ambiguities of Parsing Strategies</h1>
+</header>
+<h4 id="abstract">Abstract</h4>
+<h1 id="citation">1 Citation</h1>
+<p><strong>From:</strong> Abney, S. and Johnson, M. 1991. Memory Requirements and Lexical Ambiguities of Parsing Strategies, Journal of Psycholinguistics Research 20:233-250.</p>
+<h1 id="optimal-parsing-strategies">2 Optimal Parsing Strategies</h1>
+<p>Abney and Johnson, maintaining that two properties of parsing strategies -- space requirements and local ambiguities -- have been subject to imprecise examination and unrealistic assumptions, investigate the range of possible parsers, their memory requirements, and the number of local ambiguities they face. Abney and Johnson lay the foundation for determining and executing the parsing strategy that, given a grammar, optimizes the combination of memory requirements and local ambiguities. In doing so, they provide a method for measuring the local ambiguities and space requirements of a selected parsing strategy for a particular grammar. (For Abney and Johnson, a parsing strategy &quot;is a way of enumerating the nodes and arcs of parse trees&quot; (236).)</p>
+<p>Because of the controversy over center-embedded constructions, Abney and Johnson's method for measuring space requirements is of particular importance. The method rests on assigning one unit to each node to which the parser may need to refer, including nodes left incomplete because their parent or child has yet to be constructed. Given a grammar, a parsing strategy's required space is the maximum necessitated by an enumeration that the strategy designates for a parse tree of the grammar. The measurement's application shows that in languages like English which branch heavily to the right, a top-down strategy makes more efficient use of memory than a bottom-up strategy -- because a top-down strategy keeps the number of incomplete nodes lower. Conversely, in left-branching structures, a bottom-up parser more efficiently utilizes space. Meantime, the parsing strategy for center embedding should require maximal memory requirements if the inability to parse center-embedded constructions is to be attributed to memory limitations. However, Abney and Johnson show, neither top-down nor bottom-up strategies reach their maximum space requirements when applied to center-embedded structures, a finding that Abney and Johnson make convincing by providing and comparing clear, concrete enumerations of the memory requirements for left-branching, right-branching, and center-embedded structures.</p>
+<p>Regarding local ambiguities, Abney and Johnson use calculations to show that a &quot;less eager&quot; strategy -- that is, one that constructs nonterminal nodes earlier in the input string -- may reduce the local ambiguities encountered by the parser. Bottom-up strategies are less eager than top-down strategies, revealing an efficiency trade off for right-branching languages like English between reducing local ambiguities and minimizing memory requirements. Accordingly, Abney and Johnson maintain that the optimal parsing strategy for English is probably neither top-down nor bottom-up.</p>
+<p>Considered a classic essay in the computational linguistic literature as well as an important psycholinguistic contribution, the essay is well organized and highly readable, making it accessible to readers not initiated into the technical background of computational linguistics. Abney and Johnson take particular care to define their terms and provide concrete examples backing up their major points.</p>
+<h1 id="related">3 Related</h1>
+<p><i class="fa fa-file-text"></i> <strong><a href="abstract-marcus.html">Abstract: Marcus's Computational Account of Some Constraints on Language</a></strong></p>
+<p><i class="fa fa-file-text"></i> <strong><a href="abstract-earley.html">Abstract: Earley's Efficient Context-Free Parsing Algorithm</a></strong></p>
+<hr height="1" style="color: silver;">
+<a class="addthis_button" href="http://www.addthis.com/bookmark.html?v=250&amp;username=xa-4c1170b1069b8c72"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c1170b1069b8c72"></script>
+
+<div class="footer">
+<p>&nbsp;</p>
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/philosophy/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+| <i class="fa fa-search-plus" aria-hidden="true"></i> <a class="botLink" href="/seo/search-engine-optimization.html"> SEO</a>
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2017</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

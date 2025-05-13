@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Abstract of ‘Earley'’s Efficient Context-Free Parsing Algorithm’</title>
+  <meta name="description" content="Abney, S. and Johnson, M. 1991. Memory Requirements and Lexical Ambiguities of Parsing Strategies, Journal of Psycholinguistics Research 20:233-250.">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">Abstract of ‘Earley'’s Efficient Context-Free Parsing Algorithm’</h1>
+</header>
+<nav id="TOC">
+<ul>
+<li><a href="#citation">Citation</a></li>
+<li><a href="#top-down-and-bottom-up-algorithms">Top-Down and Bottom-Up Algorithms</a></li>
+<li><a href="#related">Related</a></li>
+</ul>
+</nav>
+<p>Last updated on Oct. 31, 2012<br />
+</p>
+<h1 id="citation">Citation</h1>
+<p><strong>From:</strong> Earley, Jay. 1970. An Efficient Context-Free Parsing Algorithm. Reprinted in Readings in Natural Language Processing, Grosz, Jones and Webber, eds. 1986. Los Altos, Calif.: Morgan Kaufmann.</p>
+<h1 id="top-down-and-bottom-up-algorithms">Top-Down and Bottom-Up Algorithms</h1>
+<p>Earley aims to describe what he argues to be the most efficient possible context-free parsing algorithm and to provide empirical evidence for his argument by comparing his top-down algorithm to other familiar parsing algorithms, including those of both the top-down and bottom-up variety. Constructed as a recognizer -that is, as an algorithm that scans input in the form of a string and either allows or rejects it based on whether the string is a sentence of the grammar -his algorithm scans a string of input from left to right while looking ahead a fixed number of symbols. At each symbol, the recognizer constructs a set of states that characterize the condition of the recognition process at that point in the scan. The look-ahead feature of Earley's algorithm is argued to be especially useful in the parsing of bounded-state LR<em>(k)</em> grammars.</p>
+<p>Earley maintains that his algorithm has several strengths over its competitors and demonstrates those strengths by comparing his alorithm to others. The strengths of his algorithm, which uses, a random access model, include an upper bound on time proportional to <em>n</em><sup>3</sup>, with <em>n</em> standing for the length of string being parsed. Earley shows that his algorithm can parse at <em>n</em><sup>2</sup> given unambiguous input. As an example, Earley briefly compares the efficiency of his algorithm to the results that Younger obtained using Cocke's algorithm. Earley maintains his is better for two reasons: First, it does not require a special form for the grammar, whereas Cocke's required normal form; second, Earley shows his algorithm often performs better than <em>n</em><sup>2</sup>, whereas Cocke's requires <em>n</em><sup>2</sup>.</p>
+<p>Earley also compares his algorithm with the backtracking-dependent bottom-up and top-down context-free parsers that have been examined by Griffiths and Petrick, arguing that his is superior because theirs have exponential upper bounds for time. Earley compares the algorithms on seven different grammars and demonstrates that while his algorithm performs similar to the others on simple grammars, it is substantially faster, and thus superior, on very ambiguous grammars.</p>
+<p>Although much of Earley's discussion addresses the technicalities of his recognizer and how it compares with other algorithms, he also discusses the practical applications of his algorithm after it is made into a parser.</p>
+<p>Part of Earley's discussion assumes a knowledge of basic list processing techniques, making some aspects of his presentation difficult to access for a linguist without a computer science background.</p>
+<h1 id="related">Related</h1>
+<p><i class="fa fa-file-text" aria-hidden="true"></i> <a href="abstract-abney.html">Abstract: Abney's Memory Requirements and Lexical Ambiguities of Parsing Strategies</a></p>
+<p><i class="fa fa-file-text" aria-hidden="true"></i> <a href="abstract-marcus.html">Abstract: Marcus's Computational Account of Some Constraints on Language</a></p>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

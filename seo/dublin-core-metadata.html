@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="By Steve Hoenisch">
+  <title>SEO with Dublin Core</title>
+  <meta name="description" content="How to embed Dublin Core metadata in a web page to provide a standards-based approach to search engine optimization (SEO) that complements HTML metadata.">
+  <meta name="keywords" content="seo dublin core, seo dublin core tips, search engine optimization with dublin core">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                  <!--
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                  -->
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">SEO with Dublin Core</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i></i> By Steve Hoenisch</p>
+</header>
+<h2 id="using-dublin-core-metadata-for-search-engine-optimization">Using Dublin Core Metadata for Search Engine Optimization</h2>
+<p>Embedding Dublin Core metadata elements in your web pages provides a standards-based approach to search engine optimization that complements your HTML metadata. The <a href="http://dublincore.org/">Dublin Core Metadata Initiative</a> is a set of online metadata standards for a broad range of purposes, including semantic tagging to help search engines match requests with relevant results. Because Dublin Core metadata is based on a standard developed by an open organization, embedding Dublin Core metadata in every web page is, in my opinion, a best practice. After briefly discussing the pros and cons of using Dublin Core, this page shows you how to embed DC metadata elements in XML, XHTML, and HTML pages.</p>
+<p>Although most major search engines probably do not, at present, assign much weight to Dublin Core metadata, the benefits of using it exceed the cost. The cost is low: taking the time to add it to every web page – a process that you can easily automate by using your HTML metadata to generate your Dublin Core metadata. Some web developers argue that DC metadata increases code bloat, but this point is tenuous: Most web pages have so much junk code in them that the addition of a small DC block is trivial.</p>
+<p>The benefits:</p>
+<ul>
+<li>Prepares your web pages for a future in which search engines begin to use it.</li>
+<li>Helps prepare your web pages for the evolution of the semantic web – a world in which the semantics of information and services on the web is defined, making it possible for the web to recognize and fulfill requests for content by people and machines. For more information, on the semantic web, see <a href="http://en.wikipedia.org/wiki/Semantic_Web" class="uri">http://en.wikipedia.org/wiki/Semantic_Web</a>.</li>
+<li>Used with XML and RDF, helps foster semantic publishing, which may be advantageous to scientific publishers; for more information, see <a href="http://en.wikipedia.org/wiki/Semantic_publishing" class="uri">http://en.wikipedia.org/wiki/Semantic_publishing</a>.</li>
+<li>Lends support to open standards and builds momentum for them.</li>
+<li>Helps several internal search engines process and retrieve information.</li>
+<li>Might help with your SEO efforts now.</li>
+</ul>
+<p>Here’s a hypothesis: Given the previous abuse of keywords in HTML metadata, major search engines such as Google give weight to HTML keywords only if they represent and categorize, with exacting relevance, the content of the page. That is, the keywords are parsed as relevant and used only if they also appear in the page’s content, title, description, and so forth. Perhaps using Dublin Core metadata keywords that exactly match the HTML keywords and the page’s content bolster the weight given to the HTML keywords because the DC metadata keywords lay a foundation of <em>standards-based credibility</em>. Such a hypothesis must, of course, be confirmed by empirical testing, which should be the cornerstone of any approach to search engine optimization.</p>
+<p>It’s easy to add Dublin Core HTML metadata elements to the HTML header of your page; you simply place the elements within the <code>&lt;head&gt;</code> element just after your usual HTML metadata. The HTML format of Dublin Core metadata looks like this:</p>
+<pre data-space="preserve"><code>&lt;head&gt;
+   &lt;link rel=&quot;schema.DC&quot; href=&quot;http://purl.org/dc/elements/1.1/&quot;&gt;
+    &lt;meta name=&quot;DC.title&quot; content=&quot;SEO with Dublin Core&quot;&gt;
+    &lt;meta name=&quot;DC.description&quot; content=&quot;How to embed 
+     Dublin Core metadata in a web page to provide a 
+     standards-based approach to search engine optimization 
+     (SEO) that complements HTML metadata.&quot;&gt;
+    &lt;meta name=&quot;DC.subject&quot; content=&quot;seo dublin core, 
+     seo dublin core tips, search engine optimization 
+     with dublin core&quot;&gt;
+    &lt;meta name=&quot;DC.language&quot; scheme=&quot;ISO639-1&quot; content=&quot;en&quot;&gt;
+    &lt;/head&gt;
+    </code></pre>
+<p>With XML, you can include Dublin Core metadata in several ways. Here’s an example with a DTD – <a href="http://www.criticism.com/cc/xc.dtd" class="uri">http://www.criticism.com/cc/xc.dtd</a> – that I use for some of the pages on Criticism.com. The structure embeds the Dublin Core metadata elements in Resource Description Format (RDF) and extends the <code>dc:subject</code> element with Prism Controlled Vocabulary (PCV) to encapsulate keywords from a taxonomy:</p>
+<pre data-space="preserve"><code>&lt;rdf:RDF&gt;
+ &lt;rdf:Description&gt;
+  &lt;dc:title&gt;SEO with Dublin Core&lt;/dc:title&gt;
+  &lt;dc:description&gt;
+    Embedding Dublin Core metadata elements
+    in your web pages provides a standards-based approach
+    to search engine optimization that complements 
+    HTML metadata. This page shows you how to embed DC 
+    metadata elements in XML, XHTML, and HTML pages.
+  &lt;/dc:description&gt;
+  &lt;dc:subject&gt;
+   &lt;pcv:Descriptor rdf:about=&quot;Taxonomy.xml&quot;&gt;
+    &lt;pcv:label&gt;search engine optimization&lt;/pcv:label&gt;
+    &lt;pcv:label&gt;Dublin Core metadata&lt;/pcv:label&gt;
+    &lt;pcv:synonym&gt;SEO&lt;/pcv:synonym&gt;
+   &lt;/pcv:Descriptor&gt;
+  &lt;/dc:subject&gt;
+ &lt;/rdf:Description&gt;
+&lt;/rdf:RDF&gt;</code></pre>
+<p>Below is another example in XML, this time using NASA’s simple DTD for an RDF-compliant metadata format. “This format is not an offical NASA standard,” NASA says. “Instead, it is a recommendation from the NASA Taxonomy Project on what a NASA standard metadata format might look like.” For more information or to download the NASA DTD, see <a href="http://nasataxonomy.jpl.nasa.gov/fordevelopers/" class="uri">http://nasataxonomy.jpl.nasa.gov/fordevelopers/</a>.</p>
+<pre data-space="preserve"><code>&lt;rdf:RDF&gt;
+ &lt;ntmr:Item&gt;
+  &lt;dc:title&gt;Dublin Core SEO&lt;/dc:title&gt;
+  &lt;dc:description&gt;How to use Dublin Core 
+   metadata to improve search engine rankings.
+  &lt;/dc:description&gt;
+ &lt;/ntmr:Item&gt;
+&lt;/rdf:RDF&gt;</code></pre>
+<p>The format for XHTML is slightly different, as the following example demonstrates. As with HTML, you place the XHTML Dublin Core metadata in the header of your web page just after your usual metadata. This code snippet was automatically generated with the Dublin Core metadata generation engine at <a href="http://webposible.com/utilidades/dublincore-metadata-gen/index.html?lang=en" class="uri">http://webposible.com/utilidades/dublincore-metadata-gen/index.html?lang=en</a>:</p>
+<pre data-space="preserve"><code>&lt;link rel=&quot;schema.DC&quot; href=&quot;http://purl.org/dc/elements/1.1/&quot; /&gt;
+    &lt;meta name=&quot;DC.title&quot; content=&quot;SEO with Dublin Core&quot; /&gt;
+    &lt;meta name=&quot;DC.description&quot; content=&quot;How to embed Dublin 
+     Core metadata in a web page to provide a standards-based 
+     approach to search engine optimization (SEO) that 
+     complements HTML metadata.&quot; /&gt;
+    &lt;meta name=&quot;DC.subject&quot; content=&quot;Dublin Core SEO&quot; /&gt;
+    &lt;meta name=&quot;DC.language&quot; scheme=&quot;ISO639-1&quot; content=&quot;en&quot; /&gt;</code></pre>
+<p><em>–Steve Hoenisch</em></p>
+<p><strong>Related</strong></p>
+<p><a href="/seo/search-engine-optimization.html">Search Engine Optimization Techniques: Tips to Improve Your Search Engine Rankings</a></p>
+<p><a href="/cc/about-xc.html">XC: A Minimalist, Structural DTD for XML Documents</a></p>
+<p><a href="/dita/dtd2.html">Developing a DTD</a></p>
+<p><a href="/dita/dss.html">Using Data Structure Standards to Foster Efficiency and Opportunity</a></p>
+<p>First Published: July 12, 2009. Last Updated: July 12, 2009.</p>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

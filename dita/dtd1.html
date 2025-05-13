@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Steve Hoenisch">
+  <title>Getting into DTD Development Mode</title>
+  <meta name="description" content="A magazine article that explains how to develop a DTD to define the structure of an XML document.">
+  <meta name="keywords" content="XML, XSL, XSLT, CSS, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XHTML, content, presentation, DTD, formatting XML, XSL:FO, formatting objects">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                  <!--
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+                  -->
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics. The future is critical. 
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">Getting into DTD Development Mode</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i></i> Steve Hoenisch</p>
+</header>
+<nav id="TOC">
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#constraining-data-with-rules">Constraining Data with Rules</a></li>
+<li><a href="#proconstruction-analysis">Proconstruction Analysis</a></li>
+<li><a href="#declaring-elements-and-their-contents">Declaring Elements and their Contents</a></li>
+<li><a href="#specifying-children-and-setting-their-order">Specifying Children and Setting their Order</a></li>
+<li><a href="#generalizing-about-optionality-and-frequency">Generalizing About Optionality and Frequency</a></li>
+<li><a href="#nesting-with-parentheses">Nesting with Parentheses</a></li>
+<li><a href="#mixing-content">Mixing Content</a></li>
+<li><a href="#related-tutorials">Related Tutorials</a></li>
+</ul>
+</nav>
+<p>This article appeared in Volume 2, Issue 8 of <em>XML Journal</em> magazine. Last updated on July 10, 2004.</p>
+<h3 id="introduction">Introduction</h3>
+<p>No, the abbreviation DTD is not related to a similar one from medical science: DTs, or delirium tremens, a violent delirium with tremors induced by overconsumption of alcohol. Though in absorbing the intricacies of DTDs and trying to develop your first one, you may begin to wonder whether the two terms are, after all, somehow connected. Even if you’ve mastered the basic syntax of XML, writing your first document type definition can be brow-ruffling, not in the least because DTD syntax is different from that of XML. This tutorial aims to ease you into DTD development mode without, I hope, giving you a headache, let alone DTs or anything else of the sort.</p>
+<p>That said, you will no doubt need to read and study the cited references – and create a DTD or two on your own – before fully understanding the many nuances of DTDs. To launch you on the way to a complete understanding of DTDs, this month’s column and next month’s will explain what document type definitions do and how they do it by guiding you step by step through the development of one for a hypothetical resume. This tutorial, however, is by no means a complete introduction to DTDs; instead, it seeks to get you started, to familiarize you with DTDs, and to point you in the right direction to get more information. After reading and studying this column and the resources to which I refer you, you should be ready to begin creating DTDs for your own XML publishing projects.</p>
+<p><img src="/images/xmlj_v2i8.jpg" align="right"/></p>
+<h3 id="constraining-data-with-rules">Constraining Data with Rules</h3>
+<p>A document type definition lays out the underlying rules that constrain the data in an XML document, much like grammar supplies the tacit rules by which we concatenate words into sentences. To constrain XML data, a DTD combines syntax and operators, all explained below, to form explicit rules that principally do the following:</p>
+<ul>
+<li>Declare the elements that may appear in a document</li>
+<li>Describe the legal content of an element</li>
+<li>Specify the permissable children, if any, of each element</li>
+<li>Set the order in which elements must appear</li>
+<li>Generalize about the number of times each element may occur</li>
+<li>Specify the kind of data a terminal element may contain</li>
+<li>List the attributes that an element may take</li>
+<li>Indicate whether an attribute is required or optional</li>
+<li>Provide an easy way in the form of entities to substitute some characters for others.</li>
+</ul>
+<p>Each of these tasks maps to an aspect of DTD syntax or to a DTD operator, which together form the building blocks of a DTD. Next month, I will address attributes, entities, and some of the more advanced aspects of DTDs. This month we’ll look at the element-specific tasks and bring them to bear on a hypothetical resume.</p>
+<h3 id="proconstruction-analysis">Proconstruction Analysis</h3>
+<p>Once you’ve analyzed a representative subset of the documents in your document set, diced them up into a suitable level of structured detail, defined your markup strategy as well as your tags and attributes, and applied them to several documents in your set (see last month’s tutorial for more information), you’re ready to begin creating your DTD, beginning what will no doubt be an iterative process.</p>
+<p>You can create a DTD in one of two ways: Write it from scratch, by hand, as I’ll do below, using a text editor like UltraEdit. Or, you can make use of a DTD-creation tool. XML Authority, available from TIBCO Extensibility at http://www.extensibility.com/solutions/trial.htm, simplifies DTD construction. And it checks for errors, too, a few of which you’ll probably make in your first DTD. It also has a useful help section on best practices.</p>
+<h3 id="declaring-elements-and-their-contents">Declaring Elements and their Contents</h3>
+<p>Let’s say we want all the resumes in a set of them to contain the root element resume. To declare an element, you use the <code>&lt;!ELEMENT&gt;</code> declaration. Thus, to declare the resume element in the DTD, write</p>
+<pre><code>&lt;!ELEMENT resume ANY&gt;</code></pre>
+<p>This statement declares that the element resume may appear with, as the DTD keyword ANY indicates, any combination of text and child nodes. The syntax of the <code>&lt;!ELEMENT&gt;</code> declaration is this:</p>
+<pre><code>&lt;!ELEMENT elementName {rule}&gt;</code></pre>
+<p>where {rule} may be replaced either by a DTD keyword in all capitals like ANY or EMPTY or by a parentheses-enclosed rule with one or more child elements separated either by commas, indicating that their appearance is required in the order specified, or by a vertical bar, indicating choice. Don’t panic; I’ll show you examples of all this below.</p>
+<p>In our example with the resume element above, the syntactic slot for the rule filled by the keyword ANY is used to describe the legal content – a content model – of the resume element: In this case it can by anything from child elements to text. But using the ANY does little to constrain our data, defying the purpose of our DTD, which is to make explicit the permissible relationships and associations among the data in a set of XML documents. Thus, in the rule slot where I’ve used the keyword ANY, better constraints can and should be put in place. Instead of simply saying that the resume element can take any combination of child elements and text, let’s state exactly what children it may contain.</p>
+<h3 id="specifying-children-and-setting-their-order">Specifying Children and Setting their Order</h3>
+<p>After analyzing and marking up a couple of resumes in the document set, I’ve settled on a firm high-level structure for the content for all the resumes I’m collecting for publication on a web site. The high-level structure of each resume will be the same and must conform to a set pattern: Every resume will have a root element called resume which will contain the following child elements in the following order: name, contactInfo, experience, education. Thus, in an XML document, I will structure the resume’s high-level data like this:</p>
+<pre><code>&lt;resume&gt;
+   &lt;name&gt;...&lt;/name&gt;
+   &lt;contactInfo&gt;...&lt;/contactInfo&gt;
+   &lt;experience&gt;...&lt;/experience&gt;
+   &lt;education&gt;...&lt;/education&gt;
+&lt;/resume&gt;</code></pre>
+<p>To make this grammar explicit, I specify the child elements and their ordering with the following multiple sequence:</p>
+<pre><code>&lt;!ELEMENT resume (name, contactInfo, experience, education) &gt;</code></pre>
+<p>This DTD rule says that the resume element contains the children enclosed in parentheses. The commas in the rule stipulate that the elements must apear in the order in which they are listed. No other child elements or text are permitted directly under the resume node. Such a rule, when related to the XML document in which the elements occur, is called a content model.</p>
+<h3 id="generalizing-about-optionality-and-frequency">Generalizing About Optionality and Frequency</h3>
+<p>A set of DTD operators, called occurrence operators, allows authors to generalize about the optionality and frequency with which elements may occur. If no occurrence operator is used, the default is exactly one occurrence. The table titled Occurrence Operators summarizes the occurrence operators and the rule each one implements.</p>
+<p><strong>Occurrence Operators</strong></p>
+<p><em>Operator – Rule</em></p>
+<p>* Optional and repeatable – the element may be used any number of times or not at all.</p>
+<p>+ Nonoptional and repeatable – the element must be used at least once.</p>
+<p>? Optional but nonrepeatable – the element may be used once or not at all.</p>
+<p>No Operator Nonoptional and nonrepeatable (default setting) – the element must appear exactly once.</p>
+<p>Now let’s say we want the <code>&lt;experience&gt;</code> element in our resume to have the following structure:</p>
+<pre><code>&lt;experience&gt;
+     &lt;position&gt;&lt;/position&gt;
+     &lt;company&gt;&lt;/company&gt;
+     &lt;location&gt;&lt;/location&gt;
+     &lt;task&gt;&lt;/task&gt;
+     &lt;note&gt;&lt;/note&gt;
+&lt;/experience&gt;</code></pre>
+<p><code>&lt;position&gt;</code> and <code>&lt;company&gt;</code> are both mandatory elements and must appear in each resume in our set once and only once. <code>&lt;location&gt;</code>, however, may appear once or not at all but not multiple times. Meantime, <code>&lt;task&gt;</code> must appear at least once but may be reused as often as needed. <code>&lt;note&gt;</code> is a fully optional element to add any additional information that isn’t captured in the other elements: It may be used once, more than once, or not at all. To instill these rules about occurrence into your content model for the element <code>&lt;experience&gt;</code>, you append the occurrence operator as a suffix to the appropriate element, as the following example shows:</p>
+<pre><code>&lt;!ELEMENT experience (position, company, location?, task+, note*) &gt;</code></pre>
+<p>Since neither <code>&lt;position&gt;</code> nor <code>&lt;company&gt;</code> are followed by an occurrence operator, they receive the default setting: They must appear in the XML document exactly one time.</p>
+<h3 id="nesting-with-parentheses">Nesting with Parentheses</h3>
+<p>You can also use parentheses to nest elements within a rule and then apply any of the occurrence operators to all the elements within the nested set. Examples:</p>
+<pre><code>&lt;!ELEMENT location ((street, suite)?, city, (state, zip)?)&gt;</code></pre>
+<p>This rule says that the (street, suite) sequence is optional but may not be repeated (note, though, that if the street element is used, so must be the suite element). Ditto with the (state, zip) sequence. The city element, however, must apear exactly once, and if the other elements are used, they must be positioned according to the order dictated by the comma-separated list.</p>
+<p>By the way, you can also nest a choice of elements by placing them in parentheses and separating them by vertical bars instead of commas. For instance, the following rule says that the name element must contain a first name, optionally followed either by a choice of a middle name or a middle initial or by a nickname, followed by a required last name.</p>
+<pre><code>&lt;!ELEMENT name (firstName, ( (middleName | middleInitial)? | (nickName)? )*, lastName)&gt;</code></pre>
+<p>Yes, this can get complex quickly. Since I don’t want to bore you to death with needless complications, I’ll stop with all this nesting balderdash and instead point you to a reference that explains in more detail how to use parentheses to form complex rules: Chapter 3, Document Type Definitions, in XML in a Nutshell, written by Elliotte Rusty Harold and W. Scott Means and published by O’Reilly.</p>
+<h3 id="mixing-content">Mixing Content</h3>
+<p>The guts of many narrative-oriented XML documents like software manuals, essays, or magazine articles use mixed content – a choice of either text or elements or a combination of both. For instance, our sample resume has an as-yet undefined element called <code>&lt;task&gt;</code>, the contents of which aim to describe what the resume’s author did in any given job. Here’s an example of the kind of description that would go inside our <code>&lt;task&gt;</code> tag, with additional markup:</p>
+<pre><code>&lt;task&gt;Served as consultant for editing, electronic production, and desktop publishing 
+of one financial newsletter, called &lt;cite&gt;Securities Today&lt;/cite&gt;, and the organization, 
+design, and launch of two others. 
+&lt;paragraph&gt;All three became &lt;emphasis&gt;highly successful&lt;/emphasis&gt; 
+publications.&lt;/paragraph&gt;&lt;/task&gt;</code></pre>
+<p>Within the task element, then, the resume’s author could have any combination of text as well as the <code>&lt;cite&gt;</code>, <code>&lt;paragraph&gt;</code>, and <code>&lt;emphasis&gt;</code> tags. Though not used in the task description, let’s also make a line-break element, named <code>&lt;br&gt;</code> like in HTML, available.</p>
+<p>To declare a rule that allows mixed content like this, you must first declare the text and then list the other elements, all separated by vertical bars to indicate choice and marked as optional and repeatable with the asterisk occurrence operator. Here’s the rule:</p>
+<pre><code>&lt;!ELEMENT task  (#PCDATA | paragraph | cite | emphasis | br )*&gt;</code></pre>
+<p><code>#PCDATA?</code> PCDATA is XML’s name for standard text (though I’m oversimplifying a bit). PCDATA stands for parsed character data, which includes regular text characters except &lt;, &amp;, or the sequence ]]&gt;. PCDATA also includes general entities, which I’ll discuss in next month’s column.</p>
+<p>Because a DTD must declare the content model for each element used in the XML document, our DTD must include declarations for the paragraph, cite, emphasis, and br elements. With the exception of the <code>&lt;paragraph&gt;</code> and <code>&lt;br&gt;</code> element, they contain only PCDATA, which, used alone, excludes other element tags. Thus:</p>
+<pre><code>&lt;!ELEMENT paragraph  (#PCDATA | cite | emphasis)*&gt;
+&lt;!ELEMENT cite  (#PCDATA )&gt;
+&lt;!ELEMENT emphasis  (#PCDATA )&gt;</code></pre>
+<p>Finally, empty elements, like my HTML-like <code>&lt;br&gt;</code> element in the rule for <code>&lt;task&gt;</code> above, may be declared using the EMPTY keyword:</p>
+<pre><code>&lt;!ELEMENT br EMPTY&gt;</code></pre>
+<p>This ensures that no content, whether other elements or parsed character data, may be placed within it.</p>
+<p>Declaring mixed content can get tricky. The key is to remember that if it includes PCDATA, then PCDATA must be declared first. And all the items in the rule must be separated by the vertical bar indicating choice and the rule must be marked as optional and repeatable with an asterisk. For more of the nasty little details about mixed content, see XML in a Nutshell’s chapter on DTDs.</p>
+<p>If you want to dive straight into a full course on DTDs, David Megginson’s book, Structuring XML Documents, published by Prentice Hall, explains all the nuances of building industrial-strength DTDs. For a concise introduction to DTDs, see Robert Eckstein’s XML Pocket Reference, published by O’Reilly; I suggest you read its short but potent section on DTDs several times.</p>
+<h4 id="resume-fragment-with-internal-dtd-subset">8.1 Resume Fragment with Internal DTD Subset</h4>
+<pre><code>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!-- DTD AS INTERNAL SUBSET: --&gt;
+&lt;!DOCTYPE resume  [
+&lt;!ELEMENT resume (name, contactInfo, experience, education) &gt;
+&lt;!ELEMENT name (firstName, ( (middleName | middleInitial)? | (nickName)? )*, lastName)&gt;
+&lt;!ELEMENT experience (position, company, location?, task+, note*) &gt;
+&lt;!ELEMENT location ((street, suite)?, city, (state, zip)?)&gt;
+&lt;!ELEMENT task  (#PCDATA | paragraph | cite | emphasis | br )*&gt;
+&lt;!ELEMENT paragraph  (#PCDATA | cite | emphasis)*&gt;
+&lt;!ELEMENT cite  (#PCDATA )&gt;
+&lt;!ELEMENT emphasis  (#PCDATA )&gt;
+&lt;!ELEMENT br EMPTY&gt;
+]&gt;
+&lt;resume&gt;
+      &lt;name&gt;
+          &lt;firstName&gt;...&lt;/firstName&gt;
+          &lt;lastName&gt;...&lt;/lastName&gt;
+      &lt;/name&gt;
+      &lt;contactInfo&gt;...&lt;/contactInfo&gt;
+      &lt;experience&gt;
+                &lt;position&gt;...&lt;/position&gt;
+                &lt;company&gt;...&lt;/company&gt;
+                &lt;location&gt;...&lt;/location&gt;
+                &lt;task&gt;
+                ... &lt;paragraph&gt; ...
+                        &lt;cite&gt;...&lt;/cite&gt;
+                        &lt;emphasis&gt;...&lt;/emphasis&gt;
+                    &lt;/paragraph&gt;
+                &lt;/task&gt;
+                &lt;note&gt;...&lt;/note&gt;
+      &lt;/experience&gt;
+      &lt;education&gt;...&lt;/education&gt;
+&lt;/resume&gt;</code></pre>
+<p>Next month’s column will offer the second installment in DTD construction, picking up where this one left off. It’ll cover attributes, entities, and the more advanced aspects of working with DTDs. Meantime, begin writing a DTD for your resume by declaring its elements and the rules associated with them. Don’t worry about attributes just yet. Remember, though, to declare the content for every element, as I’ve done above for the child elements of <code>&lt;task&gt;</code> (but did not do yet for many of the other elements). Next month, we’ll combine all the elements and attributes into a complete DTD.</p>
+<h3 id="related-tutorials">Related Tutorials</h3>
+<p>The tutorials in this series proceed as follows:</p>
+<ol type="1">
+<li><a href="xml_intro.html">An Introduction to XML</a></li>
+<li><a href="structuring_docs.html">Structuring Documents in XML</a></li>
+<li><a href="dtd1.html">Developing a Document Type Definition</a></li>
+<li><a href="dtd2.html">Attributes and Entities in DTDs</a></li>
+<li><a href="xsl1.html">An Introduction to XSL</a></li>
+<li><a href="xsl2.html">Using XSLT to Separate Content from Presentation</a></li>
+</ol>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/critical-theory/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

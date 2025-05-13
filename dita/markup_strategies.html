@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Steve Hoenisch">
+  <title>XML Markup Strategies</title>
+  <meta name="description" content="Strategies for Marking Up XML Documents.">
+  <meta name="keywords" content="XML, DTD, XML Schema, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XSLT, XHTML, HTML5">
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" />
+  <link href="/aw/css/navbar-fixed-side.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/aw/css/custom.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/aw/css/print.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-inverse navbar-fixed-side">
+        <!-- normal collapsable navbar markup -->
+
+  <div class="container">
+              <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.criticism.com">Criticism.Com</a>
+              </div>
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                   <li class="active">
+                    <a href="/critical-theory/">Critical Theory</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/da/">Discourse Analysis</a>
+                  </li>
+
+                   <li class="">
+                    <a href="/linguistics/">Linguistics</a>
+                  </li>
+         
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology <b class="caret"></b></a>
+
+                  <ul class="dropdown-menu">
+                  <li><a href="/cc/white-papers.html">White Papers</a></li>
+                  
+                    <li><a href="/cc/blog.html">Blog</a></li>
+                  <!-- <li><a href="/md/bio.html">Resume</a></li> -->
+
+                <!--   
+                  <li class="divider"></li>
+              
+                  <li class="dropdown-header">Dropdown Header</li>
+                  <li><a href="#">Sub-page 3</a></li> -->
+
+                  </ul>
+                 </li>
+    
+
+                  <li class="">
+                    <a href="/map.html">Site Map</a>
+                  </li>
+    
+
+
+                    </ul>
+
+                <!--         
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">Page 4</a></li>
+
+
+                </ul> -->
+         
+
+                <p class="navbar-text"><i class="fa fa-cloud-upload fa-inverse" aria-hidden="true"></i> <i>Head in the clouds, feet on the ground.</i>
+
+                </p>
+                <p class="navbar-text"><i class="fa fa-flask fa-inverse" aria-hidden="true"></i> Criticism.Com presents white papers and essays on technology, media, critical theory, discourse analysis, and linguistics.
+                </p>
+
+              </div>
+            </div>
+
+     </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      <!-- your page content: -->
+
+<!-- ============================================= -->
+<header>
+<h1 class="title">XML Markup Strategies</h1>
+<p class="author"><i class="fa fa-user-secret" aria-hidden="true"></i></i> Steve Hoenisch</p>
+</header>
+<h3 id="approaches-for-structuring-documents">Approaches for Structuring Documents</h3>
+<p>Choosing an approach to markup is another decision you should make before you begin structuring your XML documents. There are three principal markup strategies:</p>
+<ul>
+<li>Presentation-based tagging</li>
+<li>Structure- or publication-oriented tagging</li>
+<li>Content or information-based tagging, which is also known as semantic markup</li>
+</ul>
+<p>The three approaches form a dichotomy, with structure-oriented tagging hugging the middle ground, as illustrated by these examples:</p>
+<pre class="program"><code>Presentation
+&lt;ital&gt;damn&lt;/ital&gt;
+
+Structure
+&lt;emphasis&gt;damn&lt;/emphasis&gt;
+
+Content
+&lt;expletive&gt;damn&lt;/expletive&gt;</code></pre>
+<p>The markup strategy behind HTML is based largely presentational: Tags like &lt;h1&gt;, &lt;i&gt;, and &lt;b&gt; indicate how content should be presented through a browser. The motivation behind using XML, however, is that it allows you to separate content from presentation and to structure data based on meaning, resulting in data and documents that are easier to reuse, manipulate, and search. Exclusively using a presentation-oriented approach to tagging defies the purpose of XML. Better is to use either a structure- or content-based approach.</p>
+<p>Structure-based tagging is a generic, flexible approach with a wide scope, most useful when exchanging documents within a discipline or across industries. Employing a loosely structured DTD or schema, it emphasizes elements like &lt;section&gt;, &lt;subsection&gt;, and &lt;paragraph&gt;. Additional information about content is often delegated to attributes: &lt;section type=&quot;Introduction&quot;&gt;.</p>
+<p>Content-based tagging is a custom, less flexible approach with a narrow scope, most useful when modeling content around clearly defined user needs or a unique class of documents or both. Using a tightly structured DTD, it emphasizes the use of elements like &lt;introduction&gt; and &lt;explanation&gt;.</p>
+<p>In reality, however, most documents intended for publication on the Internet or an intranet combine all three approaches: The higher levels of the hierarchy use content-based tags, the middle levels use structure-oriented tags, and the lower levels, especially at the clausal level, may, for expedience, use some presentational tags from XHTML. Since the focus of this column is primarily on creating XML documents for publication on the Internet, we will use a combination of all three approaches and learn a bit about XHTML as we do so. But as you mark up documents in XML, you will have to evaluate the structure of your documents and the uses to which they will be put before you decide on your own approach. Just be sure you do some planning and design before beginning the markup process. David Megginson's book, <em>Structuring XML Documents</em>, published by Prentice Hall, offers a plethora of information and good advice about choosing an approach to tagging that will work best for your document or project.</p>
+<p>I do, however, suggest not getting bogged down in using too much semantic markup—it’s a bit of slippery requirements trap. The more semantic markup that you use, the more you think you require, and the actual return on investment is minimal at best, negative at worst. Less is more. Less is more. <i class="fa fa-fast-forward" aria-hidden="true"></i></p>
+<h4 id="related-pages">Related Pages</h4>
+<p>The tutorials in this series proceed as follows:</p>
+<ol type="1">
+<li><a href="xml_intro.html">An Introduction to XML</a></li>
+<li><a href="structuring_docs.html">Structuring Documents in XML</a></li>
+<li><a href="dtd1.html">Developing a Document Type Definition</a></li>
+<li><a href="dtd2.html">Attributes and Entities in DTDs</a></li>
+<li><a href="xsl1.html">An Introduction to XSL</a></li>
+<li><a href="xsl2.html">Using XSLT to Separate Content from Presentation</a></li>
+</ol>
+<hr height="1" style="color: silver;">
+
+<div class="footer">
+
+<!-- <p>&nbsp;</p> -->
+
+<span style="font-size: 80%;" class="botLinks">
+<i class="fa fa-flask" aria-hidden="true"></i> <a class="botLink" href="/cc/white-papers.html">White Papers</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a class="botLink" href="/linguistics/index.html"> Linguistics</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a class="botLink" href="/philosophy/index.html"> Critical Theory</a> 
+| <i class="fa fa-random" aria-hidden="true"></i> <a class="botLink" href="/da/index.html"> Discourse Analysis</a> 
+| <i class="fa fa-search-plus" aria-hidden="true"></i> <a class="botLink" href="/seo/search-engine-optimization.html"> SEO</a>
+</span><hr height="1" style="color: silver;">
+<span style="font-size: 80%;" class="botLinks"><font color="gray">Copyright © 1995-2020</font>  
+<a class="botLink" href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a class="botLink" href="/" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company that I have worked for in the past. </font><a class="botLink" href="/map.html"> Site Map</a> <i class="fa fa-sitemap" aria-hidden="true"></i>
+</span>
+ <hr height="1" style="color: silver;">
+ <p/>
+</div>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>
