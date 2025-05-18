@@ -15,29 +15,18 @@ Criticism.com presents papers and essays on technology, media culture, psycholog
 
 
 
-<i class="fa fa-file-text"></i>  [Max Weber's View of Objectivity
-in Social Science](/md/weber1.html): This essay seeks to shed light on
+<i class="fa fa-file-text"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html): This essay seeks to shed light on
 Weber's view of the applicability of objectivity by answering a question
 that dogs Weberian scholarship: Was Weber an advocate of value-free
 social science?
 
-<i class="fa fa-file-text"></i>  [Interpretation and Indeterminacy
-in Discourse Analysis](/da/da_indet.html): This essay argues a hard
+<i class="fa fa-file-text"></i> [Interpretation and Indeterminacy in Discourse Analysis](/da/da_indet.html): This essay argues a hard
 line: the exact meaning of a speaker's utterance in a contextualized
 exchange is often indeterminate. Interactional linguistics, however,
 reduces the indeterminacy and yields a more principled interpretation
 than other approaches to discourse analysis.
 
-<i class="fa fa-file-text"></i>  [A Wittgensteinian Approach to
-Discourse Analysis](/da/lw_da.html): This essay takes Wittgenstein's
-influence on discourse analysis a step further by using his writings as
-the theoretical foundation for an approach to analyzing discourse that
-is distinct from speech act theory, which stems from the analytic
-tradition in philosophy. The essay suggests that a Wittgenstein-inspired
-approach is closer in spirit and content to that of an unlikely
-candidate whose views, in contrast to the analytic school, harbor a
-distinctly Continental flavor and influence critical theory: Mikhail
-Bakhtin.
+<i class="fa fa-file-text"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html): This essay takes Wittgenstein's influence on discourse analysis a step further by using his writings as the theoretical foundation for an approach to analyzing discourse that is distinct from speech act theory, which stems from the analytic tradition in philosophy. The essay suggests that a Wittgenstein-inspired approach is closer in spirit and content to that of an unlikely candidate whose views, in contrast to the analytic school, harbor a distinctly Continental flavor and influence critical theory: Mikhail Bakhtin.
 
 <i class="fa fa-file-text"></i> [Saussure's Sign](/md/the_sign.html): The sign, the signifier, and the signified are concepts of the school of thought known as structuralism, founded by Ferdinand de Saussure, a Swiss linguist, during lectures he gave between 1907 and 1911 at the University of Geneva. His views revolutionized the study of language, inaugurated modern linguistics, and influenced critical theory. The central tenet of structuralism is that the phenomena of human life are unintelligible except through their network of relationships, making the sign and the system (or structure) in which the sign is embedded primary concepts. As such, a sign--for instance, a word--gets its meaning only in relation to or in contrast with other signs in a system of signs. 
 
