@@ -50,10 +50,9 @@ Bakhtin.
 
 <i class="fa fa-file-text"></i> [An Analysis of Kellner's Theory of Media Culture](/md/kellner.html)
 
+<i class="fa fa-file-text"></i> [Philosophy of Language: Questions and Answers](/linguistics/philosophy-of-language-answers.html) 
 
 <i class="fa fa-file-text"></i> [Abstract: Topical Structure Analysis of Accomplished English Prose](/da/topical-structure-analysis-thesis-abstract.html)
-
-<i class="fa fa-file-text"></i> [Philosophy of Language: Questions and Answers](/linguistics/philosophy-of-language-answers.html) 
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Topical Structure Analysis of Accomplished English Prose](/da/Topical-Structure-Analysis-of-Accomplished-English-Prose.pdf) 
 
