@@ -173,7 +173,7 @@ Data Lakes for Big Data and Analytics. R Peterson, S Hoenisch - 2018 - Addison-W
 
 ### E-Books
 
-<i class="fa fa-chain-broken" aria-hidden="true"></i> Disclaimer: Although Criticism.Com contains links to publications that I've written while employed by VMware or EMC, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of VMware or any company that I have worked for in the past, such as EMC. The publications published by VMware or EMC are on their respective web sites; these are just links to those publications.</p>
+<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
 <i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). Book published by Wiley and VMware.
 
@@ -187,7 +187,7 @@ Data Lakes for Big Data and Analytics. R Peterson, S Hoenisch - 2018 - Addison-W
 
 ### White Papers
 
-<i class="fa fa-chain-broken" aria-hidden="true"></i> Disclaimer: Although Criticism.Com contains links to white papers that I've written while employed by VMware or EMC, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of VMware or any company that I have worked for in the past, such as EMC. The white papers published by VMware or EMC are on their respective web sites; these are just links to those papers.</p>
+<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
 
 <i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds at the Dawn of 5G](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf): An Integrated Approach to Helping CSPs Meet Emerging Security Standards. This technical white paper summarizes the security risks and requirements that CSPs face as they transition to 5G networks and increasingly rely on virtualization, containers, and cloud computing. The paper illustrates how VMware technology protects telecom networks with an array of built-in security measures, many of which can be automated. Published by VMware.
@@ -368,7 +368,7 @@ white paper argues that a multiprotocol file server with an integrated
 cross-platform access control system is the architectural basis for
 solving many problems in auditing unstructured data.
 
-<i class="fa fa-chain-broken" aria-hidden="true"></i> Disclaimer: Although Criticism.Com contains links to white papers that I've written while employed by VMware or EMC, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of VMware or any company that I have worked for in the past, such as EMC. The white papers published by VMware or EMC are on their respective web sites; these are just links to those papers.</p>
+<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
 ### Fact Sheets and Data Sheets
 
@@ -632,7 +632,8 @@ Techniques](/seo/search-engine-optimization.html)
 <i class="fa fa-file-text"></i> [Resume: Technology Evangelist and White Paper Writer](/md/resume.html)
 
 
-<i class="fa fa-chain-broken" aria-hidden="true"></i> Disclaimer: Although Criticism.Com contains links to white papers that I've written while employed by VMware or EMC, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of VMware or any company that I have worked for in the past, such as EMC. The white papers published by VMware or EMC are on their respective web sites; these are just links to those papers.</p>
+<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
+
 
 
 
