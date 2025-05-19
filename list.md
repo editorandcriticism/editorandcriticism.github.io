@@ -54,7 +54,10 @@ title: 'Criticism.Com: Essays and Articles'
 **[About Criticism.Com](/cc/aboutcc.html)**
 
 -   [What Others Are Saying About Criticism.Com](/cc/kudos.html)
+-   [Publications List](/publications.html)
 -   [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
+
+
 
 
 
