@@ -36,8 +36,7 @@ Max Weber thought that "statements of fact are one thing, statements
 of value another, and any confusing of the two is impermissible," Ralf
 Dahrendorf writes in his essay "Max Weber and Modern Social Science,"
 acknowledging that Weber clarified the difference
-between <img src="bk_mw_pol.gif" align="right" />
-pronouncements of fact and of value. [1](#FOOTNOTE_1) Although
+between pronouncements of fact and of value. [1](#FOOTNOTE_1) Although
 Dahrendorf goes on to note the ambiguities in Weber's writings between
 factual analysis and value-influenced pronouncements, he stops short of
 offering an explanation for them other than to say that Weber, being
@@ -61,9 +60,7 @@ These questions, and others like them, underlie much that has been
 considered ambiguous in Max Weber's writings: His methodology. Since his
 death, sociologists and political scientists have been disputing where
 Weber stood with regard to
-questions <img src="/images/0520035003.gif" align="right" />
-concerning the relationship of objectivity to facts and values. "Most of
-Weber's commentators," Edward Bryan Portis writes, "have assumed his
+questions concerning the relationship of objectivity to facts and values. "Most of Weber's commentators," Edward Bryan Portis writes, "have assumed his
 advocacy of the fact-value dichotomy, despite his explicit and implicit
 assertions to the contrary, because of his numerous statements denying
 the ability of science to refute any normative position or to help one
@@ -75,8 +72,7 @@ finally set the record straight.
 
 This essay has more humble ambitions. Although it takes issue in the
 final section with part of the exhaustive view laid out
-by <img src="/images/0415084342.gif" align="right" />
-Portis, this essay does not purport to set forth yet another definitive
+by Portis, this essay does not purport to set forth yet another definitive
 interpretation of Weber's views on objectivity. Rather it seeks to shed
 light on Weber's view of the applicability of objectivity by attempting
 to answer the overarching question that sits at the foundation of those
@@ -90,9 +86,7 @@ in comparing different religious, political or social systems, one
 system could not be chosen over another without taking a value or end
 into consideration; the choice would necessarily be dictated by the
 analyst's values. On the other
-hand, <img src="/images/0195004620.gif" align="right" />
-<img src="/images/0521097851.gif" align="right" />
-Weber believed that once a value, end, purpose, or perspective had been
+hand, Weber believed that once a value, end, purpose, or perspective had been
 established, then a social scientist could conduct a value-free
 investigation into the most effective means within a system of bringing
 about the established end. Similarly, Weber believed that objective
@@ -117,8 +111,7 @@ But first, just what is Weber's own standpoint, as determined by his
 ultimate values? It is, no doubt, influenced by one of his key concerns:
 "the quality of human being in any given economic and social order."
 [3](#FOOTNOTE_3) Sometimes, however, his standpoint
-is <img src="/images/0803975635.gif" align="right" />
-nationalistic. And in yet other essays, it champions individual liberty.
+is nationalistic. And in yet other essays, it champions individual liberty.
 Indeed, Weber's perspective changes, and it is likely to be driven not
 by one value but by levels of them, ranging from humanism to a concrete
 objective. But the fact that Weber had a perspective lends little
@@ -141,8 +134,7 @@ from which one judges economic phenomena," revealing that he maintained
 that even the examination of such seemingly hard data as economic facts
 were subject to the influence of a perspective determined by values.
 [4](#FOOTNOTE_4) When Weber shifts
-course <img src="/images/3540634584.gif" align="right" />
-later in the speech to prescribing what should be done to deal with the
+course later in the speech to prescribing what should be done to deal with the
 problems on Germany's eastern frontier, he discloses his new
 perspective: "the standpoint of the German people." [5](#FOOTNOTE_5) The
 solution would obviously be quite different if it were made, say, from
@@ -165,10 +157,7 @@ policy or criterion." [7](#FOOTNOTE_7) Yet the perspective still must be
 acknowledged.
 
 Regardless of whether a social scientist's value-orientation stems from
-cultural norms,
- <img src="/images/0521292689.gif" align="right" />
-nationality, or a worldview, what remains certain for Weber is that the
-value is neither intrinsic to the subject matter nor specific to its
+cultural norms, nationality, or a worldview, what remains certain for Weber is that the value is neither intrinsic to the subject matter nor specific to its
 context -- a view that categorically separates value from facts. Weber
 takes care to refute such views in his discussion of the methodology of
 political economy in "The Nation State and Economic Policy." First,
@@ -187,8 +176,7 @@ of both himself and his audience.
 Weber also criticizes those scientists who often "unconsciously allow
 the starting point for our analyses and explanations of economic events
 to determine
-our <img src="/images/1859842755.gif" align="right" />
-judgements of these events," [10](#FOOTNOTE_10) demonstrating that he
+our judgements of these events," [10](#FOOTNOTE_10) demonstrating that he
 separates the subjectivity of value-orientation from the objective
 evaluation that is carried out after the value orientation has been
 established. In other words, Weber is chastising those scientists who
@@ -206,11 +194,7 @@ mistake, Weber points to the historical apologists and to the Marxists.
 
 What matters even more to Weber is whether one adheres unflinchingly
 to his values. In "The Profession and Vocation of Politics," Weber
-explicitly articulates
- <img src="/images/039309040X.gif" align="right" />
-how one must look at life from a chosen value: "What matters is not age
-but the trained ability to look at realities of life with an unsparing
-gaze, to bear these realities and be a match for them inwardly."
+explicitly articulates how one must look at life from a chosen value: "What matters is not age but the trained ability to look at realities of life with an unsparing gaze, to bear these realities and be a match for them inwardly."
 [11](#FOOTNOTE_11) The comment exposes the inherent relationship, for
 Weber, between value-free analysis and value-driven moral action, a
 dichotomy that resurfaces in Weber's discussion of an ethics of
@@ -233,8 +217,7 @@ validating democratic values in and of themselves." [15](#FOOTNOTE_15)
 How can Weber's arguments for his ultimate values be reconciled with the
 view that value-free analysis can be conducted only after a value or
 purpose has
-been <img src="/images/0521314267.gif" align="right" />
-established? Lassman and Speirs, in their introduction to Weber:
+been established? Lassman and Speirs, in their introduction to Weber:
 Political Writings, provide the answer. "Although Weber believed that
 values could not be given any form of \`ultimate' foundation, it was
 possible and indeed necessary" [16](#FOOTNOTE_16) to argue for them
@@ -270,8 +253,7 @@ ranking of ultimate values or moral principles." [19](#FOOTNOTE_19)
 
 Weber's own writings support Lassman and Speirs' conclusion that Weber
 considered ultimate values and their subsequent political values to be
-subjectively <img src="/images/0807042056.gif" align="right" />
-determined. For instance, in "Between Two Laws" Weber writes that
+subjectively determined. For instance, in "Between Two Laws" Weber writes that
 certain communities are able to provide the conditions for not only such
 "bourgeois" values as citizenship and true democracy, "but also much
 more intimate and yet eternal values, including artistic ones."
@@ -314,11 +296,7 @@ cannot be rationally resolved." [23](#FOOTNOTE_23)
 
 Furthermore, Weber believed that value orientations could not be
 eliminated from social scientific work. They necessarily determine the
-analyst's
-perspective. <img src="/images/0520056590.gif" align="right" />
-Portis writes that Weber, in his Freiburg inaugural address, said
-"political economy was a \`political science,' in the sense that it must
-proceed from a value perspective." [24](#FOOTNOTE_24) More crucially,
+analyst's perspective. Portis writes that Weber, in his Freiburg inaugural address, said "political economy was a \`political science,' in the sense that it must proceed from a value perspective." [24](#FOOTNOTE_24) More crucially,
 Portis goes on to quote Weber as writing that "\`there is no "objective"
 scientific analysis of culture ... or "social phenomena" independent of
 special and "one-sided" viewpoints -- expressly or tacitly, consciously
@@ -372,10 +350,7 @@ political analyst could adhere to the principle of objectivity once an
 value or perspective had been laid out. In this regard, Weber departs
 from -- or rather builds upon -- the philosophy of social science laid
 out by Friedrich
-Nietzsche, <img src="/images/0140150625.gif" align="right" />
- <img src="/images/0140443290.gif" align="right" />
-whose thought influenced Weber. Nietzsche's perspectivism maintains that
-all interpretation is necessarily mediated by perspective, making
+Nietzsche, whose thought influenced Weber. Nietzsche's perspectivism maintains that all interpretation is necessarily mediated by perspective, making
 analysis unavoidably laden with biases, presuppositions, values, and so
 forth. Weber builds on Nietzsche's perspectivism by maintaining that
 objectivity is still possible -- but only after a particular
@@ -433,7 +408,7 @@ portrays Weber's first-level view that denies the existence of either
 positive or natural law, affirming the fact-value dichotomy: "The
 categories through which social phenomena are perceived must be
 radically subjective, derived from priorities that the investigator
-brings to work rather than universal laws discovered through <img src="/images/0674001834.jpg" align="right" />  systematic
+brings to work rather than universal laws discovered through systematic
 observation." [30](#FOOTNOTE_30) Portis, however, soon goes astray -- or
 just does not go far enough -- in characterizing Weber's view of the
 fact-value dichotomy: "Because these categories are antecedent to social
@@ -480,8 +455,7 @@ value in mind.
 Furthermore, again despite Portis' claims to the contrary, part of the
 power and allure of Weber lies in the dual legacy that he handed down:
 He succeeded, at least in the totality of his work, in being
-overtly <img src="bk_mw_pol.gif" align="right" />
-political while remaining true to his integrity as a social scientist.
+overtly political while remaining true to his integrity as a social scientist.
 At least one work by Weber -- his short essay titled "The President of
 the Reich" -- directly bears this out. And even if, as Portis argues,
 Weber did become psychologically tormented by the tension he felt
@@ -510,12 +484,7 @@ prerequisite to objective evaluation.
 
 ## 8 Notes
 
-The following
-books, <img src="/images/0024288101.gif" align="right" />
-cited in the essay above, can be bought from Amazon.Com by clicking on
-the title. Criticism.Com, an Amazon associate bookstore, derives a small
-fee on the purchase of every book sold through one of its links to
-Amazon. Thank you for supporting Criticism.Com.
+Thank you for supporting Criticism.Com.
 
 [1](#FOOTBODY_1) Ralf Dahrendorf, "Max Weber and Modern Social Science,"
 Ch. 37, [Max Weber and his
@@ -630,4 +599,5 @@ Analysis](/da/lw_da.html)
 Newspapers](putnam1.html)
 
 <i class="fa fa-file-text"></i> [Comments and Kudos](/cc/kudos.html)
+
 
