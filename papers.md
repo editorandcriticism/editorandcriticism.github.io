@@ -32,6 +32,10 @@ than other approaches to discourse analysis. [Download PDF](/da/da_indet.pdf) <i
 
 <i class="fa fa-file-text"></i> [Technical Publications: White Papers and Blog Posts](publications.html) | [Site Map](map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
 
+--- Papers by Steve Hoenisch.  <i class="fa fa-coffee" aria-hidden="true"></i>
+
+
+
 
 
 
