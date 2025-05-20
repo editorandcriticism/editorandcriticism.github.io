@@ -20,8 +20,6 @@ Copyright 1996-2015 Steve Hoenisch \
 
 Roland Barthes, writing in the early 1970s, begins *The Pleasure of
 the Text* with these words:
-<img src="../images/0374521603.gif" align="right" />
-
 
 > "Imagine someone ... who abolishes within himself all barriers, all
 > classes, all exclusions, not by syncretism but by simple discard of
@@ -200,5 +198,10 @@ Philosophy*
 11. Foucault, quoted by Jacques Derrida, *Writing and
 Difference*,
 trans. Alan Bass (Chicago: University of Chicago Press, 1978), p. 44.
+
+
+
+<object data="foucault.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 
