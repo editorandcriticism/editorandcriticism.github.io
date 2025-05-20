@@ -18,12 +18,13 @@ economics, literature, technology, and criticism.
 
 
 
+
 ### The End of Critical Culture
 
 From about 1990 through about 2005, it was common to suggest the end of
 one cultural sphere or another -- the end of history being the beginning
-of it all. And, finally, Gore's The End of Reason being the end of it
-all, showing how conservatives adopted post-modernist thought to turn
+of it all. And, finally, Gore's The Assault on Reason being the end of it
+all, showing how conservatives adopted angles of post-modernist thought to turn
 politics away from truth. Now it's a permanent condition of fantasy over
 reality, ideology over evidence.
 
@@ -105,7 +106,7 @@ Part of the reason that works like The Sheltering Sky lend themselves so
 well to selective interpretation is that they are deeply nuanced,
 multifaceted pieces that change their shape every time you look at them
 from a different angle, or a different era. Because of their complexity
-and ambiguity they can be subjected to a variety of interpretations,
+and ambiguity, they can be subjected to a variety of interpretations,
 including the possibility of parallel interpretations that seemingly
 conflict.
 
@@ -124,18 +125,9 @@ nihilism. In [a book review in The New York
 Times](http://www.nytimes.com/books/98/05/17/specials/bowles-sheltering.html),
 Tennessee Williams put it like this in 1949:
 
-> In this external aspect the novel is, therefore, an account of
-> startling adventure. In its interior aspect, "The Sheltering Sky" is
-> an allegory of the spiritual adventure of the fully conscious person
-> into modern experience. This is not an enticing way to describe it. It
-> is a way that might suggest the very opposite kind of a novel from the
-> one that Paul Bowles has written. ...
->
-> I suspect that a good many people will read this book and be
-> enthralled by it without once suspecting that it contains a mirror of
-> what is most terrifying and cryptic within the Sahara of moral
-> nihilism, into which the race of man now seems to be wandering
-> blindly.
+>In this external aspect the novel is, therefore, an account of startling adventure. In its interior aspect, "The Sheltering Sky" is an allegory of the spiritual adventure of the fully conscious person into modern experience. This is not an enticing way to describe it. It is a way that might suggest the very opposite kind of a novel from the one that Paul Bowles has written. ... 
+
+>I suspect that a good many people will read this book and be enthralled by it without once suspecting that it contains a mirror of what is most terrifying and cryptic within the Sahara of moral nihilism, into which the race of man now seems to be wandering blindly.
 
 Now, in 2011, we've seen what's become of people when they persist as
 moral zombies. What are the social consequences that result from moral
@@ -147,11 +139,7 @@ so closely to what's happening how, with the full-on attack on social
 programs and collective bargaining through the repetition of certain
 mantras:
 
-> One-dimensional thought is systematically promoted by the makers of
-> politics and their purveyors of mass information. Their universe of
-> discourse is populated by self-validating hypotheses which,
-> incessantly and monopolistically repeated, become hypnotic definitions
-> or dictations.
+>One-dimensional thought is systematically promoted by the makers of politics and their purveyors of mass information. Their universe of discourse is populated by self-validating hypotheses which, incessantly and monopolistically repeated, become hypnotic definitions or dictations. 
 
 Will the House's attack on workers, health care, and women's health,
 including the attempt to defund Planned Parenthood, prompt large
@@ -173,17 +161,9 @@ failure -- hope for change is lost -- of the Obama administration makes
 patently clear.
 
 
-
-
-
-
-### From Moral Nihilism to Bougesious Narcissisism
+### From Moral Nihilism to Bourgeois Narcissisism
 
 So, why is there no mass protest movement? Especially among "hipsters"? 
-
-
-
-
 
 
 ### Empathy Crisis
@@ -193,7 +173,7 @@ empathy I find in so many of the people I meet troubles me. Sometimes I
 catch myself trying to gauge -- or even test -- a person's capacity for
 it. Empathy, quite clearly, conflicts with our society's penchant for
 predatory capitalism. Is the economic system, by necessity, pushing out
-empathy? It has certainly done so, it seems to me, in most businesses
+empathy? It has certainly done so, it seems to me, in many businesses
 and work places. But is it also pushing empathy out of interpersonal
 relationships? In such a climate, empathy and kindness become practices
 of
@@ -285,4 +265,6 @@ book publishers.
 ### Thematic Tags
 
 <i class="fa fa-tags"></i> Plutocracy | Universal Health Care | Image over Substance | Travel | Bruce Chatwin | Paul Bowles | Moral Zombies
+
+
 
