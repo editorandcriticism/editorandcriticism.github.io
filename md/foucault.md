@@ -1,18 +1,12 @@
 ---
-description: |
-	Foucault: A Lover's Discourse about Madness and the Media. Foucault and Roland Barthes used for a critical analysis of the news media.
-keywords: |
-	media theory, newspapers, criticism,  media, journalism, theory, culture, advertising, film, press, media criticism, social theory, sociology, Foucault, Barthes, semiology, discourse analysis, media studies, Pleasure of the Text
-
-title: |
-	Foucault: A Lover's Discourse About Madness and the Media
+title: Foucault: A Lover's Discourse About Madness and the Media
+description: Foucault and Roland Barthes used for critical analysis of the news media.
+keywords: media theory. journalism, culture, media criticism, Foucault, Barthes, semiology, Pleasure of the Text
 ---
 
 
-By Steve Hoenisch \
-Copyright 1996-2015 Steve Hoenisch \
-[www.Criticism.Com](http://www.criticism.com/) \
-
+By Steve Hoenisch
+[www.Criticism.Com](http://www.criticism.com/)
 
 
 1 Barthes' Anti-Hero
@@ -45,10 +39,7 @@ reading the anti-hero. For it is Foucault who rises above the Cartesian
 for it is Foucault who reverses the paradigm, making a mockery of court
 in *Discipline and Punish* and of asylum in *Madness and
 Civilization*.
-Taking Barthes's passage in turn, it is
-<img src="../images/0374521344.gif" align="right" /><img src="../images/bkmfmad.gif" align="right" />
-Foucault who abolishes the exclusions of the past and discards the
-arbitrary constraints of reason, Foucault who reexamines and reconnects
+Taking Barthes's passage in turn, it is Foucault who abolishes the exclusions of the past and discards the arbitrary constraints of reason, Foucault who reexamines and reconnects
 aspects of language said to have been irreconcilable, Foucault who
 reveals the ultimate philosophical irony: truth often lies not so much
 in scientific method, with its birth perhaps in the Socratic method, but
@@ -63,10 +54,7 @@ Foucault's postmodernism, Foucault would dispute the ability of
 semiological analysis to detect a singular, over-arching meaning or myth
 under the cloak of signifier and signified, as Barthes and Baudrillard
 often attempt to do. In
-*Mythologies,*
-for<img src="../images/0374521506.gif" align="right" />
-example, Barthes writes: "What wrestling is above all meant to portray
-is a purely moral concept: that of justice."2 In another essay in
+*Mythologies,* for example, Barthes writes: "What wrestling is above all meant to portray is a purely moral concept: that of justice."2 In another essay in
 *Mythologies,* Barthes acknowledges the "quick-change artistry of
 plastic" but then goes on to say that "plastic is, all told, a spectacle
 to be deciphered: the very spectacle of its end-products"3 (with
@@ -88,8 +76,7 @@ we are told, they are beginning to make plastic aortas."6
 
 The media are a bit like plastic themselves: They are, in Max
 Horkheimer and Theodor W. Adorno's words,
-"an<img src="../images/bkhorkhe.gif" align="right" />
-ever-changing sameness." And, also like plastic, the whole world, life
+"an ever-changing sameness." And, also like plastic, the whole world, life
 itself, is being turned into media. Barthes's playfulness
 notwithstanding, however, no sign, no word, contains a singular
 interpretation for Foucault, even perhaps as metaphor. Not even plastic,
@@ -124,11 +111,7 @@ the form into which it is transposed, a gap widens."8
 =============================
 
 This excerpt captures quite precisely the application of Foucault's
-postmodernism to media analysis. Rendered
-<img src="../images/bk_derri.gif" align="right" />
-thus, Foucault's theory bears a direct similarity to Derrida's notion of
-*differance*: there is at once the difference, or contrast, of [signs in
-a structural system](the_sign.html) that produces meaning and the
+postmodernism to media analysis. Rendered thus, Foucault's theory bears a direct similarity to Derrida's notion of *differance*: there is at once the difference, or contrast, of [signs in a structural system](the_sign.html) that produces meaning and the
 endless deferral of meaning. That is, there is no "final or fixed point
 or privileged, meaning-determining relationship with the extralinguistic
 world."9
@@ -171,7 +154,7 @@ captive a madness whose wild state can never in itself be restored."11
 =======
 
 1. Roland Barthes, *The Pleasure of the Text,*p. 3. Italics in
-original.<img src="../images/bkblackb.gif" align="right" />
+original.
 
 2. Roland Barthes, *Mythologies,* p. 21.
 
@@ -202,6 +185,7 @@ trans. Alan Bass (Chicago: University of Chicago Press, 1978), p. 44.
 
 
 <object data="foucault.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 
 
