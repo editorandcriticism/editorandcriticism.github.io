@@ -64,11 +64,9 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
  
 [White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
 
-[Blog Post: Running CNFs on Bare Metal -- Merit or Mirage? The Abstraction of Virtualization Yields Concrete Benefits](https://blogs.vmware.com/telco/running-cnfs-on-bare-metal-merit-or-mirage-the-abstraction-of-virtualization-yields-concrete-benefits/)
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Running CNFs on Bare Metal -- Merit or Mirage? The Abstraction of Virtualization Yields Concrete Benefits](https://blogs.vmware.com/telco/running-cnfs-on-bare-metal-merit-or-mirage-the-abstraction-of-virtualization-yields-concrete-benefits/)
 
-[Blog Post: RAN Workload Performance Is Equivalent on Bare Metal and vSphere](https://blogs.vmware.com/telco/ran-workload-performance-tests-on-vmware-vsphere/)
-
-VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
+Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
 
 Delve into the Demonstratable Power of the VMware Telco Cloud at MWC Barcelona 2023 (Demo Roundup)
 https://blogs.vmware.com/telco/mwc23-demos/
@@ -80,28 +78,20 @@ Can You Hear Me Now? A Guide for Telco Writers Save Time by Staying on Message a
 
 Research Paper: Open RAN government policy briefing.
 
-Blog Post: Protecting Open Radio Access Networks with a Common Platform
-https://blogs.vmware.com/telco/o-ran-security/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: RAN Workload Performance Is Equivalent on Bare Metal and vSphere](https://blogs.vmware.com/telco/ran-workload-performance-tests-on-vmware-vsphere/)
 
-Blog Post: Adapting to a Changing Landscape and Shifting Requirements
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Protecting Open Radio Access Networks with a Common Platform](https://blogs.vmware.com/telco/o-ran-security/)
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/) Adapting to a Changing Landscape and Shifting Requirements
 with Built-in Security
-https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/
 
-Blog Post: Evolution in Principle: Emerging Wireless Security Threats
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/wireless-security-threats/) Evolution in Principle: Emerging Wireless Security Threats
 and the State of Cybersecurity (with coauthor)
-https://blogs.vmware.com/telco/wireless-security-threats/
 
-Blog Post: Stop, Think, then Do: Rethinking Security Architectures for
-5G Networks (with coauthor)
-https://blogs.vmware.com/telco/5g-security-telecom-network-architectures/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/5g-security-telecom-network-architectures/) Stop, Think, then Do: Rethinking Security Architectures for 5G Networks (with coauthor)
 
-Blog Post: Complexity or Commonality? Cybersecurity for Horizontal vs.
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/5g-security-horizontal-vs-vertical/) Complexity or Commonality? Cybersecurity for Horizontal vs.
 Vertical 5G Architectures
-https://blogs.vmware.com/telco/5g-security-horizontal-vs-vertical/
-
-Blog Post: Adapting to a Changing Landscape and Shifting Requirements
-with Built-in Security
-https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/
 
 E-book: [Telco Cloud for
 Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
