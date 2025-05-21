@@ -6,13 +6,15 @@ keywords: |
 title: Technology Blog Posts
 ---
 
-# Recent Blog Posts
+### Recent Blog Posts
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-disaggregation-award/) Seize the Future: Mavenir and VMware Win FutureNet Network Disaggregation Award
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/optimized-agile-telecom-capabilities/) Envisioning Positive Outcomes from Optimized and Agile Telecom Capabilities
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-award-ric/) Network Scorecard rApp Wins FutureNet World 2023 Award for AI and Automation
+
+<i class="fa fa-info" aria-hidden="true"></i> For some of these blog posts, I acted as the ghost writer; for other posts, I worked with the original authors to rewrite or substantially revise the content.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](
 https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-End RAN Automation, Assurance, and Optimization
@@ -42,7 +44,7 @@ and the State of Cybersecurity (with coauthor)
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/5g-security-horizontal-vs-vertical/) Complexity or Commonality? Cybersecurity for Horizontal vs.
 Vertical 5G Architectures
 
-[Blog Post:](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/) Adapting to a Changing Landscape and Shifting Requirements
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/) Adapting to a Changing Landscape and Shifting Requirements
 with Built-in Security
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although Criticism.Com contains links to blog posts and white papers that I've written while employed by various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I have worked for in the past. The blog posts and white papers are published their companies' respective web sites; these are just links to those blog posts and papers.</p>
@@ -52,7 +54,7 @@ with Built-in Security
 Head in the clouds, feet near the ground. A sunset over Bellevue, Washington, 2019.
 
 
-# The Limitations of Big Data and Data-Driven Decision Making
+### The Limitations of Big Data and Data-Driven Decision Making
 
 As a vague metaphor, the so-called data lake comes with a certain mythology attached to it, like Lock Ness shrouded in fog. The monster in the lake is, of course, big data, and misconceptions about data  steep the lake in mythology. The dominant myth is "the widespread belief that large data sets offer a higher form of intelligence and knowledge that can generate insights that were previously impossible, with the aura of truth, objectivity, and accuracy," as danah boyd and Kate Crawford put it.[^danah] Data, however big it may be, has its limits.
 
@@ -107,7 +109,7 @@ But what does this all have to do with large data repositories? It helps demonst
 
 It also exposes two things: First, be especially wary of vendors who tout the data-tells-all story and who seek to replace analysts with analytics. Second, make cultural and technical shifts, including hiring academically trained data scientists, to adapt your organization to the era of big data.
 
-## Evaluating Analytics Products
+#### Evaluating Analytics Products
 
 Understanding the limitations of big data can help you evaluate analytics products. Just as you should approach your data and your interpretation of it with a sceptical, critical eye, so to should you look at analytics products and their representatives. Be aware of anybody who makes claims about just focusing on the data or spouts hyperbole about the data telling its own story or the day being always right. You should also be wary of those who claim you can analyze streaming data so quickly that you do not need to store the results. 
 
@@ -118,7 +120,7 @@ Understanding the limitations of big data can help you evaluate analytics produc
 Indeed, all sorts of things can go wrong in an analysis of a data set, as Rachel Schutt and Cathy O’Neil demonstrate in their book, _Doing Data Science_. There is much more subjectivity in the process than most people think, even with regard to seemingly straight-forward data from sensors and instruments. The point is to trust neither your data nor your interpretation of it. If you understand the limitations of big data and adopt a critical perspective to analyzing data, it puts you in a better position to evaluate vendor offerings. For a primer on data science, see Schutt and O'Neil's book, _Doing Data Science_, published by O'Reilly.    
 
 
-## Open Access to Data for Analytics, Interpretation, and Collaboration
+#### Open Access to Data for Analytics, Interpretation, and Collaboration
 
 Two aspects of a data science program can counter misinterpretations and subsequent misguided decisions that go hand in hand with the use of data to drive business decisions: 
 
@@ -131,7 +133,9 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 
 
 
-# Older Blog Posts
+### Older Blog Posts
+
+
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Streamlining Operations and Automating Lifecycle Management with Telco Cloud Platform](https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/). How can you deploy 5G services and network functions on infrastructure that has the consistency to enable you to simplify network operations, not make the task more complex. Since large 5G investments will increase the pressure to extract profit from 5G capabilities like low latency and high density, it is imperative that you can streamline operations and automate lifecycle management to keep OpEx low. Published on the [VMware Telco Cloud Blog](https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/).
 
