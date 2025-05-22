@@ -1,68 +1,58 @@
 ---
-	title: Publications
+title: Publications
 ---
-
-
-## Publications List
-
-
-<!-- Add: View LinkedIn Profile and Publications List; view profile on Academia.com.  -->
-
-
-<!-- Start Canonical List for publications.md. -->
 
 
 Publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). <!-- tiny add right here linking to putnam's address with me in it in a way that links it as a citation to data science and analytics. -->
 
+<!-- Add: View LinkedIn Profile and Publications List; view profile on Academia.com.  -->
+
 <!-- full syntax fr goggle: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=steve+hoenisch&btnG= -->
 
-
-
 ## Publications 
-<!-- ++ Add: View LinkedIn Profile and Publications List; view profile on Academia.com.  -->
 
-<!-- ++  Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto Women's Book in same lines.  -->
+<!-- ++ Add some citations below. Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto women's book along same lines.  -->
 
-[White Paper:](https://www.vmware.com/docs/vwm-envisioning-service-management-and-orchestration-for-five-g) Envisioning Service Management and Orchestration for 5G: Toward a Modular Multi-Vendor, Multi-Cloud SMO Spanning Beyond RAN to Core and Edge
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://www.vmware.com/docs/vwm-envisioning-service-management-and-orchestration-for-five-g) Envisioning Service Management and Orchestration for 5G: Toward a Modular Multi-Vendor, Multi-Cloud SMO Spanning Beyond RAN to Core and Edge
 
-[Solution Brief:](https://www.vmware.com/docs/vmw-telco-smo-use-cases-overview) Orchestrate, Automate, and Assure O-RAN with SMO: Saving Energy in the RAN, Optimizing Services with AI/ML, Deploying CNFs, and Other SMO Use Cases
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Solution Brief:](https://www.vmware.com/docs/vmw-telco-smo-use-cases-overview) Orchestrate, Automate, and Assure O-RAN with SMO: Saving Energy in the RAN, Optimizing Services with AI/ML, Deploying CNFs, and Other SMO Use Cases
 
-[Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-design-deploy-operate-5g-networks.pdf) Modernize to Monetize: Reimagine the Telco Cloud to Capitalize on 5G: Efficiently Design, Deploy, Operate, and Protect 5G Networks
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-design-deploy-operate-5g-networks.pdf) Modernize to Monetize: Reimagine the Telco Cloud to Capitalize on 5G: Efficiently Design, Deploy, Operate, and Protect 5G Networks
 
-[Blog Post:](https://blogs.vmware.com/telco/futurenet-disaggregation-award/) Seize the Future: Mavenir and VMware Win FutureNet Network Disaggregation Award
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-disaggregation-award/) Seize the Future: Mavenir and VMware Win FutureNet Network Disaggregation Award
 
-[Blog Post:](https://blogs.vmware.com/telco/futurenet-award-ric/) Network Scorecard rApp Wins FutureNet World 2023 Award for AI and Automation
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-award-ric/) Network Scorecard rApp Wins FutureNet World 2023 Award for AI and Automation
 
-[Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-ran-ric-use-cases.pdf) RAN Programmability: Tapping RIC Use Cases to Monetize 5G Services
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-ran-ric-use-cases.pdf) RAN Programmability: Tapping RIC Use Cases to Monetize 5G Services
 
-[Technical Documentation:](https://techdocs.broadcom.com/us/en/vmware-sde/telco-cloud/vmware-telco-cloud-platform/3-0/telco-cloud-platform-5g-edition-intrinsic-security-guide/introduction.html) Telco Cloud Platform 5G Edition Intrinsic Security Guide
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Technical Documentation:](https://techdocs.broadcom.com/us/en/vmware-sde/telco-cloud/vmware-telco-cloud-platform/3-0/telco-cloud-platform-5g-edition-intrinsic-security-guide/introduction.html) Telco Cloud Platform 5G Edition Intrinsic Security Guide
 
-[Blog Post:](
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](
 https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-End RAN Automation, Assurance, and Optimization
 
-[Blog Post:](https://blogs.vmware.com/telco/deploy-open-ran/) Deploy Open RAN with Confidence: Implement a Commercially Proven, Operationally Ready 4G/5G Solution
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/deploy-open-ran/) Deploy Open RAN with Confidence: Implement a Commercially Proven, Operationally Ready 4G/5G Solution
 
-[Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-design-deploy-operate-5g-networks.pdf) Inherent Value: The Benefits of Running CNFs on VMs: Optimizing Mixed Workloads on Shared Infrastructure with Kubernetes on VMware Telco Cloud Platform
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-design-deploy-operate-5g-networks.pdf) Inherent Value: The Benefits of Running CNFs on VMs: Optimizing Mixed Workloads on Shared Infrastructure with Kubernetes on VMware Telco Cloud Platform
 
-[Blog Post:](https://blogs.vmware.com/telco/optimized-agile-telecom-capabilities/) Envisioning Positive Outcomes from Optimized and Agile Telecom Capabilities
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/optimized-agile-telecom-capabilities/) Envisioning Positive Outcomes from Optimized and Agile Telecom Capabilities
 
-[Blog Post:](https://blogs.vmware.com/telco/telco-cloud-platform-ran-4/) VMware Powers Disaggregation with Modernization Option
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/telco-cloud-platform-ran-4/) VMware Powers Disaggregation with Modernization Option
 
-[Blog Post:](https://blogs.vmware.com/telco/telco-cloud-platform-4/) Take the Fast Path or Full Path to Network Transformation
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/telco-cloud-platform-4/) Take the Fast Path or Full Path to Network Transformation
 
-[White Paper:](https://www.vmware.com/docs/vmw-telco-ran-security-wp) Security for Open RAN in 5G Telco Clouds: Protecting Networks with Automation and Zero-Trust Architecture
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://www.vmware.com/docs/vmw-telco-ran-security-wp) Security for Open RAN in 5G Telco Clouds: Protecting Networks with Automation and Zero-Trust Architecture
 
-[Blog Post:](https://blogs.vmware.com/telco/tackling-objectives/) Tackling Strategic Business Objectives with a Single Cloud Stack
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/tackling-objectives/) Tackling Strategic Business Objectives with a Single Cloud Stack
 
-[White Paper:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf) Intrinsic Security for Telco Clouds at the Dawn of 5G]: An Integrated Approach to Helping Telecoms Meet Emerging Security Standards.
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf) Intrinsic Security for Telco Clouds at the Dawn of 5G]: An Integrated Approach to Helping Telecoms Meet Emerging Security Standards.
 
-[Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/).
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/).
 
-[White Paper: Tests Prove Hypervisor Speeds Match Bare Metal](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1668273-vmw-tcp-ran-hypervisor-vs-bare-metal.pdf)
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Tests Prove Hypervisor Speeds Match Bare Metal](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1668273-vmw-tcp-ran-hypervisor-vs-bare-metal.pdf)
 
-[E-Book:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-edge-of-opportunity-identifying-use-cases-driving-market-demand.pdf) Edge of Opportunity: Identifying Use Cases Driving Market Demand: Edge Computing Use Cases to Generate Revenue, Gain Efficiency and Improve Customer Experiences 
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [E-Book:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-edge-of-opportunity-identifying-use-cases-driving-market-demand.pdf) Edge of Opportunity: Identifying Use Cases Driving Market Demand: Edge Computing Use Cases to Generate Revenue, Gain Efficiency and Improve Customer Experiences 
  
-[White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Running CNFs on Bare Metal -- Merit or Mirage? The Abstraction of Virtualization Yields Concrete Benefits](https://blogs.vmware.com/telco/running-cnfs-on-bare-metal-merit-or-mirage-the-abstraction-of-virtualization-yields-concrete-benefits/)
 
@@ -592,58 +582,29 @@ strong foundation for Sarbanes-Oxley compliance.
 
 <i class="fa fa-github"></i> [Running Photon OS on Amazon Elastic Cloud Compute](https://github.com/vmware/photon/wiki/Running-Photon-OS-on-Amazon-Elastic-Cloud-Compute). An in-depth how-to article.
 
-
-
 ### Newspaper Articles
 
 <i class="fa fa-external-link-square"></i> [Bargain
 Trips](https://articles.chicagotribune.com/1994-03-13/cc/9403130494_1_drive-%20away-companies-automobile-transporters-travelers):
-See The Country By Car And Save In A Drive-away, in the *Chicago
-Tribune*.
+See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 
 
 ### Related
 
-<i class="fa fa-file-text"></i> [For SEO, Set Your First Heading
-in the H1 Tag](/seo/h1.html)
+<i class="fa fa-file-text"></i> [For SEO, Set Your First Heading in the H1 Tag](/seo/h1.html)
 
-<i class="fa fa-file-text"></i> [Include a Unique, Accurate Title
-in Your HTML Document's Header](/seo/title.html)
+<i class="fa fa-file-text"></i> [Include a Unique, Accurate Title in Your HTML Document's Header](/seo/title.html)
 
 <i class="fa fa-file-text"></i> [Structuring Documents with
 XML](/dita/structuring_docs.html)
 
-<i class="fa fa-file-text"></i> [Tagging DocBook XML Documents for
-Search Engine Optimization](/seo/docbook.html)
+<i class="fa fa-file-text"></i> [Tagging DocBook XML Documents for Search Engine Optimization](/seo/docbook.html)
 
-<i class="fa fa-file-text"></i> [Search Engine Optimization (SEO)
-Techniques](/seo/search-engine-optimization.html)
+<i class="fa fa-file-text"></i> [Search Engine Optimization Techniques](/seo/search-engine-optimization.html)
 
-<i class="fa fa-file-text"></i> [Resume: Technology Evangelist and White Paper Writer](/md/resume.html)
-
+<i class="fa fa-file-text"></i> [Resume](/md/resume.html)
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

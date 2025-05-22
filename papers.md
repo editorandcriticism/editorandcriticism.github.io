@@ -1,5 +1,5 @@
 ---
-title: Papers and Essays
+title: Essays and Papers
 description: Papers and essays on philosophy, critical theory, media culture, psychology, psychoanalysis, linguistics, literature, literary criticism. 
 keywords: Interpretation, criticism, Max Weber, objectivity, sociology of knowledge, discourse analysis, structuralism, postmodernism, Saussure, media culture, Roland Barthes, Wittgenstein, Freud, psychoanalysis, philosophy, social science, media studies, technology
 ---
@@ -32,7 +32,8 @@ than other approaches to discourse analysis. [Download PDF](/da/da_indet.pdf) <i
 
 <i class="fa fa-file-text"></i> [Technical Publications: White Papers and Blog Posts](publications.html) | [Site Map](map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
 
---- Papers by Steve Hoenisch.  <i class="fa fa-coffee" aria-hidden="true"></i>
+<i class="fa fa-language" aria-hidden="true"></i>
+--- Essays by Steve Hoenisch.  <i class="fa fa-coffee" aria-hidden="true"></i>
 
 
 

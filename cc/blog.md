@@ -1,12 +1,11 @@
 ---
-description: |
-    Technology blog of Steve Hoenisch, technology evangelist. Covers emerging technology, cloud-native applications, cloud computing, distributed systems, big data, data science, and random phenomena. 
-keywords: |
-    Photon OS, Linux, container host runtime, cloud-native applications, cloud computing, virtualized data center, virtualization, cloud applications, Kubernetes, containers, application container, 12-factor apps, cloud native, security, cybersecurity, telco, telecom, telecommunications, cloud native.
 title: Technology Blog Posts
+description: Technology blog of Steve Hoenisch, technology evangelist. Covers emerging technology, cloud-native applications, cloud computing, distributed systems, big data, data science, and random phenomena. 
+keywords: Linux, container host runtime, cloud-native applications, cloud computing, virtualized data center, virtualization, cloud applications, Kubernetes, containers, application container, cloud native, security, cybersecurity, telco, telecom, telecommunications.
 ---
 
 ### Recent Blog Posts
+
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-disaggregation-award/) Seize the Future: Mavenir and VMware Win FutureNet Network Disaggregation Award
 
@@ -14,10 +13,12 @@ title: Technology Blog Posts
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-award-ric/) Network Scorecard rApp Wins FutureNet World 2023 Award for AI and Automation
 
-<i class="fa fa-info" aria-hidden="true"></i> For some of these blog posts, I acted as the ghost writer; for other posts, I worked with the original authors to rewrite or substantially revise the content.
-
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](
 https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-End RAN Automation, Assurance, and Optimization
+
+
+<i class="fa fa-info" aria-hidden="true"></i> For some of these blog posts, I acted as the ghost writer; for other posts, I worked with the original authors to rewrite or substantially revise the content.
+
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/deploy-open-ran/) Deploy Open RAN with Confidence: Implement a Commercially Proven, Operationally Ready 4G/5G Solution
 
@@ -128,14 +129,9 @@ Two aspects of a data science program can counter misinterpretations and subsequ
 
 1. Open, transparent access to data. Within the constraints of information security and compliance regulations, give everyone in the organization access to the data platform and the information it contains so that anyone can query it, analyze it, and interpret it. 
 
-Although one of these imperatives is cultural, the other is technical: Open access to everyone within the enterprise to the extent that security policies or techniques, such as masking, allow. 
-
-
-
+Although one of these imperatives is cultural, the other is technical: Open access to everyone within the enterprise to the greatest extent possible. 
 
 ### Older Blog Posts
-
-
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Streamlining Operations and Automating Lifecycle Management with Telco Cloud Platform](https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/). How can you deploy 5G services and network functions on infrastructure that has the consistency to enable you to simplify network operations, not make the task more complex. Since large 5G investments will increase the pressure to extract profit from 5G capabilities like low latency and high density, it is imperative that you can streamline operations and automate lifecycle management to keep OpEx low. Published on the [VMware Telco Cloud Blog](https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/).
 
@@ -150,15 +146,7 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although Criticism.Com contains links to white papers that I've written while employed by VMware or EMC, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of VMware or any company that I have worked for in the past, such as EMC. The white papers published by VMware or EMC are on their respective web sites; these are just links to those papers.</p>
 
 
-
-
-
-
-
 <!-- # Big Data -->
 <!-- <#include "limitations-of-data-driven-analysis.md"> -->
-
-
-
 
 
