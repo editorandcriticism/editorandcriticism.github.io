@@ -1,0 +1,127 @@
+METADATA:
+Title: Likewise Data Analytics and Governance
+Desc: Likewise Data Analytics and Governance unites identity and storage to secure, analyze, govern, and audit unstructured data.
+Kwds: unstructured data, big data, data governance, data analytics, IT information security, event monitoring
+
+======================================
+Likewise Data Analytics and Governance
+
+Unstructured data is growing faster than all other types of data and will increase by 800 percent during the next five years. Analysts are referring to it as the big-data explosion.
+
+But big data brings new challenges. Because 40 percent of it typically contains sensitive information, compliance regulations or internal policies mandate security. At the same time, workers depend on easy, rapid access to do their job. Security, then, must be balanced with availability. Easier said then done: Data silos, access barriers, different protocols, security gaps, and a lack of control stand firmly in the way, increasing risks and costs.  
+
+Likewise Data Analytics and Governance unites identity, security, and storage to overcome the challenges of managing unstructured data in a heterogeneous environment. Here's how:
+
+*Secures unstructured data with uniform policies
+
+*Analyzes access patterns, storage thresholds, and file change events
+
+*Governs data types, sensitivity levels, data owners, and entitlements
+
+*Audits patterns of access and usage to generate alerts and compliance reports
+
+The application balances easy access with access control while providing a powerful analytical framework to demonstrate compliance and reduce costs. 
+
+As a result, executives rest easy in the knowledge that unstructured data is both controlled for compliance and available for those who need it. IT managers, meanwhile, are empowered to track business-critical data, manage access controls to it, and create audit reports that prove compliance. 
+
+=====================
+BENEFITS
+=====================
+Taken together, Likewise Data Analytics and Governance let you consolidate user access across data silos, enforce consistent access policies, and manage entitlements from a single point. Benefits:
+
+*Mitigate risk
+*Get a hierarchical view of a global environment
+*Increase productivity through visibility
+*Identify root causes of security, performance, and access issues
+*Reduce IT management costs
+
+
+=====================
+KEY FEATURES
+=====================
+
+=====================
+Security
+
+*View users and groups from Microsoft Active Directory, LDAP, or NIS.
+
+*Consolidate management of entitlements across data silos by setting security policies for user and group access as well as the security descriptors of files, eliminating security gaps.
+
+*Proactively remediate security settings from one location, the Likewise interface.
+
+=====================
+Auditing
+
+*Identify patterns of access to unstructured data.
+
+*Implement policy-driven exception-based monitoring with  dashboards and real-time event alerts over email or SNMP.
+
+*Generate reports that demonstrate compliance with evidence. There are reports for HIPAA, ITAR, PCI DSS, Sarbanes-Oxley, GLBA, and FISMA.
+
+*Show chain of custody for data on user access.
+
+=====================
+Governance
+
+*Empower data owners to manage entitlements.
+
+*Classify data as sensitive when it falls under legal or regulatory requirements and then track it through its life cycle.
+
+*Establish a central repository for change management of security and configuration policies.
+
+
+=====================
+Data Analytics
+
+*Improve management of unstructured data and reduce costs by using analytics to streamline data operations and storage systems.
+
+*Quickly identify problem areas with customizable dashboards that can show both real-time and historical reports.
+
+*Visualize contextual information on users and groups, file security settings, data sensitivity, and access patterns to improve data management, utilization, and service-level agreements.
+
+*Identify overutilization of valuable NAS resources and identify users or applications that are causing a NAS controller to reach its write-pending limit. 
+
+For a full list of features, see the <a href="">datasheet</a>.
+
+
+=====================
+ARCHITECTURE
+=====================
+Built as a big data solution, delivered as a virtual appliance and deployed as a private cloud, Likewise Data Analytics and Governance offers significant advantages over traditional approaches in terms of scale, performance, security, and cost. 
+
+The tremendous amount of data about data requires a solution that can scale. Our commercially hardened SQL and NoSQL infrastructure with polyglot persistence is the only solution on the market today that can scale beyond a departmental deployment. It is designed to support storage arrays with hundreds of millions of file objects and high workloads. 
+
+In addition, it uses low-cost commodity hardware that scales out rather than scales up as your requirements expand. It  accepts events and log data from NetApp and EMC NAS devices, and it can be extended to accept other data through a predefined RESTful API. 
+
+=====================
+OEM Opportunities
+Likewise Data Analytics and Governance is also available as an add-on application for <a href="URL FOR STORAGE PLATFORM PAGE">OEM storage vendors</a> seeking to differentiate their product. OEM storage vendors can implement advanced analytics and governance of unstructured data with robust event collection, auditing, entitlement management, dashboards, and reporting.
+
+
+=====================
+Next Steps
+<!-- BROOKE COULD YOU PLS ADD APPROP CONTACT ADDRESS HERE AND LINK TO BETA PAGE ETC AS YOU SEE FIT -->
+For more information or to participate in our beta program, contact oem@likewise.com or complete the contact form. 
+
+
+
+
+
+
+===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+

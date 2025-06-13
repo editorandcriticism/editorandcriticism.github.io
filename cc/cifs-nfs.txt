@@ -1,0 +1,82 @@
+===================
+METADATA
+
+TITLE:
+Multiprotocol Data Access with CIFS and NFS
+
+Desc: 
+Likewise Storage Services delivers multiprotocol data access with a CIFS NFS file server.
+
+Kwds: 
+CIFS NFS, multi-protocol data access, SMB, CIFS, NFS, file access protocols, data access protocols, storage, unstructured data
+
+===================
+
+h1:
+Multiprotocol Data Access with CIFS and NFS
+
+subtitle:
+Consolidate Storage and Cut Costs with a SMB and NFS File Server
+
+=======================
+
+Likewise Storage Services delivers secure, multiprotocol data access with a CIFS/SMB and NFS file server accessible by Microsoft Windows clients and Unix clients simultaneously. Considering that heterogeneous networks are now the norm, the business value to your customers of including multiprotocol data access in your OEM storage product is substantial: 
+
+*Cut storage costs by consolidating data silos into a single, multiprotocol file server or NAS system.
+
+*Reduce costs of storage administration.
+
+*Give users the freedom to access the data they need when they need it, regardless of whether they are using Unix or Windows workstations.
+
+*Improve security by implementing uniform security policies.
+
+
+-----------------------
+<!-- a subheading follows each dotted line. -->
+
+Cut Costs by Taking the Complexity out of IT Storage Infrastructure 
+
+Heterogeneous networks that mix Unix and Windows computers typically require NFS-based file servers for Unix users and SMB-based file servers for Windows users. The inability to interoperate between SMB/CIFS and NFS results in a complicated network of difficult-to-manage storage systems. 
+
+Likewise Storage Services lets you package both the NFS access protocol for Unix and the CIFS access protocol for Windows into a single file server accessible by both Windows and Unix users. Enabling your customers to consolidate their file servers reduces the complexity of their storage infrastructure, management overhead, and cost. 
+
+
+-----------------------
+Ease Admin Burdens by Simplifying Access 
+
+Likewise Storage Services offers a single point of access for both SMB/CIFS and NFS devices to improve interoperability and streamline data access. Extending your storage product line to include a CIFS-NFS multiprotocol file server simplifies storage access for your customers and relieves their storage admin burdens. 
+
+
+ 
+------------------------
+Give the Power to the People
+
+Uniform protocol access empowers users to get at the data they need when they need it, regardless of whether their originating workstation is Windows, Unix, Mac, or Linux. By offering a file server or NAS system with ubiquitous data access, you can provide end users with seamless, secure access to both Unix and Windows files.
+
+
+------------------------
+
+Improve Security By Applying Uniform Policies 
+
+Likewise Storage Services not only delivers multiprotocol data access but also protects the data with <a href="/products/likewise_storage_services/cross-platform-storage-access-control.php">cross-platform storage access control</a> that authenticates and authorizes users with an identity management system such as Microsoft Active Directory. By embedding an access control system in your OEM storage product, you can furnish your customers with a means to apply uniform security policies to all their stored unstructured data. 
+
+------------------------
+
+Monitor, Audit, and Analyze Unstructured Data
+
+Want to take storage security a step further? The Likewise <a href="/products/likewise_data_analytics_governance_application/index.php">Data Analytics and Governance</a> application associates the identity of users with the files they store. You can add the application to your storage stack to enable your customers to monitor, audit, analyze, and govern their unstructured data. 
+
+
+=============================================
+Features
+* Multiprotocol data access with CIFS and NFS
+•	Microsoft server-side protocol support for SMB/CIFS 1.0, 2.0, and 2.1
+•	NFS v3 remote file protocol support
+•	Cloud enabled with available REST API based on SNIA CDMI 1.0.1 specifications
+•	Support pending for SMB 2.2, NFS 4.1, and NFS 4.1 with pNFS
+* Built-in access control for both Windows and Unix users
+
+
+
+
+

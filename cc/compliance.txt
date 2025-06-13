@@ -1,0 +1,73 @@
+﻿Suggested URL for this high-level landing page: 
+http://www.likewise.com/solutions/compliance/index.php
+============================
+METADATA
+
+Title: Data Storage Compliance for HIPAA, PCI, SOX, and FISMA
+
+Description: Likewise Data Analytics and Governance delivers compliance solutions for unstructured data stored on file servers and NAS systems. 
+
+Keywords: data storage compliance, regulatory compliance, HIPAA, Sarbanes-Oxley, SOX, PCI DSS, FISMA, information security, compliance monitoring, compliance auditing, unstructured data, network attached storage
+
+
+============================
+H1: 
+Data Storage Compliance for HIPAA, PCI, SOX, and FISMA
+
+Subtitle:
+Protect, Monitor, and Audit Unstructured Data for Regulatory Compliance
+
+Likewise Data Analytics and Governance delivers compliance solutions for unstructured data stored on file servers and NAS systems. The Likewise application includes a dashboard with identity-based monitoring and compliance reports.
+
+*Comply with HIPAA, SOX, FISMA, and PCI DSS.
+
+*Mitigate the risk of noncompliance, security breeches, fraud, and legal problems. 
+
+*Protect the confidentiality, integrity, and availability of unstructured data. 
+
+*Cut the costs of compliance, storage, information life cycle management, and security.  
+
+============================
+----------------------------
+HIPAA and HITECH Compliance for Health Care
+The Health Insurance Portability and Accountability Act and the Health Information Technology for Economic and Clinical Health Act establish rules and regulations for the health care industry. To help health care organizations comply with HIPAA and HITECH, Likewise provides software that secures, monitors, and audits heath information stored on file servers and NAS systems to guarantee the data's confidentiality, integrity, and availability.
+
+>See the Likewise solutions for <a href="hipaa.php">HIPAA and HITECH Compliance</a>.    
+
+
+----------------------------
+PCI DSS Compliance
+The Payment Card Industry Data Security Standard is a set of requirements for businesses that process payment card information. Developed by Visa, American Express, and other members of the PCI Security Standards Council, the standard sets forth policies, procedures, and practices to protect customer account data. Likewise helps you comply with the standard's requirements for controlling access to customer data, authenticating business users, monitoring access, maintaining a secure storage network, and auditing system resources. 
+
+>See the Likewise solutions for <a href="pci-dss.php">PCI DSS Compliance</a>.    
+
+----------------------------
+SOX Compliance
+Risk is the underlying factor that drives Sarbanes-Oxley compliance efforts. It is the potential that a threat, whether internal or external, will exploit the vulnerabilities of an asset to cause loss or damage to the asset. Likewise can help you implement internal controls to reduce risk -- establishing a strong foundation for SOX compliance.
+
+>See the Likewise solutions for <a href="sox.php">Sarbanes-Oxley Compliance</a>.    
+
+
+----------------------------
+FISMA Compliance
+The Federal Information Security Management Act of 2002 requires federal agencies to implement cost-effective information security policies that address the confidentiality, integrity, and availability of stored unstructured information. Likewise can help establish controls for storage systems and then continuously monitor and report on those controls.
+
+>See the Likewise solutions for <a href="fisma.php">FISMA Compliance</a>.    
+
+
+
+===================================
+Features
+*Compliance reports for HIPAA, PCI DSS, FISMA, and SOX
+*Access reports
+*File modification reports
+*Templates for custom reports
+*Historical reports for auditing and forensics
+*Dashboard with custom views
+*Alerts for policy violations
+*User rights monitoring
+*Exception monitoring
+*File activity monitoring
+*NoSQL database for super-fast performance and advanced analytics
+*Event aggregation from various sources, including NetApp and EMC NAS systems
+

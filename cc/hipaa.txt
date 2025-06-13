@@ -1,0 +1,80 @@
+﻿Suggested URL for this hipaa landing page: 
+http://www.likewise.com/solutions/compliance/hipaa.php
+
+Pls link to this page from 
+http://www.likewise.com/solutions/compliance/index.php
+
+
+============================
+METADATA
+
+Title: HIPAA and HITECH Compliance for Health Care
+
+Description: Likewise Data Analytics and Governance delivers HIPAA compliance solutions for protected health information stored on file servers and NAS systems. 
+
+Keywords: data storage compliance, regulatory compliance, HIPAA, HITECH, information security, access control, compliance monitoring, compliance auditing, unstructured data, NAS, file server
+
+
+============================
+H1: 
+HIPAA and HITECH Compliance for Health Care
+
+Subtitle:
+Managing Storage Systems and Unstructured Health Information for Regulatory Compliance
+
+The Health Insurance Portability and Accountability Act and the Health Information Technology for Economic and Clinical Health Act establish rules and regulations for the health care industry. Likewise delivers software solutions that help the health care industry comply with HIPAA, HITECH, and other regulations. The software secures, monitors, and audits protected heath information stored on file servers and NAS systems to guarantee the data's confidentiality, integrity, and availability. 
+
+*Comply with HIPAA, HITECH, and other health care regulations.
+
+*Mitigate the risk of noncompliance, security breeches, and privacy violations. 
+
+*Protect the confidentiality, integrity, and availability of unstructured health care information.
+
+*Reduce the costs of compliance, storage, information life cycle management, and security.  
+
+============================
+----------------------------
+Regulatory Compliance Solutions for Health Care
+
+Likewise Storage Services provides access control that authenticates users and authorizes access to unstructured data stored on file servers and NAS systems. 
+
+<a href="/products/likewise_data_analytics_governance_application/index.php">Likewise Data Analytics and Governance</a> includes a dashboard with identity-based monitoring and compliance reports. 
+
+For information about the Likewise solutions for protecting health care information, see the following resources: 
+
+<!-- pls add link to the auditing white paper; we'll add more links and content to this later after, but I want to get us going without too many dependencies -->
+
+*<a href="/resources/whitepapers/securing-unstructured-data.pdf">White paper: Securing Unstructured Data</a>: Protecting Sensitive Files by Uniting Identity, Security, and Storage
+
+*<a href="">White paper: Auditing Unstructured Data</a>: Identity-Aware Storage, File Activity Monitoring, and Compliance Reporting Across Platforms
+
+*<a href="/products/likewise_storage_services/cross-platform-storage-access-control.php">Storage Access Control</a>: Securing Access to Files Servers Holding Protected Health Information
+
+*<a href="/products/likewise_data_analytics_governance_application/file-activity-monitoring.php">File Activity Monitoring</a>: Tracking Unstructured Data for Security and HIPAA Compliance
+
+*<a href="/products/likewise_data_analytics_governance_application/exception-monitoring.php">Exception Monitoring and Reporting</a>: Identity-Aware Exception Monitoring for Security and HIPAA Compliance
+
+
+
+<!-- TK TK TK::
++Hipaa Fact sheet tk
++White paper on hipaa tk
++Exception reporting tk when I can get screenshots of reports
+-->
+
+
+===================================
+Features
+*Compliance reports for HIPAA, PCI DSS, and other regulations
+*Access reports for electronic protected health information
+*File modification reports
+*Templates for custom reports
+*Historical reports for auditing and forensics
+*Dashboard with custom views
+*Alerts for policy violations
+*User rights monitoring
+*Exception monitoring
+*File activity monitoring
+*NoSQL database for high performance and advanced analytics
+*Event aggregation from various sources, including NetApp and EMC NAS systems
+

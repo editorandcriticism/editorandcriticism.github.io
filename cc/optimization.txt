@@ -1,0 +1,73 @@
+Suggested URL for this page: 
+  http://www.likewise.com/solutions/storage-management/optimization.php 
+
+============================
+METADATA
+
+Title: 
+Storage Optimization
+
+Description: 
+By managing unstructured data, Likewise Data Analytics and Governance helps you optimize your files servers and NAS systems.
+
+Keywords: 
+storage management, data storage optimization, NAS optimization, unstructured data, network attached storage, NAS, storage NAS, file server, IT storage management, file server optimization, manage unstructured data
+
+============================
+H1: 
+Storage Optimization
+
+
+Subtitle:
+
+Tune Your Management Strategy for Unstructured Data
+
+
+The explosion of unstructured data in the face of shrinking IT budgets demands efficient storage management. Virtualization, deduplication, tiering, charge-back models, and service-level agreements are all essential, but to truly excel you need to manage your unstructured data in the context of its life cycle and your business strategy. 
+
+To align your storage operations with your business needs, Likewise Data Analytics and Governance manages unstructured data on file servers and NAS systems. The application can help optimize your storage network and exploit data for maximum yield: 
+
+*Centralize and standardize storage operations. 
+
+*Improve availability and integrity by storing data in the right tiers during critical stages of the information's life cycle. 
+
+*Analyze metadata to gain enterprise-wide visibility and situational awareness into access and usage patterns. 
+
+*Automatically compile metrics about unstructured data and storage systems. 
+
+*Implement effective models for provisioning, virtualization, capacity planning, tiering, backup, archiving, and charge backs. 
+
+--------------------------------
+<!-- h3s -->
+
+Big Data about Unstructured Data
+
+The key to optimizing your storage operations is to have full visibility into the access and usage patterns of your users and applications -- a nexus of information that's also critical to aligning your storage policies with your business strategy.  
+
+The problem, however, is getting information about patterns of data access and usage so you can make reliable decisions about where data stands in relation to its life cycle and your business needs -- as well as what future trends will be. 
+
+To provide you with information to make sound decisions, Likewise aggregates metadata about unstructured data: It tracks the data's age, owners, access, usage, and changes over time.
+
+The result: insightful analytics that help allocate storage resources, maximize data accessibility, cut costs, and improve <a href="/solutions/storage-management/utilization.php">utilization</a>.
+
+--------------------------------
+Why Likewise
+
+The Likewise solution is unique in two ways. First, it cost-effectively <a href="/solutions/storage-management/monitor-file-server.php">monitors</a> unstructured data across heterogeneous systems with a single, centralized application that displays metrics in a browser-based dashboard.  
+
+Second, and more importantly, the tremendous amount of data from continuous monitoring requires a solution that can scale. Likewise’s commercially hardened SQL and NoSQL infrastructure with polyglot persistence can scale beyond a departmental deployment to support storage arrays with hundreds of millions of files and high workloads. 
+
+================================
+Features
+
+*Storage monitoring of data, users, owners, access rights, applications, and protocols
+*Dashboard with customizable graphs, charts, and tables
+*Predefined reports and templates for custom reports
+*Historical data for trend analysis and capacity planning
+*Alerts for utilization issues
+*Support for heterogeneous environments
+*NoSQL database for high performance and advanced analytics
+*Event aggregation from various sources, including NetApp, EMC NAS devices, and HP file servers
+
+================================
+

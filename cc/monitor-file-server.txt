@@ -1,0 +1,121 @@
+===========================
+Suggested URL for this page: 
+  http://www.likewise.com/solutions/storage-management/monitor-file-server.php 
+
+
+
+============================
+METADATA
+
+Title: 
+
+Monitoring File Servers
+
+Description: 
+
+To help manage unstructured data, Likewise Data Analytics and Governance monitors file servers and NAS systems. 
+
+Keywords: 
+
+monitor file server, storage management, NAS monitoring, unstructured data, network attached storage monitoring, storage NAS, file server, IT storage management, Data Access Audit Events
+
+============================
+H1: 
+Monitoring File Servers
+
+Subhead: 
+How Likewise Manages Unstructured Data
+
+This page describes how Likewise monitors the metadata of unstructured data to solve such storage problems as information lifecycle management and tiering.
+
+Likewise makes an application, Likewise Data Analytics and Governance, that monitors the events and metadata associated with unstructured data on file servers and network attached storage. When an event, such as a user modifying a file, occurs on a file server, the application collects the event's metadata. In general, the metadata includes the following types of information:
+
+*The type of event that occurred and when it took place.
+
+*The identity of the user involved with the event.
+
+*The name and IP addresses of the computer from which the user connected to the file server.
+
+*The IP address of the file server and the location and file name of the resource the user accessed.
+
+---------------
+<!-- all h3s from here down -->
+
+Types of Events
+
+In the context of unstructured data stored on file servers and NAS systems, events are generally of three types: 
+
+1. Authentication requests and access attempts. 
+2. Attempts to view, modify, add, or delete directories and files. 
+3. Attempts to modify the security descriptors of directories and files.
+
+Authentication requests and access attempts show attempts to log on to a file server and access a specific resource. The events, which include the user's identity, are collected from the interaction of the file server with its directory service and access control system.
+
+The second type of events -- known as data access audit events -- track the success or failure of attempts to read, write, create, delete, rename, and close directories or files. Likewise ties data access audit events to the identity of users without impairing the system's performance.
+
+The third type of events involve the permissions set on files and directories -- that is, security descriptors. Likewise tracks attempts to change them. 
+
+For each type of event, Likewise collects additional metadata, including the date, time, source, location, and outcome of every event as well as metadata about files, such as the dates of creation and last modification. Likewise can collect events from NetApp, HP file servers, EMC NAS devices, and other storage systems. 
+
+---------------
+
+Aggregating and Storing Events for Analysis
+
+Likewise aggregates these events into a NoSQL database, providing a high-performance yet flexible model for analyzing unstructured data. The NoSQL database adds a unique high-performance layer: It digests events with write speeds faster than SQL databases and, more importantly, can easily scale horizontally to handle millions of events. 
+
+----------------------------
+Dashboard and Reports
+
+After being stored in the NoSQL database, the events provide the data to populate the Likewise dashboard, a browser-based interactive interface that displays charts, graphs, and tabular information about unstructured data. The dashboard includes an interface through which you can generate reports, both predefined and custom, by selecting types and ranges of data.
+
+Given the large amount of metadata that Likewise collects, the dashboard can identify storage trends and storage growth curves. As a result, you can implement the following best practices for data storage: 
+
+1. Automatically compile metrics about unstructured data and storage systems. 
+2. Use the metrics to develop a strategy to optimize storage systems and to harness unstructured data.  
+3. Track the strategy's implementation and execution.
+
+----------------------------
+
+Example Use Case: Cut Costs with the Universal Data Lifecycle
+
+Take the notion, for instance, of the <a href="http://www.enterprisestrategygroup.com/2008/06/a-methodology-for-driving-total-it-efficiency-the-universal-data-lifecycle/">universal data lifecycle</a>, a methodology for improving IT efficiency developed by the Enterprise Strategy Group. The group sums it up like this: 
+
+<!-- literal quote: -->
+"Removing the complexity of data categorization and lifecycle mapping by breaking any type of data down to where it lives on one of only 4 simplistic lifecycle stages will allow IT professionals to radically improve their overall effectiveness as well as the effectiveness of their entire IT operation."
+
+The universal data lifecycle's stages are as follows: 
+
+Stage 1: Dynamic Active Online Data
+Stage 2: Persistent Active Online Data
+Stage 3: Persistent Inactive Online/Nearline Data
+Stage 4: Persistent Inactive Offline/Deep Archive Data
+
+By changing the way you store the data according to its stage in the lifecycle, you can cut storage costs. If, for example, you can identify that a mass of files is no longer being accessed frequently enough to warrant stage 2 storage, you can move it to a cheaper tier. 
+
+The problem, though, isn't formulating a policy for information lifecycle management. The problem is getting information about the data so you can make decisions, reliably and effectively, about where large swaths of data stand in relation to a lifecycle.
+
+------------------------------
+Business Value of the Likewise Solution
+
+Likewise answers these questions by tracking the age, access, and usage patterns of data. The information gives you the insight to make money-saving decisions. The business value is far-reaching: 
+
+*Improve the utilization of file servers to cut storage costs.
+*Optimize your storage network and reclaim unused storage.
+*Perform better capacity planning to cost-effectively manage storage growth.
+*Implement effective tiering and charge-back models.
+*Comply with regulations such as PCI DSS, HIPAA, and FISMA.
+*Better align storage operations with business needs.
+
+
+===================================
+Features
+*Dashboard with custom views 
+*Alerts for performance and utilization issues
+*Reports on access to unstructured data 
+*Utilization monitoring of data, users, applications, and protocols
+*Historical reports for trend analysis and capacity planning
+*NoSQL database for high performance and advanced analytics
+*Event aggregation from various sources, including NetApp, EMC NAS devices, and HP file servers
+
+===================================
+

@@ -1,0 +1,138 @@
+﻿TITLE: 
+Monitoring File Server Events for Security and Compliance
+=============================
+KEYWORDS: 
+file server logging,
+data security, 
+event log, 
+Unix event logging,
+event log monitoring,
+Linux event monitoring
+
+=============================
+
+
+DESC: To help with regulatory compliance, the Likewise reporting and auditing system records and categorizes security and networking events, including directory and file access events. 
+
+
+=============================
+DUBLIN CORE METADATA: 
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+	<meta name="DC.title" content="Monitoring File Server Events for Security and Compliance">
+	<meta name="DC.description" content="To help with regulatory compliance, the Likewise event log records and categorizes security and networking events, including directory and file access events.">
+	<meta name="DC.subject" content="file server logging,
+data security, 
+event log, 
+Unix event logging,
+event log monitoring,
+Linux event monitoring">
+	<meta name="DC.language" scheme="ISO639-1" content="en">
+	
+	
+
+=============================
+
+1ST HEADING: 
+Monitoring File Server Events for Security and Compliance
+
+SUBTITLE: Likewise Auditing and Reporting System Tracks File Access
+
+
+The Likewise auditing and reporting system records and categorizes a variety of security and networking events, including attempts to access and modify unstructured data on a file server. Monitoring events such as attempts to access files  can help protect important resources and prevent unauthorized access to sensitive information. 
+
+According to Forrester Research, unstructured data, which is growing faster than all other types of data, will increase by 800 percent during the next five years. By monitoring unstructured data, security managers find help in their  quest for regulatory compliance with Sarbanes-Oxley, the Payment Card Industry Data Security Standard, and other industry security standards.
+
+The Likewise reporting and auditing system provides the following features for file servers:
+
+<!-- BULLETED LIST:: -->
+*Monitors access to and use of file servers to improve network and data security 
+
+*Tracks and records security events 
+
+*Lists and archives attempts to access, modify, or delete directories and files 
+
+*Captures failed logon attempts and other authentication and access control events
+
+*Generates a range of reports, both custom and prepackaged, to help demonstrate regulatory compliance
+
+
+
+================================
+Cross-Platform Event Log Management for File Servers
+
+
+<!-- PLS ADD 1 IMAGE OF CONSOLE HERE THAT WE GOT FROM HAL --> 
+<img src="SOMEIMAGENAME.jpg">
+
+
+The Likewise console includes a management
+application to generate reports from the collection of events. The application stores authentication, access control, file access,  and other security events in a database and uses the database to display events from file servers, whether SMB or NFS, in a common, unified graphical format to detect and troubleshoot security problems with ease.
+
+
+================================
+Monitoring Events of the POSIX Virtual File System
+
+
+The Likewise system tracks events about driver states, directories, and files. Monitoring events such as object-access failures can help protect sensitive resources and prevent unauthorized access to directories and files.
+
+The Likewise PVFS driver captures actions and intent. Intent is logged by using per-object system access control lists (SACL). The SACL is stored as a part of the object’s security descriptor and is evaluated as part of the security processing of <code>IoCreateFile()</code>. 
+
+Actions are logged when the following events occur: 
+
+<!--  BULLETED LIST:: -->
+A new object is created.
+
+An object transitions to a delete-pending state.
+
+An object that has been modified is closed.
+
+An object whose contents have been accessed is closed.
+
+An object is successfully renamed.
+
+The security descriptor associated with an object is modified.
+
+<!-- END LIST:: -->
+
+For a listing of the IDs, record formats, and descriptions of object events, see <A HREF="http://www.likewise.com/docs/rad/a-fs-pvfs-audit-events.pdf">PVFS Driver Events</A>. Common authentication, authorization, and other network events are listed in the chapter on <A HREF="http://www.likewise.com/docs/rad/likewise-guide.html#MonitorEvents">monitoring events</A> with the event log.
+
+
+
+
+
+================================
+Capturing  Authentication and Authorization Events
+
+The event log is a component of Likewise that captures information about authentication transactions, authorization requests, network events, and other security events. 
+
+In general, the event log captures the following types of events: 
+ 
+ <!--  BULLETED LIST:: -->
+
+*Daemon initializations 
+
+*Successful logins 
+
+*Failed login attempts
+
+*File server connectivity events 
+
+Likewise includes methods by which you can specify which user and group accounts have read or write access permissions to the event log. The typical methods for setting permissions are local registry settings. 
+
+In addition, you can filter events in the event log and you can decide which event categories to log. For example, on file servers whose network status might be influx, you can turn off network event logging so that the event log is not flooded with network connectivity events. 
+
+================================
+Storage and Reporting of Events
+
+The event log subsystem also provides facilities for storing, archiving, and categorizing events. Once stored, there is a Likewise graphical user interface for generating reports -- including reports specifically geared toward demonstrating regulatory compliance. 
+
+The result is a complete file server monitoring package that can be <A HREF="http://www.likewise.com/solutions/oem-storage-services/oem-cifs-smb-in-nas.php">embedded in your NAS system</A> or other IT product.   
+
+
+
+
+
+
+
+

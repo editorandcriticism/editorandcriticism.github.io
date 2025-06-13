@@ -1,0 +1,542 @@
+﻿Title: 
+A Technological Solution to Problems in Governing Unstructured Data
+
+Subtitle:
+Integrating Multi-Protocol Storage, Cross-Platform Access Control, and a NoSQL Database for Data Governance and Compliance
+
+Byline:
+By Steve Hoenisch,
+Likewise Software
+
+max is 4000 WORDS: FOCUS EVERY ASPECT OF THIS ON TECHNICAL ANGLE in solving people-process problem and keep it short. 
+
+#EXECUTIVE SUMMARY
+This white paper proposes a storage architecture to solve a lingering problem in data governance: controlling sensitive unstructured data. The paper argues that a multi-protocol file server integrated with cross-platform access control establishes a secure framework to consolidate, protect, and audit unstructured data, reducing the need to develop complex interdepartmental processes that can take years to put in place.
+
+To measure effectiveness, the architecture includes a high-performance activity monitoring system to track unstructured content in a security-aware context of user identities, access patterns, and file events. An integrated application for managing sensitive folders and files empowers users to govern unstructured data. 
+
+In addition, the storage technology integrates big data analytics with file server technology to heighten the strategic importance of IT: Tasks such as discovery, classification, and data governance become easier. Such services can increase competitive advantage and revenue while reducing costs and mitigating risks. 
+
+But the real value of the architecture is that it enables you to get around several long-standing barriers to enterprise data governance: autonomous departments, lack of consensus, and complex processes. Using technology to bypass these barriers can ameliorate the need to change your organization's behavior and processes while empowering the data governance program to fulfill its promise of managing risk, guaranteeing data integrity, and creating value.
+
+================================
+INTRODUCTION
+Unstructured data is growing faster than all other types of data and will increase by 800 percent during the next five years. Analysts are referring to it as the big-data explosion.
+
+But big data brings new challenges. Because 40 percent of it typically contains sensitive information, compliance regulations or internal policies mandate security. At the same time, workers depend on easy, rapid access to do their job. Security, then, must be balanced with availability. Easier said then done: Data silos, access barriers, different protocols, security gaps, and a lack of control stand firmly in the way, increasing risks and costs.
+
+"Most respondents report they either do not have or are not
+aware of governance procedures in place for unstructured data,
+suggesting that much of this kind of data is haphazardly being
+distributed and managed across enterprises."--By Joseph McKendrick, Research Analyst, Produced by Unisphere Research, A Division of Information Today, Inc, June 2011
+
+
+
+
+
+
+
+================================
+#OUTCOMES: WHY GOVERN UNSTRUCTURED DATA?
+Organizations undertake initiatives to govern unstructured data for reasons that vary by organization, company or institution, industry, and objective. Some common reasons or targeted outcomes are as follows, many of which tend to be interrelated:
+
+<!-- bulleted list in this section with first word and trailing period set in bold for emph -->
+
+*<b>Compliance.</b> Develop a data control framework to help demonstrate compliance with regulations, legal requirements, industry standards, and internal security policies.
+
+*Security and confidentiality. Protect stored secrets, intellectual property, private and confidential data, and other information assets. 
+
+*Risk mitigation. Mitigate risk of security breeches, data loss or exposure, fraud, noncompliance, and costly legal problems. 
+
+*Access and availability. Provide rapid access to intellectual property and business-enabling data to drive business objectives and to foster innovation, revenue, and the creation of value.
+
+*Quality and integrity. Ensure that important data is trustworthy, accurate, and up to date to support transactions, decision making, research, and other business functions. 
+
+*Cost reduction. All the elements in this list play a role in reducing costs in a variety of ways, from avoiding duplication of data or documents to keeping down the costs of storing and managing data. Decisions based on accurate information can radically reduce cost.
+
+*Innovation, value creation, profit. All the outcomes in this list, of course, point to the bottomline of businesses: increasing revenue.
+
+
+<!-- SECTION HEAD -->
+#INHIBITORS: BARRIERS TO GOVERNING UNSTRUCTURED DATA
+Although the outcomes that a data governance program is intended to bring about are, at least at a high level, straightforward enough, achieving those outcomes in large organizations and complex enterprises is another thing altogether. Here are some common inhibitors to developing a data goverance program for unstructured data. Most of them fall into one or more of three groups: cross-enterprise complexity, complex organizations, and complex data. Most of the inhibitors translate into a requirement -- requirements that I'll return to later to identify the extent to which they can be solved by the right technical architecture for unstructured data. SEE UW PIECE!
+
+<!-- SECTION SUBHEAD -->
+COMPLEX ORGANIZATIONS
+*<b>Lack of awareness and sponsorship.</b> Administrators and users are frequently unaware of regulatory requirements for sensitive data as well as the importance of data quality to  decision makers. Without automated systems to force adherence and to monitor for lapses, users may inadvertently subvert  data goverance requirements. <b>Requirement:</b> Advocate for the importance data integrity and security; empower employees to take ownership of data goverance tasks with automated tools.
+
+<b>*Lack of ownership.</b> A lack of awareness and sponsorship can result either in a lack of data stewards or in stewards who are not empowered to adequately manage data. "Best-in-class organizations are 2.2-times more likely than laggards to assign responsibility to <i>someone</i>," the Aberdeen Group says in an industry survey on securing unstructured data. The fallout from the mantra that data quality is everyone's responsibility is that the task goes unassigned. <b>Requirement:</b> Assign the task of governing important unstructured data to one or more managers and give them technology that makes it easy for them to govern data.
+
+<b>*Lack of consensus.</b> Interdepartmental disagreements about how to process and store common data can undermine an enterprise-wide data goverance program. <b>Requirement:</b> Explore the prospect of using technology to skirt the need for interdepartmental consensus. 
+
+<b>*Independent departments.</b> Departments empowered to act autonomously for business reasons can result in inconsistences in shared data as well as in data silos segmented by protocol: The engineering department stores unstructured data on NFS-based Unix file servers, while the research department uses CIFS-based Windows file servers. Data silos inherently hinder data governance because it is hard to apply universal controls across protocol boundaries. <b>Requirement:</b> Deploy multi-protocol file servers or NAS systems to eliminate data silos and foster universal controls.
+
+<!-- SECTION SUBHEAD -->
+COMPLEX DATA
+<b>*Application data is increasingly going to file servers.</b> Application workloads are migrating to filers because it is easier to provision file-based storage than block-based storage. The application data further heightens the need for exception-based methods of monitoring and auditing. <b>Requirement:</b> Exception-based management of unstructured data and application data stored on file servers. 
+
+<b>*Incompatible or conflicting security descriptors.</b> The security policies that are defined in security descriptors for files and directories are inconsistent across Windows and Unix systems. A Windows computer uses ACL; a Unix or Linux computer uses POSIX. Inconsistent security descriptors can limit access to files stored across different storage platforms. It can also result in file security being changed or removed, which can undermine the objective of mitigating risk and complying with regulations.  
+
+<b>*Unrealistic scoping and different notions of what data is important.</b> When the scope of your data goverance program is too wide, the program can bog down in managing data that is not sensitive or not critical to your operations or objectives. Unrealistic scoping gets in the way of discovering and classifying important data. Meantime, different data owners might have different notions of what data is important, compounding the scoping problem. <b>Requirement:</b> A mechanism for marking data as important or sensitive and a method for tracking it in storage.
+
+<b>*Data without metadata.</b> Unstructured data either contains no metadata or only limited, application-specific metadata, a void that makes it harder to discover sensitive information and classify it for protection.
+
+<!-- SECTION SUBHEAD -->
+CROSS-ENTERPRISE COMPLEXITY AND COMPLEX TECHNOLOGY
+<b>*Silos of unstructured data.</b> Because of distributed environments, virtualization, disparate operating systems, and different protocols, unstructured data ends up in file servers segmented by protocol: Unix data goes to NFS-based storage devices, while Windows data goes to CIFS-based storage devices. For data governance, data silos are a major structural inhibitor with a pervasive, cascading effect: They hinder cost-saving storage consolidation, centralized monitoring, and universal governance. Data silos, in effect, can obstruct the development of a common framework to govern data. More importantly, data silos pose a barrier to the second major structural inhibitor: a common security model and uniform access control polices. <b>Requirement:</b> Consolidate data silos to a multi-protocol file server.
+
+<b>*Inconsistent security policies.</b> A hetergenous network not only creates data silos, but also renders cross-platform access control difficult. In an enterprise, there are typically multiple identity management and access control systems, such as NIS or LDAP for Unix file servers and Microsoft Active Directory for Windows file servers. Multiple identity management and access control systems are a major barrier to ensuring quality, integrity, availability, confidentiality, and compliance while mitigating risk. <b>Requirement:</b> Implement a cross-platform identity management and access control system that can impose consistent security policies. 
+
+<b>*Information lifecycle management.</b> In a mixed network, the problems associated with disparate access control systems and different storage protocols combine to sabatage information life cycle management (ILM) and records management. Cross-platform complexity inhibits the tasks of identifying, collecting, classifying, and controling sensitive information. 
+
+<b>*Monitoring and auditing problems.</b>  Monitoring the effectiveness of your data governance program is another obstacle that stems from data silos. Compliance auditing falls victim to the same limitations: Monitoring and auditing technologies such as sniffers, agents, and shims can degrade the performance of your network and storage system. They also don't scale to manage the flow of data and metadata that is required for generating near-real-time contextual awareness of unstructured data. 
+
+More importantly, however, monitoring technologies like SIEM tools are not closely tied to the identity management system -- blocking standardized audits that link users to identities and organizational roles.
+
+<b>*Lack of comprehensive reports with visibility across silos.</b> Storage silos and mulitple access protocols impede enterprise-wide reports that aggregate data for compliance. Because there are different identity management systems for different silos, the reports cannot associate user accounts with their identities in the organizations, leaving you unable to demonstrate compliance with some regulations. 
+
+<b>*Hetergenous storage systems undercut best practices.</b> There are commonly referenced best practices and guideliness to manage risks, which vary by industry but can include COBIT and ISO/IEC 38500.
+
+The complexity, heterogeneity, and duplication of storage platforms and access control systems raises IT costs and impedes data goverance. There is, however, a technical architecture that can bridge these cross-platform problems so you can build a successful data governance program, bypassing the barriers associated with complex organizations and complex data.
+
+The next section proposes an architecture. The subsequent section evaluates how the technology solves the problems and supports the use cases laid out at the beginning of the paper.
+
+==============================
+#ARCHITECTURE AND FEATURES
+The following components provide the architecture for a file server that supports data governance of unstructured data across storage protocols: 
+
+<!-- bulleted list -->
+*A multi-protocol, cross-platform file server or NAS system that supports CIFS and NFS to accept connections from both Windows and Unix computers.
+*An integrated identity management system that can control access with Active Directory, NIS, or LDAP. 
+*An integrated application for marking and tracking sensitive folders and files. 
+*A secure event monitoring subsystem with collectors and forwarders that record, manage, and transmit file activity events.
+*A NoSQL database for data aggregation, event processing, and advanced analytics.
+*A SQL data store for reports.
+*An auditing and reporting console. 
+*An events dashboard. 
+
+<!-- pu diagram of our architecture -->
+
+===================================
+<!-- NEW MAIN SECTION  -->
+HOW THE ARCHITECTURE AND TECHNOLOGY ENABLE DATA GOVERANCE
+This section explains how the architecture set forth above solves the problems and fulfills the technical and feature requirements of a data governance program for unstructured data. 
+
+<!-- SECTION SUBHEAD:: -->
+MULTI-PROTOCOL FILE SERVER ACCESSIBLE BY WINDOWS AND UNIX
+At the foundation is a file server that is multi-protocol and cross-platform: It supports both the SMB/CIFS and the NFS protocols, making it usable simultaneously by Windows and Unix or Linux clients. A cross-platform, multi-protocol file server solves the interoperability problem that separates the data of Unix users from the data of Windows users, providing a consolidated approach to storage for users of all types of computers.  
+
+Cross-platform incompatibilities have also been a hindrance to applying a uniform set of security policies. In the past, just as there have been different, incompatible storage systems for Unix and Windows users, there have also been different, incompatible identity management systems for Unix and Windows users. Unix clients have tended to use NIS or LDAP, while the de facto standard for Windows clients is Microsoft Active Directory. 
+
+<!-- SECTION SUBHEAD:: -->
+SECURE CROSS-PLATFORM ACCESS CONTROL
+In this architectural schematic, therefore, the file server includes an integrated identity management service to authenticate users with Active Directory, NIS, or LDAP -- a component that, when combined with the multi-protocol file server, lays the architectural foundation for solving many of the problems in monitoring unstructured data.
+
+The overall result is twofold. First, it frees your users from the bounds of platform-specific storage, empowering you to monitor all the stored data from a single system. Second, it secures the unstructured data by applying a common security model to it, enabling the monitoring system to associate data access with user identities and roles.
+
+The integrated identity service also lets you control access to sensitive unstructured data and, as described below, monitor those controls for compliance.
+
+<!-- SECTION SUBHEAD:: -->
+COLLECT ACCESS DATA AND FILE EVENTS FOR ANALYTICS AND REPORTS
+The event collectors and forwarders form the event monitoring subsystem. On the file server, the event collectors record data about viewing, moving, copying, modifying, or deleting directories or files. The collectors also capture changes to security descriptors. 
+
+Over a secure connection, the event forwarders send the file events on to the NoSQL database, where they are stored in a highly flexible format. The NoSQL database allows the events to be manipulated for a variety of purposes, including big-data analytics, forecasting, and business intelligence. 
+
+<!-- SECTION SUBHEAD:: -->
+NOSQL DATABASE
+The NoSQL database adds a unique high-performance layer: It digests events with write speeds faster than SQL databases and, more importantly, can easily scale horizontally to handle more events. 
+
+Our commercially hardened SQL and NoSQL infrastructure with polyglot persistence is the only solution on the market today that can scale beyond a departmental deployment. Designed to support storage arrays with hundreds of millions of file objects and high workloads 
+
+In this way, the NoSQL database becomes the basis for a powerful, flexible analytics engine that can correlate content types, sensitivity levels, modification attempts, security descriptors, user entitlements, access patterns, and patterns in content. The analytics system can, for instance, use data about past access patterns and file events to hypothesize about future patterns. These inferences can identify files that might contain sensitive material and need to be flagged for inspection. 
+
+The NoSQL system, meanwhile, interfaces with a SQL Server database that segments frequently used data into columns and rows for reports and custom queries. The SQL Server also makes the data available to the dashboard for near real-time display of file events, especially exceptions, so that they can be acted on to deal with threats, breeches, and compliance violations. For extra security, the solution can easily be combined with interoperable storage encryption.
+
+===================================
+<!-- NEW MAIN SECTION  -->
+FEATURES
+The architecture outlined above exposes the following features and methods to track and monitor unstructured data.
+
+<!-- SECTION SUBHEADS below:: -->
+CLASSIFY AND TRACK SENSITIVE FILES TIED TO IDENTITIES AND OWNERS
+The application lets you mark sensitive files, associate them with the identities of their owners, and track changes by user. Records managers who are charged with managing confidential information in unstructured files, for example, can use the identity service to limit access to specific users and  map file changes to those users. 
+
+EMAIL ALERTS
+When monitoring detects certain defined security events or exceptions, alerts can prompt administrators to take action, such as sending an automated email to inform a user about a potential violation of policy.
+
+REPORTING CONSOLE
+Reporting can mitigate security threats, identify vulnerabilities, inspect access rights, show patterns of access and change, and double-check levels of protection -- all of which can help comply with regulations such as PCI, SOX, and HIPAA.
+
+DASHBOARD
+For internal and external threat monitoring, the dashboard displays, in near real-time, file events correlated with identities and permissions. The dashboard's exception-based management proactively monitors access to servers and changes to tracked files. The result: real-time situational awareness of what's happening to your sensitive unstructured data.
+
+
+
+<!-- SECTION SUBHEAD:: -->
+
+
+
+
+==============================
+FOLD THIS INTO SECTION ABOVE -- IT THE SAME THING 
+DISCUSSION: HOW ARCHITECTURE SOLVES MANY OF THE PROBLEMS
+laid out earlier and takes some onus off people, processes, policies, interorg communication, and departments; REFERENCE BOTH MODELS, PROBLEMS, AND USE CASES
+
+SIMPLIFIES MODEL
+SOLVES PROBLEMS
+ENABLES OUR USE CASES
+
+PLS REF EACH PROB SPECIFICIALLY THIS TIME; revisit each use case to show how solved
+
+KEEP IT SHORT!
+
+
+
+
+
+
+Likewise Data Analytics and Governance unites identity, security, and storage to overcome the challenges of managing unstructured data in a heterogeneous environment. Here's how:
+
+*Secures unstructured data with uniform policies
+
+*Analyzes access patterns, storage thresholds, and file change events
+
+*Governs data types, sensitivity levels, data owners, and entitlements
+
+*Audits patterns of access and usage to generate alerts and compliance reports
+
+The application balances easy access with access control while providing a powerful analytical framework to demonstrate compliance and reduce costs. 
+
+
+As a result, executives rest easy in the knowledge that unstructured data is both controlled for compliance and available for those who need it. IT managers, meanwhile, are empowered to track business-critical data, manage access controls to it, and create audit reports that prove compliance. 
+
+Taken together, Likewise Data Analytics and Governance let you consolidate user access across data silos, enforce consistent access policies, and manage entitlements from a single point. Benefits:
+
+*Mitigate risk
+*Get a hierarchical view of a global environment
+*Increase productivity through visibility
+*Identify root causes of security, performance, and access issues
+*Cut IT management costs
+
+
+------------------
+
+
+
+================================
+#CONCLUSION
+This white paper prescribes a storage architecture to solve a lingering problem in data governance: controlling sensitive unstructured data. The paper argues that a multi-protocol file server or NAS system governed by cross-platform access control  establishes a secure framework to consolidate, protect, and monitor unstructured data. The storage architecture helps transcend several long-standing barriers to enterprise data governance: autonomous departments, lack of consensus, and complex processes. 
+
+
+To measure the effectiveness of data governance processes and security policies, the architecture includes a high-performance file activity monitoring system to track unstructured content in a security-aware context of user identities, patterns of access, and file change events. An integrated application for marking sensitive folders and files empowers users to govern unstructured data.
+
+In addition, the storage technology integrates big data analytics with file server technology to provide services like security monitoring, classification, and data governance. Such services can increase competitive advantage and revenue while reducing costs and mitigating risks. 
+
+The result is that the storage architecture can overcome more problems in data governance while reducing costs, requiring less effort, and ameliorating the need to change your organization's behavior. 
+
+
+
+==============================
+KEYS AND NOTES AND CITATIONS ETC
+
+
+LEAPING INTO THE FUTURE WITH DATA GOVERNANCE
+
+===
+
+"This approach -- the most advanced of the four, and also the most complex and demanding -- involves comprehensive integration of not only database security, but also data security, withinthe domain of enterprise information management or governance. Security and risk managementare addressed as a component of an enterprise business initiative in a cyclical approach that addresses discovery and valuation; end-to-end documentation and business context awareness;automated end-to-end awareness and control; and continuous improvement, metrics, reporting,real-time enforcement and control. Gartner is seeing more adoption of this approach, which confirms our long-standing view that information security and risk management need to be better integrated into the business. This is not simply a matter of selecting or implementing a security product, but rather of building business processes around business needs and making the management of security and risk related to those processes and needs a business requirement."
+
+"This robust approach is beyond the capabilities of most enterprises today, and only one vendor,IBM (through the technology acquired via its 2009 acquisition of Guardium), offers technologycapable of supporting this approach by leveraging the other tools in its information managementpractice. (Other vendors are known to be investigating this approach.) It is important to recognizethat the data/information governance approach extends well beyond database/data security and,in fact, well beyond security and risk management. It enables improved data and processavailability, makes it possible to locate and aggregate data for analytics and reporting purposes,and allows real-time enforcement and control, as well as continuous process improvement. For allthese reasons, this approach holds the promise of significant business benefits and potential costsavings for those few enterprises that have reached the necessary stage of maturity.Enterprise Data SecurityThe next most-mature approach takes an enterprisewide view of all data ?? structured andunstructured ?? that exists in the core of the typical enterprise and addresses the protection ofthat data throughout its life, including identification, risk assessment, access controls and controlsenforcement across all data storage platforms. This approach is best characterized by offeringsfrom Imperva and Netezza. Imperva treats DAM as a component of a data protection and riskmanagement function. Netezza's Mantra offering provides support for structured and unstructured"
+
+
+Enterprise Data Security The next most-mature approach takes an enterprisewide view of all data -- structured and unstructured -- that exists in the core of the typical enterprise and addresses the protection of that data throughout its life, including identification, risk assessment, access controls and controls enforcement across all data storage platforms. 
+
+This approach is best characterized by offerings from Imperva and Netezza. Imperva treats DAM as a component of a data protection and risk management function. Netezza's Mantra offering provides support for structured and unstructured data and bundles DAM with an analytics engine and data-warehousing component as part of an enterprise data security program. Under this scenario, structured and unstructured data are located, categorized and classified, and access is monitored, not only in databases, but in the data center platform in the data center. This requires working closely with the business, performing classification and evaluation -- some of this can be done automatically -- and then building a complete data protection framework. One or more vendors may be adding capabilities for activity monitoring of unstructured data, to enable enterprises to understand what is happening with their Windows or Unix file shares, for example. Gartner believes this is an important potential development, and one that enterprises considering DAM solutions should follow closely, because a narrow focus on structured data is a long-standing weakness of DAM technology. Enterprises should also consider alternatives, such as security information and event management (SIEM) or some combination of SIEM, data loss prevention (DLP) and DAM offerings to support data security initiatives.
+
+
+
+==========
+
+
+
+==
+==================
+FROM LW-MS PRESS RELEASE::
+In computer networking, SMB operates as an application-layer network protocol mainly used to provide shared access to files and miscellaneous communications between nodes on a network. It also provides an authenticated inter-process communication mechanism.
+
+QUOTE FROM MS::"Safely, reliably and efficiently managing storage, while providing high performance and scale, is becoming increasingly important. SMB 2.2 will provide the protocol foundation for delivering these capabilities in Windows Server 8."
+
+"For many IT organizations, block storage has been the only option for provisioning Microsoft application workloads. Block storage is complex and costly to administer," said Ken Cheney, vice president of marketing and business development, Likewise. "With Windows Server 8, workloads running on Hyper-V, as well Microsoft applications such as IIS and SQL Server, will be able to take advantage of the SMB 2.2 protocol, which aims to provide significant performance, reliability and scalability improvements unattainable with prior versions of SMB. The new SMB 2.2 has the potential to reduce the complexity and costs associated with block storage by enabling both application and user workloads to access file-based storage using NAS devices."
+
+The Likewise platform, Likewise Storage Services, is available for licensing under commercial terms by OEM vendors interested in NAS-enabling their Linux- or Unix-based storage devices. It offers a consistent security model for file-based access and cross-platform, integrated storage across physical, virtual and cloud environments. The software provides integrated identity and access management, as well as both access to and control of a company’s intellectual assets, from Windows, Unix and Linux systems.
+
+Protocols supported by Likewise Storage Services include SMB/CIFS 1.0, 2.0, 2.1 and NFS 3.0. Consistent security policy, data management, audit and reporting are available across these protocols for security and data governance. Pending protocol support for Likewise Storage Services includes SMB 2.2, NFS 4.x / pNFS, HTTP/s, WebDAV, and a REST API. Likewise Storage Services supports multiple directory service providers including Active Directory, LDAP and NIS. The modular, API-driven architecture of Likewise Storage Services delivers reliable and scalable performance for a variety of workloads and allows for easy integration with most proprietary vendor file systems.
+
+About Likewise 
+
+Likewise makes an integrated software platform for identity, security and storage used by market-leading storage vendors including EMC and HP. Likewise enables organizations to provide both access to and control of their data across mixed network environments. More information is available at the company's website, www.likewise.com.
+===================
+
+
+
+A common inhibitor, says Forrester analyst Rob Karel in Data Governance: What Works And What Doesn’t, is unrealistic scoping. "Don’t assume that all data must be governed equally. It needn’t. Only the data supporting your most critical business processes and decisions require the highest level of governance." 
+
+
+
+===========================================
+EXAMPLES FROM MS GUIDE TO DATA GOV PART 1::
+According to DataLossDB, a nonprofit organization that tracks data breach incidents, more than 218 million records containing individuals’ personal data were compromised in 436 incidents in 2009.5
+ A study by the Ponemon Institute of organizations that suffered one or more data breach incidents in the United States in 20086 found that the average cost incurred by the organizations was US$6.6 million (not including long-term litigation costs and the resulting penalties). The study also found that these organizations lost an average 3.6% of its customer base as a result of the incident(s). For financial institutions, the average loss was 6%.
+ In January 2009, U.S.-based payment processor Heartland Payment Systems disclosed what is possibly the largest data breach on record. An identity theft ring stole an estimated 130 million credit and debit card records from the company’s databases.5 The CEO estimated that the company spent close to US$32 million in the first half of 2009 in IT and legal costs related to the breach.7 Heartland’s market value dropped by 75% in the two months following the announcement of the incident.
+
+========================
+NOTES QUOTES AND EXAMPLES FROM MS GUIDE TO DATA GOV PART 1::
+1 Organization for Economic Cooperation and Development, “OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data,” www.oecd.org/document/18/0,2340,en_2649_34255_1815186_1_1_1_1,00.html.
+
+2 American Institute of Certified Public Accountants (AICPA) and Canadian Institute of Chartered Accountants (CICA), “Generally Accepted Privacy Principles,” http://infotech.aicpa.org/Resources/Privacy/Generally+Accepted+Privacy+Principles.
+
+3 Lyman, P. et al., “How Much Information?” University of California, Berkeley, 2003. www2.sims.berkeley.edu/research/projects/how-much-info-2003.
+
+4 Note that the term “confidential data,” used throughout this document, encompasses personal data (under the European Commission definition), personally identifiable information (PII), intellectual property (IP), trade secrets, and all other types of information for which an organization might want to maintain confidentiality, integrity, and availability.
+
+5 DataLossDB, http://datalossdb.org/.
+6 Ponemon Institute, “Cost of a Data Breach,” Feb. 2009, http://www.encryptionreports.com.
+7 “Heartland CEO on Data Breach: QSAs Let Us Down,” CSO Magazine, October 2009.
+8 Joshua Gomez, Travis Pinnick, and Ashkan Soltani, "KnowPrivacy," June 1, 2009, www.knowprivacy.org/report/KnowPrivacy_Final_Report.pdf.
+
+EUDPD 95/46/EC: http://europa.eu/legislation_summaries/information_society/l14012_en.htm .
+22 ISO/IEC 27001/27002: www.27000.org.
+
+"Data stewards are responsible for ensuring effective control and use of data assets and exercising a series of functions assigned to them by the data governance organization. Additional details on the data steward’s role and responsibilities are provided in the second paper in this series." 
+
+"data steward A business leader or subject matter expert who is accountable for 1) the identification of operational and business intelligence data requirements within an assigned subject area, 2) the quality of data names, business definitions, and domain values within an assigned subject area, 3) compliance with regulatory requirements and conformance to internal data policies and data standards, 4) application of appropriate security controls, 5) analyzing and improving data quality, and 6) identifying and resolving data related issues.24" 
+24 The DAMA Dictionary of Data Management, 1st Edition, 2008.
+
+References
+“Benefits of Regulatory Requirements with Respect to Business Optimization,” Kranawetter, M., Microsoft Germany, 2009, www.microsoft.com/datagovernance.
+“Cost of a Data Breach,” Ponemon Institute, Feb 2009, www.encryptionreports.com.
+DAMA Dictionary of Data Management, 1st Edition, USA, 2008, www.dama.org/i4a/pages/index.cfm?pageid=3345.
+DAMA Guide to Data Management Body of Knowledge (DMBOK), 1st Edition, USA, 2009, www.dama.org/i4a/pages/index.cfm?pageid=3345.
+DataLossDB, http://datalossdb.org.
+European Union Data Protection Directive 95/46/EC, European Commission, 1995, http://europa.eu/legislation_summaries/information_society/l14012_en.htm
+Generally Accepted Privacy Principles, American Institute of Certified Public Accountants (AICPA) and Canadian Institute of Chartered Accountants (CICA), http://infotech.aicpa.org/Resources/Privacy/Generally+Accepted+Privacy+Principles.
+“Heartland CEO on Data Breach: QSAs Let Us Down,” CSO Magazine, October 2009.
+“How Much Information?,” Lyman, P. et al., University of California, Berkeley, 2003, www2.sims.berkeley.edu/research/projects/how-much-info-2003.
+“Information Accountability,” Weitzner, Abelson, Berners-Lee, Feigenbaum, Hendler, and Sussman, Massachusetts Institute of Technology CSAIL Technical Report, June 2007.
+IAPP Information Privacy Certification: Glossary of Common Privacy Terminology, International Association of Privacy Professionals (IAPP), 2006, https://www.privacyassociation.org/images/stories/pdfs/CIPP_Privacy_Glossary_0306.pdf
+ISO/IEC 27002 Standard Code of Practice for Information Security, www.27000.org.
+“IT GRC: Managing Risk, Improving Visibility, and Reducing Operating Costs,” Aberdeen Group, 2009, www.aberdeen.com.
+“KnowPrivacy,” Joshua Gomez, Travis Pinnick, and Ashkan Soltani, June 1, 2009, www.knowprivacy.org/report/KnowPrivacy_Final_Report.pdf.
+OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data, Organization for Economic Cooperation and Development, www.oecd.org/document/18/0,2340,en_2649_34255_1815186_1_1_1_1,00.html.
+Platform for Privacy Preferences (P3P), World Wide Web Consortium (W3C), 2007. www.w3.org/P3P.
+
+
+
+
+
+================================
+================================
+SIDEBAR: GAUGE YOUR LEVEL OF DATA GOVERNANCE 
+MATURITY FOR UNSTRUCTURED DATA IN MIXED NETWORKS
+================================
+10 short questions pulled out of discussion above. 
+
+
+MODIFY AND AUGMENT MODEL TO ADDRESS UNSTRUCTURED DATA IN MIXED NETWORKS:: 
+
+This section applies the IBM Data Governance Maturity Model to evaluate how the architecture and technology outlined above can help improve data governance for unstructured data. 
+
+gauging your level of maturity against a model
+Models of data governance provide a method against which you can gauge your level of maturity in how you handle and control important business data.
+
+There are a variety of abstract models of data governance. One of particular note is that of IBM, the IBM Data Governance Maturity Model, developed by its data gov council that includes. This looks at the IBM Data Governance Maturity Model. 
+
+1. INFOSEC: Technlogies for Addressing Infosec Triangle
+To gauge information security, you can evaluate the extent to which the following four technology domains provide protection of unstructured data for the three aspects of the infosec triangle:
+
+Secure infrastruture
+Identity and access control
+Data protection
+Auditing and Reporting
+
+
+
+
+2. IBM 11 DISCIPLINES OF DATA GOV MATURITY:
+THIS PART BECOMES SIDEBAR!
+1. Organizational Awareness:
+
+2. Stewardship: 
+
+3. Policy: 
+
+4. Value Creation:
+
+5. Data Risk Management:
+
+6. Security / Privacy / Compliance 
+
+7. Data Architecture 
+
+8. Data Quality 
+
+9. Business Glossary / Metadata 
+
+10. Information Lifecycle Management 
+
+11. Auditing and Reporting 
+
+
+
+
+
+
+
+
+
+
+
+================================
+
+"All storage compliance involves hardware and software elements, but there is no single approach or architecture to rely on. For example, disk-to-disk, disk-to-disk-to-tape and disk-to-disk-to-optical storage platforms all have potential applications in compliance, but regulations rarely, if ever, define storage implementations. Organizations are left to interpret the rules, formulate the requirements and establish the technologies to meet legal obligations. THIS IS THE BIG FLAW IN STORAGE COMPLIANCE -- organizations jump to a "vendor's solution" that promises compliance, without fully understanding the laws and their impact. For example, a disk storage platform may offer reliability but might not provide the security or immutability demanded for your industry. "Buying an array for long-term retention is nice," says Jim Damoulakis, chief technology officer (CTO) at GlassHouse Technologies Inc. in Framingham, Mass. "But it doesn't make you compliant." Policies and processes must be implemented to manage storage compliance."--from http://searchstorage.techtarget.com/feature/Data-storage-compliances-impact-on-storage-product-choices (emphasis is mine)
+
+"Workload is added in the monitoring, reporting and auditing capabilities needed to support storage compliance. "The thing that adds workload is that you now have to prove that you're doing it," Damoulakis says. In some cases, the cost can be substantial. Back in 2004, General Electric Co. revealed it spent about $30 million in compliance costs just to meet SOX regulations."
+
+
+
+===============================
+METADATA:
+Title: Likewise Data Analytics and Governance
+Desc: Likewise Data Analytics and Governance unites identity and storage to secure, analyze, govern, and audit unstructured data.
+Kwds: unstructured data, big data, data governance, data analytics, IT information security, event monitoring
+
+======================================
+Likewise Data Analytics and Governance
+
+
+
+
+
+
+=====================
+BENEFITS
+=====================
+
+
+=====================
+KEY FEATURES
+=====================
+
+=====================
+Security
+
+*View users and groups from Microsoft Active Directory, LDAP, or NIS.
+
+*Consolidate management of entitlements across data silos by setting security policies for user and group access as well as the security descriptors of files, eliminating security gaps.
+
+*Proactively remediate security settings from one location, the Likewise interface.
+
+=====================
+Auditing
+
+*Identify patterns of access to unstructured data.
+
+*Implement policy-driven exception-based monitoring with  dashboards and real-time event alerts over email or SNMP.
+
+*Generate reports that demonstrate compliance with evidence. There are reports for HIPAA, ITAR, PCI DSS, Sarbanes-Oxley, GLBA, and FISMA.
+
+*Show chain of custody for data on user access.
+
+=====================
+Governance
+
+*Empower data owners to manage entitlements.
+
+*Classify data as sensitive when it falls under legal or regulatory requirements and then track it through its life cycle.
+
+*Establish a central repository for change management of security and configuration policies.
+
+
+=====================
+Data Analytics
+
+*Improve management of unstructured data and reduce costs by using analytics to streamline data operations and storage systems.
+
+*Quickly identify problem areas with customizable dashboards that can show both real-time and historical reports.
+
+*Visualize contextual information on users and groups, file security settings, data sensitivity, and access patterns to improve data management, utilization, and service-level agreements.
+
+*Identify overutilization of valuable NAS resources and identify users or applications that are causing a NAS controller to reach its write-pending limit. 
+
+For a full list of features, see the <a href="">datasheet</a>.
+
+
+=====================
+ARCHITECTURE
+=====================
+Built as a big data solution, delivered as a virtual appliance and deployed as a private cloud, Likewise Data Analytics and Governance offers significant advantages over traditional approaches in terms of scale, performance, security, and cost. 
+
+The tremendous amount of data about data requires a solution that can scale. Our commercially hardened SQL and NoSQL infrastructure with polyglot persistence is the only solution on the market today that can scale beyond a departmental deployment. It is designed to support storage arrays with hundreds of millions of file objects and high workloads. 
+
+In addition, it uses low-cost commodity hardware that scales out rather than scales up as your requirements expand. It  accepts events and log data from NetApp and EMC NAS devices, and it can be extended to accept other data through a predefined RESTful API. 
+
+=====================
+OEM Opportunities
+Likewise Data Analytics and Governance is also available as an add-on application for <a href="URL FOR STORAGE PLATFORM PAGE">OEM storage vendors</a> seeking to differentiate their product. OEM storage vendors can implement advanced analytics and governance of unstructured data with robust event collection, auditing, entitlement management, dashboards, and reporting.
+
+
+=====================
+Next Steps
+<!-- BROOKE COULD YOU PLS ADD APPROP CONTACT ADDRESS HERE AND LINK TO BETA PAGE ETC AS YOU SEE FIT -->
+For more information or to participate in our beta program, contact oem@likewise.com or complete the contact form. 
+
+
+
+
+
+
+===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
+
+Data governance1 refers to the overall management of the availability, usability, integrity, and security of the data employed in an enterprise. A sound data governance program includes a governing body or council, a defined set of procedures, and a plan to execute those procedures. In practical terms, that means putting personnel, policies, procedures, and organizational structures in place to make data accurate, consistent, secure, and available to accomplish the business objectives. It can take on special importance because of the legal requirements and compliance regulations that it must fulfill in the face of rapidly expanding volumes of unstructured data. 
+
+Unstructured data, industry analysts say, is growing faster than all other types of data and will increase by as much as 800 percent during the next five years. Respondents to an industry survey by the Aberdeen Group estimated that 40 percent of their sensitive data is in unstructured formats such as PDF and Microsoft Word and Excel.
+
+"Rising volumes of content and an expanding array of electronically stored information combined with increasing litigation, staff shortages, limited integration with key applications, and other factors lead to low confidence and considerable expense during the eDiscovery process. Only 28% of message archiving stakeholders report that they are very confident that if challenged their organization could demonstrate that their electronically stored information (ESI) is accurate, accessible, and trustworthy" March 17, 2010
+Regulatory And eDiscovery Demands Drive
+A Growing Message Archiving Market
+Q1 2010 Global Message Archiving Online Survey
+by Brian W. Hill At Forrester. 
+
+THESE NOTES ARE KEYS. 
+
+Not just compliance and security, either, but freedom of users to rapidly access intellectual property that helps foster collaboration and innovation: 
+
+
+Any data governance program, including system and processes, is specific to your organizational needs. This white paper lays out an abstract architecture for data governance techology that can help meet the data governance needs of organizations in the context of protecting, auditing, controlling, and compliance around unstructured data. Because the architecture is abstract, it allows the technlogy to address at least three focus areas within the field of data gov, as set forth by the Data Goverance Institute http://datagovernance.com/fc_focus_areas_for_data_governance.html:
+
+*Policy, Standards, Stategy
+*Privacy, Compliance, Security
+*Architecture Integration, Analysis
+*Data Warehouse and Business Intelligence
+
+Again, the focus here is on data goverance for sensitive unstructured data. Don't worry about non-sensitive data when you build your data goverance program: A common inhibitor, says Forrester analyst Rob Karel in Data Governance: What Works And What Doesn’t, is unrealistic scoping. "Don’t assume that all data must be governed equally. It needn’t. Only the data supporting your most critical business processes and decisions require the highest level of governance."
+
+"Organizations typically find it easier to focus on compliance first, and then gradually expand efforts to include risk management and governance. It is important to note, however, that governance activities will happen, whether planned or not, and that lack of planned governance and rigorous risk management can have serious consequences for the business." MS DATA GOV PART 1
+

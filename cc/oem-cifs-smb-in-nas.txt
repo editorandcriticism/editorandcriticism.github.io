@@ -1,0 +1,103 @@
+<!-- note link to page coming tomorrow in last para; Note link to /images/oem_smb.gif  -->
+
+<!-- METADATA:: -->
+<title>Reasons Why You Should OEM Likewise Storage Services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+<meta name="description" content="Likewise Storage Services provides industrial-strength client-side and server-side SMB/CIFS support so Microsoft Windows clients can access files on Linux, Unix, and Mac computers and vice-versa." />
+<meta name="keywords" content= "CIFS, SMB, cross-platform file server, Linux SMB, Linux CIFS, Linux Windows file server, Linux Windows interoperability"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+	<meta name="DC.title" content="Likewise CIFS File Server">
+	<meta name="DC.description" content="Likewise Storage Services provides industrial-strength client-side and server-side SMB/CIFS support so Microsoft Windows clients can access files on Linux, Unix, and Mac computers.">
+	<meta name="DC.subject" content="CIFS, SMB, cross-platform file server,
+Linux SMB,
+Linux CIFS,
+Linux Windows file server, Linux Windows interoperability">
+	<meta name="DC.language" scheme="ISO639-1" content="en">
+
+
+
+
+
+
+
+
+HEADING:
+22 Reasons to OEM Likewise Storage Services
+
+SUBHEADING:
+Why You Should Embed the Likewise Storage and Reporting System in Your IT Product
+ 
+ 
+Likewise Storage Services provides secure NAS-enabled storage across Windows, Linux, and Unix. Administrators and users can securely access data without regard to operating system. Likewise Storage Services includes an application that provides cross-platform security management and data governance. 
+
+The application empowers enterprises to enforce consistent security policies across their unstructured data while selecting the operating system that makes sense for their business model. Your users are free to access the unstructured data they need. You get to secure the data they don’t need. Freedom and security. 
+
+
+
+
+1. Total Interoperability
+ Likewise Storage Services includes a file server that lets Microsoft Windows clients access folders and files on Linux, Unix, and Mac computers and vice versa. It is adaptable to more than 100 Linux, Unix, and Mac platforms, making it perfect for OEMs, ISVs, VARs that run on multiple operating systems and hardware platforms. 
+
+2. World Class File Server Technology
+ Show your technology savvy and impress your customers by embedding a fast CIFS file server in your server, application, or appliance. Likewise Storage Services provides industrial-strength, high-performance file access for enterprise environments.
+
+3. High Performance
+ Likewise Storage Services is designed with both pure performance and price-performance in mind.
+
+4. Based on Standards
+<img align="right" src="http://www.likewise.com/images/oem_smb.gif"/> Likewise Storage Services supports SMB1 and SMB2 standards and includes drivers for an SMB redirector, a named pipe file system, a POSIX virtual files system (PVFS), and SMB1/SMB2 server head. In addition, the architecture lets third-party ISVs design and implement their own custom device drivers.
+
+5. Access to Source Code
+ With access to the source code, you can modify the CIFS file server to meet your needs. Developers and integrators get all the advantages of a customizable system.
+
+6. Trusted, Secure, Reliable
+ Likewise Storage Services reaps the advantages of testing and feedback from a wide base of integrators and Linux developers.
+
+7. Stay Focused on Your Objectives
+ Deploy your scarce engineering resources with parsimony by keeping them focused on building your core product rather than building and maintaining a proprietary file system.
+
+8. Block Vendor Lock
+ By selecting products based on open standards, ISVs insulate themselves from vendor lock-in, which can lead to unexpected financial burdens, support issues, and other problems. 
+
+9. Technical Support
+ Receive technical support directly from the programmers who develop the Likewise Storage Services. They are on hand to solve your toughest integration and interoperability challenges on Unix, Linux, Mac, and Windows. 
+
+10. No Administration
+ ISVs can deploy a product that does not require a dedicated system administrator, making Likewise Storage Services  a perfect match for embedding in network attached storage (NAS) software and network appliances.
+
+11. Small Size
+ Likewise Storage Services  integrates easily with deeply embedded applications because it is compact. The Likewise file server runs silently -- your customers won't know that a CIFS file server is embedded in your application, server, or appliance.
+
+12. Ease of Use
+ Likewise Storage Services  has gotten the nod from admins for its superlative ease of use: You can get the file server up and running in minutes. Because it's easy to configure, you can implement interoperability among disparate file systems much faster than with other file servers.
+
+13. Flexible Architecture and Accessible APIs
+ Likewise Storage Services File Server's pluggable API architecture gives ISVs the flexibility to integrate it with a variety of systems, including custom storage engines, read-intensive applications, high-availability clustered servers, and more.
+
+14. Remove Extraneous Demands on Your Release Schedule
+ Speed up your time to market by embedding a proven file server rather than building your own. Likewise Storage Services includes a full-featured, high-performance file server that does not compromise performance for functionality. The storage services also includes an auditing and reporting system to track access to directories and files -- a system that can help you comply with data security standards and other regulations.
+
+15. Gain Market Share
+ Beat out the competition with a scalable, full-featured product by embedding a file server with superior performance, reliability, and ease of access from any operating system, including Windows, most major Linux and Unix platforms, and Mac OS X. 
+
+16. Ship a "File Server Included" Product
+ By embedding Likewise Storage Services you can include a cross-platform file server in your storage product with no additional requirements for users to buy licenses.
+
+17. End Your Configuration Nightmares
+ Other cross-platform file servers can take hours to configure. With Likewise Storage Services, you can liberate your sys admins from repeatedly and doggedly having to configure access to a file server across operating system boundaries. 
+
+18. Improve Your End-User's Experience
+ Your customers have a better user experience with a product that includes a file server. A pre-configured, pre-tuned, and pre-optimized file server helps eliminate manageability issues.
+
+19. Reduce the Costs of Doing It Yourself
+ Likewise Storage Services  is a cost-effective solution with licensing terms that can be tailored to meet the unique requirements of OEMs, ISVs and VARs who want to bundle or embed a file server.
+
+20. Forge New Markets
+ Expand your target customer base by delivering performant high-volume cross-platform data warehousing.
+
+21. Extend Your Product Line
+ Likewise Storage Services File Server can expand your SKUs to include a file server to access data across all the operating systems in your customers' mixed network. Meantime, you can embed the <A HREF="audit-object-access.php">Likewise auditing and reporting system</A> to implement a highly secure method of monitoring and tracking cross-platform access to a file server. 
+
+22. Secure Your Data
+The Likewise auditing and reporting system records and categorizes events about driver states, directory objects, and file objects. Monitoring events such as object-access failures can help protect sensitive resources and prevent unauthorized access to directories and files on your file server. With event monitoring, security managers find help in their quest for regulatory compliance.

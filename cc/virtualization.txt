@@ -1,0 +1,82 @@
+===========================
+Suggested URL for this page: 
+  http://www.likewise.com/solutions/storage-management/virtualization.php 
+
+============================
+METADATA
+
+Title: 
+
+Storage Virtualization Monitoring
+
+Description: 
+
+Likewise Data Analytics and Governance tracks the unstructured data on virtual file servers and NAS for utilization, security, and compliance. 
+
+Keywords: 
+
+storage virtualization, virtualized storage, storage management, unstructured data, network attached storage, NAS, storage NAS, file server, IT storage management, storage monitoring, virtual file server monitoring
+
+============================
+H1: 
+Storage Virtualization Monitoring
+
+Subtitle:
+Manage Unstructured Data on Virtual File Servers and NAS Systems
+
+Although virtualization saves money, it can result in VM sprawl: Virtual machines multiplying into file servers faster than you can figure out what's on them and who is using them. 
+
+Monitoring virtual file servers, understanding the unstructured data they contain, and identifying their users can help optimize IT storage operations. As unstructured data expands and virtual file servers proliferate, visibility into the data-usage patterns that take place on virtual filers improves capacity planning, utilization, compliance, and security.
+
+Likewise Data Analytics and Governance monitors virtual file servers to track patterns of data access, usage, and change -- information you can use to optimize the performance of storage systems and secure sensitive resources.  
+
+------------------------
+Improve Virtualized Storage
+
+Likewise can help increase the cost-effectiveness, efficiency, and security of virtualized storage in many ways:
+
+*Monitor the storage trends of unstructured data to implement tiering, charge-back models, and capacity planning.
+
+*Track data audit access events on virtual file servers to improve security and compliance.
+
+*Identify over-utilized virtual machines to allocate storage resources better.
+
+*Implement an information life cycle management policy for the data on virtual filers to cut storage costs.
+
+*Use metrics and reports to transform user behavior and recover wasted storage resources. 
+
+*Protect unstructured data with continuous monitoring.
+
+*Comply with regulations such as HIPAA and PCI DSS. 
+
+-------------------------
+
+Visualize Virtual File Servers
+
+In a process known as introspection, many hypervisors can monitor each guest operating system as it is running. Introspection, for instance, can monitor network traffic, memory, processes, and other elements of a guest OS. 
+
+Likewise Data Analytics and Governance can be used in tandem with introspection to monitor the users who access the virtual machine, the data they view, and the file changes they make -- all of which complements introspection to heighten visibility into the unstructured data stored on virtual file servers.
+
+The information, which is displayed in a browser-based dashboard, can help you plan the capacity of your virtualized storage network, <a href="/solutions/storage-management/optimization.php">optimize</a> the performance of virtual storage, make sound decisions about tiering, and move older data to cheaper storage.
+
+-------------------------
+Bolster Security and Compliance
+
+Virtual machine sprawl can potentially lead to security and compliance problems because of a lack of visibility into who is accessing which virtual file servers and what is being stored on them. The visibility that Likewise provides helps ensure the security of virtual file servers by monitoring who is accessing which machines, which directories, and making what changes to files. 
+
+From its collection of data access audit events and data-modification events, Likewise can create compliance reports for <a href="/solutions/compliance/pci-dss.php">PCI DSS</a>, <a href="/solutions/compliance/sox.php">SOX</a>, <a href="/solutions/compliance/fisma.php">FISMA</a>, and <a href="/solutions/compliance/hipaa.php">HIPAA</a>. The solution mitigates the risk of data breeches, reduces security costs, and demonstrates compliance. 
+
+
+===================================
+Features
+
+*Dashboard with custom views 
+*Templates for custom reports
+*Alerts for security policy violations
+*Monitoring of data, access, users, groups, and protocols 
+*Historical reports for virtualization analysis, tiering, and capacity planning
+*NoSQL database for high performance and advanced analytics
+*Virtual machine monitoring for heterogeneous environments
+*Event aggregation from virtual machines, NetApp, and HP file servers
+
+====================================

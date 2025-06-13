@@ -1,0 +1,78 @@
+===========================
+Suggested URL for this page: 
+  http://www.likewise.com/solutions/storage-management/performance.php 
+
+============================
+METADATA
+
+Title: 
+
+Storage Performance Monitoring
+
+Description: 
+
+Likewise Data Analytics and Governance analyzes metadata to help you optimize the performance of file servers and network attached storage (NAS). 
+
+Keywords: 
+
+NAS performance monitoring, storage management, data storage performance, unstructured data, network attached storage, NAS, storage NAS, file server, IT storage management, storage monitoring
+
+============================
+H1: 
+Storage Performance Monitoring
+
+Subtitle:
+Analyze Metadata to Optimize File Servers and NAS Systems
+
+As unstructured data grows in volume, velocity, and variety, gaining visibility into the usage of storage resources gives you the insight to balance storage costs with performance. 
+
+Likewise Data Analytics and Governance monitors the metadata on network attached storage systems to show patterns of data access and utilization -- information you can use to improve the performance of storage systems. 
+
+----------------------------
+Aggregate and View Metadata
+
+Likewise aggregates the following metadata and presents it in an interactive browser-based interface for near real-time viewing:
+
+*Location: IP address, server or device name, directory path, file name.
+*Access patterns: Who, what, when, where, and how.
+*Users and groups: Identities of users and members of groups.
+*File events: Success or failure of attempts to read, write, create, delete, rename, and close files.
+*Permissions on files and directories: Security descriptors and attempts to change them.
+*Age of files: Date created and date last modified. 
+
+----------------------------
+Improve Storage Management
+
+Because metadata sheds light on the relative performance of network attached storage (NAS) and file servers, you can increase their cost-effectiveness and efficiency in a number of ways:
+
+*Monitor patterns of data access, data usage, and data modification to fine-tune performance and implement effective tiering models, reducing storage costs.
+
+*Identify the applications using the most resources to match your storage objectives with your business needs.
+
+*Pinpoint users, groups, IP addresses, and departments overusing storage resources.
+
+*Distinguish heavy read vs. heavy write operations to make better storage-management decisions.
+
+*Determine who is causing latency on a NAS device. 
+
+*See servers or directories being over-accessed so you can better balance the load across different devices.
+
+•Use metrics and reports to transform user behavior and recover wasted storage. 
+
+When you have full visibility into how, when, by whom, and for what your storage systems are being used, you are primed with the right information to tune the performance and <a href="/solutions/storage-management/utilization.php">utilization</a> of your storage resources -- and better align IT operations with business strategy. 
+
+===================================
+Features
+
+*Alerts
+*Dashboard with custom views 
+*Templates for custom reports
+*Monitoring of data, access, users, groups, applications, and protocols
+*Historical reports for performance analysis and capacity planning
+*NoSQL database for high performance and advanced analytics
+*Storage monitoring for heterogeneous environments
+*Event aggregation from NetApp, EMC NAS devices, and HP file servers
+
+====================================
+
+

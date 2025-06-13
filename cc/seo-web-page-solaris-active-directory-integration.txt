@@ -1,0 +1,185 @@
+Keywords: 
+join solaris to active directory,
+solaris active directory integration,
+solaris AD,
+solaris active directory,
+solaris winbind,
+Sun Identity Manager,
+Unix authentication,
+solaris authentication,
+solaris access control
+
+DESC: Join Solaris to Active Directory with Likewise.
+
+=============================
+
+Title: Solaris Active Directory Integration
+
+Subtitle: Join Sun Solaris Systems to Active Directory with Likewise
+
+
+Likewise Enterprise integrates computers running the Solaris operating system with Microsoft Active Directory, yielding a range of benefits for users, system administrators, and managers.
+
+Solaris users get single sign-on: They log on once to a Sun workstation that is authenticated through Active Directory and automatically receive Kerberos-based single sign-on for other Solaris computers and applications, including the Apache web server. System administrators rest easy with the knowledge that users accessing the intranet through HTTP are securely authenticated with Kerberos 5 and authorized for access to the resources on your Sun Solaris servers. Managers see their operational costs drop as their Solaris computers are centrally managed with Active Directory. Security managers find help in their quest for regulatory compliance.
+
+
+=============================
+Joining Solaris Systems to Active Directory
+Likewise joins Solaris computers to Active Directory so you can centrally manage all your computers, authenticate users with Kerberos, control access to resources, and apply group policies to Solaris and other Unix systems. By executing a single command from the command line, Likewise's daemon gets you instant Solaris Active Directory integration, unified logon, and single sign-on.
+
+
+When you join a Solaris system to the AD domain, Likewise uses the hostname
+of the computer to derive a fully qualified domain name (FQDN) and then automatically
+sets the computer’s FQDN in the /etc/hosts file. Likewise also gives you the option of joining a domain without
+changing the /etc/hosts file.
+
+
+
+=============================
+Supported Sun Platforms
+Solaris is a Unix-based operating system from Sun Microsystems. Solaris -- especially on SPARC systems -- is known for its scalability. Likewise combines the scalability and reliability of industrial-strength Solaris servers with the proven, secure, and similarly scalable identity management system that is Active Directory. 
+
+Likewise supports SPARC-based and x86-based workstations and servers from Sun and other vendors, with efforts underway to port to additional platforms. In addition, Likewise Open works with Sun's open source software -- the OpenSolaris project.
+
+At present, Likewise Enterprise and Likewise Open run on the following Sun Solaris systems: 
+
+*Solaris 8 SPARC   
+*Solaris 8 x86   
+*Solaris 9 SPARC   
+*Solaris 9 x86   
+*Solaris 10 SPARC   
+*Solaris 10 x86   
+*OpenSolaris 
+
+For more information about the platforms that Likewise supports, see http://www.likewisesoftware.com/products/likewise_enterprise/supported_platforms.php
+
+
+
+=============================
+The Likewise Agent
+The Likewise agent makes joining a Sun Solaris system to AD seamless. The agent integrates a winbind module with the core operating system on Unix computers to implement the mapping for any application, such as the logon process (/bin/login), that uses the name service (NSS) or pluggable authentication module (PAM). 
+
+To join the domain, the agent uses the DCE-RPC, LDAP, and Kerberos protocols to communicate with Active Directory. When the domain join utility adds the computer to the domain, it establishes a machine account in Active Directory. The machine account can then be used to make authenticated LDAP and RPC calls to Active Directory.
+
+
+
+
+=============================
+Cross-Platform Authentication for Solaris
+The Likewise agent acts as a Kerberos 5 client to authenticate Solaris users and groups with their Active Directory domain credentials. Because Active Directory functions as a Kerberos key distribution center, Likewise can validate the user names and passwords of Solaris users with the Kerberos 5 authentication protocol. Kerberos lets users and computers communicating over an insecure network prove their identity to one another in a secure manner.
+
+As a result, users get one ID and single sign-on: They log on once to a Solaris workstation that is authenticated through Active Directory and receive a Kerberos ticket-granting ticket that they can use to log on other computers and applications, such as Oracle, Apache HTTP Server, SAP, SSH, Putty, JBoss Application Server, BEA WebLogic, Tomcat, DB2, and Samba.
+
+Likewise's Kerberos authentication mechanism works in association with its LDAP authorization mechanism.
+
+ 
+For more information, see Secure AD-Based Authentication for Linux, Unix, and Mac with Kerberos 5 at http://www.likewisesoftware.com/products/likewise_enterprise/kerberos_authentication.php.
+
+
+
+
+=============================
+Cross-Platform Authorization for Solaris
+The Likewise agent also acts as a LDAP client to control access to Solaris machines. Because Likewise Enterprise empowers Solaris system administrators to centrally manage all their users and groups in Active Directory, only users and groups with domain credentials valid for a specific machine are allowed to log on that machine. 
+
+In addition, Likewise Enterprise's cell technology lets you control access to Solaris systems based on Active Directory organizational units, UID-GID schemes, group membership, and group policies that restrict logon rights.
+
+<IMG ALIGN="RIGHT" SRC="http://www.likewisesoftware.com/images/gpoe_allow_logon_rights.jpg"/>
+ 
+The result of using Active Directory to authorize access to Solaris computers entails a number of additional benefits: 
+
+*Greater control over access to Linux, Unix, and Mac workstations and servers. 
+*Access control options that help improve regulatory compliance. 
+*Access reports that help demonstrate regulatory compliance. 
+*Tighter overall network security. 
+*Role-based access control for sensitive resources. 
+*Group-based access control mechanisms that ease account management.
+*Get a variety of access control methods for not only Solaris servers but also other Unix, Linux, and Mac computers. 
+
+The access control methods of Likewise Enterprise and Active Directory also free you from several pitfalls of traditional Unix access control methods: 
+
+*Cease managing a plethora of /etc/passwd files. 
+
+*Stop relying on using the root account to manage your Solaris boxes; using root is an insecure practice that runs counter to accepted security standards and regulations. 
+
+*Eliminate labor-intensive ad hoc Kerberos key distribution centers and custom LDAP implementations. 
+
+*Eliminate NIS authentication systems, which do not scale well, are cumbersome to put in place for multiple operating systems, and are less secure than LDAP and Kerberos. For information on how Likewise can help you migrate your Network Information Systems to Active Directory, see http://www.likewisesoftware.com/products/likewise_enterprise/NIS-Migration.php.
+ 
+
+For more information on access control, see http://www.likewisesoftware.com/solutions/network_security/Active_Directory_Based_Access_Control.php.
+
+
+
+=============================
+Group Policy for Solaris
+Likewise Enterprise solves Solaris and Active Directory integration problems by using the existing model for managing users and computers in Active Directory: group policy objects. Likewise GPOs can be edited with the Microsoft Group Policy Object Editor (GPOE) and managed for the enterprise with the Group Policy Management Console (GPMC). The result is a proven, scalable approach for managing the settings of all the Sun Solaris machines in an enterprise.
+
+Likewise  includes more than 80 group policies that can be applied to Sun Solaris workstations and servers. For a list of our group policies for Solaris, see our Solaris Group Policy page at <a href="solaris-group-policy.php"/>.
+
+
+
+=============================
+Running an Apache Web Server on Sun Solaris
+Likewise includes its own version of the mod_auth_kerb module to configure Sun Solaris computers running the Apache HTTP Server to provide
+single sign-on  through Active Directory with Kerberos 5. 
+
+Single sign-on for the Apache HTTP server uses the Simple and Protected GSS-API Negotiation Mechanism, or SPNEGO, to negotiate authentication with Kerberos. SPNEGO is an Internet standard documented in RFC 2478 at http://www.ietf.org/rfc/rfc2478.txt and is commonly referred to as the "negotiate" authentication protocol. The Likewise mod_auth_kerb module lets an Apache web server running on a Solaris Unix system authenticate and authorize users based on their Active Directory domain credentials.
+
+The Likewise mod_auth_kerb module, which is installed with both Likewise Enterprise and Likewise Open, supports Apache HTTP Server version 2.0 and version 2.2.
+
+
+=============================
+The Likewise Partnership with Sun Microsystems
+
+
+<IMG SRC="http://www.likewisesoftware.com/images/logos_partners_sun.jpg"/>
+Likewise Software is a principal partner in the Sun Partner Advantage Program for independent software vendors. The benefits to Sun customers include access to pre-tested, optimized solutions such as Likewise Enterprise as well as investment protection and reduced total cost of ownership through collaborative engineering between Sun and Likewise. Going forward, the partnership entails a higher level of predictability and support for Likewise Enterprise as Sun rolls out its latest technologies and software upgrades. For more information about the Sun-Likewise partnership, see http://www.likewisesoftware.com/news_events/press_releases/pr_12152008.php.
+
+
+
+=============================
+Integrating Likewise With Sun Identity Manager
+Sun Identity Manager is a security rich, automated, policy-based enterprise user management system. Sun Identity Manager provides centralized identity lifecycle management. It is a robust enterprise user provisioning and deprovisioning system that interacts with managed directory and identity stores through resource adapters. Sun Identity Manager adapters function as virtual administrators on the target platform, performing tasks such as creating users, managing users, updating user properties, deleting users and other identity lifecycle management operations. 
+
+
+Sun Identity Manager can be adapted to provision Solaris users configured for Unix access through Likewise Enterprise either by using RFC 2307 schema extensions or by using an existing schema that does not comply with RFC 2307. In fact, depending on a customer’s requirements, Likewise Enterprise can be configured in several ways:
+
+*Extended schema, default cell only, information stored directly on the user object. The default Active Directory Adapter can be configured to support the RFC 2307 attributes which are directly stored on the user object. There is a 1:1 mapping between the Active Directory user and the Solaris user’s associated UID.
+
+
+*Extended schema, default cell only, information stored in a separate container with Unix properties linked to user object. A custom adapter is required to write the attributes into a separate object and to ensure that the object is linked to the real user object. The custom adapter is simple because there is a 1:1 mapping between the Active Directory user and the user’s associated Solaris UID.
+
+*Non-extended schema, default cell only, information stored in a separate container with Unix properties linked to user object. A custom adapter is required to write the attributes into a separate object and to ensure that the object is linked to the real user object. The custom adapter is simple because there is a 1:1 mapping between an Active Directory user and the user’s associated Solaris UID.
+
+Thus, the flexibility of Likewise Enterprise gives rise to several possible configurations to integrate with Sun Identity Manager in a way that preserves a company's existing setup:
+
+
+1. Extended schema, default cell only, information stored directly on the user object.
+
+2. Extended schema, default cell only, information stored in a separate container with Unix 
+properties linked to user object.
+
+3. Non-extended schema, default cell only, information stored in a separate container with Unix 
+properties linked to user object.
+
+4. Extended schema, default and additional cells, information stored in a separate container with Unix or
+Linux properties linked to user object.
+
+5. Non-extended schema, default and additional cells, information stored in a separate container with Unix
+ properties linked to user object.
+
+For more information, see the technical note titled Integrating Likewise Enterprise
+With Sun’s Identity Manager at http://www.likewisesoftware.com/resources/technical_notes/Likewise-Integration-with-Sun-Identity-Manager.pdf.
+
+
+
+=============================
+Summary
+
+By joining Solaris computers to Active Directory – a secure, scalable, stable, and proven identity management system – Likewise Enterprise gives you the power to manage all your Solaris users' identities in one place, use the highly secure Kerberos 5 protocol to authenticate users in the same way on all Solaris systems, apply granular access controls to sensitive resources, and centrally administer Unix as well as Windows computers with group policies. Likewise includes reporting and auditing capabilities that can help improve regulatory compliance. The result:  lower operating costs, better security, enhanced compliance.
+
+
+
+
+

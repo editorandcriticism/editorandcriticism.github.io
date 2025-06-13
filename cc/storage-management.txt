@@ -1,0 +1,111 @@
+﻿===========================
+Suggested URL for this high-level landing page: 
+
+http://www.likewise.com/solutions/storage-management/index.php
+
+FOR::
+        
+  http://www.likewise.com/solutions/storage-management/monitor-file-server.php #EXPLAINS FUNCTIONALITY SO LINK TO FROM OTHERS FOR THAT
+  http://www.likewise.com/solutions/storage-management/utilization.php 
+  http://www.likewise.com/solutions/storage-management/performance.php 
+  http://www.likewise.com/solutions/storage-management/virtualization.php 
+  http://www.likewise.com/solutions/storage-management/optimization.php
+      http://www.likewise.com/solutions/storage-management/optimization-fact-sheet.pdf
+
+
+
+============================
+METADATA
+
+Title: Storage Management Solutions
+
+Description: Likewise Data Analytics and Governance delivers storage management solutions for file servers and network attached storage (NAS). 
+
+Keywords: storage management, data storage management, unstructured data, network attached storage, NAS, storage NAS, file server, IT storage management, data access audit events
+
+
+============================
+H1: 
+Storage Management
+
+
+Subtitle:
+Solutions for Monitoring the Utilization and Performance of File Servers and NAS Systems 
+
+
+Likewise Data Analytics and Governance delivers storage management solutions that monitor the utilization, performance, data, and users of file servers and network attached storage. The Likewise console displays the information on a dashboard and in reports. 
+
+As the volume of unstructured data rises and file servers multiply, the business value of IT storage management pervades the enterprise: 
+
+*Cut storage costs by centrally monitoring utilization and performance. 
+
+*Save money by optimizing your storage network.
+
+*Increase the productivity of business users by improving the performance of file servers and NAS systems.
+
+*Better align IT operations with business strategy.
+
+
+============================
+----------------------------
+Monitoring
+
+Likewise's unified storage monitoring console tracks events and metadata on storage systems, including NetApp, EMC NAS devices, HP file servers, and virtual machines. In near real-time, the monitoring console displays utilization rates and performance metrics, giving you the visibility to optimize your storage resources. The Likewise system, which associates data with file owners and user identities, tracks the age, access, and usage patterns of data. 
+
+The Likewise monitoring system is centralized, continuous, and fast. It collects data-access and file-modification events from disparate storage systems and aggregates them into a NoSQL database, providing a high-performance yet flexible model for analyzing storage operations. Given the importance of unstructured data, continuous monitoring promotes IT from a reactive storage provider into a strategic business partner.
+
+See the Likewise solutions for <a href="http://www.likewise.com/solutions/storage-management/monitor-file-server.php">monitoring file servers and NAS</a>. 
+
+----------------------------
+Utilization
+
+Likewise Data Analytics and Governance monitors the utilization of file servers and network attached storage (NAS) in near real-time to maximize the usage of your storage systems. Utilization monitoring helps you allocate IT resources effectively, improve capacity planning, lower your storage costs, and better align your storage objectives with your business strategy. 
+
+Likewise displays utilization metrics and historical data on a customizable dashboard. The dashboard includes reports that show utilization across users, applications, time periods, access protocols, virtual machines, and file servers. 
+
+>See the Likewise solutions for <a href="utilization.php">utilization monitoring</a>.    
+
+
+----------------------------
+Performance
+
+Storage systems that perform as intended save time and money. Performance monitoring that can pinpoint not only data-access issues on NAS devices but also the user or application causing the issue provides an important tool in a storage optimization strategy. Likewise's near real-time monitoring of storage performance can help resolve storage issues on the fly to keep your storage infrastructure operating at its peak. 
+
+>See the Likewise solutions for monitoring <a href="performance.php">storage performance</a>.    
+
+----------------------------
+Virtualization
+
+Although virtualization saves money, it can result in VM sprawl: Virtual machines multiplying into file servers faster than you can figure out what's on them and who is using them for what. 
+
+As part of a storage management strategy, discovering storage VMs, understanding the unstructured data that resides on them, and identifying the people who use them can help optimize your storage network, further reducing costs. In addition, visibility into the data-usage patterns on virtual servers improves security and regulatory compliance. 
+
+>See the Likewise solutions for managing <a href="virtualization.php">virtual filers</a>.    
+
+----------------------------
+Compliance and Security
+
+The Likewise dashboard performs identity-based monitoring of file servers and NAS to protect the confidentiality, integrity, and availability of unstructured data. From its collection of data access audit events and data-modification events, the dashboard can generate compliance reports for HIPAA, SOX, FISMA, and PCI DSS. The solution mitigates the risk of data breeches and reduces security costs.
+
+>See the Likewise solutions for <a href="/solutions/compliance/index.php">data storage compliance</a>.
+
+----------------------------
+Optimization
+
+The users, utilization rates, and performance of storage resources triangulate into a strategy of storage optimization. When you have full visibility into how and by whom your storage systems are being used and how well they are performing in the face of utilization targets, you are primed with the right information to optimize your storage resources -- and better align IT operations with your business strategy. The result simultaneously reduces storage costs and props up the business. 
+
+>See the Likewise solutions for <a href="optimization.php">storage optimization</a>.    
+
+
+===================================
+Features
+*Dashboard with custom views 
+*Alerts for performance and utilization issues
+*Utilization monitoring of data, users, applications, and protocols
+*Templates for custom reports
+*Historical reports for trend analysis and capacity planning
+*Protocol activity monitoring
+*NoSQL database for super-fast performance and advanced analytics
+*Event aggregation from various sources, including NetApp, EMC NAS systems, and HP file servers
+
+

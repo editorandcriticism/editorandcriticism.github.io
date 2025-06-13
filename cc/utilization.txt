@@ -1,0 +1,93 @@
+Suggested URL for this page: 
+  http://www.likewise.com/solutions/storage-management/utilization.php 
+
+============================
+METADATA
+
+Title: 
+Storage Utilization
+
+Description: 
+The Likewise Data Analytics and Governance application monitors the utilization of file servers and NAS systems so you can optimize your storage network. 
+
+Keywords: 
+storage management, data storage utilization, NAS utilization monitoring, unstructured data, network attached storage, NAS, storage NAS, file server, IT storage management, storage utilization
+
+============================
+H1: 
+Storage Utilization
+
+
+Subtitle:
+
+Gain Visibility into Unstructured Data on File Servers and Network Attached Storage
+
+Likewise Data Analytics and Governance monitors the utilization of file servers and network attached storage (NAS) in near real-time to gain visibility into unstructured data and to optimize storage resources. 
+
+With the Likewise solution, utilization metrics and historical data appear on a customizable dashboard. You can see storage utilization rates, both recent and historical, across data, users, applications, access protocols, and time periods. The return on investment is immediate: 
+
+*Gain enterprise-wide visibility into the use of unstructured data.
+
+*Implement effective tiering and charge-back models. 
+
+*Allocate IT resources effectively to lower storage costs.
+
+*Improve capacity planning to align future storage needs with emerging patterns.
+
+*Better align storage objectives with business strategy. 
+
+============================
+
+----------------------------
+Visualize Unstructured Data
+
+The explosion of unstructured data on file servers and NAS devices can overwhelm both systems and administrators. Even basic questions about unstructured data and NAS systems are hard to answer. Who is accessing a NAS device? How often is data accessed? What data tiering policies make sense?
+
+The information gap about the access to and use of unstructured data demands a solution that lets you view unstructured data from a global perspective. Likewise Data Analytics and Governance aggregates a <a href="/solutions/file_server_reporting_features/index.php">variety of information</a> into a coherent report, empowering you with the numbers to understand, for example, the cost savings that tiering could bring and the tiering policies that would make sense. 
+
+----------------------------
+
+Answer Key Questions To Save Money
+
+When it comes to optimizing the utilization of storage resources, there are two key questions: 
+
+1. Is the data changing? How frequently?
+2. Is the data accessed? How frequently?
+
+Data that is changing and accessed frequently should remain highly available to those who need it. Data that is not changing but is still being accessed should also remain available, but perhaps could be moved to a cheaper tier, depending on the frequency of access. Data that is not changing and not being accessed can be archived or deleted. 
+
+Likewise answers these questions by tracking the age, access, and usage patterns of data. The information is presented on a dashboard and in reports so you can make storage-management decisions that save you money.
+
+----------------------------
+Implement Charge-Back Models
+
+Unless a physical storage limit, coupled with an effective charge-back process, is in place, users will store practically everything on NAS. 
+
+But storage is costly, and utilization demands a solid charge-back mechanism -- one that is trackable and enforceable. With numbers that identify the users, applications, and departments that are utilizing storage resources, you are in a position to implement a charge-back model. 
+
+----------------------------
+Reclaim the Storage You've Got
+
+Gaining visibility into the storage systems you've got can help you identify and reclaim underutilized disk space -- and the savings can add up quickly. You may be able to identify entire devices that contain infrequently accessed files, perfect candidates for moving to a cheaper tier. 
+
+----------------------------
+
+Cost-Effectively Manage Growth
+
+The need for storage is expected to outpace IT budgets. With tiering and charge-back models in place to help control growth, you can move on to realistic, cost-effective capacity planning. 
+
+Because the Likewise solution gives you <a href="/solutions/storage-management/monitor-file-server.php">visibility</a> into how fast unstructured data is piling up, how often it is used, and how long it should be saved, you can more effectively plan for the future. 
+
+===================================
+Features
+
+*Utilization monitoring of data, users, owners, applications, and protocols
+*Dashboard for visibility into unstructured data
+*Alerts for utilization issues
+*Templates for custom reports
+*Historical reports for trend analysis and capacity planning
+*Protocol activity monitoring for heterogeneous environments
+*NoSQL database for high performance and advanced analytics
+*Event aggregation from various sources, including NetApp, EMC NAS devices, and HP file servers
+
+++++++++++++++++++++++++++++++++++++
