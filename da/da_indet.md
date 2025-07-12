@@ -1,11 +1,9 @@
 ---
-description: |
-	Interpretation and Indeterminancy in Discourse Analysis, an essay in linguistics by Steve Hoenisch. Criticism.Com contains other essays in discourse analysis and linguistics as well as in social science, philosophy, Wittgenstein, Weber, Bakhtin, Freud, Barthes, Dostoyevsky, and psychoanalysis.
-keywords: |
-	discourse analysis, linguistics, books, Schiffrin, Bakhtin, sociology, semiology, structuralism, postmodernism, Saussure, poststructuralism, sociolinguistics, Steve Hoenisch, Roland Barthes, Wittgenstein, meaning, semantics, philosophy, bookstore, social science, text linguistics, Gumperz
-title: |
-	Interpretation and Indeterminacy in Discourse Analysis
+description:  Interpretation and Indeterminancy in Discourse Analysis, an essay in linguistics by Steve Hoenisch. Criticism.Com contains other essays in discourse analysis and linguistics as well as in social science, philosophy, Wittgenstein, Weber, Bakhtin, Freud, Barthes, Dostoyevsky, and psychoanalysis.
+keywords: discourse analysis, linguistics, books, Schiffrin, Bakhtin, sociology, semiology, structuralism, postmodernism, Saussure, poststructuralism, sociolinguistics, Steve Hoenisch, Roland Barthes, Wittgenstein, meaning, semantics, philosophy, bookstore, social science, text linguistics, Gumperz
+title: Interpretation and Indeterminacy in Discourse Analysis
 ---
+
 
 
 
@@ -38,7 +36,6 @@ exchange between a teacher and a pupil in order to compare, quite
 generally, the utility of each approach and to provide support for the
 theoretical positions I laid out in the first section.
 
-<img src="/images/0631166238.gif" align="right" />
 Throughout the essay, I will argue a hard line: the exact meaning of a
 speaker's utterance in a contextualized exchange is often indeterminate.
 Within the context of the analysis of the teacher-pupil exchange, I will
@@ -150,10 +147,9 @@ influenced by his or her values, which, Weber believed, could not be
 justified "scientifically," that is, through value-free analysis.
 
 Thus, in comparing different approaches to discourse, one system cannot
-be chosen over another without taking a value or end -- such as reducing
+be chosen over another without taking a value or end --- such as reducing
 miscommunication between teachers and
-pupils<img src="/images/bk_by_da.gif" align="right" />
--- into consideration. (Even though Schiffrin analyzes the same text and
+pupils --- into consideration. (Even though Schiffrin analyzes the same text and
 reaches somewhat different conclusions using different approaches, the
 subjectivity inherent with approaches to discourse does not seem to be
 made explicit in Approaches to Discourse, but is made early on in Brown
@@ -184,8 +180,7 @@ scope of this essay.
 3 The Pupil-Teacher Exchange
 ============================
 
-<img src="/images/0881335169.gif" align="right" /> To
-identify some strengths and weaknesses of each theory as well as to
+To identify some strengths and weaknesses of each theory as well as to
 gather some evidence for my theoretical arguments, I will briefly apply
 speech act theory and interactional sociolinguistics to the exchange
 below, which will be considered from the broad viewpoint of what
@@ -206,7 +201,7 @@ interpret the communicative content of what is said?"5
 
 > (6) FREDDY: Pen. 6
 
-<img src="/images/0452275652.gif" align="right" />
+
 Before proceeding, I would like to made a few assumptions about the
 exchange. First, I will assume that the teacher has been teaching these
 15 children for long enough to be at least a little familiar with their
@@ -285,9 +280,7 @@ a third analysis of James's speech act.
 The rising intonation of James's utterance, as Schiffrin points out in
 her chapter on interactional sociolinguistics, can be interpreted as
 indicating a need for encouragement. Seen in this way, the utterance
-meets
-<img src="/images/0521357187.gif" align="right" />
-most of Austin's felicity conditions. Briefly, James's utterance is a
+meets most of Austin's felicity conditions. Briefly, James's utterance is a
 conventional procedure, at least within his African American community,
 and is supposed to have a conventional effect, the elicitation of
 encouragement. The procedure seems to be executed completely and
@@ -351,8 +344,7 @@ necessary connection to culture that could help determine whether
 James's rising intonation indicates a need for encouragement or is
 merely a noncontrastive element of the utterance.
 
-<img src="/images/bk_by_da.gif" align="right" /> The
-conjecture that a strong connection to culture could advance the
+The conjecture that a strong connection to culture could advance the
 interpretation of James's remarks is supported by the would-be failure
 of applying a Gricean pragmatic analysis to his utterance. Indeed, such
 an analysis, when based upon conversational implicature, would likewise
@@ -505,9 +497,7 @@ Cambridge University Press, 1983), p. 11.
 5. Ibid. p. 41.
 
 6. From Schiffrin, p. 100, who takes it from J. Gumperz's
-<img src="/images/0521288967.gif" align="right" /> [Discourse
-Strategies
-(Cambridge: Cambridge University Press, 1982), p. 147.
+Discourse Strategies (Cambridge: Cambridge University Press, 1982), p. 147.
 
 7. Schiffrin, Approaches to Discourse, p. 6.
 
@@ -544,8 +534,7 @@ a step further by using his writings as the theoretical foundation for
 an approach to analyzing discourse that is distinct from speech act
 theory,
 <img src="/images/bkgenres.gif" align="right" />
-<img src="/images/0816612285.gif" align="right" />
-which stems from the analytic tradition in philosophy, and to suggest
+ which stems from the analytic tradition in philosophy, and to suggest
 that a Wittgenstein-inspired approach may actually be closer in spirit
 and content to that of an unlikely candidate whose views, in contrast to
 the analytic school, harbor a distinctly Continental flavor which has
@@ -561,7 +550,7 @@ Object](eth_dost.html)
 Concepts, Views](ethnomethodology.html). Ethnomethodology is "the study of common social knowledge, in particular
 as it concerns the understanding of others and the varieties of
 circumstance in which it can take place." -- Simon Blackburn,
-<img src="/images/0192831348.gif" align="right" /> [The
+The
 Oxford Dictionary of
 Philosophy,
 p. 126. [Read more ...](ethnomethodology.html)
