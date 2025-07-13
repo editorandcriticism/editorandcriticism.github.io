@@ -1,11 +1,8 @@
 ---
-description: |
-	A Wittgensteinian Approach to Discourse Analysis. An essay in discourse analysis by Steve Hoenisch. Criticism.Com contains other essays in discourse analysis and linguistics as well as in Wittgenstein, philosophy, Freud, Barthes, Dostoyevsky, Saussure, social science, Weber, Bakhtin, and psychoanalysis. Site includes a bookstore.
-keywords: | 
-	Wittgenstein, criticism, discourse analysis, linguistics, books, Bakhtin, sociology, semiology, structuralism, postmodernism, Saussure, poststructuralism, sociolinguistics, Steve Hoenisch, book reviews, Roland Barthes, objectivity, Ludwig Wittgenstein, Freud, psychoanalysis, philosophy, bookstore, social science">
+description: A Wittgensteinian Approach to Discourse Analysis. An essay in discourse analysis by Steve Hoenisch. Criticism.Com contains other essays in discourse analysis and linguistics as well as in Wittgenstein, philosophy, Freud, Barthes, Dostoyevsky, Saussure, social science, Weber, Bakhtin, and psychoanalysis. Site includes a bookstore.
+keywords: Wittgenstein, criticism, discourse analysis, linguistics, Bakhtin, sociology, semiology, structuralism, postmodernism, Saussure, poststructuralism, sociolinguistics, Steve Hoenisch, book reviews, Roland Barthes, objectivity, Ludwig Wittgenstein, Freud, psychoanalysis, philosophy, social science">
 
-title: |
-	A  Wittgensteinian Approach to Discourse Analysis
+title: A Wittgensteinian Approach to Discourse Analysis
 ---
 
 
@@ -18,8 +15,7 @@ Copyright 1996-2020 Steve Hoenisch | [www.Criticism.Com](https://www.criticism.c
 1 Approaches to Discourse
 =========================
 
-<img src="/images/0226904350.gif" align="right" /> *Culture
-and Value*, a collection of Ludwig Wittgenstein's aphorisms, contains a
+*Culture and Value*, a collection of Ludwig Wittgenstein's aphorisms, contains a
 puzzling remark:
 
 > "In a conversation: one person throws a ball; the other does not know
@@ -42,8 +38,7 @@ often obscure rules, to clearly mark out its boundaries and to identify
 its players, coaches and referees.
 
 Although discourse analysis has come to be seen as a subdiscipline of
-linguistics, the roots of several of the seven established approaches to
-<img src="/images/0631166238.gif" align="right" /> discourse have grown out of philosophy, and at least two of them are
+linguistics, the roots of several of the seven established approaches to discourse have grown out of philosophy, and at least two of them are
 based directly in the writings of prominent philosophers. The approach
 known as speech act theory was formulated by the philosopher John L.
 Austin and developed by John Searle. A second approach, often called
@@ -57,8 +52,7 @@ This essay seeks to take Wittgenstein's influence on discourse analysis
 a step further by using his writings as the theoretical foundation for
 an approach to analyzing discourse that is distinct from speech act
 theory,
-<img src="/images/bkgenres.gif" align="right" /> 
-<img src="/images/0816612285.gif" align="right" /> which stems from the analytic tradition in philosophy, and to suggest
+<img src="/images/bkgenres.gif" align="right" /> which stems from the analytic tradition in philosophy, and to suggest
 that a Wittgenstein-inspired approach may actually be closer in spirit
 and content to that of an unlikely candidate whose views, in contrast to
 the analytic school, harbor a distinctly Continental flavor which has
@@ -249,10 +243,7 @@ language-game:
 > that differentiate and grow as the particular sphere develops and
 > becomes more complex."15
 
-<img src="/images/0140445277.gif" align="right" />
-<img src="/images/0140442529.jpg" align="right" /> 
-<img src="/images/0140446583.gif" align="right" />  Bakhtin
-derives his claim from an analysis of Dostoyevsky's work, which was also
+Bakhtin derives his claim from an analysis of Dostoyevsky's work, which was also
 a favorite of Wittgenstein's. Bakhtin stood in awe of the multiplicity
 of voices and languages (metaphorically, within say, Russian), and it
 was in the work of Dostoyevsky that Bakhtin found the ultimate
@@ -275,7 +266,7 @@ and
 ~~~~
 
 The activities in (i) and (ii) are seen by many of today's
-semantic<img src="/images/0679734503.gif" align="right" /> theorists as being distinct: The meaning of expressions that fall under
+semantic theorists as being distinct: The meaning of expressions that fall under
 set (i) is dependent in large part on what it is used to do; the meaning
 of set (ii), on the other hand, is often formulated in reference to the
 truth conditions of the expressions. But Wittgenstein makes no bones
@@ -472,8 +463,7 @@ case." Wittgenstein retorts: "But 'that such-and-such is the case' is
 not a sentence in our language -- so far as it is not a move in the
 language-game."^35^
 
-<img src="/images/0385094027.gif" align="right" /> The
-construct of a move closely mirrors the notion of footing that Erving
+The construct of a move closely mirrors the notion of footing that Erving
 Goffman employs in his interactional sociolinguistics approach to
 conversation: Footing, Goffman says, concerns "the alignments we take up
 to ourselves and the others present as expressed in the way we manage
@@ -923,7 +913,7 @@ trans. David Magarshack (London: Penguin Books, 1955), p. 280.
 <i class="fa fa-file-text" aria-hidden="true"></i> [Interpretation and Indeterminancy in
 Discourse Analysis](da_indet.html)
 
-<img src="/images/0631166238.gif" align="right" /> 
+
 Throughout the essay, I will argue a hard line: the exact meaning of a
 speaker's utterance in a contextualized exchange is often indeterminate.
 Within the context of the analysis of the teacher-pupil exchange, I will
