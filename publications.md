@@ -2,14 +2,21 @@
 title: Publications
 ---
 
+## See Also 
 
-Publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). <!-- tiny add right here linking to putnam's address with me in it in a way that links it as a citation to data science and analytics. -->
+<i class="fa fa-university" aria-hidden="true"></i> See also the publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
 
-<!-- Add: View LinkedIn Profile and Publications List; view profile on Academia.com.  -->
+<i class="fa fa-university" aria-hidden="true"></i> My cited essay in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; or [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
+
+<i class="fa fa-linkedin-square" aria-hidden="true"></i>
+ [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
+
+
+<!-- Add: view profile on Academia.com, etc.  -->
 <!-- full syntax fr goggle: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=steve+hoenisch&btnG= -->
 
-## Publications 
+## Papers, Blog Posts, Conference Presentations
 
 <!-- ++ Add some citations below. Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto women's book along same lines.  -->
 
@@ -56,17 +63,16 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Running CNFs on Bare Metal -- Merit or Mirage? The Abstraction of Virtualization Yields Concrete Benefits](https://blogs.vmware.com/telco/running-cnfs-on-bare-metal-merit-or-mirage-the-abstraction-of-virtualization-yields-concrete-benefits/)
 
+<i class="fa fa-globe" aria-hidden="true"></i>
 Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
 
-Delve into the Demonstratable Power of the VMware Telco Cloud at MWC Barcelona 2023 (Demo Roundup)
-https://blogs.vmware.com/telco/mwc23-demos/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Delve into the Demonstratable Power of the VMware Telco Cloud at MWC Barcelona 2023](https://blogs.vmware.com/telco/mwc23-demos/)
 
-RAN Innovation in Action: Attend Our rAppathon at MWC Barcelona (with team)
-https://blogs.vmware.com/telco/rapppathon/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [RAN Innovation in Action: Attend Our rAppathon at MWC Barcelona (with team)](https://blogs.vmware.com/telco/rapppathon/)
 
-Can You Hear Me Now? A Guide for Telco Writers Save Time by Staying on Message and on Target
+<i class="fa fa-file-text"></i> Can You Hear Me Now? A Guide for Telecom Writers: Save Time by Staying on Message and on Target
 
-Research Paper: Open RAN government policy briefing.
+<i class="fa fa-file-text"></i> Research Paper: Open RAN government policy briefing
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: RAN Workload Performance Is Equivalent on Bare Metal and vSphere](https://blogs.vmware.com/telco/ran-workload-performance-tests-on-vmware-vsphere/)
 
@@ -83,38 +89,38 @@ and the State of Cybersecurity (with coauthor)
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/5g-security-horizontal-vs-vertical/) Complexity or Commonality? Cybersecurity for Horizontal vs.
 Vertical 5G Architectures
 
-E-book: [Telco Cloud for
+<i class="fa fa-book" aria-hidden="true"></i> [E-book: Telco Cloud for
 Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
 
-E-Book: RAN Transformation for Dummies
-Helped edit and contribute to:
-https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1742210_RAN-Transaformation.pdf
+<i class="fa fa-book" aria-hidden="true"></i> [E-Book: RAN Transformation for Dummies](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1742210_RAN-Transaformation.pdf) (Contributing writer and contributing editor.)
 
-Solution Brief: Run CNFs on Virtual Machines To Optimize Your 5G
-Networks: The Synergy of Combining Containers and VMs Delivers Security,
-Management, and Automation
-https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-virtual-machines-or-bare-metal-overview.pdf
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Solution Brief: Run CNFs on Virtual Machines To Optimize Your 5G
+Networks: The Synergy of Combining Containers and VMs Delivers Security, Management, and Automation](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-virtual-machines-or-bare-metal-overview.pdf)
 
-Advancing Partner Success with CSAR Self-Certification in the Ready for Telco Cloud Program (rewrote some aspects, added new lede, some minor restructuring)
-https://blogs.vmware.com/telco/csar/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Advancing Partner Success with CSAR Self-Certification in the Ready for Telco Cloud Program](https://blogs.vmware.com/telco/csar/) (With team.)
 
-Validating Commercial Readiness of Open vRAN: VMware and Mavenir Streamline Deployments with Automation
-https://blogs.vmware.com/telco/mavenir-vran/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> Validating Commercial Readiness of Open vRAN: VMware and Mavenir Streamline Deployments with Automation](https://blogs.vmware.com/telco/mavenir-vran/)
 
-Collaboration to the Core: Ericsson and VMware validation projects bring velocity to 5G installations
-https://blogs.vmware.com/telco/ericsson-core/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Collaboration to the Core: Ericsson and VMware validation projects bring velocity to 5G installations](https://blogs.vmware.com/telco/ericsson-core/)
 
-Giving CSPs the Choice and Flexibility to Match Far-Edge RAN Site Architecture to their Requirements
-https://blogs.vmware.com/telco/project-kauai/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Giving CSPs the Choice and Flexibility to Match Far-Edge RAN Site Architecture to their Requirements](https://blogs.vmware.com/telco/project-kauai/)
 
-Nokia and VMware: Driving 5G Cloud RAN Transformation through Joint Innovation 
-https://blogs.vmware.com/telco/nokia-ran-partnership/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Nokia and VMware: Driving 5G Cloud RAN Transformation through Joint Innovation](https://blogs.vmware.com/telco/nokia-ran-partnership/)
 
-Ignite Your 5G Deployments with the VMware Telco Cloud
-Operate and Monetize 5G Multi-Cloud Networks with Agility, Automation, and Assurance
+<i class="fa fa-file-text"></i> Ignite Your 5G Deployments with the VMware Telco Cloud: Operate and Monetize 5G Multi-Cloud Networks with Agility, Automation, and Assurance
 
-White Paper: Evaluating Cloud-Native Platform Capabilities To Run Multi-Vendor CNFs: Assessing the Readiness of Telco Platforms for Automating Containerized Network Functions 
-https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Evaluating Cloud-Native Platform Capabilities To Run Multi-Vendor CNFs: Assessing the Readiness of Telco Platforms for Automating Containerized Network Functions]( 
+https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
+
+
+
+
+
+
+
+
+
+
 
 Telcos Get Technical: Podcast Episode on Sustainability
 https://blogs.vmware.com/telco/telcos-get-technical_sustainability/
@@ -138,22 +144,21 @@ Announcing VMware Telco Cloud Platform: A Cloud-Native Architecture to Propel CS
 VMware Telco Cloud Blog.
 https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/
 
-Blog Post: Teleport Around a Multi-Cloud World with VMworld Demos and Sessions on 5G, Edge, and RAN
-https://blogs.vmware.com/telco/vmworld-2021-demos/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Teleport Around a Multi-Cloud World with VMworld Demos and Sessions on 5G, Edge, and RAN](https://blogs.vmware.com/telco/vmworld-2021-demos/)
 
 Go Cloud Native in Style: A Guide for Blog Writers: Save Time by Staying on Message and on Target
 
 [Technical Documentation:](https://vmware.github.io/photon/docs-v5/) Photon OS (Developed the early documentation for this Linux operating system)
 
-Data Lakes for Big Data and Analytics. R Peterson, S Hoenisch - 2018 - Addison-Wesley Professional Books.
-
-
 
 <!-- AT END PUlled (done) all markdown from **portfolio.md** at end and don't maintain that file or others like white papers.md dittoes portfolio list. -->
 
-### E-Books
-
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
+
+
+### Books and E-Books 
+
+<i class="fa fa-book" aria-hidden="true"></i> Data Lakes for Big Data and Analytics. R Peterson, S Hoenisch - 2018 - Addison-Wesley Professional Books.
 
 <i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). Book published by Wiley and VMware.
 
