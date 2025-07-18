@@ -8,10 +8,8 @@ title: Publications
 
 <i class="fa fa-university" aria-hidden="true"></i> My cited essay in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; or [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
-
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
-
 
 <!-- Add: view profile on Academia.com, etc.  -->
 <!-- full syntax fr goggle: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=steve+hoenisch&btnG= -->
@@ -112,43 +110,29 @@ Networks: The Synergy of Combining Containers and VMs Delivers Security, Managem
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Evaluating Cloud-Native Platform Capabilities To Run Multi-Vendor CNFs: Assessing the Readiness of Telco Platforms for Automating Containerized Network Functions]( 
 https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
 
-
-
-
-
-
-
-
-
-
-
+<i class="fa fa-podcast" aria-hidden="true"></i>
 Telcos Get Technical: Podcast Episode on Sustainability
 https://blogs.vmware.com/telco/telcos-get-technical_sustainability/
 
-Telcos Get Technical: Podcast Episode on RAN Intelligent Controller
-https://blogs.vmware.com/telco/podcast-ric/
+<i class="fa fa-podcast" aria-hidden="true"></i>
+[Telcos Get Technical: Podcast Episode on RAN Intelligent Controller](https://blogs.vmware.com/telco/podcast-ric/)
 
-Telcos Get Technical: Podcast Episode on Open RAN
-https://blogs.vmware.com/telco/tgt-podcast-open-ran/
+<i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Open RAN](https://blogs.vmware.com/telco/tgt-podcast-open-ran/)
 
-Telcos Get Technical: Podcast Episode on Network Transformation
-https://blogs.vmware.com/telco/tgt-podcast-network-transformation/
+<i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Network Transformation](https://blogs.vmware.com/telco/tgt-podcast-network-transformation/)
 
-Telcos Get Technical: Podcast Episode on Avoiding Unplanned Downtime
-https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/
+<i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Avoiding Unplanned Downtime](
+https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/)
 
-Streamlining Operations and Automating Lifecycle Management with Telco Cloud Platform: Insights from Analysys Mason
-https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Streamlining Operations and Automating Lifecycle Management with Telco Cloud Platform: Insights from Analysys Mason](https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/)
 
-Announcing VMware Telco Cloud Platform: A Cloud-Native Architecture to Propel CSPs Toward 5G. 
-VMware Telco Cloud Blog.
-https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Announcing VMware Telco Cloud Platform: A Cloud-Native Architecture to Propel CSPs Toward 5G](https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Teleport Around a Multi-Cloud World with VMworld Demos and Sessions on 5G, Edge, and RAN](https://blogs.vmware.com/telco/vmworld-2021-demos/)
 
-Go Cloud Native in Style: A Guide for Blog Writers: Save Time by Staying on Message and on Target
+<i class="fa fa-cloud" aria-hidden="true"></i> Go Cloud Native in Style: A Guide for Writing Blog Posts
 
-[Technical Documentation:](https://vmware.github.io/photon/docs-v5/) Photon OS (Developed the early documentation for this Linux operating system)
+<i class="fa fa-github"></i> [Technical Documentation:](https://vmware.github.io/photon/docs-v5/) Photon OS (Developed the early documentation for this Linux operating system)
 
 
 <!-- AT END PUlled (done) all markdown from **portfolio.md** at end and don't maintain that file or others like white papers.md dittoes portfolio list. -->
@@ -156,7 +140,7 @@ Go Cloud Native in Style: A Guide for Blog Writers: Save Time by Staying on Mess
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
 
-### Books and E-Books 
+## Books and E-Books 
 
 <i class="fa fa-book" aria-hidden="true"></i> Data Lakes for Big Data and Analytics. R Peterson, S Hoenisch - 2018 - Addison-Wesley Professional Books.
 
@@ -170,7 +154,7 @@ Go Cloud Native in Style: A Guide for Blog Writers: Save Time by Staying on Mess
 
 
 
-### White Papers
+## White Papers
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
@@ -355,7 +339,7 @@ solving many problems in auditing unstructured data.
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
-### Fact Sheets and Data Sheets
+## Fact Sheets and Data Sheets
 
 
 <i class="fa fa-file-pdf-o"></i> [Photon OS: A Linux Container-Optimized Operating System](https://vmware.github.io/photon/assets/files/photon-os-datasheet.pdf). Project Photon OS is an open source Linux container host optimized for cloud-native applications, cloud platforms, and VMware infrastructure. Photon OS provides a secure runtime environment for running containers.
@@ -388,13 +372,13 @@ unstructured health data to address emerging information security
 guidelines from the National Institute of Standards and Technology.
 
 
-### Case Studies
+## Case Studies
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Energy Company Achieves Red Hat Windows Integration](/cc/case-study-redhat.html): This case study describes how a company deployed Likewise Enterprise to integrate IBM AIX and Red Hat Linux machines with Microsoft Windows computers and Active Directory. 
 
 
 
-### SEO Writing and Marcom
+## SEO Writing and Marcom
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Storage Optimization](/cc/web-page-copy.html): Tune Your Management Strategy for Unstructured Data: The explosion of unstructured data in the face of shrinking IT budgets demands efficient storage management. Virtualization, deduplication, tiering, charge-back models, and service-level agreements are all essential, but to truly excel you need to manage your unstructured data in the context of its life cycle and your business strategy. 
 
@@ -557,7 +541,7 @@ strong foundation for Sarbanes-Oxley compliance.
 
 
 
-### Guides and Technical Articles on Open-Source Software
+## Guides and Technical Articles on Open-Source Software
 
 <i class="fa fa-github"></i> [Photon Platform Quick Start Guide for 1.2](https://vmware.github.io/photon-controller/assets/files/photon-controller-quick-start-guide-1.2.pdf). 
 
@@ -587,21 +571,20 @@ strong foundation for Sarbanes-Oxley compliance.
 
 <i class="fa fa-github"></i> [Running Photon OS on Amazon Elastic Cloud Compute](https://github.com/vmware/photon/wiki/Running-Photon-OS-on-Amazon-Elastic-Cloud-Compute). An in-depth how-to article.
 
-### Newspaper Articles
+## Newspaper Articles
 
 <i class="fa fa-external-link-square"></i> [Bargain
 Trips](https://articles.chicagotribune.com/1994-03-13/cc/9403130494_1_drive-%20away-companies-automobile-transporters-travelers):
 See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 
 
-### Related
+## Related
 
 <i class="fa fa-file-text"></i> [For SEO, Set Your First Heading in the H1 Tag](/seo/h1.html)
 
 <i class="fa fa-file-text"></i> [Include a Unique, Accurate Title in Your HTML Document's Header](/seo/title.html)
 
-<i class="fa fa-file-text"></i> [Structuring Documents with
-XML](/dita/structuring_docs.html)
+<i class="fa fa-file-text"></i> [Structuring Documents with XML](/dita/structuring_docs.html)
 
 <i class="fa fa-file-text"></i> [Tagging DocBook XML Documents for Search Engine Optimization](/seo/docbook.html)
 
