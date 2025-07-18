@@ -6,7 +6,7 @@ keywords: white papers, blog posts, blogs, presentations, solution overviews, so
 
 ## See Also 
 
-<i class="fa fa-university" aria-hidden="true"></i> See also the publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
+<i class="fa fa-university" aria-hidden="true"></i> See also my publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
 
 <i class="fa fa-university" aria-hidden="true"></i> My cited essay in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; or [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
@@ -112,9 +112,7 @@ Networks: The Synergy of Combining Containers and VMs Delivers Security, Managem
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Evaluating Cloud-Native Platform Capabilities To Run Multi-Vendor CNFs: Assessing the Readiness of Telco Platforms for Automating Containerized Network Functions]( 
 https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
 
-<i class="fa fa-podcast" aria-hidden="true"></i>
-Telcos Get Technical: Podcast Episode on Sustainability
-https://blogs.vmware.com/telco/telcos-get-technical_sustainability/
+<i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Sustainability](https://blogs.vmware.com/telco/telcos-get-technical_sustainability/)
 
 <i class="fa fa-podcast" aria-hidden="true"></i>
 [Telcos Get Technical: Podcast Episode on RAN Intelligent Controller](https://blogs.vmware.com/telco/podcast-ric/)
