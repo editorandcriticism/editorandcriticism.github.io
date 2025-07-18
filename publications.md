@@ -1,5 +1,7 @@
 ---
 title: Publications
+description: Papers, blog posts, conference presentations, and other works by Steven Hoenisch. 
+keywords: white papers, blog posts, blogs, presentations, solution overviews, solution briefs, solution architecture, books, e-books, marketing communications, technical documentation
 ---
 
 ## See Also 
@@ -589,6 +591,8 @@ See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 <i class="fa fa-file-text"></i> [Tagging DocBook XML Documents for Search Engine Optimization](/seo/docbook.html)
 
 <i class="fa fa-file-text"></i> [Search Engine Optimization Techniques](/seo/search-engine-optimization.html)
+
+<i class="fa fa-file-text"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html): This essay seeks to shed light on Weber's view of the applicability of objectivity by answering a question that dogs Weberian scholarship: Was Weber an advocate of value-free social science? [Download PDF](/md/weber1.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 
 <i class="fa fa-file-text"></i> [Resume](/md/resume.html)
 
