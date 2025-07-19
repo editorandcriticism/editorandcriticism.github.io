@@ -2,7 +2,7 @@
 description: |
     Personal profile of Steve Hoenisch, editor of criticism.com.
 keywords: |
-    criticism,  writer, editor, technical marketing, discourse analysis, text linguistics, media criticism, Max Weber, media theory, Wittgenstein, skiing, Steve Hoenisch, Alpental, technical white papers, white papers, critical theory
+    criticism,  writer, editor, technical marketing, discourse analysis, text linguistics, media criticism, Max Weber, media theory, Wittgenstein, skiing, Steve Hoenisch, Alpental, technical white papers, white papers, critical theory, Seattle, Portland, New York, Whistler
 title: |
     Steve Hoenisch: Profile
 ---
@@ -67,14 +67,11 @@ Steve Hoenisch launching off the Box, Main Chute, Palisades, Squaw Valley, Calif
 
 ------------------------------
 
-
-
-
 **Some social and cultural critics I like:** Marshall Berman, Robert D. Putnam, Patricia Clough, and [Lester Faigley](https://www.cwrl.utexas.edu/~faigley/about.html) --- the [first couple of chapters](https://www.cwrl.utexas.edu/~faigley/work/frag.html) of *Fragments of Rationality: Postmodernity and the Subject of Composition* is an exceptionally cogent discussion of postmodernism and the related structural changes that have, since 1963, transformed America. Other theorists whose work I admire: [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8). 
 
 **Theorists** I like in a way that hasn't passed: Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, and especially Raymond Williams (*The Country and the City* is one of my favorite books). 
 
-**Writers** I like in a way that hasn't passed: Bruce Chatwin, Paul Bowles, Milan Kundera.
+**Writers** I like in a way that hasn't passed: Bruce Chatwin, Paul Bowles, Milan Kundera, Franz Kafka, Dostoevsky, Jane Austen, Margeret Atwood, Choukri, Achebe, Borges, Delillo, Rushdie, Camus, Musil.
 
 **Ideas I like:** I embrace critical theory's historical ideal of human emancipation and freedom from domination. Two of the practical ramifications of such a position are to look for mutuality and equality in interpersonal relationships and to work in a place devoid of hierarchy. The political ramifications are obvious: Working to put in place systems of participatory democracy governed by self-rule and economic systems governed by the principles of social justice. 
 
@@ -86,8 +83,16 @@ I also embrace the mission of the Congressional Progressive Caucus, which was, a
 
 **More ideas that I like:** Empathy and kindness as practices of resistance; re-evaluating ideas that are [uncritically adopted](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/) from the system in which we are embedded; substance over image; literature as social knowledge; the dialogic voice and the dialogic imagination; inclusion over ritual [exclusion](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/); integration over dispossession; freedom from the iron cage and the silicon cage through economic justice; organic social interaction in the village-like neighborhoods of the inner city. 
 
-**Some writers and critics** who I think have  accurately analyzed what's been
-happening:
+**Some writers and critics** who I think have accurately analyzed what's happening now:
+
+* Husserl.
+* Heidegger.
+* Marcuse.
+* Broch.
+* Musil.
+* Kundera.
+
+**Some writers and critics** who I think have accurately analyzed what's previously happened in the world:
 
 -   Robert D. Putnam
 -   Robert Reich
@@ -100,7 +105,6 @@ happening:
 -   George Lakoff
 -   [Jacob S. Hacker and Paul
     Pierson](https://books.simonandschuster.com/Winner-Take-All-Politics/Jacob-S-Hacker/9781416588696)
-
 
 **Television Free:** 1982 through 1994; 2003 to present. 
 
