@@ -9,17 +9,24 @@ keywords: |
 # Resume of Steven Hoenisch
 
 
-![Steven Hoenisch email address](/images/em.png)
+
+<img src="/images/em.png" alt="Steven Hoenisch email address" />
+
 
 
 ## Summary
 
-* **Experience:** More than 15 years in strategic communications, editing, writing, marketing, and solution architecture at Broadcom, VMware, EMC, Likewise Software, Reed Business Information, AT&T, and Verizon Wireless. More than 6 years as an editor at such daily newspapers as *American Banker* and *The Hartford Courant*. 
+* **Experience:** More than 15 years in strategic communications, editing, writing, marketing, and solution architecture at Intel, Broadcom, VMware, EMC, Likewise Software, Reed Business Information, AT&T, and Verizon Wireless. More than 6 years as an editor at such daily newspapers as *American Banker* and *The Hartford Courant*. 
 * **Education:** Master's degree in Linguistics.
 * **Knowledge:** Cloud computing, cloud platforms, cloud-native technology, cybersecurity, security protocols, network architecture, telecommunications systems, regulatory compliance, virtualization, edge, infrastructure as a service (IaaS), virtual machines, containers, Kubernetes, Linux, markup languages and data formats, software development, user experience, technical marketing, marketing strategy and messaging, scalable publishing processes and systems, text linguistics, standards, reader-centered writing, evidence-based practices, natural language processing (NLP), AI/ML.
 * **Publications:** Influential blog posts, white papers, ebooks, and technical documentation that explain how to solve real-world problems with emerging technology.
 
 ## Experience
+
+**Writer, Intel**\
+Open Edge Platform. April 2025-present.
+
+* Working on edge computing and AI.  
 
 **Sr. Technical Marketing Manager and Technical Marketing Engineer, Telco Business Unit, VMware and Broadcom**\
 Also formerly in the Cloud-Native Applications Business Unit. VMware was acquired by Broadcom in November 2023. 2016-January 2025:
