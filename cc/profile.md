@@ -58,8 +58,7 @@ Streets and city parks have always been a big part of my life. I like to walk ar
 -   Oak's Park Roller Rink.
 
 
-
-**Some Highlights:** Helicopter off Palisades at Squaw Valley; Robert D. Putnam cites essay on Weber; Weber gets best of social science for web award; backcountry skiing at Alpental, Crystal, and Mt. Hood. 
+**Some Highlights:** Helicopter off Palisades at Squaw Valley; Robert D. Putnam cites essay on Weber; Weber gets best of social science for web award; backcountry skiing at Alpental, Crystal, and Mt. Hood.
 
 
 <img alt="Skiing at Squaw Valley." src="/photos/steve-hoenisch-ski-jumping-off-palisades-squaw-valley.jpg" width="524" height="776" />
@@ -75,8 +74,7 @@ Steve Hoenisch launching off the Box, Main Chute, Palisades, Squaw Valley, Calif
 
 **Theorists** I like in a way that hasn't passed: Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, and especially Raymond Williams (*The Country and the City* is one of my favorite books). 
 
-**Writers** I like in a way that hasn't passed: Bruce Chatwin, Paul
-Bowles.
+**Writers** I like in a way that hasn't passed: Bruce Chatwin, Paul Bowles, Milan Kundera.
 
 **Ideas I like:** I embrace critical theory's historical ideal of human emancipation and freedom from domination. Two of the practical ramifications of such a position are to look for mutuality and equality in interpersonal relationships and to work in a place devoid of hierarchy. The political ramifications are obvious: Working to put in place systems of participatory democracy governed by self-rule and economic systems governed by the principles of social justice. 
 
