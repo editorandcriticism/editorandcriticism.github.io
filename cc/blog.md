@@ -48,6 +48,8 @@ Vertical 5G Architectures
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/) Adapting to a Changing Landscape and Shifting Requirements
 with Built-in Security
 
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Automate to Acclimate: How to Rapidly Launch and Modify 5G Services on the Fly](https://blogs.vmware.com/telco/automate-to-acclimate/)
+
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although Criticism.Com contains links to blog posts and white papers that I've written while employed by various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I have worked for in the past. The blog posts and white papers are published their companies' respective web sites; these are just links to those blog posts and papers.</p>
 
 <img alt="Sunset over Bellevue" src="/photos/bellevue-sunset.jpg" width="682" height="512" />

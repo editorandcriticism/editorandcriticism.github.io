@@ -10,9 +10,11 @@ title: |
 
 >This page presents some of my history and lists some of the people, places, activities, ideas, writers, and books that I like. 
 
+The email address of Steve Hoenisch: ![Steve Hoenisch email address](/images/em.png).
+
 **Current hometown:** Seattle.
 
-**Current home mountains:** Whistler Blackcomb, Stevens Pass, Alpental. 
+**Current home mountains:** Whistler Blackcomb. 
 
 ![](/images/steve-hoenisch-skiing.jpg)
 
@@ -24,7 +26,7 @@ food, travel, slow cities, literature, mindfulness.
 
 **Some Places I've lived:** Brooklyn (Williamsburg); Manhattan; London, England; Leadville, Colo.; Tahoe City; Salem, Mass.; Granite, Utah; Vermont. 
 
-**Past home mountains:** Timberline, Mt. Hood; Copper Mountain, Colo.; Mt. Hood Meadows, Ore.; Mt. Bachelor, Ore., Squaw Valley, Calif.; Snowbird, Utah; Sugarbush, Vermont; Mad River Glen, Vermont. 
+**Past home mountains:** Alpental, Timberline, Mt. Hood; Copper Mountain, Colo.; Mt. Hood Meadows, Ore.; Mt. Bachelor, Ore., Squaw Valley, Calif.; Snowbird, Utah; Sugarbush, Vermont; Mad River Glen, Vermont; Stevens Pass, Wash.
 
 **Education:** Master's degree in linguistics, The Graduate Center, City
 University of New York; bachelor's degree in philosophy, , minor in economics, University of

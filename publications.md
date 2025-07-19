@@ -66,6 +66,8 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 <i class="fa fa-globe" aria-hidden="true"></i>
 Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
 
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Automate to Acclimate: How to Rapidly Launch and Modify 5G Services on the Fly](https://blogs.vmware.com/telco/automate-to-acclimate/)
+
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Delve into the Demonstratable Power of the VMware Telco Cloud at MWC Barcelona 2023](https://blogs.vmware.com/telco/mwc23-demos/)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [RAN Innovation in Action: Attend Our rAppathon at MWC Barcelona (with team)](https://blogs.vmware.com/telco/rapppathon/)
