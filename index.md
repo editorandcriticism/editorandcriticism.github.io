@@ -1,16 +1,13 @@
 ---
-description: |
-    Criticism.com includes essays, white papers, and book reviews on technology, media theory, media criticism, discourse analysis, philosophy, and linguistics.
-keywords: |
-    criticism, discourse analysis, linguistics, media criticism, Max Weber, media theory, structuralism, postmodernism, Saussure, media sociology, sociolinguistics, psycholinguistics, computational linguistics, Steve Hoenisch, Roland Barthes, objectivity, Wittgenstein, Freud, psychoanalysis, philosophy, social science, skiing, travel, media culture, white paper writer, technical editor, technology writing, SEO writer, white papers, SEO editor, marcom, marketing communications, technical marketing writer, Hadoop, big data, analytics, data science, information security, technology evangelist, evangelism
-title: |
-    Criticism.Com: Technology, Media Culture, Critical Theory
+description: Criticism.com includes essays, papers, and blog posts on technology, critical thought, media culture, philosophy, linguistics, literature, and literary criticism.
+keywords: criticism, discourse analysis, linguistics, media criticism, Max Weber, media theory, structuralism, postmodernism, Saussure, media sociology, sociolinguistics, psycholinguistics, computational linguistics, Steve Hoenisch, Roland Barthes, objectivity, Wittgenstein, Freud, psychoanalysis, philosophy, social science, skiing, travel, media culture, white paper writer, technical editor, technology writing, SEO writer, white papers, SEO editor, marcom, marketing communications, technical marketing writer, Hadoop, big data, analytics, data science, information security, technology evangelist, evangelism
+title: 'Criticism.com: Experiments at the interplay of critical thought, text, and technology.' 
 ---
 
 
 
 
-Criticism.com presents papers and essays on technology, media culture, psychology, philosophy, linguistics, literature, and literary criticism.
+Criticism.com presents papers, essays, and blog posts on technology, media culture, psychology, philosophy, linguistics, literature, and literary criticism.
 
 
 

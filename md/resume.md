@@ -24,7 +24,7 @@ keywords: |
 ## Experience
 
 **Writer, Intel**\
-Open Edge Platform. April 2025-present.
+Open Edge Platform. April 2025-present:
 
 * Working on edge computing and AI.  
 
