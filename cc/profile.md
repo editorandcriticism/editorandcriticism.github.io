@@ -85,11 +85,12 @@ I also embrace the mission of the Congressional Progressive Caucus, which was, a
 
 **Some writers and critics** who I think have accurately analyzed what's happening now:
 
-* Husserl.
-* Heidegger.
-* Marcuse.
 * Broch.
 * Musil.
+* Husserl.
+* Heidegger.
+* Nietzsche
+* Marcuse.
 * Kundera.
 
 **Some writers and critics** who I think have accurately analyzed what's previously happened in the world:

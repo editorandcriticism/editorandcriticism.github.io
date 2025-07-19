@@ -9,6 +9,8 @@ keywords: |
 # Resume of Steven Hoenisch
 
 
+![Steven Hoenisch email address](/images/em.png)
+
 
 ## Summary
 
@@ -22,7 +24,7 @@ keywords: |
 **Sr. Technical Marketing Manager and Technical Marketing Engineer, Telco Business Unit, VMware and Broadcom**\
 Also formerly in the Cloud-Native Applications Business Unit. VMware was acquired by Broadcom in November 2023. 2016-January 2025:
 
-* Wrote, edited, and produced distinctive, defensible, targeted, and influential blog posts, white papers, and ebooks on AI/ML, cloud computing, telecommunications, cloud-native technology, transformation, sustainability, automation, and cybersecurity.
+* Wrote, edited, and produced distinctive, defensible, targeted, and influential blog posts, white papers, and ebooks on AI/ML, cloud computing, telecommunications, cloud-native technology, transformation, sustainability, automation, and cybersecurity. 
 * Helped create and refine the strategy and messaging for the telecom product portfolio to support sales teams and increase revenue.
 * Wrote technical documentation on security, computing infrastructure, and a Linux operating system.
 * Helped establish VMware as a thought leader in the security, telecom, and cloud-native spaces.
@@ -31,7 +33,7 @@ Also formerly in the Cloud-Native Applications Business Unit. VMware was acquire
 **Senior Solutions Architect and White Paper Writer, EMC Emerging Technologies Division**\
 EMC Emerging Technologies Division makes distributed systems to store big data. 2012-January 2016:
 
-* Wrote technical white papers that established thought leadership on emerging technologies, created the messaging strategy for Hadoop, and helped increase Hadoop sales by millions of dollars.
+* Wrote technical white papers that established thought leadership on emerging technologies, created the messaging strategy for Hadoop, ranked at or near the top of Google search results for the papers' target keywords, and helped increase Hadoop sales by millions of dollars. 
 * Wrote popular best practices guides that solved complex problems with technical authority, reduced calls to support, and attracted new customers to EMC's storage, security, and compliance solutions. 
 * Wrote a book on Hadoop applications and storage architecture to evangelize big data solutions. 
 
@@ -49,6 +51,7 @@ Content Management Center of Excellence. A major international publisher, Reed p
 **Writer, Verizon**\
 Commercial Data Systems unit of Verizon Wireless. 2000-2004. Wrote position papers, guides, and engineering standards for systems delivering mobile data services, such as text messaging. 
 
+
 **Instructor, Teacher, or Trainer**: AT&T, Bronx Community College, Harlem Hospital, Maimonides Medical Center, Brooklyn Public Library, New York City College of Technology (City Tech).  
 
 **Newspaper Editor**: *American Banker*, *New York Daily News*, *The Salem News*, and *The Hartford Courant*. Published in *XML Journal*, *Snow Country* magazine, *Willamette Week*, *The Hartford Courant*, and the *Chicago Tribune*. 
@@ -59,8 +62,7 @@ Commercial Data Systems unit of Verizon Wireless. 2000-2004. Wrote position pape
 
 **Master's Degree:** Linguistics, The Graduate School and University Center, The City University of New York (CUNY Graduate Center). Publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1).
 
-**Bachelor's Degree:** University of Oregon. Major: philosophy; minor: economics. Activities: Player on the University of Oregon Soccer Team and Editorial Page Editor of the Oregon Daily Emerald newspaper.
-
+**Bachelor's Degree:** University of Oregon. Major: philosophy; minor: economics. Activities: Player on the University of Oregon Soccer Team <!-- , literary journal editor, --> and Editorial Page Editor of the _Oregon Daily Emerald_ newspaper.
 
 ## Publications 
 
@@ -96,5 +98,7 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 [White Paper:](https://www.vmware.com/docs/vmw-telco-ran-security-wp) Security for Open RAN in 5G Telco Clouds: Protecting Networks with Automation and Zero-Trust Architecture
 
 [Blog Post:](https://blogs.vmware.com/telco/tackling-objectives/) Tackling Strategic Business Objectives with a Single Cloud Stack
+
+
 
 
