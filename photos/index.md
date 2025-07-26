@@ -63,6 +63,11 @@ tent: &#9978;
 -->
 
 
+## Cool Pictures of Places
+
+
+![The Purple Pedestrian Bridge.](bridge-vail.jpg)
+
 
 ## Related 
 

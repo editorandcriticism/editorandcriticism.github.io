@@ -39,8 +39,7 @@ evolved to cover [linguistics](/linguistics/),
 
 
 
-![](images/docblue.gif) [What others are saying](kudos.html) about
-Criticism.com.
+[What others are saying](kudos.html) about Criticism.com.
 
 
 
@@ -69,5 +68,7 @@ name on the from line. All other email is discarded unopened as spam.
 
 
 Thank you for taking time to comment on Criticism.Com. Your remarks (if
-they're lucid and not too nasty) may eventually appear in [What Others
-Are Saying About Criticism.com](kudos.html).
+they're lucid and not too mean) may eventually appear in [What Others Are Saying About Criticism.com](kudos.html).
+
+
+
