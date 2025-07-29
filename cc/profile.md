@@ -12,7 +12,7 @@ title: |
 
 The email address of Steve Hoenisch: ![Steve Hoenisch email address](/images/em.png). 
 
-This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications](/publications.html], [list of blog posts](/cc/blog.html), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
+This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications](/publications.html), [list of blog posts](/cc/blog.html), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
 
 **Current hometown:** Seattle.
 
@@ -22,7 +22,7 @@ This page is my _personal_ profile; for my professional profile, see my [resume]
 
 
 **Interests:** Skiing, hiking, athletic training and functional training, dance, soccer, healthy 
-food, travel, slow cities, literature, mindfulness.
+food, travel, slow cities, photography, mindfulness, literature.
 
 **Teams:** Liverpool FC, Seattle Sounders, Oregon, U.S. Ski Team, Alpine Canada. &#9975; <i class="fa fa-futbol-o" aria-hidden="true"></i>
 
