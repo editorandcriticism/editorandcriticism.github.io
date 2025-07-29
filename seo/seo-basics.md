@@ -52,14 +52,18 @@ about 156 characters and spaces. Think of the description as being your
 *lede*, the nutshell statement that summarizes the news in a story.
 Example:
 
-`<meta name="description" content="Abstract: A text linguistics thesis  that conducts a topical structure analysis of  accomplished English prose by studying newspaper editorials."/>`
+`<meta name="description" content="Abstract: A text linguistics thesis 
+that conducts a topical structure analysis of accomplished English 
+prose by studying newspaper editorials."/>`
 
 Include in the metadata field for keywords a few highly relevant words
 from the page's text. These keywords categorize your page's content. The
 keywords are specific to the page in question and accurately classify
 its content. Include synonyms. Example:
 
-`<meta name="keywords" content="topical structure analysis, topic, comment, theme, rheme, discourse analysis, text linguistics, newspapers, editorials"/>`
+`<meta name="keywords" content="topical structure analysis, 
+topic, comment, theme, rheme, discourse analysis, 
+text linguistics, newspapers, editorials"/>`
 
 The keywords that you select for your metadata naturally recur in the
 content of the page -- because that is what the page is about. If a

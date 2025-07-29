@@ -39,7 +39,7 @@ page's subject. Topicality is key. Example:
 Your top-level heading might be made up solely of a target keyword or
 keyword phrase; see related suggestions below.
 
-![plus sign](/images/plus.gif) [More on using the H1 tag for your first
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on using the H1 tag for your first
 heading for SEO.](h1.html)
 
 **2. Place your heading in the title tag within your HTML header and
@@ -70,10 +70,9 @@ another critical error -- and a troubling one because several SEO firms
 recommend it. In my opinion, such a practice is radically misguided: In
 many cases, it is likely to result in less than optimal results.
 
-![Screen shot of title in Google search
-results.](images/seo_title_character_count.jpg)
 
-![plus sign](/images/plus.gif) [More on writing unique and accurate
+
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on writing unique and accurate
 titles for SEO.](title.html)
 
 **3. Include an accurate description of the page's content in the
@@ -153,7 +152,7 @@ content is clear, direct, organized, factual, detailed, and informative.
 It has breadth and, more importantly, depth: For SEO, topical depth
 trumps topical breadth.
 
-![plus sign](/images/plus.gif) [More on writing high-quality content for
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on writing high-quality content for
 free SEO.](writing-for-free-seo.html)
 
 **6. Use descriptive URLs.** The words that you use in your directory
@@ -166,7 +165,7 @@ with a hyphen. Semantic paths and file names -- which with your domain
 name make up the URL for your page -- can help improve your page's
 ranking for navigational search.
 
-![plus sign](/images/plus.gif) [More on using descriptive folder and
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on using descriptive folder and
 file names for SEO.](url.html)
 
 **7. In your content, add a few inline hyperlinks to closely related
@@ -185,7 +184,7 @@ information about XML site maps, see <http://www.sitemaps.org/>. To
 automatically generate an XML site map, go to
 <http://www.xml-sitemaps.com/>.
 
-![plus sign](/images/plus.gif) [More on using an XML Site Map for
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on using an XML Site Map for
 SEO.](xml-site-map.html)
 
 **10. Create an HTML site map for your visitors that classifies your
@@ -199,9 +198,7 @@ pages to link to all your content pages on that topic.
 
 **12. Add crawlable text-based links to your menu pages and your site
 map at the bottom of each page in your site, including your home page.**
-Here's an example of how to do it:
 
-![Text links at the bottom of a page.](images/seo_text_links.jpg)
 
 **13. Add Dublin Core metadata elements to the HTML header of your
 page.** Although including metadata based on the [Dublin
@@ -232,7 +229,7 @@ The format is slightly different for
 way, place the Dublin Core metadata in the header of your web page just
 after your usual HTML metadata.
 
-![plus sign](/images/plus.gif) [More on using Dublin Core metadata for
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on using Dublin Core metadata for
 SEO.](dublin-core-metadata.html)
 
 **14. Create a robots.txt file and place it in your root public HTML
@@ -295,7 +292,7 @@ similar topics to exchange links.
 headings in an H2 tag.** Engineer the headings so they contain the
 keywords that the page targets.
 
-![plus sign](/images/plus.gif) [More on structuring content with HTML
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on structuring content with HTML
 Heading Tags for SEO.](html-heading-tags-structure.html)
 
 **21. Use a standardized approach to create web documents.** Document
@@ -303,7 +300,7 @@ markup standards such as DocBook or DITA can help ensure that every web
 page contains a title, a description, and a set of keywords in the
 metadata.
 
-![plus sign](/images/plus.gif) [More on using DocBook XML for
+<i class="fa fa-file-text" aria-hidden="true"></i> [More on using DocBook XML for
 SEO.](docbook.html)
 
 **22. Implement a continuous publishing program** so you can constantly
@@ -326,6 +323,7 @@ here](/seo/xml-site-map.html).
 Better anchor text:
 
 See using an [XML site map for SEO](/seo/xml-site-map.html).
+
 
 *--Steve Hoenisch*
 
@@ -351,19 +349,5 @@ Search Engine Optimization](/seo/docbook.html)
 SEO](/seo/xml-site-map.html)
 
 Last Updated: Oct. 21, 2011.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

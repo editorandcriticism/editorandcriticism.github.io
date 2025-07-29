@@ -89,7 +89,7 @@ Then, submit it to Google by using a Google webmaster account, which you
 can set up at <http://www.google.com/services/>.
 
 For more information about XML site maps, see
-<http://www.sitemaps.org/>. ![End Icon](/images/endbox.gif)
+<http://www.sitemaps.org/>.<i class="fa fa-external-link-square" aria-hidden="true"></i>  
 
 *-- Steve Hoenisch*
 
@@ -113,7 +113,7 @@ XML](/dita/structuring_docs.html)
 <i class="fa fa-file-text" aria-hidden="true"></i> [Tagging DocBook XML Documents for
 Search Engine Optimization](/seo/docbook.html)
 
-![External Link Icon](/images/newwin.gif) <http://www.sitemaps.org/>
+<i class="fa fa-external-link-square" aria-hidden="true"></i> <http://www.sitemaps.org/>
 
 First Published: Oct. 7, 2011. Last Updated: Oct. 7, 2011.
 

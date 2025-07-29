@@ -10,5 +10,9 @@ A hierarchical structure that includes main topics and subtopics, all identified
 
 ## Dividing a Page into Sections with Subheadings and Anchors
 
-Another practice that benefits both users and SEO is to break up the content of a page into sections marked off by subheadings that contain an HTML anchor. Longer pages should include a TOC. For more information, see my article on using HTML headings tags for SEO.
+Another practice that benefits both users and SEO is to break up the content of a page into sections marked off by subheadings that contain an HTML anchor. Longer pages should include a TOC. For more information, see my article on [using HTML headings tags for SEO](https://criticism.com/seo/html-heading-tags-structure.html). <i class="fa fa-coffee" aria-hidden="true"></i>
+
+
+
+
 

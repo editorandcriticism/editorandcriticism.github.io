@@ -16,7 +16,7 @@ frauds](http://www.google.com/support/webmasters/bin/answer.py?answer=35291).
 Anyone who tells you they can guarantee results, or imply that they have
 a magic SEO formula, is lying in an effort to steal your money, or
 worse: They will employ illegitimate techniques that temporarily boost
-your rankings -- until the search engines find out, which they
+your rankings --- until the search engines find out, which they
 eventually will, and then your site will be
 [penalized](http://www.google.com/support/webmasters/bin/answer.py?answer=35291).
 
@@ -35,8 +35,8 @@ By high-quality content, I mean content that is written and edited to
 meet the standards of professional publishing -- content that could be
 published as a magazine article or as an entry in an encyclopedia. The
 content is clear, direct, organized, factual, and informative. It
-abides, for example, by the rules in The Chicago Manual of Style and
-Words into Type.
+abides, for example, by the rules in _The Chicago Manual of Style_ and
+_Words into Type_.
 
 The content must have breadth and, more importantly, depth: For SEO, the
 topical depth of a page is far more important than its topical breadth.
@@ -96,11 +96,12 @@ Engines](/seo/html-heading-tags-structure.html)
 <i class="fa fa-file-text" aria-hidden="true"></i> [Tag DocBook XML Documents for
 Search Engine Optimization](/seo/docbook.html)
 
-![Document Icon](/images//newwin.gif) [Check Out Google's Search Engine
-Optimization Starter
-Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Check Out Google's Search Engine
+Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 Last Updated: Oct. 21, 2011. First Published: Oct. 21, 2011.
+
+
 
 
 

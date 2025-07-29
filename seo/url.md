@@ -114,7 +114,8 @@ where your information resides, helping search engines accurately
 categorize your site's content. In addition, the descriptive folder and
 file names are indexed by search engines and are searchable. In this
 way, using descriptive paths and file names in your URLs can improve
-your site's ranking in search engines. ![End Icon](/images/endbox.gif)
+your site's ranking in search engines.
+
 
 *-- Steve Hoenisch*
 
@@ -132,7 +133,7 @@ in the H1 Tag](/seo/h1.html)
 <i class="fa fa-file-text" aria-hidden="true"></i> [Include a Unique, Accurate Title
 in Your HTML Document's Header](/seo/title.html)
 
-![External Link Icon](/images/newwin.gif)  [W3C Style Article: Cool URIs
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [W3C Style Article: Cool URIs
 Don't Change](http://www.w3.org/Provider/Style/URI)
 
 First Published: June 18, 2010. Last Updated: June 21, 2010.

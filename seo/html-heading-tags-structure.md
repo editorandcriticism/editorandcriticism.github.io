@@ -119,9 +119,12 @@ Using the HTML heading tags to make the structure of your information
 explicit and reveal the semantic hierarchy of your page's content helps
 improve your web page's ranking in search engines such as Google. What's
 more: It helps readers navigate through the content of your web
-page. ![End Icon](/images/endbox.gif)
+page.
 
-*-- Steve Hoenisch*
+
+*-- Steve Hoenisch* <i class="fa fa-coffee" aria-hidden="true"></i>
+
+
 
 **Related**
 
@@ -140,9 +143,13 @@ Search Engine Optimization](/seo/docbook.html)
 <i class="fa fa-file-text" aria-hidden="true"></i> [Search Engine Optimization (SEO)
 Techniques](/seo/search-engine-optimization.html)
 
-![External Link Icon](/images/newwin.gif)  [W3C reference on the global
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [W3C reference on the global
 structure of an HTML document: The H1, H2, H3, H4, H5, H6
 headings](http://www.w3.org/TR/html401/struct/global.html#h-7.5.5)
+
+
+
+
 
 First Published: May 27, 2010. Last Updated: May 27, 2010.
 

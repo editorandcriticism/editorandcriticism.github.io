@@ -152,12 +152,12 @@ in the abstract and the keywords are rendered in their corresponding
 metadata fields in the header of the HTML, which helps optimize the web
 page for search engines.
 
-*--Steve Hoenisch*
+*--Steve Hoenisch* <i class="fa fa-coffee" aria-hidden="true"></i>
+
 
 **Related**
 
-[Search Engine Optimization Techniques: Tips to Improve Your Search
-Engine Rankings](/seo/search-engine-optimization.html)
+[Search Engine Optimization Techniques: Tips to Improve Your Search Engine Rankings](/seo/search-engine-optimization.html)
 
 [XC: A Minimalist, Structural DTD for XML Documents](/cc/about-xc.html)
 

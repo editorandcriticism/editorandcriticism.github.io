@@ -42,9 +42,7 @@ The benefits:
 -   Helps prepare your web pages for the evolution of the semantic web
     -- a world in which the semantics of information and services on the
     web is defined, making it possible for the web to recognize and
-    fulfill requests for content by people and machines. For more
-    information, on the semantic web, see
-    <http://en.wikipedia.org/wiki/Semantic_Web>.
+    fulfill requests for content by people and machines. See the [semantic web](http://en.wikipedia.org/wiki/Semantic_Web) on Wikipedia.
 -   Used with XML and RDF, helps foster semantic publishing, which may
     be advantageous to scientific publishers; for more information, see
     <http://en.wikipedia.org/wiki/Semantic_publishing>.
@@ -155,15 +153,15 @@ generation engine at
 
 **Related**
 
-[Search Engine Optimization Techniques: Tips to Improve Your Search
-Engine Rankings](/seo/search-engine-optimization.html)
+[Search Engine Optimization Techniques: Tips to Improve Your Search Engine Rankings](/seo/search-engine-optimization.html)
 
 [XC: A Minimalist, Structural DTD for XML Documents](/cc/about-xc.html)
 
 [Developing a DTD](/dita/dtd2.html)
 
-[Using Data Structure Standards to Foster Efficiency and
-Opportunity](/dita/dss.html)
+[Using Data Structure Standards to Foster Efficiency and Opportunity](/dita/dss.html)
 
 First Published: July 12, 2009. Last Updated: July 12, 2009.
+
+
 
