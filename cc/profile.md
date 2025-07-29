@@ -159,6 +159,7 @@ philosophy, cognitive psychology, and theoretical linguistics.
 
 -   [Drive-Away Cars, in the *Chicago
     Tribune*](https://articles.chicagotribune.com/1994-03-13/cc/9403130494_1_drive-away-companies-automobile-transporters-travelers)
+-   Travel essay on Portland, Ore., in _The Hartford Courant_. It was picked up for distribution by the Associated Press and appeared in several other daily newspapers.     
 -   XML: Six Articles in *XML
     Journal*
 -   [Ski Bum Jobs, in *Snow Country magazine*](/cc/skijobs.html)
