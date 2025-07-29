@@ -10,7 +10,9 @@ title: |
 
 >This page presents some of my history and lists some of the people, places, activities, ideas, writers, and books that I like. 
 
-The email address of Steve Hoenisch: ![Steve Hoenisch email address](/images/em.png).
+The email address of Steve Hoenisch: ![Steve Hoenisch email address](/images/em.png). 
+
+This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications](/publications.html], [list of blog posts](/cc/blog.html), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
 
 **Current hometown:** Seattle.
 
@@ -212,15 +214,10 @@ The future is critical. <i class="fa fa-coffee" aria-hidden="true"></i>
 
 ### Related
 
--   [What Others Are Saying About Criticism.Com](kudos.html)
--   [Resume](/md/resume.html)
--   [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
--   [Facebook Page](https://www.facebook.com/steve.hoenisch)
--   [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
-
-
-
-
-
+<i class="fa fa-comment" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](kudos.html)
+<i class="fa fa-file" aria-hidden="true"></i> [Resume](/md/resume.html)
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
+<i class="fa fa-facebook-square" aria-hidden="true"></i> [Facebook Page](https://www.facebook.com/steve.hoenisch)
+<i class="fa fa-youtube-square" aria-hidden="true"></i> [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
 
 
