@@ -120,16 +120,16 @@ your site's ranking in search engines. ![End Icon](/images/endbox.gif)
 
 **Related**
 
-![Document Icon](/images/docblue.gif) [Search Engine Optimization
+<i class="fa fa-file-text" aria-hidden="true"></i> [Search Engine Optimization
 Techniques](/seo/search-engine-optimization.html)
 
-![Document Icon](/images/docblue.gif) [Structure Content with HTML
+<i class="fa fa-file-text" aria-hidden="true"></i> [Structure Content with HTML
 Heading Tags for SEO](html-heading-tags-structure.html)
 
-![Document Icon](/images/docblue.gif) [For SEO, Set Your First Heading
+<i class="fa fa-file-text" aria-hidden="true"></i> [For SEO, Set Your First Heading
 in the H1 Tag](/seo/h1.html)
 
-![Document Icon](/images/docblue.gif) [Include a Unique, Accurate Title
+<i class="fa fa-file-text" aria-hidden="true"></i> [Include a Unique, Accurate Title
 in Your HTML Document's Header](/seo/title.html)
 
 ![External Link Icon](/images/newwin.gif)  [W3C Style Article: Cool URIs

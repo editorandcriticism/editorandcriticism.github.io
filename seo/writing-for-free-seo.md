@@ -86,14 +86,14 @@ objectives.
 
 ### Related
 
-![Document Icon](/images/docblue.gif) [Include a Unique, Accurate Title
+<i class="fa fa-file-text" aria-hidden="true"></i> [Include a Unique, Accurate Title
 in Your HTML Document's Header](/seo/title.html)
 
-![Document Icon](/images/docblue.gif) [Apply HTML Heading Sizes to
+<i class="fa fa-file-text" aria-hidden="true"></i> [Apply HTML Heading Sizes to
 Reveal the Structure of Content to Search
 Engines](/seo/html-heading-tags-structure.html)
 
-![Document Icon](/images/docblue.gif) [Tag DocBook XML Documents for
+<i class="fa fa-file-text" aria-hidden="true"></i> [Tag DocBook XML Documents for
 Search Engine Optimization](/seo/docbook.html)
 
 ![Document Icon](/images//newwin.gif) [Check Out Google's Search Engine

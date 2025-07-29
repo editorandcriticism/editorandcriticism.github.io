@@ -125,19 +125,19 @@ page. ![End Icon](/images/endbox.gif)
 
 **Related**
 
-![Document Icon](/images/docblue.gif) [For SEO, Set Your First Heading
+<i class="fa fa-file-text" aria-hidden="true"></i> [For SEO, Set Your First Heading
 in the H1 Tag](/seo/h1.html)
 
-![Document Icon](/images/docblue.gif) [Include a Unique, Accurate Title
+<i class="fa fa-file-text" aria-hidden="true"></i> [Include a Unique, Accurate Title
 in Your HTML Document's Header](/seo/title.html)
 
-![Document Icon](/images/docblue.gif) [Structuring Documents with
+<i class="fa fa-file-text" aria-hidden="true"></i> [Structuring Documents with
 XML](/dita/structuring_docs.html)
 
-![Document Icon](/images/docblue.gif) [Tagging DocBook XML Documents for
+<i class="fa fa-file-text" aria-hidden="true"></i> [Tagging DocBook XML Documents for
 Search Engine Optimization](/seo/docbook.html)
 
-![Document Icon](/images/docblue.gif) [Search Engine Optimization (SEO)
+<i class="fa fa-file-text" aria-hidden="true"></i> [Search Engine Optimization (SEO)
 Techniques](/seo/search-engine-optimization.html)
 
 ![External Link Icon](/images/newwin.gif)  [W3C reference on the global

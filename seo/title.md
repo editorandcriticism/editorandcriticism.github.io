@@ -89,7 +89,7 @@ search engines such as Google and Bing.
 
 **Related**
 
-![Document Icon](/images/docblue.gif) [Search Engine Optimization (SEO)
+<i class="fa fa-file-text" aria-hidden="true"></i> [Search Engine Optimization (SEO)
 Techniques](/seo/search-engine-optimization.html)
 
 
