@@ -1,5 +1,5 @@
 ---
-title: Reading as Act of Critical Resistance
+title: Reading as an Act of Critical Resistance
 description: Revelatory books at the interdiscplinary nexus of technology, psychology, philosophy, literary criticism, and literature.
 keywords: criticism, culture, literature, policy, technology, philosophy, literary criticism, fiction, literary nonfiction, psychology, digital culture, digital media.
 ---
@@ -18,7 +18,7 @@ keywords: criticism, culture, literature, policy, technology, philosophy, litera
 <i class="fa fa-globe" aria-hidden="true"></i>
 _The Country and the City_, by Raymond Williams.
 
-
+<!-- link to book-reviews.md and critics-notebook.md -->
 
 (Added in July 2025.)
 

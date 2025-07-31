@@ -42,7 +42,7 @@ than other approaches to discourse analysis. [Download PDF](/da/da_indet.pdf) <i
 
 <img src="/photos/seattle-lake-sunset.jpg" class="img-fluid" alt="Photograph of a Sunset in Seattle.">
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Sunset in Seattle. Photograph by Steve Hoenisch.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Sunset over Seattle. Photograph by Steve Hoenisch.
 
 
 
