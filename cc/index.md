@@ -6,26 +6,26 @@ title: 'Information about Criticism.Com'
 ---
 
 
-![](/images/docblue.gif) [About Criticism.Com](aboutcc.html)
+<i class="fa fa-file" aria-hidden="true"></i> [About Criticism.Com](aboutcc.html)
 
 
 
 
 
-![](/images/docblue.gif) [Comments and Kudos](kudos.html)
+<i class="fa fa-file" aria-hidden="true"></i> [Comments and Kudos](kudos.html)
 
 
 
 
 
-![](/images/docblue.gif) [Privacy Policy](privacy_policy.html) of
+<i class="fa fa-file" aria-hidden="true"></i> [Privacy Policy](privacy_policy.html) of
 Criticism.Com
 
 
 
 
 
-![](/images/docblue.gif) [Resume of Steve Hoenisch](md/bio.html)
+<i class="fa fa-file" aria-hidden="true"></i> [Resume of Steve Hoenisch](md/bio.html)
 
 
 

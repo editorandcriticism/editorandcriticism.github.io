@@ -216,9 +216,16 @@ The future is critical. <i class="fa fa-coffee" aria-hidden="true"></i>
 ### Related
 
 <i class="fa fa-comment" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](kudos.html)
+
 <i class="fa fa-file" aria-hidden="true"></i> [Resume](/md/resume.html)
+
 <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
+
 <i class="fa fa-facebook-square" aria-hidden="true"></i> [Facebook Page](https://www.facebook.com/steve.hoenisch)
+
 <i class="fa fa-youtube-square" aria-hidden="true"></i> [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
+
+
+
 
 

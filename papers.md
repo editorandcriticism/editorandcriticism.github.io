@@ -37,6 +37,9 @@ than other approaches to discourse analysis. [Download PDF](/da/da_indet.pdf) <i
 
 
 
+-----
+
+![Sunset in Seattle. <i class="fa fa-picture-o" aria-hidden="true"></i> Photograph by Steve Hoenisch.](/photos/seattle-lake-sunset.jpg)
 
 
 
