@@ -10,21 +10,27 @@ keywords: images, photographs, pictures, pics, cities, city, mountains, skiing, 
 
 ## Various Photographs
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> See also [skiing photos](skiing.html).
+<i class="fa fa-picture-o" aria-hidden="true"></i> See also [skiing photos](/photos/skiing.html).
 
 
-![Skiing at Whistler](steve-hoenisch-skiing-at-whistler-2019.jpg)
-
-
-![In Downtown Bellevue](steven-hoenisch-sm.jpg)
+-----
 
 
 
+<img src="/photos/steve-hoenisch-skiing-at-whistler-2019.jpg" class="img-fluid" alt="Skiing at Whistler near Symphony and Flute Bowl.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Skiing at Whistler near Symphony and Flute Bowl.
 
 
+-----
 
 
+<img src="/photos/steven-hoenisch-sm.jpg" class="img-fluid" alt="In Downtown Bellevue.">
 
+<i class="fa fa-picture-o" aria-hidden="true"></i> In Downtown Bellevue.
+
+
+-----
 
 
 <!--
@@ -66,10 +72,20 @@ tent: &#9978;
 ## Cool Pictures of Places
 
 
-![The Purple Pedestrian Bridge.](bridge-vail.jpg)
+<img src="/photos/seattle-lake-sunset.jpg" class="img-fluid" alt="Photograph of a Sunset in Seattle.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Sunset over Seattle. Photograph by Steve Hoenisch.
+
+-----
 
 
-## Related 
+<img src="/photos/bridge-vail.jpg" class="img-fluid" alt="Photograph of a Purple-Lit Pedestrian Bridge in Vail.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> The Purple Pedestrian Bridge, Vail, Colorado. Photograph by Steve Hoenisch.
+
+-----
+
+<i class="fa fa-grav" aria-hidden="true"></i> [skiing photos](/photos/skiing.html)
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)

@@ -9,6 +9,20 @@ title: |
 
 # Photographs of Steve Hoenisch Skiings
 
+<!--
+-----
+
+
+
+<img src="/photos/steve-hoenisch-skiing-at-whistler-2019.jpg" class="img-fluid" alt="Skiing at Whistler near Symphony and Flute Bowl.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Skiing at Whistler near Symphony and Flute Bowl.
+
+
+-----
+-->
+
+
 
 ![Photo of Steve Hoenisch Skiing](/photos/steve-hoenisch-ski-jumping-off-palisades-squaw-valley.jpg)
 

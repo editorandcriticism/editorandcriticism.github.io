@@ -6,6 +6,7 @@ keywords: Linux, container host runtime, cloud-native applications, cloud comput
 
 ### Recent Blog Posts
 
+<i class="fa fa-info" aria-hidden="true"></i> For some of these blog posts, I acted as the ghost writer; for other posts, I worked with the original authors to rewrite or substantially revise the content. I wrote and edited many of them myself. 
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/futurenet-disaggregation-award/) Seize the Future: Mavenir and VMware Win FutureNet Network Disaggregation Award
 
@@ -15,9 +16,6 @@ keywords: Linux, container host runtime, cloud-native applications, cloud comput
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](
 https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-End RAN Automation, Assurance, and Optimization
-
-
-<i class="fa fa-info" aria-hidden="true"></i> For some of these blog posts, I acted as the ghost writer; for other posts, I worked with the original authors to rewrite or substantially revise the content.
 
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/deploy-open-ran/) Deploy Open RAN with Confidence: Implement a Commercially Proven, Operationally Ready 4G/5G Solution
@@ -52,9 +50,22 @@ with Built-in Security
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although Criticism.Com contains links to blog posts and white papers that I've written while employed by various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I have worked for in the past. The blog posts and white papers are published their companies' respective web sites; these are just links to those blog posts and papers.</p>
 
-<img alt="Sunset over Bellevue" src="/photos/bellevue-sunset.jpg" width="682" height="512" />
 
-Head in the clouds, feet near the ground. A sunset over Bellevue, Washington, 2019.
+-----
+
+
+<img alt="Sunset over Bellevue" class="img-fluid" src="/photos/bellevue-sunset.jpg" />
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Head in the clouds, feet near the ground. A sunset over Bellevue, Washington, 2019. Photograph by Steve Hoenisch.
+
+
+-----
+
+
+
+
+
+
 
 
 ### The Limitations of Big Data and Data-Driven Decision Making

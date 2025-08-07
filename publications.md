@@ -10,6 +10,9 @@ keywords: white papers, blog posts, blogs, presentations, solution overviews, so
 
 <i class="fa fa-university" aria-hidden="true"></i> My cited essay in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; or [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
+--- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
+
+
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
 
@@ -53,6 +56,9 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf) Intrinsic Security for Telco Clouds at the Dawn of 5G]: An Integrated Approach to Helping Telecoms Meet Emerging Security Standards.
 
+<i class="fa fa-globe" aria-hidden="true"></i>
+Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
+
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/).
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Tests Prove Hypervisor Speeds Match Bare Metal](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1668273-vmw-tcp-ran-hypervisor-vs-bare-metal.pdf)
@@ -62,9 +68,6 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Running CNFs on Bare Metal -- Merit or Mirage? The Abstraction of Virtualization Yields Concrete Benefits](https://blogs.vmware.com/telco/running-cnfs-on-bare-metal-merit-or-mirage-the-abstraction-of-virtualization-yields-concrete-benefits/)
-
-<i class="fa fa-globe" aria-hidden="true"></i>
-Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Automate to Acclimate: How to Rapidly Launch and Modify 5G Services on the Fly](https://blogs.vmware.com/telco/automate-to-acclimate/)
 
