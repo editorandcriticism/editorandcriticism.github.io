@@ -2,12 +2,12 @@
 description: |
     Photos of Steve Hoenisch skiing.
 keywords: |
-    skiing, Steve Hoenisch, Snowbird, Squaw Valley, Alpental, Whistler, Blackcomb, Alta, Timberline Lodge, Tuckerman Ravine, Vermont, Utah, Lake Tahoe, Sugarbush, Mad River Glen, Mission Ridge
+    skiing, Steve Hoenisch, Snowbird, Squaw Valley, Alpental, Whistler, Blackcomb, Alta, Timberline Lodge, Tuckerman Ravine, Vermont, Utah, Lake Tahoe, Sugarbush, Mad River Glen, Mission Ridge, Park City, Mt. Hood, Colorado, Oregon
 title: |
     More Photos of Steve Hoenisch Skiing
 ---
 
-# Photographs of Steve Hoenisch Skiings
+# Photographs of Steve Hoenisch Skiing
 
 
 

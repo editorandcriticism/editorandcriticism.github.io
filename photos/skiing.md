@@ -7,7 +7,7 @@ title: |
     Photos of Steve Hoenisch Skiing
 ---
 
-# Photographs of Steve Hoenisch Skiings
+# Photographs of Steve Hoenisch Skiing
 
 <!--
 -----
