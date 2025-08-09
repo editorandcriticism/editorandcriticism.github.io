@@ -16,9 +16,9 @@ title: Photos of Steve Hoenisch Skiing
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch jumping off the Box at Palisades cliff band, Palisades Ski Resort, California.
 
-<br/>
+
 -----
-<br/>
+
 
 
 <img class="img-fluid" alt="Photo of Steve Hoenisch Skiing." src="/photos/steve-hoenisch-dirt-skiing-cascade-head-lincoln-city-oregon.jpg" >
@@ -26,9 +26,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch skiing down Cascade Head, Lincoln City, Oregon.
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -37,9 +37,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch skiing down Cascade Head, Lincoln City, Oregon.
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -48,9 +48,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch doing a helicopter, or 360, down Main Chute in the Palisades cliff band, Palisades Ski Resort, California.
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -60,9 +60,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch skiing at Big Mountain, Montana. 
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -70,9 +70,9 @@ title: Photos of Steve Hoenisch Skiing
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch skiing.
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -81,9 +81,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch skiing at Mt. Hood, Oregon. 
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -92,9 +92,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch Skiing.
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
@@ -104,9 +104,9 @@ title: Photos of Steve Hoenisch Skiing
 <i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch skiing in Mineral Basin, Snowbird, Utah.
 
 
-<br/>
+
 -----
-<br/>
+
 
 
 
