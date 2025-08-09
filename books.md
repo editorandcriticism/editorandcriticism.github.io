@@ -1,10 +1,10 @@
 ---
-title: Reading as an Act of Critical Resistance
+title: Reading Books as an Act of Critical Resistance
 description: Revelatory books at the interdiscplinary nexus of technology, psychology, philosophy, literary criticism, and literature.
 keywords: criticism, culture, literature, policy, technology, philosophy, literary criticism, fiction, literary nonfiction, psychology, digital culture, digital media, literature as social knowledge
 ---
 
-<i class="fa fa-random" aria-hidden="true"></i> Connecting the dots by reading books at the interdiscplinary nexus of technology, psychology, philosophy, literature, literary criticism, policy, and culture. 
+<i class="fa fa-random" aria-hidden="true"></i> Connecting the dots by reading and interpreting books at the interdiscplinary nexus of technology, psychology, philosophy, literature, and literary criticism. 
 
 ### Reading Now
 
@@ -19,11 +19,6 @@ keywords: criticism, culture, literature, policy, technology, philosophy, litera
 _The Country and the City_, by Raymond Williams.
 
 <!-- link to book-reviews.md and critics-notebook.md -->
-
-(Added in July 2025.)
-
-
-
 <!-- image template for responsive images plus other reusable code for updated bootstrap and font awesome; stet here pls for reuse :: -->
 
 -----
@@ -35,6 +30,8 @@ _The Country and the City_, by Raymond Williams.
 <i class="fa fa-picture-o" aria-hidden="true"></i> Sunset over Seattle. Photograph by Steve Hoenisch.
 
 <!--
+<i class="fa fa-grav" aria-hidden="true"></i>
+
 <i class="fa fa-flask" aria-hidden="true"></i> 
 <i class="fa fa-language" aria-hidden="true"></i>
 <i class="fa fa-coffee" aria-hidden="true"></i> 

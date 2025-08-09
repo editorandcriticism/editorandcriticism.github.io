@@ -46,9 +46,11 @@ than other approaches to discourse analysis.
 
 <i class="fa fa-file-text"></i> [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
 
-<i class="fa fa-level-down" aria-hidden="true"></i> [More](list.html) | [Site Map](map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
+<i class="fa fa-sitemap" aria-hidden="true"></i> [Site Map](map.html)
 
-<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
+
+<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go to those companies' respective websites.</p>
+
 
 
 

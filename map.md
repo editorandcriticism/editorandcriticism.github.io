@@ -1,29 +1,10 @@
 ---
 title: Criticism.Com Site Map
-description: Criticism.com contains essays, book reviews, and articles on technology, data science, media theory, media criticism, social science, discourse analysis, philosophy, linguistics, SEO, XML, psychoanalysis, skiing, and travel.
-keywords: criticism, discourse analysis, linguistics, media criticism, Max Weber, technology, media theory, sociology, newspapers, film, postmodernism, media sociology, sociolinguistics, Wittgenstein, Freud, psychoanalysis, philosophy, social science, skiing, travel, media culture, SEO, XML, XSL, critical theory, writing, editing, editor, critical thought, composition
+description: Criticism.com contains essays, book reviews, blog posts, and articles on technology, data science, media theory, media criticism, social science, discourse analysis, philosophy, linguistics, SEO, XML, psychoanalysis, skiing, and travel.
+keywords: criticism, discourse analysis, linguistics, media criticism, Max Weber, technology, media theory, sociology, newspapers, film, postmodernism, media sociology, sociolinguistics, Wittgenstein, Freud, Barthes, Foucault, psychoanalysis, philosophy, social science, skiing, travel, media culture, SEO, XML, XSL, critical theory, writing, editing, editor, critical thought, composition, blogs, white papers
 author: Steve Hoenisch
 ---
 
-
-<!--
-<title>Criticism.Com: Site Map</title>
-<meta name="description" content="Criticism.com contains essays, book reviews, and articles on technology, data science, media theory, media criticism, social science, discourse analysis, philosophy, linguistics, SEO, XML, psychoanalysis, skiing, and travel.">
-<meta name="keywords" content="criticism, discourse analysis, linguistics, media criticism, Max Weber, media theory, sociology, newspapers, film, postmodernism, media sociology, sociolinguistics, Wittgenstein, Freud, psychoanalysis, philosophy, social science, skiing, travel, media culture, SEO, XML, XSL">
-<meta name="author" content="Steve Hoenisch">
-
-# Criticism.Com: Site Map
--->
-
-
-<!-- Last Updated: Oct. 1, 2020. -->
-
-
-## Critical Theory and Philosophy
-
-<i class="fa fa-coffee" aria-hidden="true"></i> **[Critical Theory Page](/critical-theory/)**
-
-<i class="fa fa-coffee" aria-hidden="true"></i> **[Philosophy Page](/philosophy/)**
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html), which has been [cited by Wikipedia](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) in its page on Friedrich Nietzsche
 
@@ -41,8 +22,7 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [A Scientific Analysis of
     Desire?](/philosophy/wittgenstein-desire.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Freud's Notion of Subconscious as a "Means of
-    Representation"](/philosophy/wittgenstein-subconscious.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Freud's Notion of Subconscious as a "Means of Representation"](/philosophy/wittgenstein-subconscious.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Freud Rebuts Wittgenstein on
     Verifiability](/philosophy/freud-verifiability.html)
@@ -82,10 +62,6 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Wittgenstein: A Disciple of Freud?](/philosophy/disciple-of-freud.html)
 
-
-## Composition, Literacy, Editing, and Writing
-
-<i class="fa fa-file-text" aria-hidden="true"></i> **[Writing and Composition Page](/linguistics/index.html)**
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Using the Passive Voice To Create
     Coherence](/linguistics/active-voice-or-passive-voice.html)
@@ -135,14 +111,6 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Identifying and Resolving Ambiguity in Writing and Headlines](/linguistics/types-of-ambiguity.html)
 
-
-
-
-
-## Discourse Analysis and Text Linguistics
-
-
-<i class="fa fa-random" aria-hidden="true"></i> **[Discourse Analysis Page](/da/)**
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Interpretation and Indeterminancy in Discourse
     Analysis](/da/da_indet.html)
@@ -200,11 +168,6 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Vachek on the Correspondence of Phonemes and
     Graphemes](/da/vachek4.html)
 
-## Linguistics
-
-
-<i class="fa fa-language" aria-hidden="true"></i> **[Linguistics Page](/linguistics/)**
-
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Abstract: Abney's Memory Requirements and Lexical Ambiguities of
     Parsing Strategies](/linguistics/abstract-abney.html)
@@ -216,7 +179,6 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Austin on Utterances](/linguistics/speech-acts.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Carnap's Intensionalist
     Approach](/linguistics/carnap-intensionalist.html)
@@ -250,7 +212,6 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Insightful Remarks on Linguistics](/cc/quotes.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Interpretation and Indeterminancy](/da/da_indet.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or
     Cultural Orientation?](/md/newslang.html)
@@ -274,18 +235,11 @@ author: Steve Hoenisch
     Variable](/linguistics/sociolinguistic-variable.html)
 
 
-## Media Theory and Criticism
-
-<i class="fa fa-file-text" aria-hidden="true"></i> **[Media Criticism and Theory Page](/md/)**
-
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [An Analysis of Kellner's Theory of Media Culture](/md/kellner.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Book Review of Read All About It: The Corporate Takeover of
     America's Newspapers](/md/crit1.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Chroma-Cinema: The Use of Color in Color and Black-and-White
-    Films](/md/film2.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Foucault: A Lover's Discourse about Madness and the
     Media](/md/foucault.html)
@@ -299,8 +253,6 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Live Show: The Connotations of Visual Signs](/md/liveshow.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Masculine Identity in the Service Class: An Analysis of Fight
-    Club](/md/fightclub.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or
     Cultural Orientation](/md/newslang.html)
@@ -312,25 +264,12 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Relation Between Civic Society and Newspapers in the Writings of
     Alexis de Tocqueville and Robert Putnam](/md/putnam1.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Saussure's Sign](/md/the_sign.html)
-
 <i class="fa fa-file-o" aria-hidden="true"></i> [The Future of American Newspapers: A Forecast Written in
     1991](/md/future.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [The Mythological Language Of American Newspapers](/md/mythlang.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Truman Show: Media as Metaphor](/md/film1.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Until the End Of the World: Fin de Siecle Fears in History and
-    Popular Culture](/md/film3.html)
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Why Can't We Stop Watching TV?](/md/theory1.html)
-
-
-## Politics and Public Policy
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> **[Policy and Politics Page](/policy/)**
-
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Crime Policy of the Democrats](/policy/democrats-crime-policy.html)
 
@@ -387,9 +326,6 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [The Relation Between Civic Society and Newspapers in the Writings
     of Alexis de Tocqueville and Robert Putnam](/md/putnam1.html)
 
-
-## Psychology and Psychoanalysis
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [The Myth of Psychoanalysis: Wittgenstein Contra
     Freud](/md/tech.html)
 
@@ -403,26 +339,12 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Wittgenstein: A Disciple of Freud?](/philosophy/disciple-of-freud.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Interpretation and Indeterminacy](/da/da_indet.html), which has been [cited by Wikipedia](https://en.wikipedia.org/wiki/Indeterminacy_(philosophy)) in its page on Indeterminacy (philosophy).
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychotherapeutic
     Dialogue](/da/indoctrination.html)
 
-
-
-
-
-## Search Engine Optimization (SEO)
-
-<!-- ADD THIS PAGE TO GENAW.SH -->
-<i class="fa fa-search-plus" aria-hidden="true"></i> **[SEO Page](/seo/index.html)**
-
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Search Engine Optimization Techniques: Tips to Improve Your Search Engine Rankings](/seo/search-engine-optimization.html) 
 
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Write SEO-Friendly URLs with Descriptive Folder and File Names](/seo/url.html) 
-
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [For SEO, Write Unique and Accurate Titles](/seo/title.html)
 
@@ -446,69 +368,9 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Write High-Quality Content for Free SEO](/seo/writing-for-free-seo.html)
 
-
-## Site Information
-
-<i class="fa fa-file-text" aria-hidden="true"></i> **[Menu Page for Site Information](/cc/)**
-
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [About Criticism.Com](/cc/aboutcc.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Comments and Kudos](/cc/kudos.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Privacy Policy](/cc/privacy_policy.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Current Resume of Steve Hoenisch](/md/resume.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Personal Profile of Steve Hoenisch](/cc/profile.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Graduate Course Work](/cc/graduate-school-course-work.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Search](/cc/googlecc.html)
-
-
-
-## Skiing
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> **[Skiing Page](/cc/)**
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Ski Bum Jobs](/cc/skijobs.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Skiing: Functional Dry-Land Training for Transitions Between Turns](/cc/skiing-transitions-between-turns.html) 
-
-<!-- REFORMAT (EASY) AND ADD PHOTOS TO THESE!
-https://www.criticism.com/cc/multifidus-skiing.html
-https://www.criticism.com/cc/best-ski-areas.html 
-
-THEN ADD MORE PHOTO PAGES HERE
--->
-
-
-
-
-## Top Essays
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Weber's View of Objectivity in Social Science](/md/weber1.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Interpretation and Indeterminacy in Discourse
-    Analysis](/da/da_indet.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Myth of Psychoanalysis: Wittgenstein Contra
-    Freud](/md/tech.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Book Review of *Read All About It: The Corporate Takeover of
-    America's Newspapers*:](/md/crit1.html)
-
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Topical Structure Analysis of Accomplished English
-    Prose](/da/Topical-Structure-Analysis-of-Accomplished-English-Prose.pdf)
-
-
-## Travel
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> **[Travel Page](/cc/)**
-
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Drive-Away Cars](/cc/drive.html)
 
@@ -521,12 +383,6 @@ THEN ADD MORE PHOTO PAGES HERE
     2008](/cc/timberline-ski-area-trip-report-2008-12-28.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [The past is calming: In a Flash, Vivid Memories of Marburg](https://www.criticism.com/cc/marburg.html). &#9775;
-
-
-
-## XML
-
-<i class="fa fa-file-o" aria-hidden="true"></i> **[XML Page](/dita/index.html)**
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [An Introduction to XML](/dita/xml_intro.html)
 
@@ -575,54 +431,18 @@ THEN ADD MORE PHOTO PAGES HERE
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [XC: A Minimalist, Structural DTD for XML
     Documents](/cc/about-xc.html)
 
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: On the FCC and Media Ownership](/md/media-ownership.html)
 
-## The Slush Pile: Uncategorized or Random
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> **[Slush Pile Menu Page](/cc/)**
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Abstract: Topical Structure Analysis of Accomplished English
-    Prose](/da/topical-structure-analysis-thesis-abstract.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: Reclaim the Media](/md/reclaim-the-media.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: On the FCC and Media Ownership](/md/media-ownership.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Chelsea Core: An Exercise Series to Build Pillar
-    Strength](/exercise/chelsea-core.html)
-
-<i class="fa fa-file-o" aria-hidden="true"></i> [Pilates: The Classical Pilates Short
-    Routine](/exercise/pilates-short-routine.html)
-
-<!-- ADDS ALREADY PUBLISHED BUT NOT LISTED HERE OR IN GENAW.SH; convert and use content; add to genaw and here::
-    
-
-    https://www.criticism.com/exercise/therapeudic-exercises-for-back-health.html
-
-    https://www.criticism.com/exercise/mat-work-routine.html
-
--->
-
-
-
-## Archive
-
-<!-- MOVE TO CC/ARCHIVE. WHEN DONE and just overwrite list that's there because it is previous list from here and then, after the cleanup is finished, publish cc/archive.md and html (not published yet) and just link to that page from site map:: -->
-
-These pages are old: 
-
-<i class="fa fa-file-o" aria-hidden="true"></i> [How to Connect Linux to AD: Connecting a Red Hat Computer to Active
-    Directory with Likewise Open](/cc/how-to-connect-linux-to-AD.html)
-
-<i class="fa fa-file-o" aria-hidden="true"></i> [Old Cover Letter for Senior Manuscript Editor](/cover-letters/senior-manuscript-editor.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Old, outdated cover letter for Technical Writer](/md/cover-letter-sample.html)
-
-<i class="fa fa-file-o" aria-hidden="true"></i> [Schonfinkeled Characteristic
-    Functions](/linguistics/schonfinkeled-functions.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Linguistics and Cognitive Psychology in the
     Media](/linguistics/linguistics-news.html)
 
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Abstract: Topical Structure Analysis of Accomplished English
+    Prose](/da/topical-structure-analysis-thesis-abstract.html)
 
 
 
@@ -658,20 +478,59 @@ tent: &#9978;
 <i class="fa fa-recycle" aria-hidden="true"></i>
 <i class="fa fa-podcast" aria-hidden="true"></i>
 <i class="fa fa-picture-o" aria-hidden="true"></i>
-
 -->
 
-<!--
+-----
 
--------------------------------------------------
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Weber's View of Objectivity in Social Science](/md/weber1.html)
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="steve-hoenisch-4092344b"><a class="LI-simple-link" href='https://www.linkedin.com/in/steve-hoenisch-4092344b?trk=profile-badge'>Steve Hoenisch</a></div>
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Interpretation and Indeterminacy in Discourse
+    Analysis](/da/da_indet.html)
 
--->
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Myth of Psychoanalysis: Wittgenstein Contra
+    Freud](/md/tech.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Book Review of *Read All About It: The Corporate Takeover of
+    America's Newspapers*:](/md/crit1.html)
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Topical Structure Analysis of Accomplished English
+    Prose](/da/Topical-Structure-Analysis-of-Accomplished-English-Prose.pdf)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Saussure's Sign](/md/the_sign.html)
 
 
-## Related 
+
+
+-----
+
+<i class="fa fa-coffee" aria-hidden="true"></i> [Critical Theory Page](/critical-theory/)
+
+<i class="fa fa-file-text" aria-hidden="true"></i> [Media Criticism Page](/md/)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Policy Page](/policy/)
+
+<i class="fa fa-search-plus" aria-hidden="true"></i> [SEO Page](/seo/index.html)
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [XML Page](/dita/index.html)
+
+<i class="fa fa-random" aria-hidden="true"></i> [Discourse Analysis Page](/da/)
+
+<i class="fa fa-language" aria-hidden="true"></i> [Linguistics  Page](/linguistics/)
+
+<i class="fa fa-coffee" aria-hidden="true"></i> [Philosophy Page](/philosophy/)
+
+-----
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [About Criticism.Com](/cc/aboutcc.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Comments and Kudos](/cc/kudos.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Resume of Steve Hoenisch](/md/resume.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Personal Profile of Steve Hoenisch](/cc/profile.html)
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
@@ -680,14 +539,6 @@ tent: &#9978;
 
 <i class="fa fa-youtube-square" aria-hidden="true"></i>
  [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
-
-
-
-
-
-
-
-
 
 
 

@@ -10,7 +10,9 @@ keywords: images, photographs, pictures, pics, cities, city, mountains, skiing, 
 
 ## Various Photographs
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> See also [skiing photos](/photos/skiing.html).
+<i class="fa fa-picture-o" aria-hidden="true"></i> See also [skiing photos](/photos/skiing.html) and [more skiing photos](/photos/skiing2.html)
+
+
 
 
 -----
@@ -85,7 +87,9 @@ tent: &#9978;
 
 -----
 
-<i class="fa fa-grav" aria-hidden="true"></i> [skiing photos](/photos/skiing.html)
+<i class="fa fa-grav" aria-hidden="true"></i> [Skiing photos](/photos/skiing.html)
+
+<i class="fa fa-grav" aria-hidden="true"></i> [More skiing photos](/photos/skiing2.html)
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
