@@ -37,6 +37,9 @@ hr {
       opacity: 1; /* Ensure full visibility if Bootstrap applies opacity */
     }
 
+#TOC { list-style: none; }
+
+
 
 
 
