@@ -21,9 +21,9 @@ title: More Photos of Steve Hoenisch Skiing
 
 
 
-<img class="img-fluid" alt="Photo of Steve Hoenisch Skiing." src="/photos/steve-hoenisch-image-skiing-mt.jpg" >
+<img class="img-fluid" alt="Photo of Steven Hoenisch Skiing." src="/photos/steve-hoenisch-image-skiing-mt.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steven Hoenisch skiing.
 
 -----
 
@@ -31,16 +31,16 @@ title: More Photos of Steve Hoenisch Skiing
 
 <img class="img-fluid" alt="Photo of Steve Hoenisch Skiing." src="/photos/steven-hoenisch-skiing-big-mountain.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> At Whitefish Mountain, formerly named Big Mountain, Montana.
 
 -----
 
 
 
 
-<img class="img-fluid" alt="Photo of Steve Hoenisch Skiing." src="/photos/steven-hoenisch-skiing-cascade-head-oregon-cropped.jpg" >
+<img class="img-fluid" alt="Photo of Steven Hoenisch Skiing." src="/photos/steven-hoenisch-skiing-cascade-head-oregon-cropped.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch dirt skiing at Cascade Head, Oregon, near Lincoln City. 
 
 
 
@@ -52,7 +52,7 @@ title: More Photos of Steve Hoenisch Skiing
 
 <img class="img-fluid" alt="Photo of Steve Hoenisch Skiing." src="/photos/steven-hoenisch-skiing.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> At Big Mountain, Montana.
 
 
 
@@ -66,7 +66,7 @@ title: More Photos of Steve Hoenisch Skiing
 
 <img class="img-fluid" alt="Photo of Steve Hoenisch Skiing." src="/photos/steven-hoenisch-ski-tuckerman-ravine.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steven Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> At Tuckerman Ravine, New Hampshire.
 
 
 
@@ -79,7 +79,7 @@ title: More Photos of Steve Hoenisch Skiing
 
 <img class="img-fluid" alt="Photo of Steven Hoenisch Skiing." src="/photos/steven-hoenisch-snowbird-powder-skiing1.png" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steven Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> At Snowbird, Utah.
 
 
 
@@ -92,7 +92,7 @@ title: More Photos of Steve Hoenisch Skiing
 
 <img class="img-fluid" alt="Photo of Steven Hoenisch Skiing." src="/photos/steve-hoenisch-skiing-snowbird-powder-march-15-2001.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steven Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Skiing deep powder at Snowbird, Utah.
 
 
 
@@ -104,7 +104,7 @@ title: More Photos of Steve Hoenisch Skiing
 
 <img class="img-fluid" alt="Photo of Steven Hoenisch Skiing." src="/photos/steve-hoenisch-skiing-snowbird-utah.jpg" >
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Photo of Steve Hoenisch Skiing.
+<i class="fa fa-picture-o" aria-hidden="true"></i> At Snowbird, Utah.
 
 
 
@@ -134,6 +134,7 @@ title: More Photos of Steve Hoenisch Skiing
 
 
 <i class="fa fa-grav" aria-hidden="true"></i> [More Skiing Photos](/photos/skiing.html)
+
 
 
 

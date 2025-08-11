@@ -37,7 +37,18 @@ hr {
       opacity: 1; /* Ensure full visibility if Bootstrap applies opacity */
     }
 
-#TOC { list-style: none; }
+/* Stet list-style: none but ck 
+if others are required after next commit 
+to fix toc auto bulleting of TOCs only; 
+se these styles and cf bootstrap overrides. ::
+
+#TOC { list-style: none; 
+       background-image: none;
+       background-repeat: none;
+       background-position: 0; 
+     }
+*/
+
 
 
 

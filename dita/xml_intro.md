@@ -1,8 +1,7 @@
 ---
 author: Steve Hoenisch
 description: 'Creating XML documents.'
-keywords: | 
-    XML, XSL, XSLT, CSS, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XHTML, content, presentation, DTD, formatting XML, XSL:FO, formatting objects 
+keywords: XML, XSL, XSLT, CSS, markup, markup strategies, XML documents, XML structuring, structuring XML documents, XHTML, content, presentation, DTD, formatting XML, XSL:FO, formatting objects, Markdown 
 title: 'An Introduction to XML: Building Your First Document'
 ---
 
@@ -193,5 +192,6 @@ The tutorials in this series proceed as follows:
 4.  [Attributes and Entities in DTDs](dtd2.html)
 5.  [An Introduction to XSL](xsl1.html)
 6.  [Using XSLT to Separate Content from Presentation](xsl2.html)
+
 
 
