@@ -461,15 +461,20 @@ author: Steve Hoenisch
 <i class="fa fa-youtube-square" aria-hidden="true"></i>
 <i class="fa fa-archive" aria-hidden="true"></i>
 <i class="fa fa-check-square" aria-hidden="true"></i>
+
 gravity, or lost in space:
 <i class="fa fa-grav" aria-hidden="true"></i>
 soccer ball: 
 <i class="fa fa-futbol-o" aria-hidden="true"></i>
+
 yang-yang char (unicode): &#9775;
 cf other sim symbols in unicode at 
+
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols
+
 eg marxism: &#9874;
 atom: &#9883;
+
 <i class="fa fa-snowflake-o" aria-hidden="true"></i>
 mountain: &#9968;   
 skier: &#9975;
