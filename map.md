@@ -222,7 +222,7 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Parsing Strategies: Notes on Abney and Johnson](/linguistics/parsing-strategies.html) 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Philosophy of Language Questions and
-    Answers](/linguistics/-of-language-answers.html)
+    Answers](/linguistics/philosophy-of-language-answers.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Pragmatic Accounts of
     Communication](/linguistics/pragmatics-answers.html)
@@ -356,9 +356,9 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [SEO Basics: Search Engine Optimization in a
     Nutshell](/seo/seo-basics.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Structuring Your Web Site by Encoding Categories in URLs](https://www.criticism.com/seo/dir-names.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Structuring Your Web Site by Encoding Categories in URLs](https://criticism.com/seo/dir-names.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Using XML Site Maps for SEO](https://www.criticism.com/seo/xml-site-map.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Using XML Site Maps for SEO](https://criticism.com/seo/xml-site-map.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Using Dublin Core Metadata for Search Engine
     Optimization](/seo/dublin-core-metadata.html)
@@ -382,7 +382,7 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Timberline Lodge Ski Area Trip Report: Dec. 18,
     2008](/cc/timberline-ski-area-trip-report-2008-12-28.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [The past is calming: In a Flash, Vivid Memories of Marburg](https://www.criticism.com/cc/marburg.html). &#9775;
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [The past is calming: In a Flash, Vivid Memories of Marburg](https://criticism.com/cc/marburg.html). &#9775;
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [An Introduction to XML](/dita/xml_intro.html)
 
@@ -505,6 +505,8 @@ tent: &#9978;
 
 -----
 
+<i class="fa fa-coffee" aria-hidden="true"></i> [Philosophy Page](/philosophy/)
+
 <i class="fa fa-coffee" aria-hidden="true"></i> [Critical Theory Page](/critical-theory/)
 
 <i class="fa fa-file-text" aria-hidden="true"></i> [Media Criticism Page](/md/)
@@ -515,11 +517,12 @@ tent: &#9978;
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [XML Page](/dita/index.html)
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Previous Technology Portfolio Page](/cc/portfolio.html)
+
 <i class="fa fa-random" aria-hidden="true"></i> [Discourse Analysis Page](/da/)
 
 <i class="fa fa-language" aria-hidden="true"></i> [Linguistics  Page](/linguistics/)
 
-<i class="fa fa-coffee" aria-hidden="true"></i> [Philosophy Page](/philosophy/)
 
 -----
 

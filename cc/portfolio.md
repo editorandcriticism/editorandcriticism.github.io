@@ -1,8 +1,7 @@
 ---
 description: 'Writing and Editing Portfolio of Steve Hoenisch, technology evangelist.'
 keywords: |
-    white paper writer, technology evangelist, technical writer, technical editor, technical
-    writing, XML writer, XML editor, SEO writer, white papers, SEO editor, editor, analyst, marcom, marketing communications, technical marketing manager, technical marketing engineering, solutions architect
+    technology writer, editor, white paper writer, technology evangelist, technical writer, technical editor, technical writing, XML writer, XML editor, SEO writer, white papers, SEO editor, editor, analyst, marcom, marketing communications, technical marketing manager, technical marketing engineering, solutions architect
 title: Portfolio
 ---
 
@@ -472,7 +471,9 @@ Search Engine Optimization](/seo/docbook.html)
 <i class="fa fa-file-text"></i> [Search Engine Optimization (SEO)
 Techniques](/seo/search-engine-optimization.html)
 
-<i class="fa fa-file-text"></i> [Resume: Technology Evangelist and White Paper Writer](/md/resume.html)
+<i class="fa fa-file-text"></i> [XML Tutorials](/dita/index.html)
+
+<i class="fa fa-file-text"></i> [Resume: Technology Evangelist, Blogger, and White Paper Writer](/md/resume.html)
 
 
 <!-- First Published: Jan. 27, 2012. Last Updated: August 2020. -->

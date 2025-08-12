@@ -57,6 +57,20 @@ Remind me why there isn't a mass protest movement in this country.
 
 (Added on June 27, 2011.)
 
+-----
+
+
+<img src="/photos/burnaby-sunset.jpg" class="img-fluid" alt="Sunset in Burnaby.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Sunset in Burnaby.
+
+
+-----
+
+
+
+
+
 ### Empathy as Resistance
 
 There's an empathy crisis in the United States. The utter lack of empathy in so many people troubles me. Sometimes I catch myself trying to gauge, or even test, a person's capacity for it. Empathy, quite clearly, conflicts with our society's penchant for predatory capitalism. Is the economic system, by necessity, pushing out empathy? It has certainly done so, it seems to me, in many businesses and work places. But is it also pushing empathy out of interpersonal relationships? In such a climate, empathy and kindness become practices of [resistance](http://www.criticism.com/md/kellner.html#section-The-Place-of-Resistance-in-a-Corporate-Media-Culture): They are human and humane acts that undermine structures of dominance and exploitation and help subvert the policies of a plutocratic autocracy. As practices, kindness and empathy reorient us toward a good society. In a time when bourgeois nihilism has given way to bourgeois narcissism, they are, it seems, emotional acts that are parallel, at least on the level of interpersonal relationships, to the intellectual's responsibility to speak out against social injustice, as captured by this quote from a piece by William Deresiewicz: 
@@ -105,6 +119,19 @@ obituaries I've been reading lately, such as those for newspapers and
 book publishers.
 
 (Added on July 20, 2011.)
+
+
+
+-----
+
+
+<img src="/photos/train-to-metrotown-streets.jpg" class="img-fluid" alt="Photograph of the skytrain to Metrotown.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Walking there.
+
+
+
+
 
 
 
