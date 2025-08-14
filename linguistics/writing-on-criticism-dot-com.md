@@ -31,13 +31,22 @@ These examples showcase the depth and variety of critical writing found on criti
 
 
 <i class="fa fa-file-text" aria-hidden="true"></i> [Weber's View of Objectivity in Social Science](/md/weber1.html)
+
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [Interpretation and Indeterminacy in Discourse Analysis](/da/da_indet.html)
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [The Myth of Psychoanalysis: Wittgenstein Contra Freud](/md/tech.html)
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [Interpretation and Indeterminacy](/da/da_indet.html)
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [Abstract: Topical Structure Analysis of Accomplished English Prose](/da/topical-structure-analysis-thesis-abstract.html) 
+
 <i class="fa fa-file-text" aria-hidden="true"></i> [Foucault: A Lover's Discourse About Madness and the Media](/md/foucault.html)
+
 
 
 -----
