@@ -1,9 +1,7 @@
 ---
-title: |
-	Abstract: Topical Structure Analysis of Accomplished English Prose
-description: The abstract for a text linguistics thesis  that conducts a topical structure analysis of  accomplished english prose by studying newspaper editorials.
+title: Abstract: Topical Structure Analysis of Accomplished English Prose description: The abstract for a text linguistics thesis that conducts a topical structure analysis of accomplished english prose by studying newspaper editorials.
 author: Steve Hoenisch
-keywords: rheme, topical structure analysis, topic, comment, theme, discourse analysis, linguistics, text linguistics, newspapers, editorials, expository writing, writing
+keywords: rheme, topical structure analysis, topic, comment, theme, discourse analysis, linguistics, text linguistics, newspapers, editorials, expository writing, writing, topic-comment progression, coherence, editing
 ---
 
 
@@ -39,19 +37,17 @@ accomplished essays, like the high-rated student essays, contain a large
 proportion of coherence-building sequential progression and a small
 proportion of parallel progressions.
 
-![pdf](../images/pdf.gif) [Topical Structure Analysis of Accomplished
-English
-Prose](Topical-Structure-Analysis-of-Accomplished-English-Prose.pdf)
 
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Topical Structure Analysis of Accomplished English Prose](Topical-Structure-Analysis-of-Accomplished-English-Prose.pdf) 
 Author: Steve Hoenisch
 
 
 
-**Related**
+-----
 
-![doc icon](../images/docblue.gif) [Can Research into Coherence Affect
-How Writing Is Taught?](coherence-teaching.html)
+<i class="fa fa-file-text" aria-hidden="true"></i> [Can Research into Coherence Affect How Writing Is Taught?](coherence-teaching.html)
 
-![doc icon](../images/docblue.gif) [How to Diagram Topical
-Progressions](tsa-chart.html)
+<i class="fa fa-file-text" aria-hidden="true"></i> [How to Diagram Topical Progressions](tsa-chart.html)
+
+
 

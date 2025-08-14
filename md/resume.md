@@ -1,8 +1,6 @@
 ---
-description: |
-    Resume of Steve Hoenisch, technology writer, editor, educator, evangelist, blogger, technical marketing engineer, marketing manager, researcher, focused on cloud computing, cybersecurity, cloud native, AI/ML, generative AI, text linguistics, NLP.
-keywords: |
-    technical marketing, technology writer, editor, educator, evangelist, blogger, white paper writing, technical marketing engineer, marketing manager, strategic communications, solution architecture, researcher, cloud computing, cybersecurity, cloud-native technology, telecommunications systems, AI/ML, generative AI, text linguistics, NLP
+description: Resume of Steve Hoenisch, technology writer, editor, educator, evangelist, blogger, technical marketing engineer, marketing manager, researcher, focused on cloud computing, cybersecurity, cloud native, AI/ML, generative AI, text linguistics, NLP.
+keywords: technical marketing, technology writer, editor, educator, evangelist, blogger, white paper writing, technical marketing engineer, marketing manager, strategic communications, solution architecture, researcher, cloud computing, cybersecurity, cloud-native technology, telecommunications systems, AI/ML, generative AI, text linguistics, NLP
 ---
 
 

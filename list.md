@@ -1,22 +1,21 @@
 ---
-author: Steve Hoenisch
-description: |
-    Criticism.com includes essays, book reviews, and articles on media
-    theory, media criticism, social science, discourse analysis, philosophy,
-    and linguistics.
-keywords: |
-    criticism, discourse analysis, linguistics, media criticism, Max Weber,
-    Bakhtin, mass communication, media studies, media theory, journalism,
-    sociology, newspapers, semiology, structuralism, postmodernism,
-    Saussure, poststructuralism, media sociology, sociolinguistics, Steve
-    Hoenisch, Roland Barthes, Dostoyevsky, objectivity, Wittgenstein, Freud,
-    psychoanalysis, philosophy, social science, skiing, travel, media
-    culture
-title: 'Criticism.Com: Essays and Articles'
+description:  Criticism.com includes essays, book reviews, and articles on technology, media culture, psychology, sociology, philosophy, linguistics, literary theory, and literature. 
+keywords:  writing, editing, criticism, technology, text linguistics, discourse analysis, linguistics, media criticism, Max Weber, Bakhtin, mass communication, media studies, journalism, sociology, structuralism, postmodernism, Saussure, poststructuralism, media sociology, Steven Hoenisch, Roland Barthes, Dostoyevsky, objectivity, Wittgenstein, Freud, psychoanalysis, philosophy, social science, media culture
+title: 'Criticism.Com: Articles and Other Content'
 ---
 
 
-**Essays**
+## Articles
+
+<!-- add coffee cups and to each of the files listed in this articles section -->
+
+<i class="fa fa-file-text" aria-hidden="true"></i> [Exploring subjects at the intersection of critical thought, text, and technology](/linguistics/writing-on-criticism-dot-com.html)
+
+
+-----
+
+
+## Essays
 
 -   [Weber's View of Objectivity in Social Science](/md/weber1.html)
 -   [Interpretation and Indeterminacy in Discourse
@@ -51,11 +50,17 @@ title: 'Criticism.Com: Essays and Articles'
     Answers](/linguistics/philosophy-of-language-answers.html)
 -   [Text Linguistics](/da/index.html#section-Text-Linguistics)
 
-**[About Criticism.Com](/cc/aboutcc.html)**
 
+-----
+
+
+-   [About Criticism.Com](/cc/aboutcc.html)**
 -   [What Others Are Saying About Criticism.Com](/cc/kudos.html)
 -   [Publications List](/publications.html)
 -   [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
+
+
+
 
 
 
