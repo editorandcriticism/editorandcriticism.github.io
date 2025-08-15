@@ -1,17 +1,12 @@
 ---
-title: Foucault on Madness and the Media 
+title: Foucault: A Lover's Discourse About Madness and the Media
 description: Foucault and Roland Barthes used for critical analysis of the news media.
-keywords: media theory, journalism, culture, media criticism, Foucault, Barthes, semiology, Pleasure of the Text, media culture
+keywords: media theory. journalism, culture, media criticism, Foucault, Barthes, semiology, Pleasure of the Text
 ---
 
 
-
-# Foucault: A Lover's Discourse About Madness and the Media
-
-
-
 By Steve Hoenisch
-[www.Criticism.Com](https://www.criticism.com/)
+[www.Criticism.Com](http://www.criticism.com/)
 
 
 1 Barthes' Anti-Hero
@@ -190,7 +185,6 @@ trans. Alan Bass (Chicago: University of Chicago Press, 1978), p. 44.
 
 
 <object data="foucault.pdf" width="1000" height="1000" type='application/pdf'></object>
-
 
 
 

@@ -1,11 +1,9 @@
 ---
-description: |
-    An outline of Gumperz's book Discourse Strategies.
-keywords: |
-    John Gumperz, Discourse Strategies, Discourse Analysis, sociolinguistics
-tittle: |
-    Gumperz's Discourse Strategies
+title: Gumperz on Discourse Strategies
+description: An outline of the book Discourse Strategies by Gumperz.
+keywords: John Gumperz, Discourse Strategies, Discourse Analysis, sociolinguistics
 ---
+
 
 
 
@@ -197,5 +195,7 @@ communicative effect." p. 65.
 2.  out-group = they.
 
 See p. 66.
+
+
 
 

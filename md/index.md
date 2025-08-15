@@ -31,18 +31,6 @@ including myself, watch so much bad TV even when we know it is awful.
 Barthes's answer: pleasure. He elaborates thus: [Read more ...](theory1.html)
 
 
-<i class="fa fa-file-text"></i> [Decoding Web Sites that Function as
-Propaganda Machines](terrorism-on-web.html): Since both text and graphics and the interaction between the two are
-used as modes of rhetoric in the context of multimedia, classical
-rhetoric provides a good basis for a defensive analytical system that
-allows users to deconstruct websites with poisonous messages. [Read more
-...](terrorism-on-web.html)
-
-
-
-<i class="fa fa-file-text"></i> [How the Erosion of Newspaper Journalism Is
-Putting Democracy At Risk](knightfall.html)
-
 
 <img src="/images/external_link.gif" align="right" />[Principles of Media
 Criticism](https://www.transparencynow.com/mediacrit.htm): Media criticism is in an undeveloped state, today, largely because the

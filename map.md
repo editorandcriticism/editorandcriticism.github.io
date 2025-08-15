@@ -244,9 +244,6 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Foucault: A Lover's Discourse about Madness and the
     Media](/md/foucault.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [How the Erosion of Newspaper Journalism Is Putting Democracy At
-    Risk](/md/knightfall.html)
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Image over Substance: An Example of Postmodern Politics](/md/cult1.html)
 
 <i class="fa fa-file-text-o"></i> [Using French Social Thought for Media Criticism](/md/media-criticism-with-french-social-thought.html) 

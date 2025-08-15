@@ -1,7 +1,7 @@
 ---
 title: Travel
 description: Short essays, photographs, videos, and vignettes on travel, cities, places, ski areas, and university towns. 
-keywords: travel, places, tourism, skiing, travelers, cities, city, university towns, fun places, cool places, photography
+keywords: travel, places, tourism, skiing, travelers, cities, city, university towns, fun places, cool places, photography, fun, travel literature
 ---
 
 
@@ -100,6 +100,10 @@ A sunset over the industrial district of Seattle.
 #### Related 
 
 [Best Ski Areas](/cc/best-ski-areas.html)
+
+
+
+
 
 
 

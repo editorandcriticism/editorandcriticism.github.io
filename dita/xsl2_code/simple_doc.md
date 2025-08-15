@@ -4,7 +4,9 @@ title: 'Review: Using XML to Separate Content from Presentation'
 
 By Steve Hoenisch\
 Last updated on June 1, 2002 \
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [View this Document in PDF](simple_doc.pdf)\
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [View this Document in PDF](https://criticism.com/dita/xsl2_code/simple_doc.pdf)\
+
+
 
 
 1 Introduction
@@ -128,10 +130,12 @@ Related
 =======
 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Principles of Separating Content from
-    Presentation](/dita/principles-of-separation.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Using XSL and CSS to Format XML Documents](/dita/xsl-and-css.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Principles of Separating Content from Presentation](https://criticism.com/dita/principles-of-separation.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [XML Markup Strategies: Approaches for Structuring
-    Documents](/dita/markup_strategies.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Using XSL and CSS to Format XML Documents](https://criticism.com/dita/xsl-and-css.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [XML Markup Strategies: Approaches for Structuring Documents](https://criticism.com/dita/markup_strategies.html)
+
+
+

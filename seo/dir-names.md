@@ -1,4 +1,8 @@
-# The Art of Information Architecture
+---
+title: The Art of Information Architecture
+---
+
+<!-- # The Art of Information Architecture -->
 
 ## Structuring Your Web Site by Encoding Categories in URLs
 

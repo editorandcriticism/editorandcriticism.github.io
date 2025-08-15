@@ -1,0 +1,452 @@
+--- 
+title: The Future of American Newspapers, a Forecast Written in 1991
+description: The Future of American Newspapers, a Forecast Written in 1991 
+keywords: newspapers, corporations, journalism, book review, politics, democracy, press, monopoly, criticism, mass media, media criticism, media studies, media monopoly, Steve Hoenisch, digital media, media and technology
+---
+
+
+By Steve Hoenisch
+
+Published in 1997.
+
+
+	Table of Contents
+	1 INTRODUCTION
+	2 READERSHIP
+	    2.1 Age
+	    2.2 Teenagers Today, Newspaper Readers Tomorrow
+	    2.3 Level of literacy
+	    2.4 Family Composition And Newspaper Readership
+	    2.5 Newspaper Image
+	    2.6 Decreases in Leisure Time
+	    2.7 Political Apathy and Readership
+	    2.8 The Readership Forecast
+	    2.9 Alternate Readership Forecast: The Renaissance
+	    2.10 Another Possibility: The Mass-Media Rebellion
+	3 TECHNOLOGY
+	    3.1 Personal Computers and Pagination
+	    3.2 The Talking Newspaper
+	    3.3 The Facsimile Newspaper
+	    3.4 The Telecommunication-Newspaper Forecast
+	    3.5 The Electronic Newspaper
+	    3.6 Electronic Data Bases
+	    3.7 Other Technology
+	4 CONTENT
+	    4.1 Newspaper Design
+	    4.2 Editorial Content
+	5 OTHER FORMS, OTHER FORMATS
+	    5.1 Multimedia News
+	6 CONCLUSION
+	7 NOTES
+	8 RELATED
+
+
+1 INTRODUCTION
+
+Note: This forecast was written in spring 1991 for a course at the University of Hartford; at the time, I worked on the copy desk of The Hartford Courant.
+
+Newspapers have been published in America for more than 286 years. The Boston News-Letter, the first paper to publish continuously, began in April 1704 -- 87 years before the U.S. Constitution was signed in 1787. The Hartford Courant, the oldest continuously published newspaper in the United States, was established in 1764. It's still going strong.
+
+But few days pass without hearing people herald the coming extinction of daily newspapers: An industry in decline, they say, a limping dinosaur.
+
+Nobody reads newspapers anymore, these people say. Who has time for that? Others respond by saying you can watch the news on TV while sitting on your couch. Why bother putting out all that effort to read? And hey, broadcast news is exciting and entertaining; newspapers aren't.
+
+Remarks such as these are heard mostly among the young; many older people are perfectly content to read their morning paper, although they are less apt to read an afternoon paper than 20 years ago.1
+
+But it is the young of today who are the newspaper readers of tomorrow. The future of newspapers depends on them. Without readers, there would not be advertisers. Without advertisers, there would not be money to pay journalists to gather news, money to buy newsprint, or money to buy presses and pay for printing. Without readers, newspapers would cease to be published. Because the future of newspapers hinges on a healthy readership, a model that attempts to forecast the form and content of newspapers in the year 2010 must determine whether it is reasonable to expect that there will be readers, and if so, who will they be and how many will they number? If there are readers, will there be advertisers?
+
+Another major factor that will shape the newspapers of the future is advances in computer and communication technology.
+Likely changes in newspaper readership and developments in technology, then, must be considered in order to forecast the editorial content and design of daily newspapers in 2010.
+
+
+2 READERSHIP
+
+Of the many factors that will play a role in how newspapers look and feel by the year 2010, one of the most important is readership. The makeup and content of newspapers will depend in part on the preferences and demands of the reading public -- or at least on how editors and publishers perceive those preferences.
+Several factors affect newspaper readership:
+
+* Age.
+* Educational and literacy levels.
+* Income and occupation.
+* Household composition.
+* Geographical trends in housing: Whether the majority of the American population chooses to live in the suburbs or in the city.
+* Leisure time, especially the amount of time people can devote to reading.
+* Competition from other media.
+
+
+Of these variables, one of the most important for forecasting newspaper readership is age.
+
+
+2.1 Age
+Age, as E.W. Brody points out in Communication Tomorrow: New Audiences, New Technologies, New Media, is an important determinant of informational need. The group with the most newspaper readers lies roughly between the ages of 35 and 65, with readership lower among those younger than 35 and tailing off for those older than 65.
+
+Those in the age group between 35 and 44 have traditionally had the highest level of readership. But despite slight increases in overall newspaper circulation, which can be attributed at least in part to the aging baby-boom generation of the post-World War II years, the percentage of newspaper readers in the 35 to 65 age group decreased by a rate of 17 percent between 1967 and 1987.2
+A more alarming trend is the rate of change in readership among two younger age groups: the 18-24 group and the 25-34 group.
+
+Members of these two groups, especially the former, comprise the prime newspaper readers of tomorrow, when the 18-24 group will be between the ages of 38 and 44 in 2010. A 1990 Times Mirror survey, however, showed that only 24 percent of those under 35 acknowledged reading yesterday's paper, compared to 67 percent in 1965.3 Another survey showed that readership among the 18-24 group decreased in the past 20 years by a rate of 20 percent, from 71 percent in 1967 to 57 percent in 1987.4 If more members of this age group do not start reading newspapers by 2010, the decreases in readership among that era's prime newspaper reading group will be substantially more than today.
+
+The 18-24 and the 25-34 age groups are part of the baby-bust cycle; they comprise a smaller percentage of the population than those older than 34 (the baby boomers).
+
+Considering the decreases in readership among these groups and the fact that they comprise a smaller percentage of the population, the forecast for newspaper readership, and eventually circulation, does not look promising. In fact, the decreases in population coupled with the decrease in readership among these groups could plague newspaper readership -- and circulation -- in the first decade of the next century. These numbers present a challenge to newspapers to act now to attract and retain potential readers in these age groups.
+
+If newspapers make an effort to reach these younger readers now, there is hope. Readership studies, although they conflict over the exact age, show that the newspaper reading habit is acquired before age 30.
+
+2.2 Teenagers Today, Newspaper Readers Tomorrow
+
+The reading habits of today's youth are a key factor in trying to determine who future readers are likely to be.
+
+Today's teenagers read the newspaper less than their teenage counterparts of a decade or two ago. Newspaper readership among teenagers slipped in the past decade from 45 percent to 41 percent.5 In "Why Teenagers Do Not Read All About It," Cathy J. Cobb-Walgren lists several factors that contribute to what she calls "adolescents' growing apathy toward the newspaper":
+
+    The level of literacy and the amount of time spent reading.
+    Competition from television.
+    Changing lifestyles, including how leisure time is spent.
+    Weakened tradition of reading in the home.
+    Newspaper image.
+
+Each of these factors, and the potential for change within each factor, could alter future readership and the way newspapers will have to respond. Even though newspaper readership declined among teenagers during the 1980s, the trend may not continue if any of the five factors change. Furthermore, other factors yet undetermined, such as the emergence of a new medium, may influence the amount of time today's teenagers spend reading newspapers when they are in their 30s and 40s, in the year 2010.
+
+
+2.3 Level of literacy
+
+Although literacy levels have generally been increasing in the United States through the century, many teachers complain that students' interest in reading has waned during the 1980s. If this is true, newspapers can expect to lose some readers. The trend, however, does not necessarily translate into a great loss of readers for newspapers in 2005 to 2010, as many of these people will probably read the paper for information about their interests or work-related matters. It means, however, that newspapers will have to adapt their content to accommodate these consumers by using more visual elements like informational graphics, charts and photographs. The trend will also force newspapers to publish stories that are easier to read.
+
+In addition, because of what E.D. Hirsch Jr. says in his book Cultural Literacy is a lack of cultural background information among today's children, newspaper writers might find themselves explaining cultural facts that previously went without explanation.
+
+Even if teenagers emerge from high school as nonnewspaper readers, they may still become readers. One study, for example, showed that newspaper reading increases with age.6 Furthermore, studies conducted by The St. Louis Post-Dispatch showed that newspaper reading was a habit developed in the early 20s and before age 30.7 Another study concluded that readership peaks in the 30 to 50 age group.8
+
+Another study, however, found that people older than 18 were unlikely to acquire the habit of reading the newspaper. This study, titled "Confirming the Newspaper Reading Habit" by Gerald C. Stone and Roger V. Wetherington Jr.9, concluded that the newspaper reading habit is formed in adolescence -- especially before 18 -- and is often determined by the reading habits of the child's parent. The more the parents read the newspaper, the more likely the child would pick up the habit, the study found. Because household penetration of newspapers has been declining and because the structure of the family has been changing, these results present problems for future newspaper readership.
+Assuming that the newspaper reading habit is closely linked to the in-home reading habits of parents, the changes taking place in the structure of American families and the way parents spend their time are likely to result in a slight decline in newspaper readership by the year 2005.
+
+2.4 Family Composition And Newspaper Readership
+Household composition has been changing, while household penetration by newspapers has been decreasing. This poses a dual problem for the future of newspapers: attracting readers and attracting advertisers.
+
+The traditional structure of the American household -- a family consisting of mom, dad, and 2 kids -- has changed, figures from the 1990 U.S. Census show.10
+
+First, the Census reveals, there are fewer households headed by married couples and more non-conventional households of couples, roommates and others living together. The average number of people in each household also decreased, from 2.76 in 1980 to 2.59 in 1990.
+
+Second, other statistics show, there is a "trend toward multiple wage earner families."11 More mothers are working full- or part-time jobs, which inevitably decreases the amount of time they spend in the home. If both parents are working, they will have less time to spend reading newspapers in the home.
+
+Assuming that the newspaper habit is acquired from parents during adolescence, the erosion of the traditional family structure and the trend toward both parents working will provide youths with fewer opportunities to pick up the newspaper reading habit in the home, with the result being an erosion of future readership.
+Furthermore, because "research date demonstrate that potential for newspaper subscription increases with numbers of adults in households and with the amount of time adults have available to dedicate to reading,"12 the changes mentioned above are also likely to hurt newspaper circulation and household penetration in the future.
+
+This effect will pose revenue problems for newspapers because advertising prices are tied to circulation and household penetration -- the ratio of circulation to households -- which has been decreasing since about 1950.
+
+
+* * * 
+
+
+In the context of the changes in the structure of the American family, one possible solution is for newspapers to try to get children and teenagers hooked on reading the paper while they are in school. If newspapers can strengthen their role as an educational tool in the classroom, they may find that they can attract young readers.
+
+Although the study by Stone and Wetherington found that "exposure to the [Newspaper In Education] program made no difference in the tendency to have acquired a newspaper reading habit," it is uncertain, as the authors themselves acknowledge, whether the study actually measured exposure to the area's project.13 Two other studies, however, found that Newspaper in Education programs not only improved pupils' attitudes toward newspapers, but also increased the likelihood that they would develop the newspaper reading habit. The studies showed that the more intense the presence of the newspaper in the classroom, the more likely children would respond by reading the newspaper in the future.14
+Therefore, if newspapers can increase their presence in the classroom to a daily one, they stand a good chance of cultivating a young and dedicated readership.
+
+A second possible solution would be to expand the amount of content devoted to young readers. Some newspapers, in an attempt to capture younger readers, have already begun devoting a weekly page or section to kids. The Salem (Mass.) Evening News, for example, runs a weekly Kids' Page containing news of interest to children, stories written by children, and occasional games.
+Another example: During the war in the Persian Gulf, The Hartford Courant published -- as did other major metropolitan newspapers -- a special section that attempted to explain the war to children in simple and clear language. New York Newsday announced recently that it would continue publishing a Student Briefing Page it started during the war in the Persian Gulf even though the war is over.15
+
+The St. Louis Post-Dispatch has taken a different tack toward attracting younger readers: an advertising campaign. Aimed at readers in the 21 to 24 range, the campaign, ironically, is using TV and radio commercials and billboard advertising. The campaign is unusual, said the paper's marketing manager, because such advertising is usually targeted toward readers over 35. The marketing manager said that the newspaper sees the 21-24 age group as potential steady readers who could help sustain the newspaper's circulation into the next century.16
+
+Television, although being used by the Post-Dispatch to attract readers, has been a force of decline among the young for newspapers. Recognizing that they must compete with television for young media users' time, newspapers have begun redesigning their image to make it more exciting, more colorful, and more visual.
+
+2.5 Newspaper Image
+
+"The newspaper nonreader is everywhere. And nowhere are the swelling ranks more problematic to the future of the newspaper industry than among the teenage population,"17 Cobb-Walgren concluded in her study of teenage nonreaders after finding that newspaper image was one of the factors that led teenagers not to read newspapers. Her findings reinforced earlier research that showed teenagers and young adults of college age think of newspapers as a "traditional, middle-aged medium which assumes a rather insignificant place in the adolescent's life."
+Regarding newspaper content, Cobb-Walgren's survey found the following:
+
+* Many teenagers thought newspapers editors do not consider what teenagers like to read.
+* Many teenagers thought there are not enough articles relevant to their hobbies.
+* Many teenagers wished newspapers were more like magazines in size and color.
+* Many teenagers think newspapers are old-fashioned.
+
+These findings provide a prescription for future newspaper content if papers are to gain young readers now and keep them in the future.
+
+Although many remain set in their traditional ways, some papers are starting to address at least one of the above concerns: being perceived as old-fashioned. In the past decade, many newspapers have redesigned their pages, adding color, graphics and a modern look. That's a start. But they must go further. They need to determine what today's teenagers want to read and then put that information into the paper. If newspapers do not act now to get today's teenage readers hooked on reading the paper, the future for newspapers will be grim.
+
+2.6 Decreases in Leisure Time
+The time Americans spend at leisure has been decreasing during the past two decades. "The number of weekly hours the average person has available for leisure fell from 26.2 in 1972 to 16.6 in 1987, according to the Harris Poll," Leo Bogart writes in Press and Public.18
+
+If leisure time continues to decline, it will hamper newspaper readership in future.
+
+
+2.7 Political Apathy and Readership
+
+The current wave of political apathy in America could hurt newspaper readership if it continues.
+Voter turnout hit a new low in the 1988 presidential election, with only about 51 of eligible voters going to the polls. If many people continue to be apathetic toward politics and, subsequently, news about politics, newspapers, long the political journals of record, will be hurt -- unless they change their emphasis from government and political news to information more relevant and entertaining to today's and tomorrow's readers.
+
+2.8 The Readership Forecast
+
+Newspaper readership will continue to slip into the year 2010. Potential readers will be lost as changes taking place in the family structure decrease the number who would otherwise acquire the newspaper reading habit, which is learned mainly from parents in the home. Better educational programs incorporating newspapers and emphasizing reading, however, could help reverse this trend. Other readers will be lost because of their apathy toward reading the news and because of their preferences for other media, especially television. The remaining readers, however, are likely to be well-educated and relatively affluent -- prime target audiences for many advertisers. And if newspapers can deliver these readers to advertisers in a cost-effective and efficient manner, it is reasonable to believe that newspapers will continue to prosper well into the next century. That prosperity, however, is unlikely to reach the levels attained during newspapers' boom years of the past several decades.
+
+
+2.9 Alternate Readership Forecast: The Renaissance
+
+
+Readership, rather than decline, could rise dramatically in the first decade of the next century if, for political and cultural reasons, there is a shift toward reading and a heightened interest in international news as today's college students grow into the prime newspaper reading age group.
+
+Part of the declines in daily and Sunday readership during the 1970s and especially the '80s can be attributed to the spirit of the times. Newspapers, in the decade of conspicuous consumption, power and vanity, just weren't fashionable. Television, with all its glamour, dash and color, was. In the 1980s, American culture was in decline, bottoming out as Miami Vice reached the top of the television ratings and USA Today hit the newsstands in 1982. Literacy in education and the movement away from reading and analyzing the classics hit what many educators saw as an all time low, perhaps best captured by the title of Allan Bloom's book The Closing of the American Mind.19 The period also prompted such cultural self-help books as Hirsch's Cultural Literacy: What Every American Needs to Know20 and A Dictionary of Cultural Literacy.
+
+But culture, like the economy, is subject to cyclical swings. Already on American campuses, there is a trend toward multicultural education. If today's college students graduate with an embedded appetite for information and news about other cultures, it could renew interest in newspapers, which can deliver a variety of in-depth international news and information better on a daily basis than any other medium. This trend would in turn not only boost the future readership of newspapers but also attract advertisers to newspapers' new, educated and most likely affluent readers.
+
+Further: As advances in communication and transportation make the world smaller, it is likely that newspapers will have the resources and the means to be a leading channel for collecting and disseminating international news.
+Here's another way newspapers might be resurrected: Today's students, who are learning in part through using computers, may find themselves interested in getting information from electronic newspapers when they reach adulthood in the next century. The next section, Technology, will address electronic newspapers and the possibilities they hold for the future.
+
+
+2.10 Another Possibility: The Mass-Media Rebellion
+
+People, fed up with being inundated with information, rebel against the mass media and refuse to pay attention to the news. "Information anxiety," as Lorraine Wang, a journalist at The Hartford Courant, recently called it, has begun to plague people, making them feel that there is too much information and not enough time.
+
+If people rebel against the media and begin rejecting newspapers, advertisers would lose their audience base and stop placing ads in newspapers, sending publishers into bankruptcy.
+Because of this threat, newspapers will have to play a stronger role in sorting through the abundance of available information by weeding out the unnecessary while including the compelling, the interesting, and the entertaining.
+
+3 TECHNOLOGY
+
+Technology, if used properly, will furnish a life raft that will help keep newspapers afloat in the 21st century. Advances in technology will enable newspapers to assemble, print, and distribute their traditional papers more cheaply, allowing them to keep their advertising prices low while more easily targeting specific audiences. Personal-computer based pagination systems will give editors, writers and advertising representatives the tools to produce every page of the newspaper electronically, eliminating the traditional -- and costly -- composing process.
+Advances in technology and changes in the channels through which consumers demand and receive information will lead newspapers to respond with information services that, although related, are beyond the traditional scope of newspapers. These forms of diversification, such as information service telephone lines, facsimile newspapers, electronic newspapers and data base services, have already begun to appear and can be expected to expand in the 21st century.
+
+3.1 Personal Computers and Pagination
+
+Personal computer-pagination systems will continue to radically simplify the composing process of newspapers, bringing huge savings in labor costs. With systems already in place at several smaller newspapers, full pagination -- the computer assembly of all pages and all page components -- is scheduled to be put into place at The Baltimore Sun this decade, making it the first major metropolitan daily to install such a system.
+
+The full pagination of the future will enable newspapers to forego several steps in the composition of newspapers. Editors, reporters, graphic artists, photographers and advertising compositors will all use the same computer-based system to produce the newspapers. A page of the newspaper would come out of the typesetter in finished form, ready to be sent to pre-press. Editors will lay out the pages on the same computer that reporters use to file their stories, and the editors will simply import these stories electronically into their computerized page formats, much like is done now with such programs as Aldus PageMaker.
+
+The technology already exists for full pagination, but because of the costs of revamping their computer systems, most newspapers are still not using the same computer system for graphics, pagination, editing, writing and ad makeup. As newspapers current computer systems become obsolete and as the price of full-pagination systems comes down, more newspapers will retool their operations with these advanced systems.
+
+In addition to allowing newspapers to streamline their editorial and advertising operations, full pagination will enable them to amass huge amounts of information and distribute that information in a greater variety of ways: by the traditional printed newspaper, by telephone, by fax, or by telephone computer; by computer; by computer ROM disks; and by others ways yet to emerge.
+
+3.2 The Talking Newspaper
+At present, some newspapers are operating voice information services over the telephone to protect their market position, to make money, and to serve their readers better. Newspapers are likely to expand these operations in the future to reach nonreaders and to continue to provide better services to readers who want up-to-date news and information.
+
+Michael R. Smith, an assistant professor of mass communication at Lycoming College in Williamsport, Pa., says that the market for voice information services, or audiotext, "is the most promising area for newspapers to add revenue, serve readers and enhance a market position."21 Smith notes that the Atlanta Journal-Constitution, concerned about the erosion of its advertising market share, started an audiotext service for survival.
+
+Smith quotes the Journal-Constitution's general manager of voice information services, Chris Jennewein, as saying that even though the voice services are not particularly profitable, they have "helped maintain and improve readership." The reason that the voice services improve readership is that they allow readers to interact with the newspaper and that they hold appeal for nonnewspaper readers and potential readers.
+
+In terms of solving future readership problems, voice services may help. "Declining newspaper readership makes interactive electronic media all the more attractive as a way of attracting new readers, including the twenty-something crowd," Smith writes.
+Voice services also provide an opportunity to increase ad and sales revenue. The Journal-Constitution provides much of its voice information services, ranging from sport scores to movie listings, for free. Callers must first listen to 15-second advertising message.
+
+Voice services are attractive to advertisers because the information line, which is geared toward a specific interest, such as stocks, gives advertisers a direct link to specific target audience, such as stock brokers.
+
+Voice classified advertisements, especially personals ads and help-wanted ads, have become profitable for some newspapers. Newsday's audiotext, for example, grossed more than $2 million from three lines in 1990, according to Smith.
+
+Thus, as voice services expand they are likely to not only attract readers to the newspaper, but also raise the newspapers revenues.
+
+If telephone computers proliferate in American homes, the newspaper voice information services will follow in popularity. Such services may even be billed and paid for automatically. But the talking newspapers will primarily serve specialized interests and needs: sports fanatics, stock brokers, soap opera enthusiasts. People addicted to horoscopes. Because talking newspapers serve specialized needs, they will not become more popular than the newspaper, which has something for everyone.
+Alternate forecast: U.S. District Court Judge Harold H. Greene repeals some or all of the restrictions on the regional Bell telephone companies, permitting them to move into generating and selling their own information over the telephone. With their vast telephone system and resources in place, the Bell companies would provide tough competition for newspapers in the voice information services market. The competition would either drive newspapers out of the voice information market or into operating agreements and partnerships with the Bell companies.
+
+3.3 The Facsimile Newspaper
+
+As faxes grow in popularity in American homes as well as businesses, fax papers may expand and become more profitable.
+Although nine metropolitan newspapers, including The Hartford Courant, offer a fax paper, the sheets have yet to become popular. There are several reasons for this: the lack of fax machines in homes reduces the number of potential subscribers; most of the fax papers don't offer enough services beyond that of traditional newspapers while charging a higher price; and consumers are unaccustomed to the idea of receiving a paper by fax.
+
+In reacting to the slowness with which fax papers have caught on, several newspapers that started fax papers have canceled them. The Star Tribune, for example, started a fax paper in February 1990, but later discontinued the product. The Chicago Tribune also started a fax paper in 1990 but stopped it after about four months. Although still being published, the Courant's fax paper, billed as an executive digest, has not become profitable -- yet. It is breaking even.
+
+But if faxes, or smart phones with a built-in fax, find there way into American homes and cars as well as businesses, the fax paper may gain greater appeal to a specialized audience: businesspeople. Fax papers would be a convenient and easy way for busy businesspeople to get quick information on, for example, stocks and bonds. If faxes become as popular in cars as cellular phones, fax papers may be read by drivers stuck in traffic. Never mind competition from radio: a fax paper would provide businesspeople with a hard copy that could be used for reference. In order to be successful, however, fax papers will have to offer information beyond that carried in the morning or afternoon's newspaper. Fax papers, to attract readers, will have to fill a niche now unfulfilled, and that niche is tailored, up-to-date information about financial markets.
+
+In March, the St. Paul (Minn.) Pioneer Press launched a personalized fax paper that allows subscribers to select as many as 15 stock prices to be included in the reader's daily fax paper. But fax papers must go beyond being personalized. They must provide information updated as often as possible.
+If fax papers can fulfill these needs, it is possible, even likely, that they will increase in popularity. And maybe even turn a profit for the newspapers that produce them. 
+
+Another problem with fax papers is that people are not used to receiving news by fax. This is likely to change, however, as faxes become more popular and people become more accustomed to using them.
+
+
+* * * 
+
+
+Looking further into the future, advances in telecommunication and computer technology along with consumers' new preferences for receiving information could transform the fax papers of today -- usually a one-page print out of basic information -- into the newspapers of tomorrow. This transformation, however, pertains more to the information's transmission than to its content.
+
+Several changes likely to take place in telecommunication technology in the next 10 to 30 years could revolutionize the way newspapers are distributed. These advances in telecommunications -- the proliferation of computerized telephones with built-in faxes and laser printers and the nationwide installation of fiber optic cable -- could permit publishers to deliver newspapers electronically by fiber optic cable, the quality and capacity of which is far greater than today's copper wires and coaxial cables.
+After being sent over broadband cable and received in the home by a computerized telephone, the newspaper would be printed by a laser printer attached to the computerized telephone.
+
+Such a distribution method, assuming it becomes technologically possible, would reduce the high costs of newspaper home delivery -- loading the papers into gas-hogging and expensive trucks that transport them to paper carriers and homes all over the metropolitan area.22
+
+If Arthur D. Little, a consulting firm in Cambridge, Mass., can imagine "an American in which improved telecommunications replaced 10 to 20 percent of the miles now logged by commuters, shoppers and business travelers," then it is only a small jump to envision the same opportunities for businesses that distribute information by car, truck, rail or plane. "Communications is bound to be a plausible alternative for getting from here to there," says Peter Passell of the New York Times.23 Communications will be a plausible alternative for getting newspapers from here to there, too.
+
+Computerized telephones would not be used only for home distribution of newspapers. On the contrary, such technology, which would be costly at first, would probably be brought to the market by the telephone companies, which would rent the phones to consumers and businesses. If the price later falls to an affordable level, more businesses and households would buy the devices. Fiber optic cable would probably be installed by telephone companies or cable companies or both.
+
+If such technology develops and becomes popular in homes, newspapers must be innovative in adapting to it, using it to improve their efficiency and to lower their distribution and printing costs. The potential savings that newspapers could incur by distributing papers electronically would enable them to keep advertising prices competitive with the ad prices of other media.
+Recent history affirms the possibility of such devices in the future. Facsimiles, for example, exploded in popularity during the 1980s, with corporate offices and other businesses rushing to buy and use them. The declining price of facsimiles helped fuel this boom. But facsimile machines are only one component of a "wired society" that Brody, in his book Communication Tomorrow, says is quickly becoming the norm:
+
+    Enhanced telephone, facsimile, and electronic mail systems are moving rapidly toward the "wired society" of which futurists have been speaking and writing for more than a decade. Systems that will bind these seemingly separate networks into a cohesive whole already are in place or under development. Connected to computers and satellites, they will become the veins and arteries of the age of information.
+
+Newspaper delivery, then, may become a form of electronic mail -- but with a twist: Readers will print it out at home on their computerized facsimiles or the printers hooked to their smart phones.
+
+
+* * * 
+
+
+All this underscores a more general point about the future of newspapers. To continue to survive and prosper, they will have to be innovative in responding to changes in the market and their audience in at least two ways: specialization and diversification.
+Although, as Brody points out, it is uncertain "to what extent do newer, more selective media drive out older, more mass-oriented media,"25 such as newspapers, it is certain that newspapers will need to respond with innovation to the changes coming with the "wired society" if they are to survive and prosper.
+
+"New technology will bring newspapers either a serious erosion of readership and revenues -- or an explosion of new opportunities -- according to how well it is managed," John Diebold, president of The Diebold Group, told the American Society of Newspaper Editors in 1988.26
+
+
+3.4 The Telecommunication-Newspaper Forecast
+
+
+After personal computers and laser printers or smart telephones and facsimiles find their way into more homes, newspapers will be sent to these computers by modem and then printed out on cheap recycled computer paper in the form of a traditional newspaper, with stories, editorials, comics, ads and all, although the size of the paper may be smaller. Much of the newspaper's content, including advertising, will be tailored to the reader's interests, eliminating waste and clutter. The cost of such a newspaper would be borne by advertisers, which could use the paper to reach their target audience, and readers, who would pay a small subscription fee. The probability of this forecast rests on the nationwide installation of fiber optic cable and computerized telephones.
+
+3.5 The Electronic Newspaper
+
+The first wave of electronic newspapers, initially heralded as the future, failed because they were too cumbersome, too complicated, too slow and too expensive. They also failed because consumers did not buy personal computers, let alone modems, for their homes as quickly as many predicted. At present, only 6 percent of American homes have modems. And only about 1 percent of the country's population is using electronic newspapers or databases.27
+
+Electronic newspapers, however, will have a second coming. But, like voice information services, they will serve specialized informational needs rather than the needs of the general reader. With this in mind, it is safe to assume that contrary to traditional newspapers, much of electronic newspapers' cost will be borne not by advertisers but by users, which means they may cost more. It also means they will be used less than traditional newspapers.
+
+On the other hand, advertisers may find electronic newspapers a useful avenue for reaching specialized interests, such as financial consultants, business travelers, and so on. Electronic newspapers will give these readers access to a greater amount of in-depth information than found in the daily newspaper, whether it be a suburban daily or The Wall Street Journal. Moreover, electronic newspapers would be particularly useful for monitoring or searching for information on a specific subject. All the user would have to do is plug in a key word and hit the search command.
+The rebirth of electronic newspapers will be fueled by advances in technology that will make them easier to use. The nationwide installation of a fiber optic broadband network will allow electronic newspapers to be transmitted quickly and easily, with little if any wait to load up the paper.
+
+The coming introduction of smart phones into the market will also serve as a catalyst for electronic newspapers, especially if smart phones eventually come with a built-in modem. With the turn of a switch, consumers could change their telephones into modems and connect them to their personal computers.
+
+Without more personal computers in homes, however, electronic newspapers will not achieve popularity or profitability. Personal computers will not become popular in homes until their price drops and people feel comfortable using them. In 20 years, when computers are likely to be much cheaper than today, it is possible that each American home will have one, just as each home now has a microwave oven.
+
+The widespread use of computers in education today will mean that in the future, more people will be comfortable using computers. Today's grade-school students, who are increasingly being taught with the aid of computers, will be the computer users of tomorrow. When these pupils become adults in a few decades, they will have a predisposition toward using computers to obtain news and information.
+
+Other technology further enhances the likelihood that electronic newspapers will eventually boom. The Associated Press can already send color photographs to member newspapers' computer systems, which can view and edit the photographs in color on a screen. In the future, electronic newspaper subscribers will be able to look at color photographs on their home computer screens. High-definition television has the potential to revolutionize electronic newspapers. Consumers would hook their computer terminal to an HDTV screen to receive a perfect picture. As the picture would be so clear and the type could be made almost any size, the applications of HDTV with computer newspapers could be particularly helpful for people with impaired vision.
+
+
+* * * 
+
+
+Electronic newspapers do not pose a threat to traditional newspapers. Regardless of how high-tech or easy to use electronic newspapers become, they will never supplant traditional newspapers. One of the great strengths of newspapers, and a reason they have been around so long, is that they can be used just about anywhere. They're portable. A person can buy a paper at a sidewalk vendor, stick it in his back pocket until he finds a park bench, and then whip it out and read it. It can be read on the bus or on the subway. While eating breakfast at a diner. Sometimes, people even read the newspaper while driving.
+Another great strength of traditional newspapers is their price. Electronic newspapers, on the other hand, are and will continue to be more costly than regular newspapers (although their price is likely to decrease over time).
+
+The price of electronic newspapers, including the modem or smart phone to receive them, the knowledge to use them, and the hardware and software to use them, makes them an elitist product and bars poor or less computer literate people from using them. For this reason they may never appeal to a mass audience.
+
+3.6 Electronic Data Bases
+
+As time passes, more and more newspapers and wire services will move into the business of providing electronic data base and library services. Their dominant position as news gatherers and information dispensers gives them the ability to enter this field with a minimum of cost or resources.
+
+Knight-Ridder, which owns many newspapers, is leading this trend with Dialog. Another leader is Dow Jones, the publisher of The Wall Street Journal, with its Dow Jones News/Retrieval service, which provides financial information.
+
+Both electronic newspapers and data base services will be used in the future, but the use will be confined to fulfilling such specialized entertainment or informational needs as horoscope updates and financial news.
+
+In this way, newspapers can be expected to begin providing cross-word puzzle networks, computerized dating networks, and sports information data bases with current scores. Business and financial news networks hold the most promise. But again, such services and networks will not be profitable until personal computers find their way into more homes and more people become accustomed to using them. It is possible that by 2010, these networks will still not be popular or profitable. Nevertheless, given certain technological advances and changes in attitudes, they will eventually catch on.
+
+3.7 Other Technology
+
+Advances in other technology will also affect the future of newspapers:
+
+    Improvements in satellite technology will enhance the transmission of news beyond the rather capable systems of today.
+    Improvements in recycling and deinking technology will enable newspapers to use more recycled newsprint and less paper from trees. Everyday, more newspapers are using more recycled newsprint.
+
+The environmental reporter for The Hartford Courant, Dan Jones, said that at present, there are only a few deinking plants in the United States. But more are being built. Jones said he expects there will 15 or more such plants by the end of this decade.
+Advances in deinking and recycling technology will be significant to the future of newspapers for two reasons:
+
+    It will help newspapers keep the high costs of fresh newsprint low, which will in turn help them keep their advertising rates low. The use of recycled newsprint will help newspapers remain competitive with other media.
+    It will rescue newspapers from the criticism of the environmental movement, which may be a powerful political force in the United States by 2010.
+
+In the future newsprint will be deinked and reused several times until the level of fiber drops to an unusable level, then the newsprint will again be deinked, but this time the paper will be fed to cows. An article in Editor & Publisher cites a scientist at the University of Illinois College of Agriculture who says a new technique to transform old newspaper into feed for beef cattle is showing promise. The scientist, Larry Berger, says tests indicate newsprint can be turned into feed that would account for as much as 30 percent to 40 percent of a cow's diet. The treated newsprint could be cheaper than hay, he says. Although scientists experimented with feeding newsprint to cows in the '70s, they failed because the cows could not digest it. Berger says he has found a way to make the newsprint more digestible.28
+
+Although newspapers will be printed on recycled paper, the paper quality will be as good as it is today, if not better, and the reproduction quality of graphics, photographs and print will far exceed today's standards. This is because advances in recycling and printing technology will more than offset loses in reproduction quality from using recycled newsprint.
+
+4 CONTENT
+
+Traditional daily newspapers will alter their content to retain readers in the future. Changes in reading habits, the amount of time people spend reading, and competition from other media will force newspapers to adapt if they are to survive and prosper into the year 2010.
+
+4.1 Newspaper Design
+
+The following changes in the design of traditional newspaper can be expected as papers respond to their changing audience:
+
+* Smaller size newspapers. Although the tabloid-size newspaper has long been scorned by proper newspapers as representing the sensational and the silly, New York Newsday showed that a newspaper can be serious in the tabloid-size format.
+Because the tabloid size is easier to handle, especially on trains and buses and the like, it will become the size of choice. Another reason the tabloid size will increase in popularity is that it is closer to a magazine format, and that holds an attraction for many of today's younger readers, as Cobb-Walgren noted in "Why Teenagers Do Not Read All About It."29 These younger readers can be expected to retain this preference.
+The cost of converting presses already in place and the limited flexibility of some presses, however, may hinder this change.
+* Larger headline type over important stories. It commands more attention from readers and will help them sort through the jungle of information.
+* The use of full color in newspapers will become wide spread as newspapers move to attract the more visual-oriented younger readers. Advances in press technology and color reproduction will allow newspapers to afford to print in full color.
+* Newspapers will use more graphics and more photographs as they respond to the visual orientation of readers brought up in the age of television. Color graphic and color photographs will serve to make newspapers more exciting as well as more easily readable for visual-oriented people.
+
+4.2 Editorial Content
+
+The following changes in the editorial content of traditional newspapers can be expected as they respond to the changing preferences and informational needs of their audience.
+
+* Longer, rather than shorter, stories, especially about the important news events. In-depth coverage of relevant news will be the salvation of newspapers as more readers look to newspapers for the information that makes sense of an rapidly changing world. Although the use of longer articles seems contradictory given that people's leisure time is declining, it nevertheless makes sense. Readers, with less time to spend gathering information, will want to read quality, in-depth information about important news events. Readers will spend more time with what is important to them and less time with information that holds little or no value for them.
+
+The editor in chief of Vanity Fair magazine, speaking May 7 to the American Newspaper Publishers Association, told the publishers that to boost their circulation, they must run longer, more substantial stories. The editor, Tina Brown, said readers will read longer stories if they are seduced by strong photographs and headlines and good writing emphasizing human interest. Brown added that Vanity Fair's circulation improved after the magazine started publishing more longer stories.30
+As a guide to the longer stories inside the paper, newspapers will increase their use of news digests that present the news story's gist and its location inside the paper.
+
+* More articles that analyze news events. As television, radio or other media provide better and better coverage of breaking news, newspapers will increasingly turn to putting the news in perspective rather than reporting it as though no one has heard about it, as many papers are doing today.
+
+* Newspapers, seeking to become more entertaining and interesting to readers, will publish more stories written in the narrative form, rather than the traditional style of presenting the facts in a straight-forward manner. This trend will give newspapers more of an emotional charge and human touch, making them appealing to readers in the way that fiction now is. As a result of this trend, the use of the first person will also become accepted and popular.
+
+* Heightened emphasis on "gatekeeping." In the information age of the future, the notion of gatekeeping -- weeding out irrelevant information in favor of pertinent information -- will become ever more important in newspaper editing. If editors can fulfill their roles as informational gatekeepers, people will be more inclined to turn to newspapers for the information they need.
+
+* Continuing a trend being established today, newspapers will look for new and better ways to serve their readers. Newspapers will change their emphasis from covering politics to covering issues of more importance to the lifestyles of tomorrow's readers. As coverage of child care takes priority over coverage of city hall, the distinction between hard news and soft news will blur.
+
+* Zoning. More newspapers will publish zoned sections devoted to covering local news. These zoned editions will also carry advertising directed at people who live in specific regions or towns within the newspaper's circulation area. Both the ads and the news in the zoned sections will be tailored to the zone resident's preferences, as determined by occupation, average income, educational level, and other factors.
+
+* Newspapers, seeking to serve advertisers better, will start putting some ads on the front page, as is done at some British papers. Furthermore, like the line between hard news and soft news, the line between editorial content and advertising content will blur.
+
+* Newspapers will become increasingly specialized in their editorial content. They will print more news about cars and commuting, the environment, technology and science than ever before. Special sections, published daily, weekly or monthly, will cover specialized topics. This trend has begun; The Los Angeles Times, for example, began publishing a weekly section focusing on international news in 1990. Expect some newspapers to start publishing a weekly environmental section in the future.
+
+* Specialized daily newspapers, such as The National, a nationwide-circulation sports daily, will grow in popularity as consumers' interests narrow in scope and audience fragmentation continues. It is possible, for instance, that The New York Times could launch a national daily newspaper that contains only international news.
+
+
+5 OTHER FORMS, OTHER FORMATS
+
+Newspaper companies will continue to diversify their holdings by moving into other media as the year 2010 approaches.
+Many major daily newspapers will likely either begin broadcast news television channels, like The Christian Science Monitor did a few years ago, or merge their operations with a broadcast news or radio station or both to form a single news outlet.
+The Los Angeles Times launched a Sunday cable television show last year, and New York Newsday started a cable news channel on Long Island a few years earlier. It is conceivable that The New York Times, with its established news gathering network and advertiser base, will start a national or international cable television news station similar to the Cable News Network, especially if one of the three major networks folds its news operation, opening a niche for another major broadcast news network.
+
+5.1 Multimedia News
+
+After more broadcast news networks and newspapers merge and after fiber optic cable is installed nationwide, news could be delivered in ways radically different from today.
+
+The content of the newspaper would be combined with the content of a network news program and delivered to the home by fiber optic cable. The news would be sent hourly and stored in the viewer's computerized HDTV media center. Once stored in the media center, the news could be presented at the viewer's convenience in multimedia form. Text, photographs, graphics and charts would be combined with voice and video. And because such a large volume of information could be sent over fiber optic cable, there would be an array of in-depth news available to the viewer, who could choose what and how much to read.
+
+6 CONCLUSION
+
+Through specializing, diversifying and changing content to meet the needs of tomorrow's audience, newspapers will remain a strong medium, although they are likely to continue to lose some readers. As readership declines, however, newspapers are likely to respond with changes in design and content that will gain new readers and retain many existing ones. Attempts to increase their appeal to today's younger readers -- the prime readers of tomorrow -- would help ensure newspapers' survival. But if newspapers fail to respond appropriately to changes in their audience, the future of newspapers will be grim.
+Advances in technology will provide newspapers with ways to streamline their operations, reduce costs and diversify the ways they distribute information. By helping to cut costs, technological advances will also allow newspapers to keep their advertising prices competitive with other media. Finally, technological progress will lead newspapers into such new ways of delivering the news as multimedia news packages.
+
+7 NOTES
+
+1. According to the second edition of Press and Public by Leo Bogart. Pages 81 and 82.
+2. Press and Public, by Leo Bogart. Second Edition, 1989. Page 81.
+3. "When Readers Design The News," by Carl Sessions Stepp, in the April 1990 issue of the Washington Journalism Review. Page 22.
+4. These statistics are from surveys taken by Simmons Market Research Bureau, as cited by Bogart on Pages 80 and 81 of Press and Public.
+5. "Why Teenagers Do Not Read All About It" by Cathy J. Cobb-Walgren. Journalism Quarterly, Vol. 67, No. 2 (Summer 1990), Pages 340-347.
+6. Wilbur Schramm, Jack Lyle and Edwin B. Parker, "Patterns in Children's Reading of Newspapers." Journalism Quarterly, Vol. 50 (1973) Pages 543-548.
+7. "Reaching Young Adults via Broadcast," in the March 16, 1991, issue of Editor & Publisher. Page 25.
+8. Wilbur Schramm and David M. White, "Age, Education, Economic Status: Factors in Newspaper Reading," Journalism Quarterly, Vol. 26. Pages 149-159. (1949)
+9. Journalism Quarterly, Autumn 1979, Pages 554-562.
+10. "Census reveals changes in state: Households shown less traditional," in the April 24, 1991, issue of The Hartford Courant. Page D1.
+11. Brody, Page 71.
+12. Brody, Page 113.
+13. "Confirming the Newspaper Reading Habit," Journalism Quarterly, Autumn 1979. Page 558.
+14. Press and Public, by Bogart. Pages 129-130.
+15. "Newsday's student briefing page to continue," Editor & Publisher, April 13, 1991. Page 18.
+16. "Reaching Young Adults via Broadcast," in the March 16, 1991, issue of Editor & Publisher. Page 25.
+17. Page 347.
+18. Page 27.
+19. Published in New York by Simon and Schuster in 1987.
+20. The Houghton Mifflin Company published Hirsch's book in 1987.
+21. "New Age Journalism: Deadline-free news and information services arrive," in the Jan. 26, 1991, issue of Editor & Publisher. Page 2TC.
+22. Benefits from the electronic home distribution of newspapers would also be social; it would reduce traffic congestion, road wear and pollution. Traditional methods of distribution, however, would probably still be needed for such outlets as sidewalk vendors, newsstands, stores and other sellers.
+23. The Faxes Are Coming, by Peter Passell, in the Wednesday, April 10, 1991, edition of The New York Times. Page D2.
+24. Page 191.
+25. Page 192.
+26. As quoted by Brody on Page 215 of Communication Tomorrow.
+27. "New Age Journalism: Deadline-free news and information services arrive," by Michael R. Smith, in the Jan. 26, 1991, issue of Editor & Publisher. Page 23TC.
+28. "Fit to eat?: Animal scientist says cows could feed on treated newspapers," Editor & Publisher, March 2, 1991. Page 7.
+29. Journalism Quarterly, Vol. 67, No. 2 (Summer 1990), Pages 340-347.
+30. From an Associated Press story by Dan Day that the wire service published May 7 from Vancouver, British Columbia.
+Top
+
+
+8 RELATED
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Book Review of Read All About It: The Corporate Takeover of
+    America's Newspapers](/md/crit1.html)
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [An Analysis of Kellner's Theory of Media Culture](/md/kellner.html)
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Foucault: A Lover's Discourse about Madness and the
+    Media](/md/foucault.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Image over Substance: An Example of Postmodern Politics](/md/cult1.html)
+
+<i class="fa fa-file-text-o"></i> [Using French Social Thought for Media Criticism](/md/media-criticism-with-french-social-thought.html) 
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Relation Between Civic Society and Newspapers in the Writings of
+    Alexis de Tocqueville and Robert Putnam](/md/putnam1.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or
+    Cultural Orientation](/md/newslang.html)
+
