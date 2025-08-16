@@ -2,13 +2,13 @@
 
 Dialogic imagination, a key concept in literary and cultural criticism, gives writers and readers a multifaceted lens for analyzing text, technology, and context:
 
-Undermining monologic narratives: Dialogic imagination emphasizes the interaction of multiple voices and perspectives within a text, undercutting the idea of a single, authoritative voice.
+<i class="fa-li fa fa-square"></i> Undermining monologic narratives: Dialogic imagination emphasizes the interaction of multiple voices and perspectives within a text, undercutting the idea of a single, authoritative voice.
 
-Analyzing power dynamics: The theory gives you a framework for examining the complex interplay of power and ideology in texts, revealing how different voices and perspectives interact and influence one another.
+<i class="fa-li fa fa-square"></i> Analyzing power dynamics: The theory gives you a framework for examining the complex interplay of power and ideology in texts, revealing how different voices and perspectives interact and influence one another.
 
-Contextualizing texts: It highlights the importance of understanding the social, economic, political, cultural, and historical contexts in which a text is created and interpreted.
+<i class="fa-li fa fa-square"></i> Contextualizing texts: It highlights the importance of understanding the social, economic, political, cultural, and historical contexts in which a text is created and interpreted.
 
-Promoting nuanced interpretation: By recognizing the multiplicity of voices and meanings within a text, dialogic imagination points the way toward more nuanced, insightful, and salient interpretations.
+<i class="fa-li fa fa-square"></i> Promoting nuanced interpretation: By recognizing the multiplicity of voices and meanings within a text, dialogic imagination points the way toward more nuanced, insightful, and salient interpretations.
 
 Dialogic imagination supplies a subtle yet powerful and dynamic lens for analyzing literature and culture and uncovering the intricate relationships between writers, readers, texts, and context.
 
