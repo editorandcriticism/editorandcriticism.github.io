@@ -5,11 +5,14 @@ title: 'Criticism.Com: Articles and Other Content'
 ---
 
 
-## Articles
+## Writers, Thinkers, Themes, Motifs, and Thematic Keywords
 
-<!-- add coffee cups and to each of the files listed in this articles section -->
+<!-- add coffee cups here and to each of the files listed in this articles section -->
 
 <i class="fa fa-file-text" aria-hidden="true"></i> [Exploring subjects at the intersection of critical thought, text, and technology](/linguistics/writing-on-criticism-dot-com.html)
+
+
+<i class="fa fa-file-text" aria-hidden="true"></i> [Dialogic Imagination](/da/dialogic-imagination.md)
 
 
 -----
@@ -54,10 +57,8 @@ title: 'Criticism.Com: Articles and Other Content'
 -----
 
 
--   [About Criticism.Com](/cc/aboutcc.html)
 -   [What Others Are Saying About Criticism.Com](/cc/kudos.html)
--   [Publications List](/publications.html)
--   [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
+
 
 
 

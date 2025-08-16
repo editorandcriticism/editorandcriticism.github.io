@@ -1,13 +1,13 @@
 --- 
 title: The Future of American Newspapers, a Forecast Written in 1991
 description: The Future of American Newspapers, a Forecast Written in 1991 
-keywords: newspapers, corporations, journalism, book review, politics, democracy, press, monopoly, criticism, mass media, media criticism, media studies, media monopoly, Steve Hoenisch, digital media, media and technology
+keywords: newspapers, media corporations, journalism, book review, politics, democracy, press, monopoly, criticism, mass media, media criticism, media studies, media monopoly, Steve Hoenisch, digital media, media and technology
 ---
 
 
 By Steve Hoenisch
 
-Published in 1997.
+Published circa 1997.
 
 
 	Table of Contents
@@ -41,7 +41,7 @@ Published in 1997.
 	8 RELATED
 
 
-1 INTRODUCTION
+## 1 INTRODUCTION
 
 Note: This forecast was written in spring 1991 for a course at the University of Hartford; at the time, I worked on the copy desk of The Hartford Courant.
 
@@ -59,7 +59,7 @@ Another major factor that will shape the newspapers of the future is advances in
 Likely changes in newspaper readership and developments in technology, then, must be considered in order to forecast the editorial content and design of daily newspapers in 2010.
 
 
-2 READERSHIP
+## 2 READERSHIP
 
 Of the many factors that will play a role in how newspapers look and feel by the year 2010, one of the most important is readership. The makeup and content of newspapers will depend in part on the preferences and demands of the reading public -- or at least on how editors and publishers perceive those preferences.
 Several factors affect newspaper readership:
@@ -196,7 +196,7 @@ People, fed up with being inundated with information, rebel against the mass med
 If people rebel against the media and begin rejecting newspapers, advertisers would lose their audience base and stop placing ads in newspapers, sending publishers into bankruptcy.
 Because of this threat, newspapers will have to play a stronger role in sorting through the abundance of available information by weeding out the unnecessary while including the compelling, the interesting, and the entertaining.
 
-3 TECHNOLOGY
+## 3 TECHNOLOGY
 
 Technology, if used properly, will furnish a life raft that will help keep newspapers afloat in the 21st century. Advances in technology will enable newspapers to assemble, print, and distribute their traditional papers more cheaply, allowing them to keep their advertising prices low while more easily targeting specific audiences. Personal-computer based pagination systems will give editors, writers and advertising representatives the tools to produce every page of the newspaper electronically, eliminating the traditional -- and costly -- composing process.
 Advances in technology and changes in the channels through which consumers demand and receive information will lead newspapers to respond with information services that, although related, are beyond the traditional scope of newspapers. These forms of diversification, such as information service telephone lines, facsimile newspapers, electronic newspapers and data base services, have already begun to appear and can be expected to expand in the 21st century.
@@ -334,7 +334,7 @@ In the future newsprint will be deinked and reused several times until the level
 
 Although newspapers will be printed on recycled paper, the paper quality will be as good as it is today, if not better, and the reproduction quality of graphics, photographs and print will far exceed today's standards. This is because advances in recycling and printing technology will more than offset loses in reproduction quality from using recycled newsprint.
 
-4 CONTENT
+## 4 CONTENT
 
 Traditional daily newspapers will alter their content to retain readers in the future. Changes in reading habits, the amount of time people spend reading, and competition from other media will force newspapers to adapt if they are to survive and prosper into the year 2010.
 
@@ -375,7 +375,7 @@ As a guide to the longer stories inside the paper, newspapers will increase thei
 * Specialized daily newspapers, such as The National, a nationwide-circulation sports daily, will grow in popularity as consumers' interests narrow in scope and audience fragmentation continues. It is possible, for instance, that The New York Times could launch a national daily newspaper that contains only international news.
 
 
-5 OTHER FORMS, OTHER FORMATS
+## 5 OTHER FORMS, OTHER FORMATS
 
 Newspaper companies will continue to diversify their holdings by moving into other media as the year 2010 approaches.
 Many major daily newspapers will likely either begin broadcast news television channels, like The Christian Science Monitor did a few years ago, or merge their operations with a broadcast news or radio station or both to form a single news outlet.
@@ -387,12 +387,12 @@ After more broadcast news networks and newspapers merge and after fiber optic ca
 
 The content of the newspaper would be combined with the content of a network news program and delivered to the home by fiber optic cable. The news would be sent hourly and stored in the viewer's computerized HDTV media center. Once stored in the media center, the news could be presented at the viewer's convenience in multimedia form. Text, photographs, graphics and charts would be combined with voice and video. And because such a large volume of information could be sent over fiber optic cable, there would be an array of in-depth news available to the viewer, who could choose what and how much to read.
 
-6 CONCLUSION
+## 6 CONCLUSION
 
 Through specializing, diversifying and changing content to meet the needs of tomorrow's audience, newspapers will remain a strong medium, although they are likely to continue to lose some readers. As readership declines, however, newspapers are likely to respond with changes in design and content that will gain new readers and retain many existing ones. Attempts to increase their appeal to today's younger readers -- the prime readers of tomorrow -- would help ensure newspapers' survival. But if newspapers fail to respond appropriately to changes in their audience, the future of newspapers will be grim.
 Advances in technology will provide newspapers with ways to streamline their operations, reduce costs and diversify the ways they distribute information. By helping to cut costs, technological advances will also allow newspapers to keep their advertising prices competitive with other media. Finally, technological progress will lead newspapers into such new ways of delivering the news as multimedia news packages.
 
-7 NOTES
+## 7 NOTES
 
 1. According to the second edition of Press and Public by Leo Bogart. Pages 81 and 82.
 2. Press and Public, by Leo Bogart. Second Edition, 1989. Page 81.
@@ -427,7 +427,7 @@ Advances in technology will provide newspapers with ways to streamline their ope
 Top
 
 
-8 RELATED
+## 8 RELATED
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Book Review of Read All About It: The Corporate Takeover of
     America's Newspapers](/md/crit1.html)
@@ -449,4 +449,5 @@ Top
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or
     Cultural Orientation](/md/newslang.html)
+
 

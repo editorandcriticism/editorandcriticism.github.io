@@ -127,7 +127,8 @@ book publishers.
 
 <img src="/photos/train-to-metrotown-streets.jpg" class="img-fluid" alt="Photograph of the skytrain to Metrotown.">
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Walking there.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Walking into the City.
+
 
 
 
