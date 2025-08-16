@@ -12,7 +12,7 @@ title: 'Criticism.Com: Articles and Other Content'
 <i class="fa fa-file-text" aria-hidden="true"></i> [Exploring subjects at the intersection of critical thought, text, and technology](/linguistics/writing-on-criticism-dot-com.html)
 
 
-<i class="fa fa-file-text" aria-hidden="true"></i> [Dialogic Imagination](/da/dialogic-imagination.md)
+<i class="fa fa-file-text" aria-hidden="true"></i> [Dialogic Imagination](/da/dialogic-imagination.html)
 
 
 -----
