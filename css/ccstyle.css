@@ -47,14 +47,16 @@ se these styles and cf bootstrap overrides. ::
        background-repeat: none;
        background-position: 0; 
      }
-*/
+
 
 ul {
   list-style-type: square;
   padding: 1em;
-  /*margin: .1em; */
-  list-style-position: outside; /* Places the bullet outside the list item content */
+margin: 0em; 
+  list-style-position: outside; 
 }
+*/
+
 
 
 
