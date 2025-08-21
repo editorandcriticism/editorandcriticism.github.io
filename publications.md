@@ -60,7 +60,7 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 
 <!-- new preface: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/ -->
-<!-- old url: https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf -->
+<!-- old url: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf -->
 
 <!-- THIS URL WORKS as of Aug. 202, 2025: 
 https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf 
@@ -178,7 +178,17 @@ https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/)
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 
 
-<i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds at the Dawn of 5G](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf): An Integrated Approach to Helping CSPs Meet Emerging Security Standards. This technical white paper summarizes the security risks and requirements that CSPs face as they transition to 5G networks and increasingly rely on virtualization, containers, and cloud computing. The paper illustrates how VMware technology protects telecom networks with an array of built-in security measures, many of which can be automated. Published by VMware.
+<i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds at the Dawn of 5G](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf): An Integrated Approach to Helping CSPs Meet Emerging Security Standards. This technical white paper summarizes the security risks and requirements that CSPs face as they transition to 5G networks and increasingly rely on virtualization, containers, and cloud computing. The paper illustrates how VMware technology protects telecom networks with an array of built-in security measures, many of which can be automated. Published by VMware.
+
+<!-- old
+https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf 
+-->
+
+<!-- new
+https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf 
+-->
+
+
 
 <i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds: Protect Infrastructure with Built-in Measures](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-solution-overview.pdf). This short paper explains how the VMware Telco Cloud emphasizes intrinsic security---security that's integrated with the software and infrastructure so it's programmable, automated, adaptive, and context-aware. Published by VMware.
 
