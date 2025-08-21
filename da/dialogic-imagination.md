@@ -1,6 +1,6 @@
-## Diaglogic Imagination 
+## Dialogic Imagination 
 
-Dialogic imagination, a key concept in literary and cultural criticism, gives writers and readers a multifaceted lens for analyzing text, technology, and context:
+Dialogic imagination, a key concept in literary and cultural criticism largely from Mikhail Bakhtin's book _The Dialogic Imagination_, gives you a multifaceted lens for analyzing text, technology, and context. Apologies if I depreciate it by reducing it to a few bullet points, the following of which are but a few applications of Bakhtin's lens: 
 
 <i class="fa fa-share-alt-square" aria-hidden="true"></i> Undermining monologic narratives: Dialogic imagination emphasizes the interaction of multiple voices and perspectives within a text, undercutting the idea of a single, authoritative voice.
 
@@ -13,7 +13,11 @@ Contextualizing texts: It highlights the importance of understanding the social,
 <i class="fa fa-share-alt-square" aria-hidden="true"></i>
 Promoting nuanced interpretation: By recognizing the multiplicity of voices and meanings within a text, dialogic imagination points the way toward more nuanced, insightful, and salient interpretations.
 
-Dialogic imagination supplies a subtle yet powerful and dynamic lens for analyzing literature and culture and uncovering the intricate relationships between writers, readers, texts, and context.
+Dialogic imagination supplies a subtle yet powerful and dynamic lens for analyzing literature and culture and uncovering the intricate relationships between writers, readers, texts, and context. 
+
+What does this all mean? Why does it matter. Because lenses like the dialogic imagination empower your brain to break out of its box, to bore through the phenomenological walls so long imposed upon you by the totality of the system in which you're embedded. 
+
+...
 
 -----
 

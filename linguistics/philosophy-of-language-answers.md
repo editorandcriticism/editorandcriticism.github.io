@@ -2057,25 +2057,25 @@ indeterminacy of translation.
 
 
 <i class="fa fa-file-text"></i> **[Interpretation and
-Indeterminancy](http://www.criticism.com/da/da_indet.html)** <img src="/images/0631166238.gif" align="right" /> Throughout the essay, I will argue a hard line: the exact meaning of a
+Indeterminancy](https://www.criticism.com/da/da_indet.html)** <img src="/images/0631166238.gif" align="right" /> Throughout the essay, I will argue a hard line: the exact meaning of a
 speaker's utterance in a contextualized exchange is often indeterminate.
 Within the context of the analysis of the teacher-pupil exchange, I will
 argue for the superiority of interactional linguistics over speech act
 theory because it reduces the indeterminacy and yields a more principled
 interpretation, especially when the interactional approach is
 complemented by elements from other sociologically influenced methods,
-namely the ethnography of communication and Labovian sociolinguistics. [Read more ...](http://www.criticism.com/da/da_indet.html)
+namely the ethnography of communication and Labovian sociolinguistics. [Read more ...](https://www.criticism.com/da/da_indet.html)
 
 
 
 
 
 <i class="fa fa-file-text"></i> **[Hermogenes Was Right, Socrates
-Wrong](http://www.criticism.com/lingustics/cratylus.html)** In Harris and Taylor's chapter on Plato's "Cratylus" in Landmarks in
+Wrong](https://www.criticism.com/lingustics/cratylus.html)** In Harris and Taylor's chapter on Plato's "Cratylus" in Landmarks in
 Linguistic Thought, Cratylus takes the position that the form and
 meaning of a word are inextricably related. For Cratylus, "everything,"
 including Hermogenes, "has a right name of its own, which comes by
 nature" even though some people, like Hermogenes, are named incorrectly
-(Cratylus 383, as quoted in Harris and Taylor, p. 1). [Read more ...](http://www.criticism.com/linguistics/cratylus.html)
+(Cratylus 383, as quoted in Harris and Taylor, p. 1). [Read more ...](https://www.criticism.com/linguistics/cratylus.html)
 
 

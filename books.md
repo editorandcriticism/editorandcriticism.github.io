@@ -15,6 +15,7 @@ keywords: criticism, culture, literature, policy, technology, philosophy, litera
 ### Recommended Reading to Interpret the Present and the Spirit of the Times
 
 
+
 <i class="fa fa-globe" aria-hidden="true"></i>
 _The Country and the City_, by Raymond Williams.
 

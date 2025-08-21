@@ -193,8 +193,7 @@ theories.
 
 
 
-* [Philosophy of Language Questions and
-Answers](philosophy-of-language-answers.html)
+* [Philosophy of Language Questions and Answers](philosophy-of-language-answers.html)
 * [Pragmatic Accounts of Communication](pragmatics-answers.html)
 
 

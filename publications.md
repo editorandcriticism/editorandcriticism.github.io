@@ -42,7 +42,8 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/deploy-open-ran/) Deploy Open RAN with Confidence: Implement a Commercially Proven, Operationally Ready 4G/5G Solution
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-design-deploy-operate-5g-networks.pdf) Inherent Value: The Benefits of Running CNFs on VMs: Optimizing Mixed Workloads on Shared Infrastructure with Kubernetes on VMware Telco Cloud Platform
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cloud-cnf-benefits.pdf) Inherent Value: The Benefits of Running CNFs on VMs: Optimizing Mixed Workloads on Shared Infrastructure with Kubernetes on VMware Telco Cloud Platform
+
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/optimized-agile-telecom-capabilities/) Envisioning Positive Outcomes from Optimized and Agile Telecom Capabilities
 
@@ -54,7 +55,20 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/tackling-objectives/) Tackling Strategic Business Objectives with a Single Cloud Stack
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf) Intrinsic Security for Telco Clouds at the Dawn of 5G]: An Integrated Approach to Helping Telecoms Meet Emerging Security Standards.
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf) Intrinsic Security for Telco Clouds at the Dawn of 5G]: An Integrated Approach to Helping Telecoms Meet Emerging Security Standards.
+
+
+
+<!-- new preface: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/ -->
+<!-- old url: https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf -->
+
+<!-- THIS URL WORKS as of Aug. 202, 2025: 
+https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-whitepapers.pdf 
+-->
+
+
+
+
 
 <i class="fa fa-globe" aria-hidden="true"></i>
 Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
