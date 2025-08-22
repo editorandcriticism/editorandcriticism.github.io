@@ -225,7 +225,7 @@ The HTML format of Dublin Core metadata looks like this:
 ```
 
 The format is slightly different for
-[XML](http://www.criticism.com/dita/xml_intro.html) and XHTML. Either
+[XML](https://www.criticism.com/dita/xml_intro.html) and XHTML. Either
 way, place the Dublin Core metadata in the header of your web page just
 after your usual HTML metadata.
 

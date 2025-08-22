@@ -85,7 +85,7 @@ metadata looks like this:
 ```
 
 With XML, you can include Dublin Core metadata in several ways. Here's
-an example with a DTD -- <http://www.criticism.com/cc/xc.dtd> -- that I
+an example with a DTD -- <https://www.criticism.com/cc/xc.dtd> -- that I
 use for some of the pages on Criticism.com. The structure embeds the
 Dublin Core metadata elements in Resource Description Format (RDF) and
 extends the `dc:subject` element with Prism Controlled Vocabulary (PCV)

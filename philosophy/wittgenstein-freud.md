@@ -11,7 +11,7 @@ title: |
 
 
 **By Steve Hoenisch** \
-Copyright 1996-2015 Steve Hoenisch | [www.Criticism.Com](http://www.criticism.com/) \
+Copyright 1996-2015 Steve Hoenisch | [www.Criticism.Com](https://www.criticism.com/) \
 
 
 

@@ -43,7 +43,7 @@ meeting ():
 
 *Citation:* HoenischSteve. n.d. Max Weber's view of objectivity in
 social science Available at
-[www.criticism.com/md/weber1.html](http://www.criticism.com/md/weber1.html).
+[www.criticism.com/md/weber1.html](https://www.criticism.com/md/weber1.html).
 Accessed 18 March 2003
 
 
@@ -125,7 +125,7 @@ Criticism](http://www.nypl.org/links/index.cfm?Trg=1&d1=2212&d3=Media%20Theory%2
 Wikipedia's entry for
 [indeterminacy](http://en.wikipedia.org/wiki/Indeterminacy_(Philosophy))
 cites [Interpretation and Indeterminacy in Discourse
-Analysis](http://www.criticism.com/da/da_indet.html).
+Analysis](https://www.criticism.com/da/da_indet.html).
 
 
 
@@ -230,7 +230,7 @@ See [http://www.oup.com/uk/booksites/content/0199264465/student/links/ch17](http
 
 [Towson University](http://wwwnew.towson.edu/medialiteracy/reading.htm)
 includes [Using French Social Thought for Media
-Criticism](http://www.criticism.com/md/media-criticism-with-french-social-thought.html)
+Criticism](https://www.criticism.com/md/media-criticism-with-french-social-thought.html)
 on its reading list for establishing media literacy in post-communist
 universities.
 

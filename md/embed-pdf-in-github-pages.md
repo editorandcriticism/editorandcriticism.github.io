@@ -6,7 +6,7 @@ keywords: media theory. journalism, culture, media criticism, Foucault, Barthes,
 
 
 By Steve Hoenisch
-[www.Criticism.Com](http://www.criticism.com/)
+[www.Criticism.Com](https://www.criticism.com/)
 
 
 1 Barthes' Anti-Hero

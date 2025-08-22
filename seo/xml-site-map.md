@@ -37,7 +37,7 @@ The criticism, however, becomes valid only when you think of the maps as
 being a singular method for boosting results. They are not. Again, an
 XML site map is but one small and easy change that you should make to
 your web site as part of your [SEO
-program](http://www.criticism.com/seo/search-engine-optimization.html) --
+program](https://www.criticism.com/seo/search-engine-optimization.html) --
 it is the totality of all these changes that together can eventually
 have a substantial impact on your natural search results.
 
@@ -53,29 +53,29 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- created with Free Online Sitemap Generator
     www.xml-sitemaps.com  -->
     <url>
-        <loc>http://www.criticism.com/</loc>
+        <loc>https://www.criticism.com/</loc>
         <priority>1.00</priority>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>http://www.criticism.com/map.html</loc>
+        <loc>https://www.criticism.com/map.html</loc>
         <priority>0.90</priority>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>http://www.criticism.com/map.html</loc>
+        <loc>https://www.criticism.com/map.html</loc>
         <priority>0.90</priority>
         <lastmod>2008-11-25T05:24:10+00:00</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>http://www.criticism.com/md/weber1.html</loc>
+        <loc>https://www.criticism.com/md/weber1.html</loc>
         <priority>0.80</priority>
         <lastmod>2006-05-09T05:18:20+00:00</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.criticism.com/da/lw_da.html</loc>
+        <loc>https://www.criticism.com/da/lw_da.html</loc>
         <priority>0.80</priority>
         <lastmod>2006-05-09T05:22:41+00:00</lastmod>
         <changefreq>monthly</changefreq>

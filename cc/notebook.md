@@ -177,7 +177,7 @@ empathy? It has certainly done so, it seems to me, in many businesses
 and work places. But is it also pushing empathy out of interpersonal
 relationships? In such a climate, empathy and kindness become practices
 of
-[resistance](http://www.criticism.com/md/kellner.html#section-The-Place-of-Resistance-in-a-Corporate-Media-Culture):
+[resistance](https://www.criticism.com/md/kellner.html#section-The-Place-of-Resistance-in-a-Corporate-Media-Culture):
 They are human and humane acts that undermine structures of dominance
 and exploitation. As practices, kindness and empathy reorient us toward
 a good society. In a time when bourgeois nihilism has given way to

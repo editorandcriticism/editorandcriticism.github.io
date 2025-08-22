@@ -35,8 +35,8 @@ pages. In the PHP layer, you can embed your ads and other code.
 
 Why did I write xc.dtd for my own use when I already have a fully
 implemented and customized versions of DITA 1.0 and DITA 3.1.2 ? (See
-e.g. http://www.criticism.com/md/crit1.xml, which uses
-http://www.criticism.com/dita/dtd/topic.dtd.)
+e.g. https://www.criticism.com/md/crit1.xml, which uses
+https://www.criticism.com/dita/dtd/topic.dtd.)
 
 Here's why:
 
@@ -66,6 +66,6 @@ you want to get well-designed documents and web pages.
 
 *--Steve Hoenisch*
 
-![XML DTD icon](../images/xml.JPG) <http://www.Criticism.Com/cc/xc.dtd>
+![XML DTD icon](../images/xml.JPG) <https://www.criticism.com/cc/xc.dtd>
 
 

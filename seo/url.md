@@ -33,7 +33,7 @@ are set in lowercase. Avoid numbers and special characters, which are
 hard to read and often don't make sense to users. Here's an example of a
 URL that meets these URL guidelines:
 
-`http://www.criticism.com/cc/racing/world-cup-schedule.html`
+`https://www.criticism.com/cc/racing/world-cup-schedule.html`
 
 There is probably an inverse relationship between the effectiveness of
 using keywords in a URL and the length of the URL: The longer the URL
@@ -52,7 +52,7 @@ classifies the content it contains. To find a menu page, users can just
 type the domain name and the obvious name of the topic they want in the
 browser's address bar. Example:
 
-`http://www.criticism.com/linguistics/`
+`https://www.criticism.com/linguistics/`
 
 Many of these URL guidelines, which benefit both SEO and users, expose
 the weaknesses of using dynamic or nonpermanent URLs for
@@ -77,8 +77,8 @@ discussed above:
 -   Dynamic URLs make site navigation difficult: Users cannot change a
     URL to access a menu page, for example, by editing the address bar
     from
-    `http://www.criticism.com/cc/racing/world-cup-schedule.html` to
-    `http://www.criticism.com/cc/`.
+    `https://www.criticism.com/cc/racing/world-cup-schedule.html` to
+    `https://www.criticism.com/cc/`.
 
 
 

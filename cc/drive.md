@@ -11,7 +11,7 @@ title: 'See the Country by Car And Save in a Drive-Away'
 **By Steve Hoenisch**\
 Last updated on July 21, 2004\
 Copyright 1996-2017 Steve Hoenisch\
-[www.Criticism.Com](http://www.criticism.com/)\
+[www.Criticism.Com](https://www.criticism.com/)\
 This story appeared on March 14, 1994, in the travel section of the
 Chicago Tribune. <img src="trblogo2.gif" align="right" /> \
 

@@ -67,7 +67,7 @@ Managing and securing unstructured data with a common access control system and 
 
 Associating File Events with User Identities
 
-A file server with an access control system provides a a framework for identity-aware <a href="file-activity-monitoring.php">monitoring</a> -- a framework that the Likewise Data Analytics and Governance application uses to show who accesses what data. In addition, the Likewise application features compliance <a href="http://www.likewise.com/solutions/file_server_reporting_features/index.php">reports</a> that tie access  events to user identities. 
+A file server with an access control system provides a a framework for identity-aware <a href="file-activity-monitoring.php">monitoring</a> -- a framework that the Likewise Data Analytics and Governance application uses to show who accesses what data. In addition, the Likewise application features compliance <a href="https://www.likewise.com/solutions/file_server_reporting_features/index.php">reports</a> that tie access  events to user identities. 
 
 ==========================
 Tackle Unstructured Data with Likewise
@@ -77,7 +77,7 @@ Companies that put in place systems and policies to protect unstructured data ca
 *Consolidate data silos into a multiprotocol file server that works with NFS and SMB/CIFS.
 *Secure unstructured data with a cross-platform access control system that works with Active Directory and other directory services.
 *Implement consistent security policies for both Windows and Unix users.
-*Monitor and report on access based on user identities with Likewise <a href="http://www.likewise.com/products/likewise_data_analytics_governance_application/index.php">Data Analytics and Governance</a>.
+*Monitor and report on access based on user identities with Likewise <a href="https://www.likewise.com/products/likewise_data_analytics_governance_application/index.php">Data Analytics and Governance</a>.
 
 
 ==========================

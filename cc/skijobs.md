@@ -11,7 +11,7 @@ title: |
 
  
 **By Steve Hoenisch** \
-Copyright 1996-2008 [www.Criticism.Com](http://www.criticism.com/) \
+Copyright 1996-2008 [www.Criticism.Com](https://www.criticism.com/) \
 This article was published in the October **1993** issue of Snow Country
 magazine.\
 

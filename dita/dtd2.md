@@ -239,7 +239,7 @@ In the DTD, I declare the external parsed general entity as follows, depending o
 or
 
 ```
-<!ENTITY header SYSTEM "http://www.criticism.com/code/header.xml">
+<!ENTITY header SYSTEM "https://www.criticism.com/code/header.xml">
 ```
 
 Instead of the replacement text found in a general entity declaration, the external parsed entity declaration uses a SYSTEM keyword and the path to and name of the file to allow the XML parser to locate the resource. It can be either a file on the local system, as in the first example, or a resource on the Internet, as in the second example.

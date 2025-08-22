@@ -1,16 +1,16 @@
 ﻿===========================
 Suggested URL for this high-level landing page: 
 
-http://www.likewise.com/solutions/storage-management/index.php
+https://www.likewise.com/solutions/storage-management/index.php
 
 FOR::
         
-  http://www.likewise.com/solutions/storage-management/monitor-file-server.php #EXPLAINS FUNCTIONALITY SO LINK TO FROM OTHERS FOR THAT
-  http://www.likewise.com/solutions/storage-management/utilization.php 
-  http://www.likewise.com/solutions/storage-management/performance.php 
-  http://www.likewise.com/solutions/storage-management/virtualization.php 
-  http://www.likewise.com/solutions/storage-management/optimization.php
-      http://www.likewise.com/solutions/storage-management/optimization-fact-sheet.pdf
+  https://www.likewise.com/solutions/storage-management/monitor-file-server.php #EXPLAINS FUNCTIONALITY SO LINK TO FROM OTHERS FOR THAT
+  https://www.likewise.com/solutions/storage-management/utilization.php 
+  https://www.likewise.com/solutions/storage-management/performance.php 
+  https://www.likewise.com/solutions/storage-management/virtualization.php 
+  https://www.likewise.com/solutions/storage-management/optimization.php
+      https://www.likewise.com/solutions/storage-management/optimization-fact-sheet.pdf
 
 
 
@@ -54,7 +54,7 @@ Likewise's unified storage monitoring console tracks events and metadata on stor
 
 The Likewise monitoring system is centralized, continuous, and fast. It collects data-access and file-modification events from disparate storage systems and aggregates them into a NoSQL database, providing a high-performance yet flexible model for analyzing storage operations. Given the importance of unstructured data, continuous monitoring promotes IT from a reactive storage provider into a strategic business partner.
 
-See the Likewise solutions for <a href="http://www.likewise.com/solutions/storage-management/monitor-file-server.php">monitoring file servers and NAS</a>. 
+See the Likewise solutions for <a href="https://www.likewise.com/solutions/storage-management/monitor-file-server.php">monitoring file servers and NAS</a>. 
 
 ----------------------------
 Utilization

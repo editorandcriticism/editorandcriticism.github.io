@@ -12,7 +12,7 @@ keywords: |
 
 By Steve Hoenisch \
 Copyright 1996-2016 Steve Hoenisch \
-[www.Criticism.Com](http://www.criticism.com/) \
+[www.Criticism.Com](https://www.criticism.com/) \
 
 
 

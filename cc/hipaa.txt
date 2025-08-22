@@ -1,8 +1,8 @@
 ﻿Suggested URL for this hipaa landing page: 
-http://www.likewise.com/solutions/compliance/hipaa.php
+https://www.likewise.com/solutions/compliance/hipaa.php
 
 Pls link to this page from 
-http://www.likewise.com/solutions/compliance/index.php
+https://www.likewise.com/solutions/compliance/index.php
 
 
 ============================

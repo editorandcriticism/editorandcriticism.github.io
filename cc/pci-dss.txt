@@ -1,8 +1,8 @@
 Suggested URL for this landing page: 
-http://www.likewise.com/solutions/compliance/pci-dss.php
+https://www.likewise.com/solutions/compliance/pci-dss.php
 
 Pls link to this page from 
-http://www.likewise.com/solutions/compliance/index.php
+https://www.likewise.com/solutions/compliance/index.php
 
 
 ============================

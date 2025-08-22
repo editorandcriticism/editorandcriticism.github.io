@@ -46,7 +46,7 @@ The application empowers enterprises to enforce consistent security policies acr
  Likewise Storage Services is designed with both pure performance and price-performance in mind.
 
 4. Based on Standards
-<img align="right" src="http://www.likewise.com/images/oem_smb.gif"/> Likewise Storage Services supports SMB1 and SMB2 standards and includes drivers for an SMB redirector, a named pipe file system, a POSIX virtual files system (PVFS), and SMB1/SMB2 server head. In addition, the architecture lets third-party ISVs design and implement their own custom device drivers.
+<img align="right" src="https://www.likewise.com/images/oem_smb.gif"/> Likewise Storage Services supports SMB1 and SMB2 standards and includes drivers for an SMB redirector, a named pipe file system, a POSIX virtual files system (PVFS), and SMB1/SMB2 server head. In addition, the architecture lets third-party ISVs design and implement their own custom device drivers.
 
 5. Access to Source Code
  With access to the source code, you can modify the CIFS file server to meet your needs. Developers and integrators get all the advantages of a customizable system.

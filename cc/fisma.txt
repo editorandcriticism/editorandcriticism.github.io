@@ -1,8 +1,8 @@
 ﻿Suggested URL for this landing page: 
-http://www.likewise.com/solutions/compliance/fisma.php
+https://www.likewise.com/solutions/compliance/fisma.php
 
 Pls link to this page from 
-http://www.likewise.com/solutions/compliance/index.php
+https://www.likewise.com/solutions/compliance/index.php
 
 
 ============================
@@ -80,7 +80,7 @@ Specifically, Likewise cost-effectively puts in place the following security con
 
 <b>Access control:</b> Likewise controls access to servers, directories, and files. <a href="/products/likewise_storage_services/cross-platform-storage-access-control.php">Storage access control</a> protects directories, files, and other resources from access, modification, or destruction by unauthorized personnel. 
 
-<b>Auditing:</b> Likewise collects and stores all access, modification, addition, and deletion events for directories and files so the events can be queried and analyzed later, whether for a  <a href="http://www.likewise.com/resources/whitepapers/auditing-unstructured-data.pdf">security audit</a>, forensics, or to fine-tune security policies. 
+<b>Auditing:</b> Likewise collects and stores all access, modification, addition, and deletion events for directories and files so the events can be queried and analyzed later, whether for a  <a href="https://www.likewise.com/resources/whitepapers/auditing-unstructured-data.pdf">security audit</a>, forensics, or to fine-tune security policies. 
 
 <b>Reporting:</b> Likewise lets you create <a href="/solutions/file_server_reporting_features/index.php">reports</a> tailored to show that your security controls are working as designed. 
 

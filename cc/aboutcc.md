@@ -48,7 +48,7 @@ evolved to cover [linguistics](/linguistics/),
 
 
 **C**riticism.Com wants your feedback. Send it to Steve Hoenisch, the
-publisher and editor of [Criticism.Com](http://www.Criticism.Com/), at
+publisher and editor of [Criticism.Com](https://www.criticism.com/), at
 ![](/images/em.gif).
 
 

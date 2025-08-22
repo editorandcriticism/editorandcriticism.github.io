@@ -11,7 +11,7 @@ title: |
 
 By Steve Hoenisch \
 Copyright 1996-2015 Steve Hoenisch \
-[www.Criticism.Com](http://www.criticism.com/) \
+[www.Criticism.Com](https://www.criticism.com/) \
 This article was published in the book review section of Willamette
 Week, the leading weekly newspaper in Portland, Oregon. \
 

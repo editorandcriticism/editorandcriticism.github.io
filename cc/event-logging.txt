@@ -95,7 +95,7 @@ The security descriptor associated with an object is modified.
 
 <!-- END LIST:: -->
 
-For a listing of the IDs, record formats, and descriptions of object events, see <A HREF="http://www.likewise.com/docs/rad/a-fs-pvfs-audit-events.pdf">PVFS Driver Events</A>. Common authentication, authorization, and other network events are listed in the chapter on <A HREF="http://www.likewise.com/docs/rad/likewise-guide.html#MonitorEvents">monitoring events</A> with the event log.
+For a listing of the IDs, record formats, and descriptions of object events, see <A HREF="https://www.likewise.com/docs/rad/a-fs-pvfs-audit-events.pdf">PVFS Driver Events</A>. Common authentication, authorization, and other network events are listed in the chapter on <A HREF="https://www.likewise.com/docs/rad/likewise-guide.html#MonitorEvents">monitoring events</A> with the event log.
 
 
 
@@ -127,7 +127,7 @@ Storage and Reporting of Events
 
 The event log subsystem also provides facilities for storing, archiving, and categorizing events. Once stored, there is a Likewise graphical user interface for generating reports -- including reports specifically geared toward demonstrating regulatory compliance. 
 
-The result is a complete file server monitoring package that can be <A HREF="http://www.likewise.com/solutions/oem-storage-services/oem-cifs-smb-in-nas.php">embedded in your NAS system</A> or other IT product.   
+The result is a complete file server monitoring package that can be <A HREF="https://www.likewise.com/solutions/oem-storage-services/oem-cifs-smb-in-nas.php">embedded in your NAS system</A> or other IT product.   
 
 
 

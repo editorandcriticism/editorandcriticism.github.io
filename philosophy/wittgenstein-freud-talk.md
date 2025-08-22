@@ -536,7 +536,7 @@ sufficiently. But what about the third question? Any thoughts?
 
 
 -   [Wittgenstein Contra Freud: The Myth of
-    Psychoanalysis](md/tech.html)
+    Psychoanalysis](/md/tech.html)
 -   [Points of Contact and Criticism Between Wittgenstein and
     Freud](wittgenstein-freud.html)
 -   [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)

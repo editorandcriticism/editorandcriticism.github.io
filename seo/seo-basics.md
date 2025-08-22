@@ -124,7 +124,7 @@ file names are indexed by search engines and are searchable. Use the
 names of the directories in the path to classify the content and the
 file name to identify its subject. Example:
 
-http://www.criticism.com/discourse-analysis/topical-structure.html
+https://www.criticism.com/discourse-analysis/topical-structure.html
 
 In your content, add a few inline hyperlinks to closely related pages,
 especially pages that provide depth -- supporting information and

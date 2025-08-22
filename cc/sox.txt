@@ -1,8 +1,8 @@
 ﻿Suggested URL for this landing page: 
-http://www.likewise.com/solutions/compliance/sox.php
+https://www.likewise.com/solutions/compliance/sox.php
 
 Pls link to this page from 
-http://www.likewise.com/solutions/compliance/index.php
+https://www.likewise.com/solutions/compliance/index.php
 
 
 ============================
@@ -102,7 +102,7 @@ Likewise can audit stored unstructured content in a security-aware context of us
 
 Compliance Reports
 
-Reporting can inspect access rights, show patterns of access and change, and double-check levels of protection -- all of which can help prove compliance with Sarbanes-Oxley. Likewise includes reports geared specifically for SOX so you can show auditors the effectiveness of your internal controls. See <a href="http://www.likewise.com/solutions/file_server_reporting_features/index.php">Reporting Features for IT Auditing and Compliance</a>.
+Reporting can inspect access rights, show patterns of access and change, and double-check levels of protection -- all of which can help prove compliance with Sarbanes-Oxley. Likewise includes reports geared specifically for SOX so you can show auditors the effectiveness of your internal controls. See <a href="https://www.likewise.com/solutions/file_server_reporting_features/index.php">Reporting Features for IT Auditing and Compliance</a>.
 
 
 ----------------------------
