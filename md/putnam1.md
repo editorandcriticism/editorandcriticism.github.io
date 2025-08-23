@@ -8,7 +8,7 @@ keywords: |
 ---
 
 **By Steve Hoenisch** \
-Copyright 1996-2015 Steve Hoenisch | [www.Criticism.Com](https://www.criticism.com/) \
+Copyright 1996-2025 Steve Hoenisch | [www.Criticism.Com](https://www.criticism.com/) \
 
 
 1 "Equality of Condition"

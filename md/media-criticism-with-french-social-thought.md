@@ -14,7 +14,7 @@ title: Using French Social Thought for Media Criticism
 
 **By Steve Hoenisch**\
 Last updated on November 21, 2005\
-Copyright 1996-2017 [www.Criticism.Com](https://www.criticism.com/)\
+Copyright 1996-2025 [www.Criticism.Com](https://www.criticism.com/)\
 
 
 

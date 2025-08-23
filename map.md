@@ -12,8 +12,7 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Myth of Psychoanalysis: Wittgenstein Contra
-    Freud](/md/tech.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Myth of Psychoanalysis: Wittgenstein Contra Freud](/md/tech.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Saussure's Sign](/md/the_sign.html)
 
@@ -31,14 +30,6 @@ author: Steve Hoenisch
     Works](/philosophy/max-weber-reading-goals.html)
 
 <i class="fa fa-file-text-o"></i> [Using French Social Thought for Media Criticism](/md/media-criticism-with-french-social-thought.html) 
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Habermas' Theory of Discourse
-    Ethics](/philosophy/habermas-ethics.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Hermogenes Was Right, Socrates Wrong](/linguistics/cratylus.html)
-
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Durkheim on Educational
-    Systems](/philosophy/durkheim-on-education.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Interpreting Passage 79 of Wittgenstein's Philosophical
     Investigations](/philosophy/wittgenstein-pi79-talk.html)
@@ -62,6 +53,14 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Wittgenstein: A Disciple of Freud?](/philosophy/disciple-of-freud.html)
 
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Habermas' Theory of Discourse
+    Ethics](/philosophy/habermas-ethics.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Hermogenes Was Right, Socrates Wrong](/linguistics/cratylus.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Durkheim on Educational
+    Systems](/philosophy/durkheim-on-education.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Using the Passive Voice To Create
     Coherence](/linguistics/active-voice-or-passive-voice.html)
@@ -248,8 +247,9 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o"></i> [Using French Social Thought for Media Criticism](/md/media-criticism-with-french-social-thought.html) 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Live Show: The Connotations of Visual Signs](/md/liveshow.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [A Pithy Remark Steeped in Attitude](/md/intro.html)
 
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Live Show: The Connotations of Visual Signs](/md/liveshow.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or
     Cultural Orientation](/md/newslang.html)
@@ -338,6 +338,8 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychotherapeutic
     Dialogue](/da/indoctrination.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [How to Embed a PDF in GitHub Pages](https://criticism.com/md/embed-pdf-in-github-pages.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Search Engine Optimization Techniques: Tips to Improve Your Search Engine Rankings](/seo/search-engine-optimization.html) 
 
@@ -511,7 +513,7 @@ tent: &#9978;
 
 <i class="fa fa-coffee" aria-hidden="true"></i> [Critical Theory Page](/critical-theory/)
 
-<i class="fa fa-file-text" aria-hidden="true"></i> [Media Criticism Page](/md/)
+<i class="fa fa-file-text" aria-hidden="true"></i> [Media Criticism and Media Culture Page](/md/)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Policy Page](/policy/)
 
@@ -519,7 +521,13 @@ tent: &#9978;
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [XML Page](/dita/index.html)
 
-<i class="fa fa-file-o" aria-hidden="true"></i> [Previous Technology Portfolio Page](/cc/portfolio.html)
+<i class="fa fa-file-o" aria-hidden="true"></i> [Previous Technology Portfolio Page](https://criticism.com/cc/portfolio.html)
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Skiing Page](/cc/skiing-page.html)
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Travel Page](/cc/travel-page.html)
+
+<i class="fa fa-language" aria-hidden="true"></i> [Writing, Editing, and Composition Page](/linguistics/writing-page.html)
 
 <i class="fa fa-random" aria-hidden="true"></i> [Discourse Analysis Page](/da/)
 

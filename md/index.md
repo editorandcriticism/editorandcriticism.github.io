@@ -1,10 +1,10 @@
 ---
 description: |
-	The media criticism and media theory menu at criticism.com.
+	The media criticism, media culture, and media theory menu at criticism.com.
 keywords: |
-	newspapers, corporations, journalism, book review, politics, democracy, press, monopoly, criticism, mass media, media criticism, media studies, media monopoly, Steve Hoenisch, digital media, media and technology
+	newspapers, corporations, journalism, book review, politics, democracy, press, monopoly, criticism, mass media, media criticism, media culture, digital culture, media studies, media monopoly, Steve Hoenisch, digital media, media and technology, newspapers, film, media literacy
 title: |
-	Media Theory and Criticism
+	Media Criticism, Media Theory, and Media Culture
 ---
 
 
@@ -164,31 +164,25 @@ That equality is the fundamental condition in a democracy from which
 others are derived. A final section of the essay will specify several
 normative implications that may be drawn from Putnam's findings,
 especially those outlined in "The Strange Disappearance of Civic
-America." [Read more ...](putnam1.html)
+America." [Read more](/md/putnam1.html)
 
 
 
 
 
-<i class="fa fa-file-text"></i> [The Future of American Newspapers: A Forecast
-Written in 1991](future.html)
+<i class="fa fa-file-text"></i> [The Future of American Newspapers: A Forecast Written in 1991](/md/future.html)
 
 
 
 
 
-<i class="fa fa-file-text"></i> [Motivations for News Language Style: Audience
-Perception or Cultural Orientation](newslang.html)
+<i class="fa fa-file-text"></i> [Motivations for News Language Style: Audience Perception or Cultural Orientation](/md/newslang.html)
 
 
 
 
 
-<i class="fa fa-file-text"></i> [The Mythological Language Of American
-Newspapers](mythlang.html)
-
-
-
+<i class="fa fa-file-text"></i> [The Mythological Language Of American Newspapers](mythlang.html)
 
 
 
@@ -196,35 +190,6 @@ Newspapers](mythlang.html)
 
 
 
-
-5 Film
-==========
-
-
-
-<i class="fa fa-file-text"></i> [Masculine Identity in the Service Class: An
-Analysis of *Fight Club*](fightclub.html): <img src="/images/B00004W5UA.jpg" align="right" />This
-film will be more enjoyable for those who see it first and then read
-this analysis because, like *The Sixth Sense* or *The Crying Game*,
-*Fight Club* has a secret, which this discussion will reveal. [Read more ...](fightclub.html)
-
-
-
-
-
-<i class="fa fa-file-text"></i> [The Truman Show: Media as Metaphor](film1.html)
-
-
-
-
-
-<i class="fa fa-file-text"></i> [Chroma-Cinema: The Use of Color in Color and Black-and-White Films](film2.html)
-
-
-
-
-
-<i class="fa fa-file-text"></i> [Until the End Of the World: Fin de Siècle Fears in History and Popular Culture](film3.html)
 
 
 

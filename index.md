@@ -1,13 +1,13 @@
 ---
 description: Criticism.com includes essays, papers, and blog posts on technology, critical thought, media culture, philosophy, linguistics, literature, and literary criticism.
-keywords: criticism, discourse analysis, linguistics, media criticism, Max Weber, media theory, structuralism, postmodernism, Saussure, media sociology, sociolinguistics, psycholinguistics, computational linguistics, Steve Hoenisch, Roland Barthes, objectivity, Wittgenstein, Freud, psychoanalysis, philosophy, social science, skiing, travel, media culture, white paper writer, technical editor, technology writing, SEO writer, white papers, SEO editor, marcom, marketing communications, technical marketing writer, Hadoop, big data, analytics, data science, information security, technology evangelist, evangelism
+keywords: criticism, discourse analysis, linguistics, media criticism, Max Weber, media theory, structuralism, postmodernism, Saussure, media sociology, sociolinguistics, psycholinguistics, computational linguistics, Steve Hoenisch, Roland Barthes, objectivity, Wittgenstein, Freud, psychoanalysis, philosophy, social science, skiing, travel, media culture, white paper writer, technical editor, technology writing, white papers, marcom, technical marketing communications, technical marketing writer, technology
 title: 'Criticism.com: Experiments at the interplay of critical thought, text, and technology.' 
 ---
 
 
 
 
-Criticism.com presents papers, essays, and blog posts on technology, media culture, psychology, philosophy, linguistics, literature, and literary criticism.
+Criticism.com presents papers, essays, and blog posts on technology, psychology, philosophy, linguistics, literature, and literary criticism.
 
 
 
@@ -50,6 +50,7 @@ than other approaches to discourse analysis.
 
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go to those companies' respective websites.</p>
+
 
 
 
