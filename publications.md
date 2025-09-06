@@ -114,7 +114,7 @@ Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/mic
 <i class="fa fa-book" aria-hidden="true"></i> [E-Book: RAN Transformation for Dummies](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1742210_RAN-Transaformation.pdf) (Contributing writer and contributing editor.)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Solution Brief: Run CNFs on Virtual Machines To Optimize Your 5G
-Networks: The Synergy of Combining Containers and VMs Delivers Security, Management, and Automation](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-virtual-machines-or-bare-metal-overview.pdf)
+Networks: The Synergy of Combining Containers and VMs Delivers Security, Management, and Automation](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-virtual-machines-or-bare-metal-overview.pdf)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Advancing Partner Success with CSAR Self-Certification in the Ready for Telco Cloud Program](https://blogs.vmware.com/telco/csar/) (With team.)
 
