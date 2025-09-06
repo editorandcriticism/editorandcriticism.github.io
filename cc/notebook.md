@@ -44,6 +44,8 @@ junk things, and junky ideas.
 
 ### How to Live Now: A Practice
 
+**A note to myself:** 
+
 Try to eat only local, organic foods. Kill your television: Watch no TV.
 Watch no movies, especially cgi; make exceptions for art house cinema,
 independent documentaries, or other independent films. Play no video

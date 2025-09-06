@@ -2071,7 +2071,7 @@ namely the ethnography of communication and Labovian sociolinguistics. [Read mor
 
 
 <i class="fa fa-file-text"></i> **[Hermogenes Was Right, Socrates
-Wrong](https://www.criticism.com/lingustics/cratylus.html)** In Harris and Taylor's chapter on Plato's "Cratylus" in Landmarks in
+Wrong](https://www.criticism.com/linguistics/cratylus.html)** In Harris and Taylor's chapter on Plato's "Cratylus" in Landmarks in
 Linguistic Thought, Cratylus takes the position that the form and
 meaning of a word are inextricably related. For Cratylus, "everything,"
 including Hermogenes, "has a right name of its own, which comes by

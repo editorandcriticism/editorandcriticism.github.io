@@ -437,7 +437,7 @@ See [http://www.transparencynow.com/](http://www.transparencynow.com/).
 
 
 
-\[[Weber's View of Objectivity in Social Science](md/weber1.html) is\] a
+[[Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html) is a
 very nice paper. I wish I could remember the Weber commemorative
 journal, but Portis and others were in it. The best piece was by Guy
 Oakes, a philosopher at Monmouth College. He also has several

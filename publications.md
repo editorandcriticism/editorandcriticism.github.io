@@ -77,7 +77,7 @@ Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Ap
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Tests Prove Hypervisor Speeds Match Bare Metal](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1668273-vmw-tcp-ran-hypervisor-vs-bare-metal.pdf)
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> [E-Book:](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-edge-of-opportunity-identifying-use-cases-driving-market-demand.pdf) Edge of Opportunity: Identifying Use Cases Driving Market Demand: Edge Computing Use Cases to Generate Revenue, Gain Efficiency and Improve Customer Experiences 
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [E-Book:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-edge-of-opportunity-identifying-use-cases-driving-market-demand.pdf) Edge of Opportunity: Identifying Use Cases Driving Market Demand: Edge Computing Use Cases to Generate Revenue, Gain Efficiency and Improve Customer Experiences 
  
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
 
@@ -190,7 +190,7 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/tel
 
 
 
-<i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds: Protect Infrastructure with Built-in Measures](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-solution-overview.pdf). This short paper explains how the VMware Telco Cloud emphasizes intrinsic security---security that's integrated with the software and infrastructure so it's programmable, automated, adaptive, and context-aware. Published by VMware.
+<i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds: Protect Infrastructure with Built-in Measures](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-solution-overview.pdf). This short paper explains how the VMware Telco Cloud emphasizes intrinsic security---security that's integrated with the software and infrastructure so it's programmable, automated, adaptive, and context-aware. Published by VMware.
 
 <i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
 
