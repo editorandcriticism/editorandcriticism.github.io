@@ -79,7 +79,7 @@ Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Ap
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [E-Book:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-edge-of-opportunity-identifying-use-cases-driving-market-demand.pdf) Edge of Opportunity: Identifying Use Cases Driving Market Demand: Edge Computing Use Cases to Generate Revenue, Gain Efficiency and Improve Customer Experiences 
  
-<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Containerized Network Functions on Virtual Machines or Bare Metal? Securing, Managing, and Optimizing CNFs and 5G Services at Scale](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cnf-on-vm-or-bare-metal-whitepaper.pdf)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post: Running CNFs on Bare Metal -- Merit or Mirage? The Abstraction of Virtualization Yields Concrete Benefits](https://blogs.vmware.com/telco/running-cnfs-on-bare-metal-merit-or-mirage-the-abstraction-of-virtualization-yields-concrete-benefits/)
 
