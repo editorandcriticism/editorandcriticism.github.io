@@ -5,9 +5,13 @@ title: Hierarchical Trees in XML
 ##### Contents
 
 1 Internet Explorer's Structural View
+
 2 Nodes
+
 3 Trees in Linguistics
+
 4 Related Pages
+
 
 ### 1 Internet Explorer's Structural View
 
