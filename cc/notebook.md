@@ -143,16 +143,7 @@ mantras:
 
 >One-dimensional thought is systematically promoted by the makers of politics and their purveyors of mass information. Their universe of discourse is populated by self-validating hypotheses which, incessantly and monopolistically repeated, become hypnotic definitions or dictations. 
 
-Will the House's attack on workers, health care, and women's health,
-including the attempt to defund Planned Parenthood, prompt large
-protests here? Why isn't there a mass protest movement in this country?
-
 (Added on June 27, 2011.)
-
-
-
-
-
 
 ### Monolithic Movement
 
@@ -161,12 +152,6 @@ requires nothing short of a unified, monolithic movement that repeatedly
 takes to the streets en masse -- nothing else will work, as the abject
 failure -- hope for change is lost -- of the Obama administration makes
 patently clear.
-
-
-### From Moral Nihilism to Bourgeois Narcissisism
-
-So, why is there no mass protest movement? Especially among "hipsters"? 
-
 
 ### Empathy Crisis
 

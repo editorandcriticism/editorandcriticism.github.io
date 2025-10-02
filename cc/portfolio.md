@@ -6,7 +6,7 @@ title: Portfolio
 ---
 
 
-## See Also 
+### See Also 
 
 <i class="fa fa-university" aria-hidden="true"></i> See also my publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
 
@@ -21,7 +21,7 @@ title: Portfolio
 <!-- Add: view profile on Academia.com, etc.  -->
 <!-- full syntax fr goggle: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=steve+hoenisch&btnG= -->
 
-## Papers, Blog Posts, Conference Presentations
+### Papers, Blog Posts, Conference Presentations
 
 <!-- ++ Add some citations below. Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto women's book along same lines.  -->
 

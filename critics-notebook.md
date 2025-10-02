@@ -53,8 +53,6 @@ mantras:
 
 >One-dimensional thought is systematically promoted by the makers of politics and their purveyors of mass information. Their universe of discourse is populated by self-validating hypotheses which, incessantly and monopolistically repeated, become hypnotic definitions or dictations. 
 
-Remind me why there isn't a mass protest movement in this country.
-
 (Added on June 27, 2011.)
 
 -----
