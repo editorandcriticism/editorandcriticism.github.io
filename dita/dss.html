@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Using Data Structure Standards to Foster Efficiency and Opportunity</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+  <link href="/css/nord.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/ccstyle.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark"  data-bs-theme="dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" style="color: #40e0d0; font-variant: small-caps;" href="https://criticism.com">Criticism.Com</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link" href="/papers.html">Essays</a>
+        <a class="nav-link" href="/md/resume.html">Resume</a>
+        <a class="nav-link" href="/cc/blog.html">Blog Posts</a>
+        <a class="nav-link" href="/publications.html">Publications</a>
+        <a class="nav-link" href="/critics-notebook.html">Critic's Notebook</a>
+        <a class="nav-link" href="/photos/index.html">Photographs</a>
+<span class="navbar-text" style="font-variant: small-caps;"><i class="fa fa-balance-scale fa-inverse" aria-hidden="true"></i> Critical Thought, Text, and Technology.</span>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+<!-- ============================================= -->
+      <!-- your page content: -->
+<!-- ============================================= -->
+
+
+<p>&nbsp;</p>
+
+<!--
+Experiments at the interplay of critical thought, text, and technology.
+-->
+
+<header>
+<h1 class="title">Using Data Structure Standards to Foster Efficiency
+and Opportunity</h1>
+</header>
+<nav id="TOC">
+<ul>
+<li><a href="#outline" id="toc-outline">1 Outline</a></li>
+<li><a href="#using-xml-for-data-structure-standards"
+id="toc-using-xml-for-data-structure-standards">2 Using XML for Data
+Structure Standards</a>
+<ul>
+<li><a href="#developing-and-implementing-a-standard"
+id="toc-developing-and-implementing-a-standard">2.1 Developing and
+Implementing a Standard</a></li>
+<li><a href="#metadata" id="toc-metadata">2.2 Metadata</a></li>
+<li><a href="#taxonomies" id="toc-taxonomies">2.3 Taxonomies</a></li>
+<li><a href="#existing-metadata-standards"
+id="toc-existing-metadata-standards">2.4 Existing Metadata
+Standards</a></li>
+<li><a href="#automated-processing" id="toc-automated-processing">3.1
+Automated Processing</a></li>
+<li><a href="#streamlining-work-flow-and-sharing-data"
+id="toc-streamlining-work-flow-and-sharing-data">3.2 Streamlining Work
+Flow and Sharing Data</a></li>
+<li><a href="#reusing-content" id="toc-reusing-content">3.3 Reusing
+Content</a></li>
+<li><a href="#eliminating-redundancy"
+id="toc-eliminating-redundancy">3.4 Eliminating Redundancy</a></li>
+<li><a href="#storage-search-retrieval"
+id="toc-storage-search-retrieval">3.5 Storage, Search,
+Retrieval</a></li>
+<li><a href="#report-capabilities" id="toc-report-capabilities">3.6
+Report Capabilities</a></li>
+<li><a href="#software-consolidation"
+id="toc-software-consolidation">3.7 Software Consolidation</a></li>
+</ul></li>
+<li><a href="#overview-realizing-new-business-opportunities"
+id="toc-overview-realizing-new-business-opportunities">4 Overview:
+Realizing New Business Opportunities</a>
+<ul>
+<li><a href="#syndication-and-redistribution"
+id="toc-syndication-and-redistribution">4.1 Syndication and
+Redistribution</a></li>
+<li><a href="#targeted-advertising" id="toc-targeted-advertising">4.2
+Targeted Advertising</a></li>
+<li><a href="#personalized-aggregated-and-segmented-content"
+id="toc-personalized-aggregated-and-segmented-content">4.3 Personalized,
+Aggregated, and Segmented Content</a></li>
+<li><a href="#developing-niche-products"
+id="toc-developing-niche-products">4.4 Developing Niche
+Products</a></li>
+<li><a href="#tapping-new-outlets-and-launching-new-products"
+id="toc-tapping-new-outlets-and-launching-new-products">4.5 Tapping New
+Outlets and Launching New Products</a></li>
+<li><a href="#translating-localizing-and-internationalizing-content"
+id="toc-translating-localizing-and-internationalizing-content">4.6
+Translating, Localizing, and Internationalizing Content</a></li>
+<li><a href="#single-sourcing" id="toc-single-sourcing">4.7 Single
+Sourcing</a></li>
+</ul></li>
+<li><a href="#thriving-on-the-business-web"
+id="toc-thriving-on-the-business-web">5 Thriving on the Business
+Web</a></li>
+<li><a href="#about-this-document" id="toc-about-this-document">6 About
+this Document</a></li>
+</ul>
+</nav>
+<p><i class="fa fa-file-text" aria-hidden="true"></i> Presentation by
+Steve Hoenisch</p>
+<p>Last updated on Feb. 16, 2005, in New York City. Some of the
+information about XML and the other technologies discussed in this
+presentation might be out of date.</p>
+<p>Copyright 1996-2025 www.Criticism.Com</p>
+<!--
+Table of Contents
+1 Outline
+2 Using XML for Data Structure Standards
+    2.1 Developing and Implementing a Standard
+    2.2 Metadata
+    2.3 Taxonomies
+    2.4 Existing Metadata Standards
+3 Overview: Fostering Efficiency
+    3.1 Automated Processing
+    3.2 Streamlining Work Flow and Sharing Data
+    3.3 Reusing Content
+    3.4 Eliminating Redundancy
+    3.5 Storage, Search, Retrieval
+    3.6 Report Capabilities
+    3.7 Software Consolidation
+4 Overview: Realizing New Business Opportunities
+    4.1 Syndication and Redistribution
+    4.2 Targeted Advertising
+    4.3 Personalized, Aggregated, and Segmented Content
+    4.4 Developing Niche Products
+    4.5 Tapping New Outlets and Launching New Products
+    4.6 Translating, Localizing, and Internationalizing Content
+    4.7 Single Sourcing
+5 Thriving on the Business Web
+6 About this Document
+-->
+<p>This presentation describes how organizations – particularly
+businesses focused on creating and distributing content – can use data
+structure standardization to realize operating efficiencies and new
+business opportunities.</p>
+<h2 id="outline">1 Outline</h2>
+<ul>
+<li>Developing a Standard: XML-based data structures, metadata, and
+taxonomies</li>
+<li>Cultivating Efficiency: Overview followed by a discussion of how
+organizations can use standardization to foster efficiency</li>
+<li>Creating Opportunity: Overview followed by a discussion of how
+organizations can use standardization to realize new business
+opportunities</li>
+<li>The Business Web: Closing remarks about preparing for the future
+now.</li>
+</ul>
+<h2 id="using-xml-for-data-structure-standards">2 Using XML for Data
+Structure Standards</h2>
+<p>XML is the language of choice for standardizing and enforcing data
+structures. Its hierarchical and extensible nature makes it well suited
+for formally structuring data. Its extensibility enables it to include
+rich sets of metadata – an aspect of standardization that helps make
+businesses more efficient. XML enables interoperability and expedites
+data exchange over the Internet – as evident with the explosion of
+XML-based data exchange languages like FPML – which is a key to
+realizing new business opportunities, especially in the era of the
+“business web.”</p>
+<h3 id="developing-and-implementing-a-standard">2.1 Developing and
+Implementing a Standard</h3>
+<p>A data structure standard can be implemented in XML with a Document
+Type Definition or a Schema. Depending on its unique needs, a business
+can use an existing DTD or develop its own. Using an existing standard,
+such as NewsML, may make it easier to distribute data to other
+businesses. To develop a standard, an organization identifies and
+defines the structural and semantic elements and attributes of its data,
+and fuses the resulting definition with mechanisms for specifying
+metadata at multiple levels. The standard strives to separate content
+from presentation. Content is validated against the DTD to ensure
+conformity with the standard.</p>
+<h3 id="metadata">2.2 Metadata</h3>
+<p>As we will see, a standard that includes a rich set of metadata
+mechanisms increases the potential for efficiency and opportunity. An
+organization has several options for extending its standard to capture
+metadata:</p>
+<ul>
+<li>Define its own</li>
+<li>Use an existing standard (or aspects of them)</li>
+</ul>
+<p>The approach depends on the current and future needs of the business
+and the characteristics of its data. Future needs may be indeterminable:
+It may prove productive later to use multiple approaches now.</p>
+<h3 id="taxonomies">2.3 Taxonomies</h3>
+<p>Businesses can use taxonomies to organize content into logical
+groupings that bring efficiencies in managing, navigating, and locating
+data. XML is well suited to formulating hierarchical arrangements that
+structure information within a specific body of knowledge.</p>
+<h3 id="existing-metadata-standards">2.4 Existing Metadata
+Standards</h3>
+<p>Here are a few of the existing metadata standards:</p>
+<ul>
+<li>RDF: The Resource Description Framework (RDF), an architecture for
+web metadata designed to support the reuse and exchange of vocabularies
+as a layer in XML documents. The W3C sees it as a key driver of the
+Semantic Web.</li>
+<li>Dublin Core Metadata Initiative: It is developing interoperable
+metadata standards for describing resources that enable intelligent
+information discovery systems while supporting a broad range of purposes
+and business models.</li>
+<li>Prism: The Publishing Requirements for Industry Standard Metadata.
+Defined in RDF using the Dublin Core vocabulary, it is a
+publishing-specific XML metadata standard for directing the processing
+of content. It allows content and related resources to be formally
+described by providing standardized properties, controlled vocabularies,
+and extensibility.</li>
+<li>OWL: The Web Ontology Language is designed for use by applications
+that need to process the content of information instead of just
+presenting information to humans, facilitating greater machine
+interpretability of web content.</li>
+<li>XML Topic Maps: XTM provides a model and grammar for representing
+the structure of information resources used to define topics, and the
+associations (relationships) between topics.</li>
+</ul>
+<p>3 Overview: Fostering Efficiency Data structure standards, including
+mechanisms for specifying metadata, enable organizations to foster
+efficiency by</p>
+<ul>
+<li>Automating the processing of content</li>
+<li>Improving work flow</li>
+<li>Reusing content</li>
+<li>Reducing redundancy and repetition</li>
+<li>Improving searches, storage, archives, retrieval</li>
+<li>Automating the gathering and reporting of statistics and other
+data</li>
+<li>Consolidating the use of software</li>
+</ul>
+<h3 id="automated-processing">3.1 Automated Processing</h3>
+<p>Data structure standards enable businesses to automate the processing
+of content, making them more efficient while reducing the costs
+associated with manual work. The possibilities are virtually endless.
+For instance, publishers can do the following:</p>
+<ul>
+<li>Trigger the application of stylesheets to transform structured
+content into formats suitable for different web sites, different
+publications, or different devices, such as mobile phones; stylesheets
+can also be applied to transform the content into an XML dialect that
+can be shared with business partners. For instance, a business could
+transform XML content from an in-house dialect into NewsML for
+distribution to external media partners.</li>
+<li>Automate the distribution of content to a variety of channels</li>
+<li>Automate the distribution of content to analysts for review and
+refinement</li>
+<li>Assemble content dynamically with queries based on metadata or other
+aspects of the standard</li>
+<li>Automatically generate tables of contents, indexes, site maps, link
+libraries, topic maps, and other navigational aids</li>
+</ul>
+<h3 id="streamlining-work-flow-and-sharing-data">3.2 Streamlining Work
+Flow and Sharing Data</h3>
+<p>The automation that comes with standardization, along with a content
+management system, can make an organization’s work flow more
+efficient:</p>
+<ul>
+<li>Metadata can be used to automatically route data through a given
+work flow, not only internally but also with external business
+partners</li>
+<li>Example: Editorial production at a newspaper, with syndication</li>
+</ul>
+<p>On a general note, sharing knowledge within an organization requires
+cooperation. Standardization can, if executed with the appropriate
+metadata, provide a formal model for cooperative sharing.</p>
+<h3 id="reusing-content">3.3 Reusing Content</h3>
+<p>Standards that separate content from presentation empower
+organizations to reuse and repurpose content:</p>
+<ul>
+<li>With standardization, documents can include references to other
+documents or segments of them, making the business more efficient by
+enabling it to reuse existing resources.</li>
+<li>Documents can be assembled automatically with existing content, in
+response to user requests.</li>
+<li>Standardization can also radically increase efficiency by enabling
+an organization to publish the same content in multiple formats.</li>
+<li>Standardization also enables organizations to automatically include
+related sidebar content.</li>
+</ul>
+<p>All of which reduces the cost of creating information products.</p>
+<h3 id="eliminating-redundancy">3.4 Eliminating Redundancy</h3>
+<p>Standardization helps eliminate redundancy and repetition of
+data:</p>
+<ul>
+<li>Data is created once and then reused by reference, rather than
+recreated or, for instance, cut and pasted.</li>
+<li>Repetition of manual work both in structuring data and the work flow
+is reduced or eliminated.</li>
+</ul>
+<h3 id="storage-search-retrieval">3.5 Storage, Search, Retrieval</h3>
+<p>Standardization can revolutionize the way organizations store data,
+bringing massive efficiencies in searching and retrieval.</p>
+<ul>
+<li>Semantic-based structures provide meaningful hooks for searching
+stored data.</li>
+<li>The appropriate use of structured metadata makes search and
+retrieval more efficient and effective: Users can more quickly find
+exactly the data they seek.</li>
+<li>Taxonomies or ontologies that express concepts common across an
+organization’s domains result in well-defined mappings between
+domain-specific knowledge representations, producing efficiencies in
+cross-domain searching, data mining, and knowledge extraction.</li>
+</ul>
+<h3 id="report-capabilities">3.6 Report Capabilities</h3>
+<p>Along with a content management system, standardization and metadata
+provide vehicles for</p>
+<ul>
+<li>Tracking the status of documents and data</li>
+<li>Compiling statistics about what content was delivered to whom
+when.</li>
+</ul>
+<p>The resulting reports help organizations become more efficient by
+focusing on productive avenues of information usage and improving access
+to important streams.</p>
+<h3 id="software-consolidation">3.7 Software Consolidation</h3>
+<p>Standardization eases software costs and yield efficiencies by
+consolidating the tools needed to create content. All authors, for
+instance, could use an XML-based tool like Epic Editor or XMetal. The
+costs associated with training users in different software are
+reduced.</p>
+<h2 id="overview-realizing-new-business-opportunities">4 Overview:
+Realizing New Business Opportunities</h2>
+<p>Data structure standards and the interoperability they yield bring
+new business opportunities by enabling organizations to</p>
+<ul>
+<li>Syndicate and redistribute content, both internally and
+externally</li>
+<li>Contextualize and focus advertising based on content (both in print
+and online)</li>
+<li>Personalize content</li>
+<li>Aggregate diverse content based on user profiles for presentation to
+the user</li>
+<li>Segment related content into customized products</li>
+<li>Develop and refine niche products</li>
+<li>Tap new outlets and launch new products</li>
+<li>Translate and localize content</li>
+<li>Deliver content to multiple output devices</li>
+</ul>
+<h3 id="syndication-and-redistribution">4.1 Syndication and
+Redistribution</h3>
+<p>Because data with formally defined structures can be easily shared,
+standardization forges new business opportunities through the
+possibility exchanging data.</p>
+<ul>
+<li>An organization can channel its content to other internal business
+units or external business partners</li>
+</ul>
+<h3 id="targeted-advertising">4.2 Targeted Advertising</h3>
+<p>A well-defined data structure standard uses metadata to capture the
+meaning and relationships of content, opening up the possibility of</p>
+<ul>
+<li>Serving contextualized advertising based on content, both in print
+and online</li>
+<li>Serving contextualized advertising based on a user’s request for
+on-demand content</li>
+</ul>
+<h3 id="personalized-aggregated-and-segmented-content">4.3 Personalized,
+Aggregated, and Segmented Content</h3>
+<p>Standardization can help retain existing customers and attract new
+customers by enabling companies to</p>
+<ul>
+<li>Deliver personalized content (with advertising targeted to user’s
+profile)</li>
+<li>Aggregate content across domains to sell to external business
+partners</li>
+<li>Segment content so users can select only segments of direct interest
+or aggregating segments into new, customized products</li>
+</ul>
+<h3 id="developing-niche-products">4.4 Developing Niche Products</h3>
+<p>Standardization gives organizations the ability to develop niche
+products by helping to identify marketable subsets of content (through,
+for instance, tracking) or by combining content from various domains in
+new and unique ways.</p>
+<ul>
+<li>Example: A publisher of business magazines may be able to recombine
+discrete pieces of content from multiple magazines into a new stream of
+unified content that has value to a specific set of consumers.</li>
+</ul>
+<p>([Picture:] Information from magazine on celebrity lifestyles +
+information from yachting magazine = business stream on selling yachts
+to celebrities.)</p>
+<h3 id="tapping-new-outlets-and-launching-new-products">4.5 Tapping New
+Outlets and Launching New Products</h3>
+<p>Standardization also gives organizations the prospect of developing
+new opportunities through</p>
+<ul>
+<li>Creating dynamic content in response to user requests or
+profiles</li>
+<li>With standards in place, it is easier to develop and launch new
+content-based products such as web sites.</li>
+</ul>
+<h3 id="translating-localizing-and-internationalizing-content">4.6
+Translating, Localizing, and Internationalizing Content</h3>
+<p>An organization can engineer its standard to use abstract structures
+for aspects of content tied to locale – for example, currency – to ease
+localization.</p>
+<p>There are also standardization methods that improve the efficiency of
+translating or internationalizing content.</p>
+<p>The result: An organization can introduce its offerings in new
+locales, cultures, and languages.</p>
+<h3 id="single-sourcing">4.7 Single Sourcing</h3>
+<p>An XML-based standard that separates content from presentation
+provides the foundation for delivering content in multiple output
+formats. This enables businesses to find new opportunities by
+distributing their content to new channels. (Formatting is done with
+stylesheets.)</p>
+<ul>
+<li>WML: mobile devices</li>
+<li>HTML: web sites</li>
+<li>XML: business exchange partners</li>
+<li>XSL:FO: magazines, books, brochures</li>
+</ul>
+<h2 id="thriving-on-the-business-web">5 Thriving on the Business
+Web</h2>
+<blockquote>
+<p><em>I created this presentation and wrote the following conclusion in
+<strong>2005</strong>:</em></p>
+</blockquote>
+<p><strong>We are at the cusp of the “business web” – a worldwide
+network of interconnected business services.</strong></p>
+<p><strong>Businesses well positioned to exploit it will
+thrive.</strong></p>
+<p><strong>Making an organization’s core data and services available
+through other companies can vastly increase the market for those
+services and data.</strong></p>
+<p><strong>Data structure standards that enable the rapid and innovative
+dessimination of business services and information – including through
+other companies – may well be one of the keys to integrating into and
+thriving within this environment.</strong></p>
+<h2 id="about-this-document">6 About this Document</h2>
+<p>The original 2005 presentation was created using the Darwin
+Information Typing Architecture (DITA), a topic-oriented DTD, and a
+custom XSLT stylesheet. This text version is formatted in Markdown.</p>
+<hr>
+<div class="footer">
+<span style="font-size: 80%;">
+<i class="fa fa-flask" aria-hidden="true"></i> <a href="/papers.html">Essays</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a href="/cc/blog.html"> Blog Posts</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a href="/publications.html"> Publications</a> 
+</span>
+<br/>
+<span style="font-size: 80%;"><font color="gray">Copyright © 1995-2025</font>  
+<a href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a href="https://criticism.com" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company or organization that I have worked for in the past. </font><a href="/map.html"> Site Map</a> <i class="fa fa-globe" aria-hidden="true"></i>
+</span>
+<p/>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js" integrity="sha384-7qAoOXltbVP82dhxHAUje59V5r2YsVfBafyUDxEdApLPmcdhBPg1DKg1ERo0BZlK" crossorigin="anonymous"></script>
+</body>
+</html>
