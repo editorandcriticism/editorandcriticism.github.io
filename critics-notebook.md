@@ -1,10 +1,10 @@
 ---
 title: 'Critic''s Notebook'
-description: Notes at the interdiscplinary nexus of technology, psychology, philosophy, literature, and literary criticism
+description: Notes at the interdisciplinary nexus of technology, psychology, philosophy, literature, and literary criticism
 keywords: criticism, culture, literature, policy, technology
 ---
 
-<i class="fa fa-random" aria-hidden="true"></i> Connecting the dots with random notes at the interdiscplinary nexus of technology, psychology, philosophy, literature, literary criticism, policy, and culture. 
+<i class="fa fa-random" aria-hidden="true"></i> Connecting the dots with random notes at the interdisciplinary nexus of technology, psychology, philosophy, literature, literary criticism, policy, and culture. 
 
 ### Projection, Interpretation, and Totalization
 

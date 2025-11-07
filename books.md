@@ -1,10 +1,10 @@
 ---
 title: Reading Books as an Act of Critical Resistance
-description: Revelatory books at the interdiscplinary nexus of technology, psychology, philosophy, literary criticism, and literature.
+description: Revelatory books at the interdisciplinary nexus of technology, psychology, philosophy, literary criticism, and literature.
 keywords: criticism, culture, literature, policy, technology, philosophy, literary criticism, fiction, literary nonfiction, psychology, digital culture, digital media, literature as social knowledge
 ---
 
-<i class="fa fa-random" aria-hidden="true"></i> Connecting the dots by reading and interpreting books at the interdiscplinary nexus of technology, psychology, philosophy, literature, and literary criticism. 
+<i class="fa fa-random" aria-hidden="true"></i> Connecting the dots by reading and interpreting books at the interdisciplinary nexus of technology, psychology, philosophy, literature, and literary criticism. 
 
 ### Reading Now
 
