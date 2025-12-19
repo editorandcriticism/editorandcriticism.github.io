@@ -8,10 +8,11 @@ title: |
 ---
 
 <img src="../images/0226899152.gif" align="right" />
-This page presents papers, articles, and commentary on writing, editing, composition, literacy, the acquisition of writing, and teaching composition. 
+This page presents papers, articles, and commentary on writing, editing, composition, literacy, the acquisition of writing, and the  teaching of composition. 
 
+<i class="fa fa-file-text"></i> [Summary: How to Write Clear, Concise, Coherent Prose](/books/how-to-write-clear-concise-coherent-prose.html)
 
-<i class="fa fa-file-text"></i>  [Using the Passive Voice To Create
+<i class="fa fa-file-text"></i> [Using the Passive Voice To Create
     Coherence](/linguistics/active-voice-or-passive-voice.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Abstract: Topical Structure Analysis of Accomplished English

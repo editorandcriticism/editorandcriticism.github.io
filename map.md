@@ -430,8 +430,9 @@ author: Steve Hoenisch
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [XC: A Minimalist, Structural DTD for XML
     Documents](/cc/about-xc.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: On the FCC and Media Ownership](/md/media-ownership.html)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Likewise Enterprise Installation and Administration Guide](/cc/lwe.pdf)
 
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Likewise Open Installation and Administration Guide](/cc/lwo.pdf)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: Reclaim the Media](/md/reclaim-the-media.html)
 

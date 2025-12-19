@@ -7,6 +7,9 @@ title: Using Data Structure Standards to Foster Efficiency and Opportunity
 
 Last updated on Feb. 16, 2005, in New York City. Some of the information about XML and the other technologies discussed in this presentation might be out of date.
 
+_The predictions made in 2005 near the end of the presentation, however, strike me as particularly prescient._
+
+
 Copyright 1996-2025 www.Criticism.Com
 
 <!--
@@ -49,18 +52,22 @@ This presentation describes how organizations -- particularly businesses focused
 
 ## 2 Using XML for Data Structure Standards
 XML is the language of choice for standardizing and enforcing data structures.
- Its hierarchical and extensible nature makes it well suited for formally structuring data.
- Its extensibility enables it to include rich sets of metadata -- an aspect of standardization that helps make businesses more efficient.
- XML enables interoperability and expedites data exchange over the Internet -- as evident with the explosion of XML-based data exchange languages like FPML -- which is a key to realizing new business opportunities, especially in the era of the "business web."
+
+Its hierarchical and extensible nature makes it well suited for formally structuring data.
+
+Its extensibility enables it to include rich sets of metadata -- an aspect of standardization that helps make businesses more efficient.
+
+XML enables interoperability and expedites data exchange over the Internet -- as evident with the explosion of XML-based data exchange languages like FPML -- which is a key to realizing new business opportunities, especially in the era of the "business web."
 
 ### 2.1 Developing and Implementing a Standard
 
 A data structure standard can be implemented in XML with a Document Type Definition or a Schema.
 Depending on its unique needs, a business can use an existing DTD or develop its own.
 Using an existing standard, such as NewsML, may make it easier to distribute data to other businesses.
-To develop a standard, an organization identifies and defines the structural and semantic elements and attributes of its data, and fuses the resulting definition with mechanisms for specifying metadata at multiple levels. The standard strives to separate content from presentation.
-Content is validated against the DTD to ensure conformity with the standard.
 
+To develop a standard, an organization identifies and defines the structural and semantic elements and attributes of its data, and fuses the resulting definition with mechanisms for specifying metadata at multiple levels. The standard strives to sepa rate content from presentation.
+
+Content is validated against the DTD to ensure conformity with the standard.
 
 ### 2.2 Metadata
 
@@ -89,7 +96,8 @@ Here are a few of the existing metadata standards:
 * OWL: The Web Ontology Language is designed for use by applications that need to process the content of information instead of just presenting information to humans, facilitating greater machine interpretability of web content.
 * XML Topic Maps: XTM provides a model and grammar for representing the structure of information resources used to define topics, and the associations (relationships) between topics.
 
-3 Overview: Fostering Efficiency
+## 3 Overview: Fostering Efficiency
+
 Data structure standards, including mechanisms for specifying metadata, enable organizations to foster efficiency by
 
 * Automating the processing of content
@@ -241,6 +249,21 @@ An XML-based standard that separates content from presentation provides the foun
 ## 6 About this Document
 
 The original 2005 presentation was created using the Darwin Information Typing Architecture (DITA), a topic-oriented DTD, and a custom XSLT stylesheet. This text version is formatted in Markdown.
+
+
+## Related 
+
+<i class="fa fa-file-text"></i> [Summary: How to Write Clear, Concise, Coherent Prose](/books/how-to-write-clear-concise-coherent-prose.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Write High-Quality Content for Free SEO](/seo/writing-for-free-seo.html)
+
+<i class="fa fa-file-text"></i> [Identifying and Resolving Ambiguity](/linguistics/types-of-ambiguity.html)
+
+
+<i class="fa fa-coffee" aria-hidden="true"></i> -- Steve Hoenisch.
+
+
+
 
 
 
