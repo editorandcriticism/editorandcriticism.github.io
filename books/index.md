@@ -15,7 +15,9 @@ title: Books and Book Reviews at Criticism.Com
 
 * [Writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html).
 
+---
 
+* Steve Hoenisch's [author bio](/books/author-bio.html).
 
 
 
