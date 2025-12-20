@@ -1,5 +1,5 @@
 ---
-Author Bio of Steven Hoenisch
+title: Author Bio of Steven Hoenisch
 ---
 
 ## About the Author
@@ -9,6 +9,7 @@ Steven Hoenisch is a writer, editor, educator, and critic working at the interdi
 
 
 ---
+
 
 <i class="fa fa-medium" aria-hidden="true"></i>
  [Medium.com Page](https://medium.com/@steveski170)
@@ -27,7 +28,7 @@ Steven Hoenisch is a writer, editor, educator, and critic working at the interdi
 
 <i class="fa fa-google" aria-hidden="true"></i> See also my publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
 
-<i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170)
+<i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf)
 
 <i class="fa fa-university" aria-hidden="true"></i> My cited essay in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; or [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
