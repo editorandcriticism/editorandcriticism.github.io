@@ -1,7 +1,7 @@
 ---
 description:  Criticism.com includes essays, book reviews, and articles on technology, media culture, psychology, sociology, philosophy, linguistics, literary theory, and literature. 
 keywords:  writing, editing, criticism, technology, text linguistics, discourse analysis, linguistics, media criticism, Max Weber, Bakhtin, mass communication, media studies, journalism, sociology, structuralism, postmodernism, Saussure, poststructuralism, media sociology, Steven Hoenisch, Roland Barthes, Dostoyevsky, objectivity, Wittgenstein, Freud, psychoanalysis, philosophy, social science, media culture
-title: 'Criticism.Com: Articles and Other Content'
+title: 'Criticism.Com: Articles, Essays, and Other Papers'
 ---
 
 
@@ -57,7 +57,12 @@ title: 'Criticism.Com: Articles and Other Content'
 -----
 
 
--   [What Others Are Saying About Criticism.Com](/cc/kudos.html)
+<i class="fa fa-commenting-o" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](/cc/kudos.html)
+
+
+<i class="fa fa-book" aria-hidden="true"></i> [Books and Book Reviews at Criticism.Com](/books/index.html)
+
+
 
 
 

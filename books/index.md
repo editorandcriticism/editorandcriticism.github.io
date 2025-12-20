@@ -17,7 +17,9 @@ title: Books and Book Reviews at Criticism.Com
 
 ---
 
-* Steve Hoenisch's [author bio](/books/author-bio.html).
+* [Author bio](/books/author-bio.html) of Steve Hoenisch.
+
+
 
 
 

@@ -7,16 +7,16 @@ Books that I am reading or rereading now, which are the books that I highly reco
 
 
 
-## Fiction Books I Love 
+<!-- ## Fiction Books I Love  -->
 
 
-## Nonfiction Books I Love (Core Canon)
+<!-- ## Nonfiction Books I Love (Core Canon) -->
 
 
 
 ## Fiction
 
-+ Start at high school soph or jr year and try to remember from there.
+<!-- + Start at high school soph or jr year and try to remember from there. -->
 
 Chinua Achebe. Things Fall Apart: A Novel.
 
@@ -115,23 +115,18 @@ Thomas Wolff sp ... ??
 
 Barthes.
 
-
-
 Foucault.
 
-
-
 Freud. 
-
 
 Ludwig Wittgenstein. Philosophical Investigations; Culture and Value; On Certain; Aesthetics ... 
 
 
-## Writers I've Seen Read or Present in Person
+<!-- ## Writers I've Seen Read or Present in Person -->
 
 
 
-
+<!--
 
 
 ## Adds
@@ -249,6 +244,7 @@ Jacques Stephen Alexis's In the Blink of an Eye
 
 * Cervantes, Don Quixote
 
+-->
 
 
 
