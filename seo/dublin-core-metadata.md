@@ -17,7 +17,7 @@ Using Dublin Core Metadata for Search Engine Optimization
 Embedding Dublin Core metadata elements in your web pages provides a
 standards-based approach to search engine optimization that complements
 your HTML metadata. The [Dublin Core Metadata
-Initiative](http://dublincore.org/) is a set of online metadata
+Initiative](https://dublincore.org/) is a set of online metadata
 standards for a broad range of purposes, including semantic tagging to
 help search engines match requests with relevant results. Because Dublin
 Core metadata is based on a standard developed by an open organization,
@@ -42,10 +42,10 @@ The benefits:
 -   Helps prepare your web pages for the evolution of the semantic web
     -- a world in which the semantics of information and services on the
     web is defined, making it possible for the web to recognize and
-    fulfill requests for content by people and machines. See the [semantic web](http://en.wikipedia.org/wiki/Semantic_Web) on Wikipedia.
+    fulfill requests for content by people and machines. See the [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) on Wikipedia.
 -   Used with XML and RDF, helps foster semantic publishing, which may
     be advantageous to scientific publishers; for more information, see
-    <http://en.wikipedia.org/wiki/Semantic_publishing>.
+    <https://en.wikipedia.org/wiki/Semantic_publishing>.
 -   Lends support to open standards and builds momentum for them.
 -   Helps several internal search engines process and
     retrieve information.
@@ -70,7 +70,7 @@ metadata looks like this:
 
 ``` {space="preserve"}
 <head>
-   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+   <link rel="schema.DC" href="https://purl.org/dc/elements/1.1/">
     <meta name="DC.title" content="SEO with Dublin Core">
     <meta name="DC.description" content="How to embed 
      Dublin Core metadata in a web page to provide a 
@@ -118,7 +118,7 @@ an RDF-compliant metadata format. "This format is not an offical NASA
 standard," NASA says. "Instead, it is a recommendation from the NASA
 Taxonomy Project on what a NASA standard metadata format might look
 like." For more information or to download the NASA DTD, see
-<http://nasataxonomy.jpl.nasa.gov/fordevelopers/>.
+<https://nasataxonomy.jpl.nasa.gov/fordevelopers/>.
 
 ``` {space="preserve"}
 <rdf:RDF>
@@ -136,10 +136,10 @@ demonstrates. As with HTML, you place the XHTML Dublin Core metadata in
 the header of your web page just after your usual metadata. This code
 snippet was automatically generated with the Dublin Core metadata
 generation engine at
-<http://webposible.com/utilidades/dublincore-metadata-gen/index.html?lang=en>:
+<https://webposible.com/utilidades/dublincore-metadata-gen/index.html?lang=en>:
 
 ``` {space="preserve"}
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/" />
     <meta name="DC.title" content="SEO with Dublin Core" />
     <meta name="DC.description" content="How to embed Dublin 
      Core metadata in a web page to provide a standards-based 

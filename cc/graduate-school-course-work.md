@@ -25,18 +25,18 @@ The Graduate Center, City University of New York
 ------------------------------------------------
 
 -   Literature as Social Knowledge. With Prof. [Stanley
-    Aronowitz](http://en.wikipedia.org/wiki/Stanley_Aronowitz).
+    Aronowitz](https://en.wikipedia.org/wiki/Stanley_Aronowitz).
 -   Introduction to Cultural Studies. With Prof. [Patricia
-    Clough](http://soc.qc.cuny.edu/faculty/clough/).
+    Clough](https://soc.qc.cuny.edu/faculty/clough/).
 -   Culture and Democracy
 -   Weber, Durkheim, Foucault
 -   French Social Thought. With Prof.
-    [Marnia Lazreg.](http://maxweber.hunter.cuny.edu/socio/faculty/lazreg.html)
+    [Marnia Lazreg.](https://maxweber.hunter.cuny.edu/socio/faculty/lazreg.html)
 -   Ethnomethodology
 -   Grammar, Pragmatics, and Discourse Analysis. With Prof. [John
-    Dore](http://www.johndore.com/).
+    Dore](https://www.johndore.com/).
 -   Language, Emotion, and Conflict. With Prof. [John
-    Dore](http://www.johndore.com/).
+    Dore](https://www.johndore.com/).
 -   Wittgenstein and Freud
 -   Wittgenstein: Philosophical Investigations
 -   Introduction to Theoretical Linguistics
@@ -46,7 +46,7 @@ The Graduate Center, City University of New York
 -   Semantics
 -   Pragmatics
 -   Philosophy of Language. With Prof. [Jerrold
-    Katz](http://en.wikipedia.org/wiki/Jerrold_Katz).
+    Katz](https://en.wikipedia.org/wiki/Jerrold_Katz).
 -   Psycholinguistics
 -   Computational Linguistics
 -   Applied Linguistics
@@ -75,16 +75,16 @@ University of Oregon
 --------------------
 
 -   Marx and Engels. With Prof. [Cheyney
-    Ryan](http://pages.uoregon.edu/uophil/faculty/profiles/cryan/).
+    Ryan](https://pages.uoregon.edu/uophil/faculty/profiles/cryan/).
 -   Nietzsche
 -   History of Philosophy
 -   Existentialism
 -   Social and Political Philosophy. With Prof. [Cheyney
-    Ryan](http://pages.uoregon.edu/uophil/faculty/profiles/cryan/).
+    Ryan](https://pages.uoregon.edu/uophil/faculty/profiles/cryan/).
 -   Descartes. With Prof. [Catherine
-    Wilson](http://web.gc.cuny.edu/philosophy/faculty/wilson.htm).
+    Wilson](https://web.gc.cuny.edu/philosophy/faculty/wilson.htm).
 -   Aesthetics. With Prof. [Catherine
-    Wilson](http://www.youtube.com/watch?v=Z3Gby6huoZ8).
+    Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8).
 -   Wittgenstein
 -   Advanced Composition
 -   Editorial Writing

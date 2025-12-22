@@ -43,7 +43,7 @@ Each of these tasks maps to an aspect of DTD syntax or to a DTD operator, which 
 
 Once you've analyzed a representative subset of the documents in your document set, diced them up into a suitable level of structured detail, defined your markup strategy as well as your tags and attributes, and applied them to several documents in your set (see last month's tutorial for more information), you're ready to begin creating your DTD, beginning what will no doubt be an iterative process.
 
-You can create a DTD in one of two ways: Write it from scratch, by hand, as I'll do below, using a text editor like UltraEdit. Or, you can make use of a DTD-creation tool. XML Authority, available from TIBCO Extensibility at http://www.extensibility.com/solutions/trial.htm, simplifies DTD construction. And it checks for errors, too, a few of which you'll probably make in your first DTD. It also has a useful help section on best practices.
+You can create a DTD in one of two ways: Write it from scratch, by hand, as I'll do below, using a text editor like UltraEdit. Or, you can make use of a DTD-creation tool. XML Authority, available from TIBCO Extensibility at https://www.extensibility.com/solutions/trial.htm, simplifies DTD construction. And it checks for errors, too, a few of which you'll probably make in your first DTD. It also has a useful help section on best practices.
 
 
 

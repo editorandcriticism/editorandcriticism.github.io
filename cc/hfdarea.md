@@ -453,5 +453,5 @@ several other parks and attractions are located.
 The Greater Hartford Convention and Visitors Bureau, 1-800-446-7811 or
 203-728-6789. To obtain a free Connecticut vacation guide, call
 1-800-282-6863. See also the online edition of  [*The Hartford
-Courant*](http://www.hartfordcourant.com).
+Courant*](https://www.hartfordcourant.com).
 

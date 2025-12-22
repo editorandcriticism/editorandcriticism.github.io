@@ -34,7 +34,7 @@ XPointer specifications, which had been independently using similar
 mechanisms to find information in XML documents. XSLT heavily uses XPath
 to locate specific nodes or node sets within XML documents. Details
 about XPath specification can be found at
-http://www.w3c.org.
+https://www.w3c.org.
 
 
 
@@ -88,7 +88,7 @@ Cascading Style Sheets: The Definitive
 Guide,
 published by O\'Reilly, provides a detailed account of how to use CSS.
 The W3C CSS specifications are
-available at http://www.w3c.org. 
+available at https://www.w3c.org. 
 
 
 ### Related Pages

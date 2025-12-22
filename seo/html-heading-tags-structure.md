@@ -145,7 +145,7 @@ Techniques](/seo/search-engine-optimization.html)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [W3C reference on the global
 structure of an HTML document: The H1, H2, H3, H4, H5, H6
-headings](http://www.w3.org/TR/html401/struct/global.html#h-7.5.5)
+headings](https://www.w3.org/TR/html401/struct/global.html#h-7.5.5)
 
 
 

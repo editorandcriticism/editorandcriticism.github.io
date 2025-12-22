@@ -109,7 +109,7 @@ Literacy](educational-linguistics-proposal.html)**
 
 
 <i class="fa fa-file-text"></i> **[What Is Critical Discourse
-Analysis?](http://en.wikipedia.org/wiki/Critical_discourse_analysis)**
+Analysis?](https://en.wikipedia.org/wiki/Critical_discourse_analysis)**
 
 
 
@@ -118,7 +118,7 @@ Analysis?](http://en.wikipedia.org/wiki/Critical_discourse_analysis)**
 <i class="fa fa-file-word-o"></i> **[A List of Basic Readings](cda-readings.doc)**
 in Critical Discourse Analysis, submitted by Teun A. van Dijk. (For
 papers and bibliographies, see
-[www.discourse-in-society.org](http://www.discourse-in-society.org/).)
+[www.discourse-in-society.org](https://www.discourse-in-society.org/).)
 
 
 

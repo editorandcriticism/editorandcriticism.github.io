@@ -179,10 +179,10 @@ Again, set your links in HTML, not script.
 **9. Create an XML site map for your web site, name it sitemap.xml, and
 place it in your root public HTML folder so search engines can find
 it.** Then, submit it to Google by using a Google webmaster account,
-which you can set up at <http://www.google.com/services/>. For more
-information about XML site maps, see <http://www.sitemaps.org/>. To
+which you can set up at <https://www.google.com/services/>. For more
+information about XML site maps, see <https://www.sitemaps.org/>. To
 automatically generate an XML site map, go to
-<http://www.xml-sitemaps.com/>.
+<https://www.xml-sitemaps.com/>.
 
 <i class="fa fa-file-text" aria-hidden="true"></i> [More on using an XML Site Map for
 SEO.](xml-site-map.html)
@@ -202,16 +202,16 @@ map at the bottom of each page in your site, including your home page.**
 
 **13. Add Dublin Core metadata elements to the HTML header of your
 page.** Although including metadata based on the [Dublin
-Core](http://dublincore.org/) specification in your web page probably
+Core](https://dublincore.org/) specification in your web page probably
 won't help with most search engines, there are some that use it, and
 more may do so in the future. There is a Dublin Core metadata generation
 engine at
-<http://webposible.com/utilidades/dublincore-metadata-gen/index.html?lang=en>.
+<https://webposible.com/utilidades/dublincore-metadata-gen/index.html?lang=en>.
 
 The HTML format of Dublin Core metadata looks like this:
 
 ``` {space="preserve"}
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/">
  <meta name="DC.title" content="Search Engine Optimization">
  <meta name="DC.description" content="Improve the
   search engine rankings of your web pages by using these free, 
@@ -236,7 +236,7 @@ SEO.](dublin-core-metadata.html)
 folder.** The `robots.txt` file specifies the directories and files that
 you want search engines to crawl, and it excludes those that you want
 crawlers to ignore. Make sure the contents of your robots.txt is
-providing appropriate indexing [instructions](http://www.robotstxt.org/)
+providing appropriate indexing [instructions](https://www.robotstxt.org/)
 to crawlers. Here's an example of robots.txt file's instructions:
 
 ``` {space="preserve"}
@@ -273,11 +273,11 @@ Yelp, and other social networking sites -- and always include a link to
 your web site.** Develop an SEO strategy for social media. Put some
 photos on Flickr and some videos on YouTube. And tweet about it all on
 Twitter, if you must. For a list social networking sites, see
-<http://en.wikipedia.org/wiki/List_of_social_networking_websites>.
+<https://en.wikipedia.org/wiki/List_of_social_networking_websites>.
 
 **18. Use web analytics to identify ways to increase your web site's
 traffic.** A free web analytics program such as [Google
-Analytics](http://www.google.com/analytics/) can yield valuable insights
+Analytics](https://www.google.com/analytics/) can yield valuable insights
 into your web site's traffic -- insights that you can tap to boost
 traffic. Increasing your traffic will likely improve your search engine
 rankings.

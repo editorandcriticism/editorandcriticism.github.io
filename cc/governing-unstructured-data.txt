@@ -293,18 +293,18 @@ According to DataLossDB, a nonprofit organization that tracks data breach incide
 NOTES QUOTES AND EXAMPLES FROM MS GUIDE TO DATA GOV PART 1::
 1 Organization for Economic Cooperation and Development, “OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data,” www.oecd.org/document/18/0,2340,en_2649_34255_1815186_1_1_1_1,00.html.
 
-2 American Institute of Certified Public Accountants (AICPA) and Canadian Institute of Chartered Accountants (CICA), “Generally Accepted Privacy Principles,” http://infotech.aicpa.org/Resources/Privacy/Generally+Accepted+Privacy+Principles.
+2 American Institute of Certified Public Accountants (AICPA) and Canadian Institute of Chartered Accountants (CICA), “Generally Accepted Privacy Principles,” https://infotech.aicpa.org/Resources/Privacy/Generally+Accepted+Privacy+Principles.
 
 3 Lyman, P. et al., “How Much Information?” University of California, Berkeley, 2003. www2.sims.berkeley.edu/research/projects/how-much-info-2003.
 
 4 Note that the term “confidential data,” used throughout this document, encompasses personal data (under the European Commission definition), personally identifiable information (PII), intellectual property (IP), trade secrets, and all other types of information for which an organization might want to maintain confidentiality, integrity, and availability.
 
-5 DataLossDB, http://datalossdb.org/.
-6 Ponemon Institute, “Cost of a Data Breach,” Feb. 2009, http://www.encryptionreports.com.
+5 DataLossDB, https://datalossdb.org/.
+6 Ponemon Institute, “Cost of a Data Breach,” Feb. 2009, https://www.encryptionreports.com.
 7 “Heartland CEO on Data Breach: QSAs Let Us Down,” CSO Magazine, October 2009.
 8 Joshua Gomez, Travis Pinnick, and Ashkan Soltani, "KnowPrivacy," June 1, 2009, www.knowprivacy.org/report/KnowPrivacy_Final_Report.pdf.
 
-EUDPD 95/46/EC: http://europa.eu/legislation_summaries/information_society/l14012_en.htm .
+EUDPD 95/46/EC: https://europa.eu/legislation_summaries/information_society/l14012_en.htm .
 22 ISO/IEC 27001/27002: www.27000.org.
 
 "Data stewards are responsible for ensuring effective control and use of data assets and exercising a series of functions assigned to them by the data governance organization. Additional details on the data steward’s role and responsibilities are provided in the second paper in this series." 
@@ -317,9 +317,9 @@ References
 “Cost of a Data Breach,” Ponemon Institute, Feb 2009, www.encryptionreports.com.
 DAMA Dictionary of Data Management, 1st Edition, USA, 2008, www.dama.org/i4a/pages/index.cfm?pageid=3345.
 DAMA Guide to Data Management Body of Knowledge (DMBOK), 1st Edition, USA, 2009, www.dama.org/i4a/pages/index.cfm?pageid=3345.
-DataLossDB, http://datalossdb.org.
-European Union Data Protection Directive 95/46/EC, European Commission, 1995, http://europa.eu/legislation_summaries/information_society/l14012_en.htm
-Generally Accepted Privacy Principles, American Institute of Certified Public Accountants (AICPA) and Canadian Institute of Chartered Accountants (CICA), http://infotech.aicpa.org/Resources/Privacy/Generally+Accepted+Privacy+Principles.
+DataLossDB, https://datalossdb.org.
+European Union Data Protection Directive 95/46/EC, European Commission, 1995, https://europa.eu/legislation_summaries/information_society/l14012_en.htm
+Generally Accepted Privacy Principles, American Institute of Certified Public Accountants (AICPA) and Canadian Institute of Chartered Accountants (CICA), https://infotech.aicpa.org/Resources/Privacy/Generally+Accepted+Privacy+Principles.
 “Heartland CEO on Data Breach: QSAs Let Us Down,” CSO Magazine, October 2009.
 “How Much Information?,” Lyman, P. et al., University of California, Berkeley, 2003, www2.sims.berkeley.edu/research/projects/how-much-info-2003.
 “Information Accountability,” Weitzner, Abelson, Berners-Lee, Feigenbaum, Hendler, and Sussman, Massachusetts Institute of Technology CSAIL Technical Report, June 2007.
@@ -398,7 +398,7 @@ THIS PART BECOMES SIDEBAR!
 
 ================================
 
-"All storage compliance involves hardware and software elements, but there is no single approach or architecture to rely on. For example, disk-to-disk, disk-to-disk-to-tape and disk-to-disk-to-optical storage platforms all have potential applications in compliance, but regulations rarely, if ever, define storage implementations. Organizations are left to interpret the rules, formulate the requirements and establish the technologies to meet legal obligations. THIS IS THE BIG FLAW IN STORAGE COMPLIANCE -- organizations jump to a "vendor's solution" that promises compliance, without fully understanding the laws and their impact. For example, a disk storage platform may offer reliability but might not provide the security or immutability demanded for your industry. "Buying an array for long-term retention is nice," says Jim Damoulakis, chief technology officer (CTO) at GlassHouse Technologies Inc. in Framingham, Mass. "But it doesn't make you compliant." Policies and processes must be implemented to manage storage compliance."--from http://searchstorage.techtarget.com/feature/Data-storage-compliances-impact-on-storage-product-choices (emphasis is mine)
+"All storage compliance involves hardware and software elements, but there is no single approach or architecture to rely on. For example, disk-to-disk, disk-to-disk-to-tape and disk-to-disk-to-optical storage platforms all have potential applications in compliance, but regulations rarely, if ever, define storage implementations. Organizations are left to interpret the rules, formulate the requirements and establish the technologies to meet legal obligations. THIS IS THE BIG FLAW IN STORAGE COMPLIANCE -- organizations jump to a "vendor's solution" that promises compliance, without fully understanding the laws and their impact. For example, a disk storage platform may offer reliability but might not provide the security or immutability demanded for your industry. "Buying an array for long-term retention is nice," says Jim Damoulakis, chief technology officer (CTO) at GlassHouse Technologies Inc. in Framingham, Mass. "But it doesn't make you compliant." Policies and processes must be implemented to manage storage compliance."--from https://searchstorage.techtarget.com/feature/Data-storage-compliances-impact-on-storage-product-choices (emphasis is mine)
 
 "Workload is added in the monitoring, reporting and auditing capabilities needed to support storage compliance. "The thing that adds workload is that you now have to prove that you're doing it," Damoulakis says. In some cases, the cost can be substantial. Back in 2004, General Electric Co. revealed it spent about $30 million in compliance costs just to meet SOX regulations."
 
@@ -529,7 +529,7 @@ THESE NOTES ARE KEYS.
 Not just compliance and security, either, but freedom of users to rapidly access intellectual property that helps foster collaboration and innovation: 
 
 
-Any data governance program, including system and processes, is specific to your organizational needs. This white paper lays out an abstract architecture for data governance techology that can help meet the data governance needs of organizations in the context of protecting, auditing, controlling, and compliance around unstructured data. Because the architecture is abstract, it allows the technlogy to address at least three focus areas within the field of data gov, as set forth by the Data Goverance Institute http://datagovernance.com/fc_focus_areas_for_data_governance.html:
+Any data governance program, including system and processes, is specific to your organizational needs. This white paper lays out an abstract architecture for data governance techology that can help meet the data governance needs of organizations in the context of protecting, auditing, controlling, and compliance around unstructured data. Because the architecture is abstract, it allows the technlogy to address at least three focus areas within the field of data gov, as set forth by the Data Goverance Institute https://datagovernance.com/fc_focus_areas_for_data_governance.html:
 
 *Policy, Standards, Stategy
 *Privacy, Compliance, Security

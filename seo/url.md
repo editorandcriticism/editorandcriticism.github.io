@@ -23,7 +23,7 @@ In an SEO-friendly URL, the directory path identifies the topic and
 subtopic of the page and the file name concisely describes its focus. An
 SEO-friendly URL, then, breaks down like this:
 
-`http://www.domain.com/topic/subtopic/description-of-content.html`
+`https://www.domain.com/topic/subtopic/description-of-content.html`
 
 The topic, or highest-level category, and the subtopic, or the
 subcategory, should be short, typically a one-word keyword. The
@@ -96,10 +96,10 @@ The web site of *The New York Times* provides an example. It organizes
 its content by topic -- often starting with a traditional news category,
 such as sports -- and then by subtopic, such as baseball, hockey,
 soccer, and so forth. The SEO-friendly URL for the menu page of the
-sports section is http://www.nytimes.com/pages/sports/, but shortening
-it to http://www.nytimes.com/sports/ displays the menu page, too. And
+sports section is https://www.nytimes.com/pages/sports/, but shortening
+it to https://www.nytimes.com/sports/ displays the menu page, too. And
 the URL for a sports subtopic, tennis for example, is
-http://www.nytimes.com/pages/sports/tennis/.
+https://www.nytimes.com/pages/sports/tennis/.
 
 
 
@@ -134,7 +134,7 @@ in the H1 Tag](/seo/h1.html)
 in Your HTML Document's Header](/seo/title.html)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [W3C Style Article: Cool URIs
-Don't Change](http://www.w3.org/Provider/Style/URI)
+Don't Change](https://www.w3.org/Provider/Style/URI)
 
 First Published: June 18, 2010. Last Updated: June 21, 2010.
 

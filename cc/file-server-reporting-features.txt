@@ -15,7 +15,7 @@ By integrating storage, identity, and security, Likewise gives you a panoramic v
 
 <H2>Connecting File Server Events and User Identities</H2>
 
-The auditing and reporting features of  Likewise cull <a href="http://likewise.com/oem/event-logging.php">events</a> related to storage and access to put the information that you need to manage the demands of network security and compliance at your fingertips. 
+The auditing and reporting features of  Likewise cull <a href="https://likewise.com/oem/event-logging.php">events</a> related to storage and access to put the information that you need to manage the demands of network security and compliance at your fingertips. 
 
 The system records information about reading, moving, copying, modifying, or deleting directories or files on a file server. The events are linked to user identities so that you can see not just a change to a file but also who accessed the file and made the change. 
 

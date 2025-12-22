@@ -74,7 +74,7 @@ As a vague metaphor, the so-called data lake comes with a certain mythology atta
 
 [^danah]: danah boyd & Kate Crawford (2012) Critical Questions
 for Big Data, Information, Communication & Society, 15:5, 662-679, DOI:
-10.1080/1369118X.2012.678878. The essay is available at http://dx.doi.org/10.1080/1369118X.2012.678878
+10.1080/1369118X.2012.678878. The essay is available at https://dx.doi.org/10.1080/1369118X.2012.678878
 
 The authors of _Doing Data Science_, for instance, cite the subjectivity of data: "Data represents the traces of the real-world processes, and exactly which traces we gather are decided by our data collection or sampling method. You, the data scientist, the observer, are turning the world into data, and this is an utterly subjective, not objective, process. After separating the process from the data collection, we can see clearly that there are two sources of randomness and uncertainty. Namely, the randomness and uncertainty underlying the process itself, and the uncertainty associated with your underlying data collection methods."[^doingds]
 
@@ -94,18 +94,18 @@ Ioannidis's paper underscores the importance of using data rigourously,[^rig] cr
 
 [^crit]: For an entertaining book-length example of how to examine data critically, see _Why Zebras Don't Get Ulcers_, Third Edition, by Robert M. Sapolsky, Holt Paperbacks, 2004.
 
-[^ethic]: See Susan Etlinger's 2014 Ted Talk titled "What do we do with all this big data?" at http://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data?language=en. In the talk, Etlinger makes the connection between understanding data and using it ethically. 
+[^ethic]: See Susan Etlinger's 2014 Ted Talk titled "What do we do with all this big data?" at https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data?language=en. In the talk, Etlinger makes the connection between understanding data and using it ethically. 
 
 Even more important, though, is acknowledging the limitations of big data. "Big Data can be especially helpful in systems that are consistent over time, with straightforward and well-characterized properties, little unpredictable variation, and relatively little underlying complexity. But not every problem fits those criteria; unpredictability, complexity, and abrupt shifts over time can lead even the largest data astray. Big Data is a powerful tool for inferring correlations, not a magic wand for inferring causality."[^yorker] 
 
-[^yorker]: http://www.newyorker.com/tech/elements/steamrolled-by-big-data
+[^yorker]: https://www.newyorker.com/tech/elements/steamrolled-by-big-data
 
 The interpretation of data can also be exceedingly subtle. On the surface, the data may appear to indicate one thing, but it might in fact actually show something else entirely---a point that's been repeatedly demonstrated during the scholarly give-and-take over social science research. But sometimes, in industry, where critical perspectives are often overwhelmed by group think oriented toward the current bias, more subtle but accurate interpretations of the data can be lost. With rigorous data collection, the data might contain events, but it does not contain either the motivation for or the outcome of those events. Correlation is not causation. Description is not explanation.  
 
 The analysis of soccer players during games provides an example. "Modern football data analysis has its origins in a video-based system that used computer vision algorithms to automatically track players. Developed 20 years ago in France, as a tool for broadcasters, it was adapted as a coaching aid and first used at Derby County in 1998 by Leeds-based company Prozone. This and other video tracking systems use multiple cameras inside stadiums, and human operators who manually record data, to gather information on things such as possession, passes, tackles, runs, interceptions and shots."[^soc] And a data repository is, no doubt, a useful place to store such video footage, along with other data about players, games, and so forth. 
 
 [^soc]: How science is fine-tuning our elite footballers, by Nic Fleming, The Guardian, Sunday 2 August 2015, 
-http://www.theguardian.com/football/2015/aug/02/science-fine-tuning-elite-footballers.
+https://www.theguardian.com/football/2015/aug/02/science-fine-tuning-elite-footballers.
 
 “Until recently, it was very much about collecting data on what had happened, without looking at why it had happened,” says Paul Power, a data scientist at Prozone. Power cites the great Italian defender Paolo Maldini as an example of a player who might be marked down by a system that values tackling and intercepting; because his positional play was so good he had less need to do these things."
 
@@ -113,11 +113,11 @@ But data scientists evaluating soccer are now advancing a more sophisticated app
 
 A domain in which the hype of big data is colliding with the cold reality of traditional research methods is medicine. "In the lab, ensuring that the data-mining conclusions hold water can also be tricky. By definition, a medical-records database contains information only on sick people who sought help, so it is inherently incomplete. Also, they lack the controls of a clinical study and are full of other confounding factors that might trip up unwary researchers. Daniel Rubin, a professor of bioinformatics at Stanford, also warns that _there have been no studies of data-driven medicine to determine whether it leads to positive outcomes more often than not._ Because historical evidence is of “inferior quality,” he says, it has the potential to lead care astray."[^clinical] 
 
-[^clinical]: Can Big Data Tell Us What Clinical Trials Don’t?, Oct. 3, 2014, _The New York Times_, by Veronique Greenwood, at http://www.nytimes.com/2014/10/05/magazine/can-big-data-tell-us-what-clinical-trials-dont.html. 
+[^clinical]: Can Big Data Tell Us What Clinical Trials Don’t?, Oct. 3, 2014, _The New York Times_, by Veronique Greenwood, at https://www.nytimes.com/2014/10/05/magazine/can-big-data-tell-us-what-clinical-trials-dont.html. 
 
 "In fact, one could see the entire field of artificial intelligence as an inadvertent referendum on Big Data, because nowadays virtually every problem that has ever been addressed in A.I.—from machine vision to natural language understanding—has also been attacked from a data perspective. Yet most of those problems are unsolved, Big Data or no."[^yorker2]
 
-[^yorker2]: http://www.newyorker.com/tech/elements/steamrolled-by-big-data
+[^yorker2]: https://www.newyorker.com/tech/elements/steamrolled-by-big-data
 
 But what does this all have to do with large data repositories? It helps demonstrate what a data repository can and cannot do. There are limitations to the data, the analytics, and the analysts. 
 
@@ -129,7 +129,7 @@ Understanding the limitations of big data can help you evaluate analytics produc
 
 "As one skeptical industry insider, Anthony Nyström, of the Web software company Intridea, put it to me, selling Big Data is a great gig for charlatans, because they never have to admit to being wrong. 'If their system fails to provide predictive insight, it’s not their models, it’s an issue with your data.' You didn’t have enough data, there was too much noise, you measured the wrong things. The list of excuses can be long."[^yorker3]
 
-[^yorker3]: http://www.newyorker.com/tech/elements/steamrolled-by-big-data
+[^yorker3]: https://www.newyorker.com/tech/elements/steamrolled-by-big-data
 
 Indeed, all sorts of things can go wrong in an analysis of a data set, as Rachel Schutt and Cathy O’Neil demonstrate in their book, _Doing Data Science_. There is much more subjectivity in the process than most people think, even with regard to seemingly straight-forward data from sensors and instruments. The point is to trust neither your data nor your interpretation of it. If you understand the limitations of big data and adopt a critical perspective to analyzing data, it puts you in a better position to evaluate vendor offerings. For a primer on data science, see Schutt and O'Neil's book, _Doing Data Science_, published by O'Reilly.    
 

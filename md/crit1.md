@@ -90,7 +90,7 @@ government -- courtrooms, records, the president, etc. -- "on the basis
 that it is an institution exercising the people's right to know. Never
 does it claim the right to such access on the basis that it is in the
 business of delivering advertising information for profit."
-<img src="../images/willlamette.gif" align="right" />(http://www.willametteweek.com/)
+<img src="../images/willlamette.gif" align="right" />(https://www.willametteweek.com/)
 
 And it gets worse, Squires writes, because newspapers cut costs by
 trimming unprofitable circulation among low-income, minority readers to

@@ -158,11 +158,11 @@ top of the stylesheet. Second, we must wrap the template rule with the
 <code>&lt;xsl:stylesheet&gt;</code> element, which all XSL stylesheets
 require as their top-level element, and set a namespace for it (note
 that some versions of Internet Explorer and the MSXML parser may require
-a different namespace; see http://msdn.microsoft.com/ and the Unofficial
-MSXML XSLT FAQ at http://www.netcrucible.com/xslt/msxml-faq.htm for
-details):</p>
+a different namespace; see https://msdn.microsoft.com/ and the
+Unofficial MSXML XSLT FAQ at
+https://www.netcrucible.com/xslt/msxml-faq.htm for details):</p>
 <pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
-&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; 
+&lt;xsl:stylesheet xmlns:xsl=&quot;https://www.w3.org/1999/XSL/Transform&quot; 
 version=&quot;1.0&quot;&gt;
      &lt;xsl:template match=&quot;/&quot;&gt;
           &lt;html&gt;
@@ -191,7 +191,7 @@ we’ll modify our template rule to output the body element specifically
 a link to a Cascading Style Sheet that specifies the visual properties
 of our HTML formatting:</p>
 <pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
-&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; 
+&lt;xsl:stylesheet xmlns:xsl=&quot;https://www.w3.org/1999/XSL/Transform&quot; 
 version=&quot;1.0&quot; &gt;
      &lt;xsl:template match=&quot;document&quot;&gt;
           &lt;html&gt;
@@ -228,7 +228,7 @@ linking to a single CSS, you merely make the stylistic changes in one
 file, the Cascading Style Sheet.</p>
 <p>Cascading Style Sheets: The Definitive Guide, published by O’Reilly,
 provides a detailed account of how to use CSS. The W3C CSS
-specifications are available at http://www.w3c.org/Style/CSS/.</p>
+specifications are available at https://www.w3c.org/Style/CSS/.</p>
 <h3 id="building-a-complex-stylesheet">BUILDING A COMPLEX
 STYLESHEET</h3>
 <p>This section builds on the review above to create an XSLT stylesheet
@@ -242,7 +242,7 @@ based on a scaled down version of the TEI Lite DTD with some XHTML and
 other customizations thrown in; it’s been constructed to demonstrate the
 XSL transformations in this tutorial and, unlike TEI Lite, isn’t
 suitable for other uses; for information about TEI Lite, see
-http://www.tei-c.org/.) The XSLT stylesheet is also based on the DTD.
+https://www.tei-c.org/.) The XSLT stylesheet is also based on the DTD.
 Why bring a DTD into this discussion? The answer is that it’s best to
 build the stylesheet based on your DTD to ensure that all elements and
 attributes are processed fully and according to your requirements. The
@@ -273,12 +273,12 @@ June 1, 2002.)</p>
 <p>The root element for an XSLT stylesheet must be either xsl:stylesheet
 or xsl:transform. The xsl: prefix before stylesheet and transform is the
 customary XSL namespace; all the XSL elements are in the
-http://www.w3.org/1999/XSL/Transform namespace, which must be referenced
-as the value of the xmlns:xsl attribute of the xsl:stylesheet root
-element, as I’ve done here (see the chapter titled XSL Transformations
-in O’Reilly’s XML in a Nutshell for additional information about the
-namespace):</p>
-<pre><code>&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; version=&quot;1.0&quot;&gt;</code></pre>
+https://www.w3.org/1999/XSL/Transform namespace, which must be
+referenced as the value of the xmlns:xsl attribute of the xsl:stylesheet
+root element, as I’ve done here (see the chapter titled XSL
+Transformations in O’Reilly’s XML in a Nutshell for additional
+information about the namespace):</p>
+<pre><code>&lt;xsl:stylesheet xmlns:xsl=&quot;https://www.w3.org/1999/XSL/Transform&quot; version=&quot;1.0&quot;&gt;</code></pre>
 <p>Next, I set the output method to HTML and include a reference to the
 HTML version I want to use:</p>
 <pre><code>&lt;xsl:output method=&quot;html&quot; doctype-public=&quot;-//W3C//DTD HTML 4.0 Transitional//EN&quot;/&gt;</code></pre>
@@ -333,9 +333,9 @@ W3C’s XSLT stylesheet for the XML Recommendation. Reverse engineering it
 is a potent method of teaching yourself some of the advanced
 capabilities of XSLT. The W3C’s stylesheet is available in the download
 file for Chapter 9 of Michael Kay’s book titled XSLT Programmer’s
-Reference at http://www.wrox.com/. In IE5.0 or greater, you can view the
-XML source code for the W3C’s XML Recommendation at
-http://www.w3.org/TR/2000/REC-xml-20001006.xml; or you can download it
+Reference at https://www.wrox.com/. In IE5.0 or greater, you can view
+the XML source code for the W3C’s XML Recommendation at
+https://www.w3.org/TR/2000/REC-xml-20001006.xml; or you can download it
 and view it using an editor like XML Spy.</p>
 <p>The next set of templates in our stylesheet creates headings for the
 <code>&lt;div&gt;</code> elements, mapping the <code>&lt;head&gt;</code>
@@ -379,7 +379,7 @@ Reference by Micheal Kay.</li>
 </ul>
 <p>Finally, take some time to browse through the resources listed on
 World Wide Web Consortium’s XSL specification page at
-http://www.w3.org/Style/XSL/. The page includes links to other
+https://www.w3.org/Style/XSL/. The page includes links to other
 tutorials, an FAQ, the XSL specifications, and a variety of
 resources.</p>
 <p>I also suggest you start playing around with XSLT a little on your
@@ -388,7 +388,7 @@ accompanying this column: Add some elements to the DTD and the XML
 document and then write template matching rules to process and output
 them in Internet Explorer. You may have to install the newest version of
 the MSXML parser to get the code to display correctly; see
-http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/766/msdncompositedoc.xml
+https://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/766/msdncompositedoc.xml
 for details.</p>
 <p>This column has only scratched the surface of XSLT. Its a complex but
 powerful programming language that, once you learn how to use it, yields

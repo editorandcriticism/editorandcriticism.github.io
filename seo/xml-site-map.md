@@ -42,14 +42,14 @@ it is the totality of all these changes that together can eventually
 have a substantial impact on your natural search results.
 
 To automatically generate an XML site map, go to
-<http://www.xml-sitemaps.com/>. Here's what one looks like:
+<https://www.xml-sitemaps.com/>. Here's what one looks like:
 
 ``` {space="preserve"}
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" 
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- created with Free Online Sitemap Generator
     www.xml-sitemaps.com  -->
     <url>
@@ -86,10 +86,10 @@ After the XML site map is created, name it `sitemap.xml`, and place it
 in your root public HTML folder so search engines can find it.
 
 Then, submit it to Google by using a Google webmaster account, which you
-can set up at <http://www.google.com/services/>.
+can set up at <https://www.google.com/services/>.
 
 For more information about XML site maps, see
-<http://www.sitemaps.org/>.<i class="fa fa-external-link-square" aria-hidden="true"></i>  
+<https://www.sitemaps.org/>.<i class="fa fa-external-link-square" aria-hidden="true"></i>  
 
 *-- Steve Hoenisch*
 
@@ -113,7 +113,7 @@ XML](/dita/structuring_docs.html)
 <i class="fa fa-file-text" aria-hidden="true"></i> [Tagging DocBook XML Documents for
 Search Engine Optimization](/seo/docbook.html)
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> <http://www.sitemaps.org/>
+<i class="fa fa-external-link-square" aria-hidden="true"></i> <https://www.sitemaps.org/>
 
 First Published: Oct. 7, 2011. Last Updated: Oct. 7, 2011.
 

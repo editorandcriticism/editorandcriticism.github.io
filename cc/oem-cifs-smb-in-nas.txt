@@ -6,7 +6,7 @@
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
 <meta name="description" content="Likewise Storage Services provides industrial-strength client-side and server-side SMB/CIFS support so Microsoft Windows clients can access files on Linux, Unix, and Mac computers and vice-versa." />
 <meta name="keywords" content= "CIFS, SMB, cross-platform file server, Linux SMB, Linux CIFS, Linux Windows file server, Linux Windows interoperability"/>
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/">
 	<meta name="DC.title" content="Likewise CIFS File Server">
 	<meta name="DC.description" content="Likewise Storage Services provides industrial-strength client-side and server-side SMB/CIFS support so Microsoft Windows clients can access files on Linux, Unix, and Mac computers.">
 	<meta name="DC.subject" content="CIFS, SMB, cross-platform file server,

@@ -31,7 +31,7 @@ I'll begin by briefly summarizing the background of XSL and contrasting XSLT wit
 
 The birth of XSLT breaks down like this: Extensible Stylesheet Language (XSL) was conceived as an XML application for expressing stylesheets capable of manipulating XML documents. After its submission to the W3C in 1997, XSL split into two stylesheet standards: Extensible Stylesheet Language for Transformations (XSLT) and Extensible Stylesheet Language Formatting Objects (XSL-FO). XSLT is a language for transforming XML documents into typically other XML documents, HTML, and WML, but can also be used to produce documents in plain text and XSL-FO. XSL-FO is used to describe the layout of XML documents for printing, with the end product usually being in Portable Document Format (PDF). XSL-FO, a complex standard that some refer to as simply XSL, may eventually also be employed to lay out web pages, though this use is unsupported by current versions of web browsers. You can find more information about XSLT and XSL-FO, including their specifications, on the World Wide Web Consortium's web site, www.w3c.org. This column focuses on XSLT; later tutorials will expand on XSLT and delve into XSL-FO.
 
-The early XSL proposals also gave rise to another breakaway standard, XPath. It grew out of the location-finding aspects of the XSL and XPointer specifications, which had been independently using similar mechanisms to find information in XML documents. XSLT heavily uses XPath to locate specific nodes or node sets within XML documents. Details about XPath specification can be found at http://www.w3c.org/TR/xpath.
+The early XSL proposals also gave rise to another breakaway standard, XPath. It grew out of the location-finding aspects of the XSL and XPointer specifications, which had been independently using similar mechanisms to find information in XML documents. XSLT heavily uses XPath to locate specific nodes or node sets within XML documents. Details about XPath specification can be found at https://www.w3c.org/TR/xpath.
 
 XSL has another related standard, though unlike XSL it is not based in XML: Cascading Style Sheets (CSS). In the context of web publishing, Cascading Style Sheets (CSS) can also be used, at least theoretically, to statically format XML documents for display, but it cannot be used to transform them in any meaningful way. For example, XMetal, a tool for writing and editing in XML, uses CSS to format XML documents for display in its normal view. But until there is much stronger web browser support for displaying XML documents with CSS, it is not a practical option for web publishing.
 
@@ -39,7 +39,7 @@ CSS is not a competitor of XSLT. CSS is a method for statically formatting an XM
 
 Using CSS to complement XSLT, however, is a powerful strategy for building web pages -- a strategy that splits presentation into what I call formatting and styling. Formatting can be seen to include basic HTML markup like headings, horizontal rules, lists and the like. Styling, meantime, defines the visual properties of markup: Its colors, sizes, widths, margins, bullet types, and so forth. Although the distinction between the two is not always clear-cut, formatting typically appears in the form of elements, styling information in the form of attribute-value pairs. For example, in `<h1 style="color: olive;">` the h1 element formats the text as a first-level heading while the values of the style attribute, used for specifying inline CSS styles, reflect how the text should be styled.
 
-You can gain a great deal of utility from separating as much styling information as possible from the formatting and placing it a Cascading Style Sheet, though until the second major version of CSS, CSS Level 2, is better supported by browsers, your HTML formatting markup will still have to retain some styling information, such as that for tables. Separating visual styling from formatting gives you a way to make wholesale design changes to a web site without having to change the formatting code in every HTML document; if you've set up your web pages properly, with all of them linking to a single CSS, you merely make the changes in one file, the Cascading Style Sheet. Cascading Style Sheets: The Definitive Guide, published by O'Reilly, provides a detailed account of how to use CSS. The W3C CSS specifications are available at http://www.w3c.org/Style/CSS/. In this tutorial, I will begin demonstrating how to use CSS with XSLT to separate styling from formatting, and I'll expand on the topic in later tutorials.
+You can gain a great deal of utility from separating as much styling information as possible from the formatting and placing it a Cascading Style Sheet, though until the second major version of CSS, CSS Level 2, is better supported by browsers, your HTML formatting markup will still have to retain some styling information, such as that for tables. Separating visual styling from formatting gives you a way to make wholesale design changes to a web site without having to change the formatting code in every HTML document; if you've set up your web pages properly, with all of them linking to a single CSS, you merely make the changes in one file, the Cascading Style Sheet. Cascading Style Sheets: The Definitive Guide, published by O'Reilly, provides a detailed account of how to use CSS. The W3C CSS specifications are available at https://www.w3c.org/Style/CSS/. In this tutorial, I will begin demonstrating how to use CSS with XSLT to separate styling from formatting, and I'll expand on the topic in later tutorials.
 
 
 
@@ -85,11 +85,11 @@ In the above rule, the `<xsl:template match="/">` element uses the value of its 
 
 The `<xsl:apply-templates>` element invokes a built-in XSLT template rule that processes the children of the matched node, meaning roughly that it outputs the children. Because there is only one child of the `<source>` node in our XML file, `<xsl:apply-templates>` suffices to print the meager contents of the file. If, however, the `<source>` element contained more children, `<xsl:apply-templates>` would print all of them out, too, and we would want additional template rules to control how they are processed and outputted.
 
-Before we can push our source XML and its accompanying stylesheet through an XSLT processor to render the HTML output, we need do a couple more things. First, we need to add an XML processing instruction to the top of the stylesheet. Second, we must wrap the template rule with the `<xsl:stylesheet>` element, which all XSL stylesheets require as their top-level element, and set a namespace for it (note that some versions of Internet Explorer and the MSXML parser may require a different namespace; see http://msdn.microsoft.com/ for details):
+Before we can push our source XML and its accompanying stylesheet through an XSLT processor to render the HTML output, we need do a couple more things. First, we need to add an XML processing instruction to the top of the stylesheet. Second, we must wrap the template rule with the `<xsl:stylesheet>` element, which all XSL stylesheets require as their top-level element, and set a namespace for it (note that some versions of Internet Explorer and the MSXML parser may require a different namespace; see https://msdn.microsoft.com/ for details):
 
 ```
 <?xml version="1.0"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+<xsl:stylesheet xmlns:xsl="https://www.w3.org/1999/XSL/Transform" 
 version="1.0">
      <xsl:template match="/">
           <html>
@@ -115,7 +115,7 @@ Let's expand our minimal stylesheet to do a few more things. First, we'll modify
 
 ```
 <?xml version="1.0"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+<xsl:stylesheet xmlns:xsl="https://www.w3.org/1999/XSL/Transform" 
 version="1.0" >
      <xsl:template match="source">
           <html>

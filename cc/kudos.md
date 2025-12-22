@@ -61,7 +61,7 @@ Accessed 18 March 2003
 
 
 
-In 2003, [Encyclopaedia Britannica](http://www.britannica.com/) named
+In 2003, [Encyclopaedia Britannica](https://www.britannica.com/) named
 [Max Weber's View of Objectivity](md/weber1.html) best of the web for
 social science.
 
@@ -80,10 +80,10 @@ social science.
 
 
 
-[Wikipedia](http://en.wikipedia.org/wiki/Max_Weber#External_links) has
+[Wikipedia](https://en.wikipedia.org/wiki/Max_Weber#External_links) has
 cited Max Weber's View of Objectivity in Social Science as an external
 link, and [Encyclopaedia
-Britannica](http://www.britannica.com/search?query=max+weber&ct=) has
+Britannica](https://www.britannica.com/search?query=max+weber&ct=) has
 cited it in its entry for Max Weber under the banner of "The Web's Best
 Sites."
 
@@ -102,10 +102,10 @@ Sites."
 
 
 
-The [New York Public Library](http://www.nypl.org/index.html) lists
+The [New York Public Library](https://www.nypl.org/index.html) lists
 Criticism.com among best of the web for media theory and criticism. See
 [New York Public Library: Media Theory and
-Criticism](http://www.nypl.org/links/index.cfm?Trg=1&d1=2212&d3=Media%20Theory%20and%20Criticism).
+Criticism](https://www.nypl.org/links/index.cfm?Trg=1&d1=2212&d3=Media%20Theory%20and%20Criticism).
 
 
 
@@ -123,7 +123,7 @@ Criticism](http://www.nypl.org/links/index.cfm?Trg=1&d1=2212&d3=Media%20Theory%2
 
 
 Wikipedia's entry for
-[indeterminacy](http://en.wikipedia.org/wiki/Indeterminacy_(Philosophy))
+[indeterminacy](https://en.wikipedia.org/wiki/Indeterminacy_(Philosophy))
 cites [Interpretation and Indeterminacy in Discourse
 Analysis](https://www.criticism.com/da/da_indet.html).
 
@@ -152,7 +152,7 @@ a more serious aid to theoretical reflection on the new technology and
 the its implications for culture. At once irreverent and passionate,
 Criticism.com will appeal to those working in culture, theory and
 philosophy." View [complete
-listing](http://www.humbul.ac.uk/output/full2.html?id=2033).
+listing](https://www.humbul.ac.uk/output/full2.html?id=2033).
 
 
 
@@ -182,7 +182,7 @@ Edition, published by Oxford University Press, authors Jackson and
 Sorenson include a link to [Max Weber's View of
 Objectivity](md/weber1.html) as a reading in "explaining vs.
 understanding." See
-[http://www.oup.co.uk/oxfordtextbooks/](http://www.oup.co.uk/oxfordtextbooks/politics/jacksonsorensen2e/weblinks/ch09/).
+[https://www.oup.co.uk/oxfordtextbooks/](https://www.oup.co.uk/oxfordtextbooks/politics/jacksonsorensen2e/weblinks/ch09/).
 (2005)
 
 
@@ -219,7 +219,7 @@ DA." (2006)
 
 
 
-See [http://www.oup.com/uk/booksites/content/0199264465/student/links/ch17](http://www.oup.com/uk/booksites/content/0199264465/student/links/ch17).
+See [https://www.oup.com/uk/booksites/content/0199264465/student/links/ch17](https://www.oup.com/uk/booksites/content/0199264465/student/links/ch17).
 
 
 
@@ -228,7 +228,7 @@ See [http://www.oup.com/uk/booksites/content/0199264465/student/links/ch17](http
 
 
 
-[Towson University](http://wwwnew.towson.edu/medialiteracy/reading.htm)
+[Towson University](https://wwwnew.towson.edu/medialiteracy/reading.htm)
 includes [Using French Social Thought for Media
 Criticism](https://www.criticism.com/md/media-criticism-with-french-social-thought.html)
 on its reading list for establishing media literacy in post-communist
@@ -262,7 +262,7 @@ Steve.*\]
 Given your aims, are you aware of or interested in including work,
 references, bibliographies in critical discourse analysis (see also my
 website \[at
-[www.discourse-in-society.org](http://www.discourse-in-society.org)\]
+[www.discourse-in-society.org](https://www.discourse-in-society.org)\]
 and the attached short list of books)?
 
 
@@ -271,7 +271,7 @@ and the attached short list of books)?
 
 For the spanish speaking worlds we just founded a new journal on the
 internet in which critical studies will be published: DISCURSO &
-SOCIEDAD ([www.dissoc.org](http://www.dissoc.org)). Best wishes,
+SOCIEDAD ([www.dissoc.org](https://www.dissoc.org)). Best wishes,
 
 
 
@@ -420,7 +420,7 @@ Ken Sanes
 
 
 
-See [http://www.transparencynow.com/](http://www.transparencynow.com/).
+See [https://www.transparencynow.com/](https://www.transparencynow.com/).
 
 
 

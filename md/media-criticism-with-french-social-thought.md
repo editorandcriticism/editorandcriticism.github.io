@@ -1177,7 +1177,7 @@ Politics Between the Modern and the Postmodern (London: Routledge,
 
 
 10\. Daniel Chandler, "Marxist Media Theory," published on the World Wide
-Web at http://www.aber.ac.uk/\~dgc/marxism.html, 1994. Chandler is a
+Web at https://www.aber.ac.uk/\~dgc/marxism.html, 1994. Chandler is a
 professor of media studies and mass communication at a university in
 Great Britain.
 

@@ -51,7 +51,7 @@ At present, Likewise Enterprise and Likewise Open run on the following Sun Solar
 *Solaris 10 x86   
 *OpenSolaris 
 
-For more information about the platforms that Likewise supports, see http://www.likewisesoftware.com/products/likewise_enterprise/supported_platforms.php
+For more information about the platforms that Likewise supports, see https://www.likewisesoftware.com/products/likewise_enterprise/supported_platforms.php
 
 
 
@@ -73,7 +73,7 @@ As a result, users get one ID and single sign-on: They log on once to a Solaris 
 Likewise's Kerberos authentication mechanism works in association with its LDAP authorization mechanism.
 
  
-For more information, see Secure AD-Based Authentication for Linux, Unix, and Mac with Kerberos 5 at http://www.likewisesoftware.com/products/likewise_enterprise/kerberos_authentication.php.
+For more information, see Secure AD-Based Authentication for Linux, Unix, and Mac with Kerberos 5 at https://www.likewisesoftware.com/products/likewise_enterprise/kerberos_authentication.php.
 
 
 
@@ -84,7 +84,7 @@ The Likewise agent also acts as a LDAP client to control access to Solaris machi
 
 In addition, Likewise Enterprise's cell technology lets you control access to Solaris systems based on Active Directory organizational units, UID-GID schemes, group membership, and group policies that restrict logon rights.
 
-<IMG ALIGN="RIGHT" SRC="http://www.likewisesoftware.com/images/gpoe_allow_logon_rights.jpg"/>
+<IMG ALIGN="RIGHT" SRC="https://www.likewisesoftware.com/images/gpoe_allow_logon_rights.jpg"/>
  
 The result of using Active Directory to authorize access to Solaris computers entails a number of additional benefits: 
 
@@ -104,10 +104,10 @@ The access control methods of Likewise Enterprise and Active Directory also free
 
 *Eliminate labor-intensive ad hoc Kerberos key distribution centers and custom LDAP implementations. 
 
-*Eliminate NIS authentication systems, which do not scale well, are cumbersome to put in place for multiple operating systems, and are less secure than LDAP and Kerberos. For information on how Likewise can help you migrate your Network Information Systems to Active Directory, see http://www.likewisesoftware.com/products/likewise_enterprise/NIS-Migration.php.
+*Eliminate NIS authentication systems, which do not scale well, are cumbersome to put in place for multiple operating systems, and are less secure than LDAP and Kerberos. For information on how Likewise can help you migrate your Network Information Systems to Active Directory, see https://www.likewisesoftware.com/products/likewise_enterprise/NIS-Migration.php.
  
 
-For more information on access control, see http://www.likewisesoftware.com/solutions/network_security/Active_Directory_Based_Access_Control.php.
+For more information on access control, see https://www.likewisesoftware.com/solutions/network_security/Active_Directory_Based_Access_Control.php.
 
 
 
@@ -124,7 +124,7 @@ Running an Apache Web Server on Sun Solaris
 Likewise includes its own version of the mod_auth_kerb module to configure Sun Solaris computers running the Apache HTTP Server to provide
 single sign-on  through Active Directory with Kerberos 5. 
 
-Single sign-on for the Apache HTTP server uses the Simple and Protected GSS-API Negotiation Mechanism, or SPNEGO, to negotiate authentication with Kerberos. SPNEGO is an Internet standard documented in RFC 2478 at http://www.ietf.org/rfc/rfc2478.txt and is commonly referred to as the "negotiate" authentication protocol. The Likewise mod_auth_kerb module lets an Apache web server running on a Solaris Unix system authenticate and authorize users based on their Active Directory domain credentials.
+Single sign-on for the Apache HTTP server uses the Simple and Protected GSS-API Negotiation Mechanism, or SPNEGO, to negotiate authentication with Kerberos. SPNEGO is an Internet standard documented in RFC 2478 at https://www.ietf.org/rfc/rfc2478.txt and is commonly referred to as the "negotiate" authentication protocol. The Likewise mod_auth_kerb module lets an Apache web server running on a Solaris Unix system authenticate and authorize users based on their Active Directory domain credentials.
 
 The Likewise mod_auth_kerb module, which is installed with both Likewise Enterprise and Likewise Open, supports Apache HTTP Server version 2.0 and version 2.2.
 
@@ -133,8 +133,8 @@ The Likewise mod_auth_kerb module, which is installed with both Likewise Enterpr
 The Likewise Partnership with Sun Microsystems
 
 
-<IMG SRC="http://www.likewisesoftware.com/images/logos_partners_sun.jpg"/>
-Likewise Software is a principal partner in the Sun Partner Advantage Program for independent software vendors. The benefits to Sun customers include access to pre-tested, optimized solutions such as Likewise Enterprise as well as investment protection and reduced total cost of ownership through collaborative engineering between Sun and Likewise. Going forward, the partnership entails a higher level of predictability and support for Likewise Enterprise as Sun rolls out its latest technologies and software upgrades. For more information about the Sun-Likewise partnership, see http://www.likewisesoftware.com/news_events/press_releases/pr_12152008.php.
+<IMG SRC="https://www.likewisesoftware.com/images/logos_partners_sun.jpg"/>
+Likewise Software is a principal partner in the Sun Partner Advantage Program for independent software vendors. The benefits to Sun customers include access to pre-tested, optimized solutions such as Likewise Enterprise as well as investment protection and reduced total cost of ownership through collaborative engineering between Sun and Likewise. Going forward, the partnership entails a higher level of predictability and support for Likewise Enterprise as Sun rolls out its latest technologies and software upgrades. For more information about the Sun-Likewise partnership, see https://www.likewisesoftware.com/news_events/press_releases/pr_12152008.php.
 
 
 
@@ -170,7 +170,7 @@ Linux properties linked to user object.
  properties linked to user object.
 
 For more information, see the technical note titled Integrating Likewise Enterprise
-With Sun’s Identity Manager at http://www.likewisesoftware.com/resources/technical_notes/Likewise-Integration-with-Sun-Identity-Manager.pdf.
+With Sun’s Identity Manager at https://www.likewisesoftware.com/resources/technical_notes/Likewise-Integration-with-Sun-Identity-Manager.pdf.
 
 
 

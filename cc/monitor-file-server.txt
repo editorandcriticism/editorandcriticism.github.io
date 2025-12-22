@@ -78,7 +78,7 @@ Given the large amount of metadata that Likewise collects, the dashboard can ide
 
 Example Use Case: Cut Costs with the Universal Data Lifecycle
 
-Take the notion, for instance, of the <a href="http://www.enterprisestrategygroup.com/2008/06/a-methodology-for-driving-total-it-efficiency-the-universal-data-lifecycle/">universal data lifecycle</a>, a methodology for improving IT efficiency developed by the Enterprise Strategy Group. The group sums it up like this: 
+Take the notion, for instance, of the <a href="https://www.enterprisestrategygroup.com/2008/06/a-methodology-for-driving-total-it-efficiency-the-universal-data-lifecycle/">universal data lifecycle</a>, a methodology for improving IT efficiency developed by the Enterprise Strategy Group. The group sums it up like this: 
 
 <!-- literal quote: -->
 "Removing the complexity of data categorization and lifecycle mapping by breaking any type of data down to where it lives on one of only 4 simplistic lifecycle stages will allow IT professionals to radically improve their overall effectiveness as well as the effectiveness of their entire IT operation."

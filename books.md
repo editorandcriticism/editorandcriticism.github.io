@@ -26,6 +26,7 @@ _The Country and the City_, by Raymond Williams.
 
 
 
+
 <img src="/photos/seattle-lake-sunset.jpg" class="img-fluid" alt="Photograph of a Sunset in Seattle.">
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Sunset over Seattle. Photograph by Steve Hoenisch.

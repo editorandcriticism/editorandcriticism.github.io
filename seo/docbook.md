@@ -16,7 +16,7 @@ Tagging DocBook Documents for Search Engine Optimization
 
 DocBook includes a set of elements to tag documents for search engine
 optimization, or SEO. In this article, I'll show you how to set up a
-[DocBook](http://www.docbook.org/) document so the DocBook stylesheets
+[DocBook](https://www.docbook.org/) document so the DocBook stylesheets
 automatically embed metadata in the resulting HTML web page. Metadata --
 the encoded information that tells a search engine what your content is
 about -- is a fundamental component of optimizing a web page for

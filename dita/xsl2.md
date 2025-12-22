@@ -53,11 +53,11 @@ In the above rule, the `<xsl:template match="/">` element uses the value of its 
 
 The `<xsl:apply-templates>` element invokes a built-in XSLT template rule that processes the children of the matched node, meaning roughly that it outputs the children. Because there is only one child of the `<document>` node in our XML file, `<xsl:apply-templates>` suffices to print the meager contents of the file. If, however, the `<document>` element contained more children, `<xsl:apply-templates>` would print them all out, too, and we would want additional template rules to control how they are formatted.
 
-Before we can push our source XML and its accompanying stylesheet through an XSLT processor to render the HTML output, we need do a couple more things. First, we need to add an XML processing instruction to the top of the stylesheet. Second, we must wrap the template rule with the `<xsl:stylesheet>` element, which all XSL stylesheets require as their top-level element, and set a namespace for it (note that some versions of Internet Explorer and the MSXML parser may require a different namespace; see http://msdn.microsoft.com/ and the Unofficial MSXML XSLT FAQ at http://www.netcrucible.com/xslt/msxml-faq.htm for details):
+Before we can push our source XML and its accompanying stylesheet through an XSLT processor to render the HTML output, we need do a couple more things. First, we need to add an XML processing instruction to the top of the stylesheet. Second, we must wrap the template rule with the `<xsl:stylesheet>` element, which all XSL stylesheets require as their top-level element, and set a namespace for it (note that some versions of Internet Explorer and the MSXML parser may require a different namespace; see https://msdn.microsoft.com/ and the Unofficial MSXML XSLT FAQ at https://www.netcrucible.com/xslt/msxml-faq.htm for details):
 
 ```
 <?xml version="1.0"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+<xsl:stylesheet xmlns:xsl="https://www.w3.org/1999/XSL/Transform" 
 version="1.0">
      <xsl:template match="/">
           <html>
@@ -84,7 +84,7 @@ Let's expand our minimal stylesheet to do a few more things. First, we'll modify
 
 ```
 <?xml version="1.0"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+<xsl:stylesheet xmlns:xsl="https://www.w3.org/1999/XSL/Transform" 
 version="1.0" >
      <xsl:template match="document">
           <html>
@@ -105,7 +105,7 @@ Notice that in the stylesheet I also added a link to a sample Cascading Style Sh
 
 Using CSS to complement XSLT is a powerful strategy for building web pages -- a strategy that splits presentation into what I call formatting and styling. Formatting can be seen to include basic HTML markup like headings, horizontal rules, lists and the like. Styling, meantime, defines the visual properties of markup: Its colors, sizes, widths, margins, bullet types, and so forth. Separating visual styling from formatting gives you a way to make wholesale design changes to a web site without having to change the formatting code in every HTML document; if you've set up your web pages properly, with all of them linking to a single CSS, you merely make the stylistic changes in one file, the Cascading Style Sheet.
 
-Cascading Style Sheets: The Definitive Guide, published by O'Reilly, provides a detailed account of how to use CSS. The W3C CSS specifications are available at http://www.w3c.org/Style/CSS/.
+Cascading Style Sheets: The Definitive Guide, published by O'Reilly, provides a detailed account of how to use CSS. The W3C CSS specifications are available at https://www.w3c.org/Style/CSS/.
 
 
 ### BUILDING A COMPLEX STYLESHEET
@@ -114,7 +114,7 @@ This section builds on the review above to create an XSLT stylesheet that transf
 
 Consider the code in the sample XML document that appears in the pop-up window when you click here.
 
-The document is based on a sample DTD. (This DTD is very loosely based on a scaled down version of the TEI Lite DTD with some XHTML and other customizations thrown in; it's been constructed to demonstrate the XSL transformations in this tutorial and, unlike TEI Lite, isn't suitable for other uses; for information about TEI Lite, see http://www.tei-c.org/.)
+The document is based on a sample DTD. (This DTD is very loosely based on a scaled down version of the TEI Lite DTD with some XHTML and other customizations thrown in; it's been constructed to demonstrate the XSL transformations in this tutorial and, unlike TEI Lite, isn't suitable for other uses; for information about TEI Lite, see https://www.tei-c.org/.)
 The XSLT stylesheet is also based on the DTD. Why bring a DTD into this discussion? The answer is that it's best to build the stylesheet based on your DTD to ensure that all elements and attributes are processed fully and according to your requirements. The DTD provides the cues by which you build your stylesheet. That is, to build a suitable stylesheet -- one that processes all the elements and attributes in your XML document fully and appropriately -- you should develop your stylesheet based on your DTD, not on a mere XML document alone. For more information about analyzing DTDs to develop stylesheets, see Chapter 21, DTD Analysis, in The XSL Companion, by Neil Bradley (Addison-Wesley).
 
 Let's start building the stylesheet. Since XSL stylesheets are themselves XML documents, they should generally begin with an XML processing instruction as their first line: `<?xml version="1.0"?>`. The next line contains an optional document type declaration for the stylesheet to specify the stylesheet's root element, xsl:stylesheet. I'm including the document type declaration in our stylesheet because I want to declare several general entities as an internal DTD subset for use in the stylesheet. (Recall that general entities let you replace an entity with its value; that is, wherever the entity pub.date appears in the stylesheet as text, it is replaced by its value as defined in the entity declaration, here June 1, 2002.)
@@ -127,10 +127,10 @@ Let's start building the stylesheet. Since XSL stylesheets are themselves XML do
 	]>
 ```
 
-The root element for an XSLT stylesheet must be either xsl:stylesheet or xsl:transform. The xsl: prefix before stylesheet and transform is the customary XSL namespace; all the XSL elements are in the http://www.w3.org/1999/XSL/Transform namespace, which must be referenced as the value of the xmlns:xsl attribute of the xsl:stylesheet root element, as I've done here (see the chapter titled XSL Transformations in O'Reilly's XML in a Nutshell for additional information about the namespace):
+The root element for an XSLT stylesheet must be either xsl:stylesheet or xsl:transform. The xsl: prefix before stylesheet and transform is the customary XSL namespace; all the XSL elements are in the https://www.w3.org/1999/XSL/Transform namespace, which must be referenced as the value of the xmlns:xsl attribute of the xsl:stylesheet root element, as I've done here (see the chapter titled XSL Transformations in O'Reilly's XML in a Nutshell for additional information about the namespace):
 
 ```
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<xsl:stylesheet xmlns:xsl="https://www.w3.org/1999/XSL/Transform" version="1.0">
 ```
 
 Next, I set the output method to HTML and include a reference to the HTML version I want to use:
@@ -181,7 +181,7 @@ This template rule selects the entire contents of the body element in the XML do
 
 To format the body of the XML document, my stylesheet includes a template rule that selects the body element: `<xsl:template match="body">`. This template does three things: It inserts a Table of Contents headline, calls another template that dynamically builds a table of contents, and processes all `<div1>` elements. The `<xsl:call-template name="toc"/>` command calls a macro (located toward the end of the stylesheet in the Macros section) that cycles through the six levels of `<div>` elements, makes a reference to the `<div>` element's heading in the form of a hyperlink, and numbers the section headings using the 1.1 format.
 
-The set of macros that build the table of contents originated in the W3C's XSLT stylesheet for the XML Recommendation. Reverse engineering it is a potent method of teaching yourself some of the advanced capabilities of XSLT. The W3C's stylesheet is available in the download file for Chapter 9 of Michael Kay's book titled XSLT Programmer's Reference at http://www.wrox.com/. In IE5.0 or greater, you can view the XML source code for the W3C's XML Recommendation at http://www.w3.org/TR/2000/REC-xml-20001006.xml; or you can download it and view it using an editor like XML Spy.
+The set of macros that build the table of contents originated in the W3C's XSLT stylesheet for the XML Recommendation. Reverse engineering it is a potent method of teaching yourself some of the advanced capabilities of XSLT. The W3C's stylesheet is available in the download file for Chapter 9 of Michael Kay's book titled XSLT Programmer's Reference at https://www.wrox.com/. In IE5.0 or greater, you can view the XML source code for the W3C's XML Recommendation at https://www.w3.org/TR/2000/REC-xml-20001006.xml; or you can download it and view it using an editor like XML Spy.
 
 The next set of templates in our stylesheet creates headings for the `<div>` elements, mapping the `<head>` element in `<div1>` to the HTML heading element `<h1>` and so forth through `<div6>` and `<h6>`. The template-matching rules for the head elements also call another template, named "head", which inserts an ID attribute in each heading and numbers them with the command mode="number".
 
@@ -208,9 +208,9 @@ On the heels of this column's brief introduction to XSLT, I suggest you spend a 
 * Chapter 8, XSL Transformations, in O'Reilly's XML in a Nutshell.
 * Whatever selections you deem useful from Wrox's XSLT Programmer's Reference by Micheal Kay.
 
-Finally, take some time to browse through the resources listed on World Wide Web Consortium's XSL specification page at http://www.w3.org/Style/XSL/. The page includes links to other tutorials, an FAQ, the XSL specifications, and a variety of resources.
+Finally, take some time to browse through the resources listed on World Wide Web Consortium's XSL specification page at https://www.w3.org/Style/XSL/. The page includes links to other tutorials, an FAQ, the XSL specifications, and a variety of resources.
 
-I also suggest you start playing around with XSLT a little on your own; it's the best way to learn how to use it. Try playing with the code accompanying this column: Add some elements to the DTD and the XML document and then write template matching rules to process and output them in Internet Explorer. You may have to install the newest version of the MSXML parser to get the code to display correctly; see http://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/766/msdncompositedoc.xml for details.
+I also suggest you start playing around with XSLT a little on your own; it's the best way to learn how to use it. Try playing with the code accompanying this column: Add some elements to the DTD and the XML document and then write template matching rules to process and output them in Internet Explorer. You may have to install the newest version of the MSXML parser to get the code to display correctly; see https://msdn.microsoft.com/downloads/default.asp?url=/downloads/sample.asp?url=/msdn-files/027/001/766/msdncompositedoc.xml for details.
 
 This column has only scratched the surface of XSLT. Its a complex but powerful programming language that, once you learn how to use it, yields the vast gains in productivity that spring from the original promise of XML: separating content from presentation. 
 

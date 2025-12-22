@@ -36,8 +36,8 @@ governs what news is covered and how. Media literacy can't just be about
 decoding messages. It also must be about decoding [media
 culture](kellner.html), including its structures, relationships of
 power, and collective fantasies, as Ken Sanes has done with his work on
-film at [www.transparencynow.com](http://www.transparencynow.com/).
+film at [www.transparencynow.com](https://www.transparencynow.com/).
 
-Check out [www.ReclaimTheMedia.org](http://www.reclaimthemedia.org/).
+Check out [www.ReclaimTheMedia.org](https://www.reclaimthemedia.org/).
 
 

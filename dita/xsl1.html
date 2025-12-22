@@ -146,7 +146,7 @@ XPointer specifications, which had been independently using similar
 mechanisms to find information in XML documents. XSLT heavily uses XPath
 to locate specific nodes or node sets within XML documents. Details
 about XPath specification can be found at
-http://www.w3c.org/TR/xpath.</p>
+https://www.w3c.org/TR/xpath.</p>
 <p>XSL has another related standard, though unlike XSL it is not based
 in XML: Cascading Style Sheets (CSS). In the context of web publishing,
 Cascading Style Sheets (CSS) can also be used, at least theoretically,
@@ -188,7 +188,7 @@ properly, with all of them linking to a single CSS, you merely make the
 changes in one file, the Cascading Style Sheet. Cascading Style Sheets:
 The Definitive Guide, published by O’Reilly, provides a detailed account
 of how to use CSS. The W3C CSS specifications are available at
-http://www.w3c.org/Style/CSS/. In this tutorial, I will begin
+https://www.w3c.org/Style/CSS/. In this tutorial, I will begin
 demonstrating how to use CSS with XSLT to separate styling from
 formatting, and I’ll expand on the topic in later tutorials.</p>
 <h3 id="preliminaries-principles-of-separation">PRELIMINARIES:
@@ -288,9 +288,9 @@ top of the stylesheet. Second, we must wrap the template rule with the
 <code>&lt;xsl:stylesheet&gt;</code> element, which all XSL stylesheets
 require as their top-level element, and set a namespace for it (note
 that some versions of Internet Explorer and the MSXML parser may require
-a different namespace; see http://msdn.microsoft.com/ for details):</p>
+a different namespace; see https://msdn.microsoft.com/ for details):</p>
 <pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
-&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; 
+&lt;xsl:stylesheet xmlns:xsl=&quot;https://www.w3.org/1999/XSL/Transform&quot; 
 version=&quot;1.0&quot;&gt;
      &lt;xsl:template match=&quot;/&quot;&gt;
           &lt;html&gt;
@@ -318,7 +318,7 @@ specifically (as opposed to all the children of the root element);
 second, we’ll add a link to a Cascading Style Sheet that specifies the
 visual properties of our HTML formatting:</p>
 <pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
-&lt;xsl:stylesheet xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot; 
+&lt;xsl:stylesheet xmlns:xsl=&quot;https://www.w3.org/1999/XSL/Transform&quot; 
 version=&quot;1.0&quot; &gt;
      &lt;xsl:template match=&quot;source&quot;&gt;
           &lt;html&gt;

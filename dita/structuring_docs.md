@@ -33,7 +33,7 @@ The XML processing instruction on the first line of your document may also defin
 ```
 
 
-All the gritty details about the available character sets, including which to use when, can be found in XML in a Nutshell, written by Elliotte Rusty Harold and W. Scott Means and published by O'Reilly. Additional technical details can be found at the W3C's character-encoding page at http://www.w3.org/TR/REC-xml#charencoding.
+All the gritty details about the available character sets, including which to use when, can be found in XML in a Nutshell, written by Elliotte Rusty Harold and W. Scott Means and published by O'Reilly. Additional technical details can be found at the W3C's character-encoding page at https://www.w3.org/TR/REC-xml#charencoding.
 
 XML documents also typically include a document type declaration. It begins with `<!DOCTYPE` and performs two main functions: It references a document type definition, or DTD, and identifies the document's root element. The document type declaration may also contain an internal DTD subset, which we'll talk about in a later column. In the following declaration, the root element is the word after `<!DOCTYPE`:
 
@@ -53,7 +53,7 @@ Even though the root element has been specified in the declaration, it must stil
 ```
 
 
-Besides a root element, XML documents typically contain a hierarchy of nested elements. There are, however, a few restrictions on the characters that may be used in element names, especially as their first symbol. In particular, element names must begin with an underscore or a letter in either upper- or lowercase, but never a number. The tag `<2001Resume>` is not permitted. After starting with a letter or underscore, a tag may contain numbers as well as other letters, hyphens, underscores, and periods. The use of colons is illegal unless you are specifying a namespace, which will be addressed in a later column. Also illegal is to begin an element name with the letter combination of xml in any variation of upper- and lowercase. And don't forget that the sequence of symbols used in your opening and closing tags must be exactly the same. For more information about legal and illegal tags in element and attribute names, see Robert Eckstein's XML Pocket Reference, published by O'Reilly. The technical details about valid XML characters are available at http://www.w3.org/TR/REC-xml#charsets.
+Besides a root element, XML documents typically contain a hierarchy of nested elements. There are, however, a few restrictions on the characters that may be used in element names, especially as their first symbol. In particular, element names must begin with an underscore or a letter in either upper- or lowercase, but never a number. The tag `<2001Resume>` is not permitted. After starting with a letter or underscore, a tag may contain numbers as well as other letters, hyphens, underscores, and periods. The use of colons is illegal unless you are specifying a namespace, which will be addressed in a later column. Also illegal is to begin an element name with the letter combination of xml in any variation of upper- and lowercase. And don't forget that the sequence of symbols used in your opening and closing tags must be exactly the same. For more information about legal and illegal tags in element and attribute names, see Robert Eckstein's XML Pocket Reference, published by O'Reilly. The technical details about valid XML characters are available at https://www.w3.org/TR/REC-xml#charsets.
 
 All elements, including the root, may optionally take one or more attribute-value pairs. XML documents may also contain comments; they begin with `<!-- and end with -->`.
 
@@ -73,7 +73,7 @@ Besides the obvious --- consistency --- choosing a convention for tag names shou
 
 
 
-* Ease of reading. One of the W3C's stated goals for XML documents is that they be legible to humans (as opposed to machines) and reasonably clear. Your tagging scheme should reinforce XML's self-documenting capacity and not undermine its legibility. (For more on the goals of XML, see http://www.w3.org/TR/REC-xml#sec-origin-goals.)
+* Ease of reading. One of the W3C's stated goals for XML documents is that they be legible to humans (as opposed to machines) and reasonably clear. Your tagging scheme should reinforce XML's self-documenting capacity and not undermine its legibility. (For more on the goals of XML, see https://www.w3.org/TR/REC-xml#sec-origin-goals.)
 
 * Simplicity and ease of usability and re-creation. In general, the simpler your naming convention, the easier it will be to apply. An easy-to-remember naming format will make writing stylesheets and DTDs easier, too.
 
@@ -109,7 +109,7 @@ Complex element names and the addition of attributes force us to make more decis
 ```
 
 
-Option 4 is difficult to read, ruling it out. Options 5 and 6 are equal in readability and the potential for reuse with existing DTDs and stylesheets: Some XML programmers use option 5 while others use 6. Others use a hyphen instead of the underscore of option 5. For its tag list, UltraEdit uses option 6. Still others use option 4, as can be seen by viewing the XML markup behind the XML specification itself. It's an interesting case study in XML markup; take a moment to study it. In Internet Explorer version 5.0 or greater, go to http://www.w3.org/TR/2000/REC-xml-20001006.xml.
+Option 4 is difficult to read, ruling it out. Options 5 and 6 are equal in readability and the potential for reuse with existing DTDs and stylesheets: Some XML programmers use option 5 while others use 6. Others use a hyphen instead of the underscore of option 5. For its tag list, UltraEdit uses option 6. Still others use option 4, as can be seen by viewing the XML markup behind the XML specification itself. It's an interesting case study in XML markup; take a moment to study it. In Internet Explorer version 5.0 or greater, go to https://www.w3.org/TR/2000/REC-xml-20001006.xml.
 
 While elements are the principal means for structuring data, attributes are typically used to capture properties of elements, and their values further modify or, well, set a value for the property, as this tag demonstrates: `<desk color="blue">`.
 
@@ -222,7 +222,7 @@ The markup starts with the root element and branches into two high-level structu
 
 	<portfolio>Online portfolio available at 
 
-   <a href="http://www.JaneDoePorfolio.com">www.JaneDoePortfolio.com</a>
+   <a href="https://www.JaneDoePorfolio.com">www.JaneDoePortfolio.com</a>
 
  </portfolio>
 
@@ -306,7 +306,7 @@ Because the year of graduation is not always displayed in a resume but may still
 
 ### Hands-On Work
 
-This is, of course, just one possible way to mark up a resume, and not necessarily the best way. Deciding on how to build a data structure for a large set of resumes that will be made available on a web site is a complicated task requiring consideration of a number of factors, including the wholesale avoidance of duplicate information; the flexibility to accommodate resumes written in different styles and with different content; and the capability to conduct specialized searches. Mark Wilson and Tracey Wilson, in Chapters 1 and 2 of their book, XML Programming with VB and ASP, published by Manning, provide additional examples about how to mark up a resume or a collection of them in XML, but more importantly they also explain the motivations for wanting to do so. W. Scott Means' article "Converting Unstructured Documents to XML," at http://xml.oreilly.com/news/xmlnut3_ 0301.html, demonstrates how to isolate atomic elements to reveal a document's underlying structure. I highly recommend reading it.
+This is, of course, just one possible way to mark up a resume, and not necessarily the best way. Deciding on how to build a data structure for a large set of resumes that will be made available on a web site is a complicated task requiring consideration of a number of factors, including the wholesale avoidance of duplicate information; the flexibility to accommodate resumes written in different styles and with different content; and the capability to conduct specialized searches. Mark Wilson and Tracey Wilson, in Chapters 1 and 2 of their book, XML Programming with VB and ASP, published by Manning, provide additional examples about how to mark up a resume or a collection of them in XML, but more importantly they also explain the motivations for wanting to do so. W. Scott Means' article "Converting Unstructured Documents to XML," at https://xml.oreilly.com/news/xmlnut3_ 0301.html, demonstrates how to isolate atomic elements to reveal a document's underlying structure. I highly recommend reading it.
 
 To prepare for next month's column, analyze the way in which I structured the data in this resume and identify what, in your opinion, I should have done differently. Email me with your point of view and the justification for it. But don't s there. First, revisit the way you structured your resume after reading last month's column; finish marking it up and debugging it in Internet Explorer 5.0 or greater if you haven't done so already. Second, I would also like to prod you to conceptualize the rules that should constrain a resume's data. To spur you down this path, I suggest you read pages 89 through 108 of Chapter 4, Constraining XML, in Java and XML, written by Brett McLaughlin and published by O'Reilly.
 

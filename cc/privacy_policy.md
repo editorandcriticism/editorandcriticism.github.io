@@ -22,7 +22,7 @@ Please keep in mind that while this document discloses the privacy
 policy of criticism.com, it does not reflect the policies of any
 affiliated organization. Such affiliates include Amazon.com, Google,
 Commission Junction and its business partners, and Any RSS
-(http://anyrss.maquis.org/). These affiliates are beyond the control of
+(https://anyrss.maquis.org/). These affiliates are beyond the control of
 Criticism.com.
 
 

@@ -34,7 +34,7 @@ brilliant because it lures in the reader with an intimate sense of
 exotic adventure only to slowly reveal a dark psychological underside
 that exemplifies what can happen to individuals who slide into moral
 nihilism. In [a book review in The New York
-Times](http://www.nytimes.com/books/98/05/17/specials/bowles-sheltering.html),
+Times](https://www.nytimes.com/books/98/05/17/specials/bowles-sheltering.html),
 Tennessee Williams put it like this in 1949:
 
 >In this external aspect the novel is, therefore, an account of startling adventure. In its interior aspect, "The Sheltering Sky" is an allegory of the spiritual adventure of the fully conscious person into modern experience. This is not an enticing way to describe it. It is a way that might suggest the very opposite kind of a novel from the one that Paul Bowles has written. ... 
@@ -76,7 +76,7 @@ There's an empathy crisis in the United States. The utter lack of empathy in so 
 >Yet there is a dimension of the intellectual life that lies above the passion for ideas, though so thoroughly has our culture been sanitized of it that it is hardly surprising if it was beyond the reach of even my most alert students. Since the idea of the intellectual emerged in the 18th century, it has had, at its core, a commitment to social transformation. Being an intellectual means thinking your way toward a vision of the good society and then trying to realize that vision by speaking truth to power. It means going into spiritual exile. It means foreswearing your allegiance, in lonely freedom, to God, to country, and to Yale. It takes more than just intellect; it takes imagination and courage. 
 
 ---From [The Disadvantages of an Elite
-Education](http://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/), by William Deresiewicz.
+Education](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/), by William Deresiewicz.
 
 (Added on June 21, 2011.)
 

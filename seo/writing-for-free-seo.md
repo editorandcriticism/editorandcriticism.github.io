@@ -12,13 +12,13 @@ title: 'Write High-Quality Content for Free SEO'
 
 Like the fitness and diet business, the web and the tech industry are
 rife with SEO [shamans, schemers, and
-frauds](http://www.google.com/support/webmasters/bin/answer.py?answer=35291).
+frauds](https://www.google.com/support/webmasters/bin/answer.py?answer=35291).
 Anyone who tells you they can guarantee results, or imply that they have
 a magic SEO formula, is lying in an effort to steal your money, or
 worse: They will employ illegitimate techniques that temporarily boost
 your rankings --- until the search engines find out, which they
 eventually will, and then your site will be
-[penalized](http://www.google.com/support/webmasters/bin/answer.py?answer=35291).
+[penalized](https://www.google.com/support/webmasters/bin/answer.py?answer=35291).
 
 This page argues that high-quality content is the foundation of
 effective search engine optimization. The simple fact of the matter is
@@ -97,7 +97,7 @@ Engines](/seo/html-heading-tags-structure.html)
 Search Engine Optimization](/seo/docbook.html)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Check Out Google's Search Engine
-Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+Optimization Starter Guide](https://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 Last Updated: Oct. 21, 2011. First Published: Oct. 21, 2011.
 
