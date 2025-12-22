@@ -7,7 +7,7 @@ title: 'Criticism.com: Experiments at the interplay of critical thought, text, a
 
 Criticism.com presents papers, essays, and blog posts on technology, psychology, philosophy, linguistics, literature, and literary criticism.
 
-<i class="fa fa-file-text-o"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html): This essay seeks to shed light on Weber's view of the applicability of objectivity by answering a question that dogs Weberian scholarship: Was Weber an advocate of value-free social science? [Download PDF](/md/weber1.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> This essay was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find his presidential address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). In 2003, Encyclopaedia Britannica named this essay best of the web for social science.
+<i class="fa fa-file-text-o"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html): This essay seeks to shed light on Weber's view of the applicability of objectivity by answering a question that dogs Weberian scholarship: Was Weber an advocate of value-free social science? This essay was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam. In 2003, Encyclopaedia Britannica named my essay on Weber best of the web for social science. [Download PDF](/md/weber1.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 
 <i class="fa fa-file-text-o"></i> [Interpretation and Indeterminacy in Discourse Analysis](/da/da_indet.html): This essay argues a hard line: the exact meaning of a speaker's utterance in a contextualized exchange is often indeterminate. Interactional linguistics, however, reduces the indeterminacy and yields a more principled interpretation than other approaches to discourse analysis. [Download PDF](/da/da_indet.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 
@@ -27,7 +27,7 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 <i class="fa fa-file-text-o"></i> [Image over Substance: An Example of Postmodern Politics](/md/cult1.html): Reflecting on the dawn of postmodern media.
 
-<i class="fa fa-file-text-o"></i> [Foucault: A Lover's Discourse About Madness and the Media](/md/foucault.html): Excerpts that capture quite precisely the application of Foucault's postmodernism to media analysis.
+<i class="fa fa-file-text-o"></i> [Foucault: A Lover's Discourse About Madness and the Media](/md/foucault.html): A few salient excerpts from Foucault and Barthes on analyzing media.
 
 <i class="fa fa-file-text-o"></i> [Philosophy of Language: Questions and Answers](/linguistics/philosophy-of-language-answers.html): Notes on Frege, Kripke, Quine, H.P. Grice, and other philosophers of language. 
 
@@ -40,9 +40,9 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Technical publications: white Papers and blog posts](publications.html)
 
-<i class="fa fa-list-o" aria-hidden="true"></i> [List of publications](/publications.html)
+<i class="fa fa-list" aria-hidden="true"></i> [List of publications](/publications.html)
 
-<i class="fa fa-list-o" aria-hidden="true"></i> [List of blog posts](/cc/blog.html)
+<i class="fa fa-list" aria-hidden="true"></i> [List of blog posts](/cc/blog.html)
 
 <i class="fa fa-file-text-o"></i> [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
 
@@ -74,6 +74,7 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 <img src="/photos/barcelona-beach1.jpg" class="img-fluid" alt="Photograph of Barceloneta Beach, Barcelona.">
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Sunset over Seattle. Photograph by Steve Hoenisch.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steve Hoenisch.
+
 
 

@@ -43,5 +43,15 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 
 
+---
+
+
+<img src="/photos/barcelona-beach1.jpg" class="img-fluid" alt="Photograph of Barceloneta Beach, Barcelona.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steve Hoenisch.
+
+
+
+
 
 
