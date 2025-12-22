@@ -44,6 +44,8 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cloud-cnf-benefits.pdf) Inherent Value: The Benefits of Running CNFs on VMs: Optimizing Mixed Workloads on Shared Infrastructure with Kubernetes on VMware Telco Cloud Platform
 
+<i class="fa fa-book" aria-hidden="true"></i> [Dummies Book: Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Blog Post:](https://blogs.vmware.com/telco/optimized-agile-telecom-capabilities/) Envisioning Positive Outcomes from Optimized and Agile Telecom Capabilities
 
@@ -73,7 +75,10 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/tel
 <i class="fa fa-globe" aria-hidden="true"></i>
 Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/).
+
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%C2%AE%20on%20vSphere%C2%AE%20For%20Dummies%C2%AE%2C%20VMware%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
+<!-- <i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). -->
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Tests Prove Hypervisor Speeds Match Bare Metal](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1668273-vmw-tcp-ran-hypervisor-vs-bare-metal.pdf)
 
@@ -109,7 +114,7 @@ and the State of Cybersecurity (with coauthor)
 Vertical 5G Architectures
 
 <i class="fa fa-book" aria-hidden="true"></i> [E-book: Telco Cloud for
-Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
+Dummies](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
 
 <i class="fa fa-book" aria-hidden="true"></i> [E-Book: RAN Transformation for Dummies](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1742210_RAN-Transaformation.pdf) (Contributing writer and contributing editor.)
 
@@ -129,7 +134,7 @@ Networks: The Synergy of Combining Containers and VMs Delivers Security, Managem
 <i class="fa fa-file-text"></i> Ignite Your 5G Deployments with the VMware Telco Cloud: Operate and Monetize 5G Multi-Cloud Networks with Agility, Automation, and Assurance
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Evaluating Cloud-Native Platform Capabilities To Run Multi-Vendor CNFs: Assessing the Readiness of Telco Platforms for Automating Containerized Network Functions]( 
-https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
+https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
 
 <i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Sustainability](https://blogs.vmware.com/telco/telcos-get-technical_sustainability/)
 
@@ -192,7 +197,7 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/tel
 
 <i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds: Protect Infrastructure with Built-in Measures](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-solution-overview.pdf). This short paper explains how the VMware Telco Cloud emphasizes intrinsic security---security that's integrated with the software and infrastructure so it's programmable, automated, adaptive, and context-aware. Published by VMware.
 
-<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
+<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
 
 
 <i class="fa fa-file-pdf-o"></i> [Driving Digital Transformation with Containers and Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/cloud/VMW_17Q3_WP_Driving-Digital-Transformation-with-Kubernetes_FINAL2_081617.pdf): How Kubernetes Manages Containerized Applications to Deliver Business Value. A white paper published by VMware.

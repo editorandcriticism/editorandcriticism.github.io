@@ -21,7 +21,7 @@ title: Technical White Papers
 
 <i class="fa fa-file-pdf-o"></i> [Deploy and Operate 5G Services on Consistent Infrastructure with Multi-Layer Automation](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vmw-telco-cloud-platform-1.0-datasheet.pdf). Consistent infrastructure plays a critical role for CSPs in network modernization because it can unite multiple clouds and multi-vendor networks into a simple solution that can be centrally managed at scale. Ubiquitous automation ties all the moving parts together to reduce costs, promote on-demand delivery, and set the stage for service innovation. This path to modernization is lit up by the transformational power of cloud-native principles. Editor and contributing writing. Published by VMware. 
 
-<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
+<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
 
 
 <i class="fa fa-file-pdf-o"></i> [Driving Digital Transformation with Containers and Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/cloud/VMW_17Q3_WP_Driving-Digital-Transformation-with-Kubernetes_FINAL2_081617.pdf): How Kubernetes Manages Containerized Applications to Deliver Business Value. A white paper published by VMware.

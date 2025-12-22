@@ -104,6 +104,11 @@ https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-En
 
 [Blog Post:](https://blogs.vmware.com/telco/tackling-objectives/) Tackling Strategic Business Objectives with a Single Cloud Stack
 
+<i class="fa fa-book" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
+
+
+
 
 
 

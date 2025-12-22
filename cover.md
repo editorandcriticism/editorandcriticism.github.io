@@ -49,9 +49,11 @@ A sunset over Seattle and Lake Washington, Summer 2020.
 
 ### Book Projects and E-Books
 
-<i class="fa fa-book" aria-hidden="true"></i> [Telco Cloud For Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf). CSPs that can undergo a profound transformation to capitalize on the promise of the digital era can move from disrupted to disruptor. Imperative to this transformation is the evolution toward a cloud model---a telco cloud. With a telco cloud, CSPs gain a modern platform to design, deploy, and manage new digital services and applications with greater agility, security, and customization. I was a contributing writer and editor for this e-book published by Wiley and VMware.
+<i class="fa fa-book" aria-hidden="true"></i> [Telco Cloud For Dummies](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf). CSPs that can undergo a profound transformation to capitalize on the promise of the digital era can move from disrupted to disruptor. Imperative to this transformation is the evolution toward a cloud model---a telco cloud. With a telco cloud, CSPs gain a modern platform to design, deploy, and manage new digital services and applications with greater agility, security, and customization. I was a contributing writer and editor for this e-book published by Wiley and VMware.
 
-<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). Book published by Wiley and VMware.
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%C2%AE%20on%20vSphere%C2%AE%20For%20Dummies%C2%AE%2C%20VMware%20Special%20Edition.pdf). Book published by Wiley and VMware.
 
 <i class="fa fa-book" aria-hidden="true"></i> [Accelerating Digital Transformation with Containers and Kubernetes: An Introduction to Cloud-Native Technology](https://pages.cloud.vmware.com/accelerating-digital-transformation-with-containers-and-kubernetes). This e-book introduces you to containers and Kubernetes, explains their business value, explores their use cases, and illuminates how they can accelerate your organization’s digital transformation. Published by VMware Press.
 
@@ -71,7 +73,7 @@ A sunset over Seattle and Lake Washington, Summer 2020.
 
 <i class="fa fa-file-text"></i> [Blog Post: Announcing VMware Telco Cloud Platform — A Cloud-Native Architecture to Propel CSPs Toward 5G](https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/). How can you modernize your network and your infrastructure in a way that gives you the agility and efficiency to be able to pursue your 5G objectives while maintaining carrier-grade performance, quality, and reliability? This blog post announces VMware Telco Cloud Platform and explains how its cloud-native architecture can modernize your network for 5G. Published on the VMware Telco Cloud Blog.
 
-<i class="fa fa-book" aria-hidden="true"></i> [Telco Cloud For Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf). CSPs that can undergo a profound transformation to capitalize on the promise of the digital era can move from disrupted to disruptor. Imperative to this transformation is the evolution toward a cloud model---a telco cloud. With a telco cloud, CSPs gain a modern platform to design, deploy, and manage new digital services and applications with greater agility, security, and customization. I was a contributing writer and editor for this eBook published by Wiley and VMware.
+<i class="fa fa-book" aria-hidden="true"></i> [Telco Cloud For Dummies](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf). CSPs that can undergo a profound transformation to capitalize on the promise of the digital era can move from disrupted to disruptor. Imperative to this transformation is the evolution toward a cloud model---a telco cloud. With a telco cloud, CSPs gain a modern platform to design, deploy, and manage new digital services and applications with greater agility, security, and customization. I was a contributing writer and editor for this eBook published by Wiley and VMware.
 
 <i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds: Protect Infrastructure with Built-in Measures](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-solution-overview.pdf). This short paper explains how the VMware Telco Cloud emphasizes intrinsic security---security that's integrated with the software and infrastructure so it's programmable, automated, adaptive, and context-aware. Published by VMware.
 
@@ -79,7 +81,7 @@ A sunset over Seattle and Lake Washington, Summer 2020.
 
 <i class="fa fa-file-text"></i> [Blog Post: Adapting to a Changing Telco Landscape and Shifting Requirements with Built-in Security](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/). Published on the VMware Telco Cloud Blog.
 
-<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
+<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
 
 <i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). Book published by Wiley and VMware.
 
@@ -130,6 +132,7 @@ A sunset over Seattle and Lake Washington, Summer 2020.
 
 
 <i class="fa fa-file-text"></i> [Resume: Blogger, White Paper Writer, Editor, Educator, and Technology Evangelist](https://criticism.com/md/resume.html).
+
 
 
 

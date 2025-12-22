@@ -433,12 +433,17 @@ author: Steve Hoenisch
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Likewise Enterprise Installation and Administration Guide](/cc/lwe.pdf)
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Likewise Open Installation and Administration Guide](/cc/lwo.pdf)
-
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: Reclaim the Media](/md/reclaim-the-media.html)
-
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Linguistics and Cognitive Psychology in the
     Media](/linguistics/linguistics-news.html)
+
+
+
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
+
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%C2%AE%20on%20vSphere%C2%AE%20For%20Dummies%C2%AE%2C%20VMware%20Special%20Edition.pdf). Book published by Wiley and VMware.
 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Abstract: Topical Structure Analysis of Accomplished English
@@ -523,6 +528,9 @@ tent: &#9978;
 <i class="fa fa-file-o" aria-hidden="true"></i> [XML Page](/dita/index.html)
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [Previous Technology Portfolio Page](https://criticism.com/cc/portfolio.html)
+
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Previous Cover Page with Dummies Books](https://criticism.com/cover.html)
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [Skiing Page](/cc/skiing-page.html)
 

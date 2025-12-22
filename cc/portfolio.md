@@ -75,7 +75,13 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/tel
 <i class="fa fa-globe" aria-hidden="true"></i>
 Conference Presentation: VMware Explore 2023 Las Vegas Speaker: An Integrated Approach to Helping Telcos Meet Emerging Security Standards. <!-- with Tuan Nguyen -->
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/).
+<!-- <i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook: Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). -->
+
+
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%C2%AE%20on%20vSphere%C2%AE%20For%20Dummies%C2%AE%2C%20VMware%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Tests Prove Hypervisor Speeds Match Bare Metal](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1668273-vmw-tcp-ran-hypervisor-vs-bare-metal.pdf)
 
@@ -111,7 +117,7 @@ and the State of Cybersecurity (with coauthor)
 Vertical 5G Architectures
 
 <i class="fa fa-book" aria-hidden="true"></i> [E-book: Telco Cloud for
-Dummies](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
+Dummies](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
 
 <i class="fa fa-book" aria-hidden="true"></i> [E-Book: RAN Transformation for Dummies](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1742210_RAN-Transaformation.pdf) (Contributing writer and contributing editor.)
 
@@ -131,7 +137,7 @@ Networks: The Synergy of Combining Containers and VMs Delivers Security, Managem
 <i class="fa fa-file-text"></i> Ignite Your 5G Deployments with the VMware Telco Cloud: Operate and Monetize 5G Multi-Cloud Networks with Agility, Automation, and Assurance
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper: Evaluating Cloud-Native Platform Capabilities To Run Multi-Vendor CNFs: Assessing the Readiness of Telco Platforms for Automating Containerized Network Functions]( 
-https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
+https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-cloud-native-platform-readiness.pdf)
 
 <i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Sustainability](https://blogs.vmware.com/telco/telcos-get-technical_sustainability/)
 
@@ -166,6 +172,8 @@ https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/)
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> Disclaimer: Although Criticism.Com contains links to publications that I've written while employed by VMware or EMC, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of VMware or any company that I have worked for in the past, such as EMC. The publications published by VMware or EMC are on their respective web sites; these are just links to those publications.</p>
 
+<i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.
+
 <i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). Book published by Wiley and VMware.
 
 <i class="fa fa-book" aria-hidden="true"></i> [Accelerating Digital Transformation with Containers and Kubernetes: An Introduction to Cloud-Native Technology](https://pages.cloud.vmware.com/accelerating-digital-transformation-with-containers-and-kubernetes). This e-book introduces you to containers and Kubernetes, explains their business value, explores their use cases, and illuminates how they can accelerate your organization’s digital transformation. Published by VMware Press.
@@ -185,7 +193,7 @@ https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/)
 
 <i class="fa fa-file-pdf-o"></i> [Intrinsic Security for Telco Clouds: Protect Infrastructure with Built-in Measures](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-security-solution-overview.pdf). This short paper explains how the VMware Telco Cloud emphasizes intrinsic security---security that's integrated with the software and infrastructure so it's programmable, automated, adaptive, and context-aware. Published by VMware.
 
-<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://telco.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
+<i class="fa fa-file-pdf-o"></i> [VMware Ready for Telco Cloud](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-ready-for-telco-cloud-solution-overview.pdf). A short overview of the solution.
 
 
 <i class="fa fa-file-pdf-o"></i> [Driving Digital Transformation with Containers and Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/cloud/VMW_17Q3_WP_Driving-Digital-Transformation-with-Kubernetes_FINAL2_081617.pdf): How Kubernetes Manages Containerized Applications to Deliver Business Value. A white paper published by VMware.
