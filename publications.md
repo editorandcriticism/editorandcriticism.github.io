@@ -16,6 +16,9 @@ keywords: white papers, blog posts, blogs, presentations, solution overviews, so
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
 
+<i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go to those companies' respective websites.</p>
+
+
 <!-- Add: view profile on Academia.com, etc.  -->
 <!-- full syntax fr goggle: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=steve+hoenisch&btnG= -->
 
