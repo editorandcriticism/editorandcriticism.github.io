@@ -2,13 +2,21 @@
 title: Author Bio of Steven Hoenisch
 ---
 
-## About the Author
+## Writer, Editor, Educator, Critic
 
-Steven Hoenisch is a writer, editor, educator, and critic working at the interdisciplinary nexus of critical thought, text, and technology. His writing has been published in the Chicago Tribune, Willamette Week, XML Journal, Snow Country magazine, and The Hartford Courant. He has worked as an editor at the Oregon Daily Emerald, The Salem News, The Hartford Courant, Willamette Week, American Banker, the New York Daily News, and New Age Journal magazine. He has contributed to or edited several major book projects. 
+Steven Hoenisch is a writer, editor, educator, and critic working at the interdisciplinary nexus of critical thought, text, and technology. His writing has been published in the _Chicago Tribune_, _Willamette Week_, _XML Journal_, _Snow Country_ magazine, and _The Hartford Courant_. He has worked as an editor at the _Oregon Daily Emerald_, _The Salem News_, _The Hartford Courant_, _Willamette Week_, _American Banker_, the _New York Daily News_, and _New Age Journal_ magazine. He has contributed to or edited several major book projects. 
 
-Steven has a master's degree in Linguistics from The Graduate Center, City University of New York, and he has taught classes at Bronx Community College, Harlem Hospital, Maimonides Medical Center, UTA, the New York Public Library, and the New York City College of Technology (City Tech). More recently, he has worked as a technology writer, editor, or educator at AT&T, Verizon, Microsoft, EMC, VMware, Broadcom, and Intel. 
+Steven has a master's degree in Linguistics from The Graduate Center, City University of New York, and has taught classes at Bronx Community College, Harlem Hospital, Maimonides Medical Center, UTA, the New York Public Library, and the New York City College of Technology (City Tech). 
 
-He writes about technology, philosophy, critical theory, literature, and literary criticism.
+More recently, he has worked as a technology writer, editor, or educator at AT&T, Verizon, Microsoft, EMC, VMware, Broadcom, and Intel. 
+
+He writes about technology, philosophy, critical theory, literature, and literary criticism. <i class="fa fa-tree" aria-hidden="true"></i>
+
+
+
+<!-- add all book projects and choice award for encyclo of parties ... -->
+
+<!-- add icons for eg Cuny and salem news and chicago tribune etc. -->
 
 
 ---
@@ -23,20 +31,23 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 <i class="fa fa-comment" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](/cc/kudos.html)
 
-<i class="fa fa-file" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html)
+<i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html)
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf)
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of Publications](/publications.html)
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts](/cc/blog.html)
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Essays](/papers.html)
 
-<i class="fa fa-list" aria-hidden="true"></i> [List of publications](/publications.html)
-
-<i class="fa fa-list" aria-hidden="true"></i> [List of blog posts](/cc/blog.html)
-
 <i class="fa fa-google" aria-hidden="true"></i> See also my publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). <i class="fa fa-wikipedia-w" aria-hidden="true"></i>
- 
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf) on Semantic Scholar. 
 
-<i class="fa fa-university" aria-hidden="true"></i> My essay on Max Weber was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). 
+<i class="fa fa-university" aria-hidden="true"></i> My essay on Max Weber was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). In 2003, Encyclopaedia Britannica named my essay on Weber best of the web for social science. <i class="fa fa-trophy" aria-hidden="true"></i>
+
+
 
 --- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
 
@@ -49,6 +60,7 @@ He writes about technology, philosophy, critical theory, literature, and literar
 <img src="/photos/barcelona-beach1.jpg" class="img-fluid" alt="Photograph of Barceloneta Beach, Barcelona.">
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steve Hoenisch.
+
 
 
 

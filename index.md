@@ -36,9 +36,9 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 ---
 
-<i class="fa fa-files-o" aria-hidden="true"></i> [More Essays](/papers.html)
+<i class="fa fa-files-o" aria-hidden="true"></i> [More essays](/papers.html)
 
-<i class="fa fa-files-o" aria-hidden="true"></i> [Technical publications: white Papers and blog posts](publications.html)
+<i class="fa fa-files-o" aria-hidden="true"></i> [Technical publications: white papers and blog posts](publications.html)
 
 <i class="fa fa-list" aria-hidden="true"></i> [List of publications](/publications.html)
 
@@ -74,7 +74,8 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 <img src="/photos/barcelona-beach1.jpg" class="img-fluid" alt="Photograph of Barceloneta Beach, Barcelona.">
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steve Hoenisch.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steven Hoenisch.
+
 
 
 
