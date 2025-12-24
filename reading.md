@@ -29,11 +29,13 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
 
-## Fiction
+## Fiction Bookshelf
 
 <!-- + Start at high school soph or jr year and try to remember from there. -->
 
 Chinua Achebe. Things Fall Apart: A Novel.
+
+Paul Auster. The New York Trilogy.
 
 Margeret Atwood. Cat's Eye; The Handmaid's Tale.
 
@@ -47,6 +49,8 @@ Borges. Ficciones; Labyriths.
 
 Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House. 
 
+Emily Bronte. Wuthering Heights.
+
 Camus. The Myth of Sisyphus; The Stranger; The Rebel.
 
 Raymond Carver. Cathedral; Will You Please Be Quiet, Please; Fires: Essays, Poems, Stories; What We Talk About When We Talk About Love: Stories; Where I’m Calling From: New and Selected Stories; Short Cuts.
@@ -54,6 +58,8 @@ Raymond Carver. Cathedral; Will You Please Be Quiet, Please; Fires: Essays, Poem
 Bruce Chatwin. The Songlines; In Patagonia.
 
 Mohammed Choukri. For Bread Alone.
+
+Joseph Conrad. The Heart of Darkness.
 
 Don DeLillo. White Noise.
 
@@ -63,19 +69,25 @@ Dostevsky. Notes from Underground; The Double; The Idiot.
 
 Dubus II, Andre: Selected Stories. (For a list of books in the Vintage Contemporaries series, see [https://vintagecontemporariesbib.com/bibliography/](https://vintagecontemporariesbib.com/bibliography/).)
 
+Bret Easton Ellis. Less Than Zero. 
+
+F. Scott Fitzgerald. The Great Gatsby; This Side of Paradise.
+
+Flaubert. Madame Bovary.
+
+E. M. Forster. A Room with a View. ...
+
+William Golding. Lord of the Flies. 
+
 Goethe. Faust; The Sorrows of Young Werther.
 
 Gogol. Dead Souls. 
 
-Ernest Hemingway. All. ... 
+Graham Greene. Orient Express; Brighton Rock; The Quiet American. 
 
-Ellis, Bret Easton. Less Than Zero. 
+Nathaniel Hawthorne. The Scarlet Letter.
 
-F. Scott Fitzgerald. ...
-
-Flaubert. Madame Bovary.
-
-E. M. Forster. A Room with a View. ... 
+Ernest Hemingway. All: The Sun Also Rises;  
 
 Pico Iyer. ... 
 
@@ -85,7 +97,7 @@ James Joyce. A Portrait of the Artist as a Young Man; Ulysses; Dubliners.
 
 Kafka. The Castle; The Trial; Metamorphosis and Other Stories.
 
-Jack Kerouac. On the Road. ... 
+Jack Kerouac. On the Road. 
 
 Ken Kesey. One Flew Over the Cuckoo's Nest. 
 
@@ -115,7 +127,7 @@ Iris Murdoch. ...
 
 Orhan Pamuk. ...
 
-Dorothy Parker. Selected Stories.
+Dorothy Parker. The Portable Dorothy Parker; Selected Stories.
 
 Thomas Pynchon. The Crying of Lot 49.
 
@@ -131,7 +143,13 @@ Thomas Sanchez. Rabbit Boss; Zoot-Suit Murders.
 
 Mona Simpson. Anywhere But Here.
 
-Zadie Smith. White Teeth. 
+Zadie Smith. White Teeth.
+
+John Steinbeck. 
+
+Bram Stoker. Dracula.
+
+Mark Twain. The Adventures of Huckleberry Finn; Life on the Mississippi.
 
 Gore Vidal. Myra Breckinridge and Myron.
 
@@ -233,7 +251,7 @@ Jacques Stephen Alexis's In the Blink of an Eye
 
 -->
 
-
+<!--  + The Dharma Bums. -->
 <!--
 
 Here's a quote from _The Guardian_: 
