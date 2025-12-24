@@ -47,7 +47,7 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 <i class="fa fa-file-text-o"></i> [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
 
 <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
-[Author bio](/books/author-bio.html) of Steve Hoenisch.
+[Author bio](/books/author-bio.html) of Steve Hoenisch
 
 
 ---

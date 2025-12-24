@@ -2,17 +2,32 @@
 
 ## Reading Now
 
-Books that I am reading or rereading now, which are the books that I highly recommend you read or reread in the present moment: 
+Books that I am reading, rereading, or thinking about now --- all highly recommended expository reading for the present moment: 
 
+* Zadie Smith, Dead and Alive.
+* Salmon Rushdie, Languages of Truth.
+* George Orwell, 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
+* Milan Kundera, The Art of the Novel.
+* Milan Kundera, The Curtain: An Essay in Seven Parts.
+* The Age of Extraction, by Tim Wu.
 
+---
 
+* Thomas Pynchon, Vineland.
+* Kiran Desai, The Loneliness of Sonia and Sunny.
+* Jorge Luis Borges, The Aleph and Other Stories.
+* Jorge Luis Borges, Collected Fictions.
+* Haruki Murakami, The City and Its Uncertain Walls.
+* Gabriel Garcia Marquez, One Hundred Years of Solitude.
+* Thomas Pynchon, Inherent Vice.
+* Broch, The Sleepwalkers.
+* Musil, The Man Without Qualities.
+* Franz Kafka, The Castle.
+
+---
 
 <!-- ## Fiction Books I Love  -->
-
-
 <!-- ## Nonfiction Books I Love (Core Canon) -->
-
-
 
 ## Fiction
 
@@ -28,70 +43,87 @@ Balzac. ...
 
 Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift. 
 
-Borges, Ficciones or Collected Fictions or Labyriths ... 
+Borges. Ficciones; Labyriths. 
 
-Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House; 
+Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House. 
 
-Camus. The Myth of Syspherus; The Stranger; The Rebel (in part); 
+Camus. The Myth of Sisyphus; The Stranger; The Rebel.
 
-Raymond Carver. Cathedral. Will You Please Be Quiet, Please; Fires: Essays, Poems, Stories; What We Talk About When We Talk About Love: Stories; Where I’m Calling From: New and Selected Stories; Short Cuts.
+Raymond Carver. Cathedral; Will You Please Be Quiet, Please; Fires: Essays, Poems, Stories; What We Talk About When We Talk About Love: Stories; Where I’m Calling From: New and Selected Stories; Short Cuts.
+
+Bruce Chatwin. The Songlines; In Patagonia.
 
 Mohammed Choukri. For Bread Alone.
 
-Don DeLillo. ...
+Don DeLillo. White Noise.
 
-Annie Dilliard. An American Childhood; Pilgrim at Tinker Creek (in part); The Writing Life.
+Annie Dilliard. An American Childhood; Pilgrim at Tinker Creek; The Writing Life.
 
-Dostevsky ...
+Dostevsky. Notes from Underground; The Double; The Idiot. 
 
 Dubus II, Andre: Selected Stories. (For a list of books in the Vintage Contemporaries series, see [https://vintagecontemporariesbib.com/bibliography/](https://vintagecontemporariesbib.com/bibliography/).)
 
-Goethe. ... 
+Goethe. Faust; The Sorrows of Young Werther.
 
-Gogol. ...
+Gogol. Dead Souls. 
 
-Ernest Hemingway. ...  
+Ernest Hemingway. All. ... 
 
 Ellis, Bret Easton. Less Than Zero. 
 
-F. Scott Fitzgerald. ... 
+F. Scott Fitzgerald. ...
 
-E. M. Forster. A Room with a View. ?? ...
+Flaubert. Madame Bovary.
 
-Iyer, Pico. ... 
+E. M. Forster. A Room with a View. ... 
+
+Pico Iyer. ... 
 
 Ruth Prawer Jhabvala. Heat and Dust.
 
-James Joyce. A Portrait of the Artist as a Young Man; Ulysses (in part); 
-Dubliners.
+James Joyce. A Portrait of the Artist as a Young Man; Ulysses; Dubliners.
+
+Kafka. The Castle; The Trial; Metamorphosis and Other Stories.
 
 Jack Kerouac. On the Road. ... 
 
-Ken Kesey. One Flew Over the Coocoo's Nest. sp??
+Ken Kesey. One Flew Over the Cuckoo's Nest. 
 
 Barbara Kingsolver. ... 
 
 Jerzy Kosinski. Steps; Being There; ... 
 
-Milan Kundera. The Incredible Likeness of Being; The Book of Laughter and Forgetting; The Art of the Novel; The Curtain: An Essay in Sever Parts; Laughable Loves; Slowness. By Milan Kundera.
+Milan Kundera. The Incredible Likeness of Being; The Book of Laughter and Forgetting; The Art of the Novel; The Curtain: An Essay in Sever Parts; Laughable Loves; Slowness.
 
-John LaCarre. ... 
+John LaCarre. ...
+
+Doris Lessing. ... 
+
+Naguib Mahfouz. The Search; The Beginning and the End.
 
 Thomas McGuane. The Bushwhacked Piano.
 
 Jay McInerney. Bright Lights, Big City. 
 
+Larry McMurtry. Lonesome Dove.
+
+Toni Morrison. ...
+
 Bharati Mukherjee. Jasmine. 
 
-Iris Murdoch ...
+Iris Murdoch. ...
 
-Orhan Pamuk ...
+Orhan Pamuk. ...
+
+Dorothy Parker. Selected Stories.
+
+Thomas Pynchon. The Crying of Lot 49.
 
 Michael Ondaatje. The English Patient. 
 
 Richard Russo. Mohawk; The Risk Pool.
 
-Salman Rushdie. Midnight's Children; Haroon and the Sea of Stories; Languages of Truth; Luka and Fire of Life.
+Salman Rushdie. Midnight's Children; Haroon and the Sea of Stories; Luka and Fire of Life; Languages of Truth.
 
 Philip Roth. The Professor of Desire.
 
@@ -99,16 +131,18 @@ Thomas Sanchez. Rabbit Boss; Zoot-Suit Murders.
 
 Mona Simpson. Anywhere But Here.
 
-Zadie Smith ...
+Zadie Smith. White Teeth. 
 
-Gore Vidal. Myra Breckinridge and Myron. ... 
+Gore Vidal. Myra Breckinridge and Myron.
 
-Kurt Vonnegut Jr. ... sp??
+Kurt Vonnegut Jr. All. ... 
 
-Thomas Wolff sp ... ??
+Thomas Wolff. 
 
 
 
+
+<!--
 
 
 ## Nonfiction (Canon)
@@ -120,7 +154,7 @@ Foucault.
 Freud. 
 
 Ludwig Wittgenstein. Philosophical Investigations; Culture and Value; On Certain; Aesthetics ... 
-
+-->
 
 <!-- ## Writers I've Seen Read or Present in Person -->
 
@@ -128,41 +162,11 @@ Ludwig Wittgenstein. Philosophical Investigations; Culture and Value; On Certain
 
 <!--
 
+upcoming to read: 
 
-## Adds
-
-* Sense and Sensibility, Jane Austen?? (Austen's years somewhat overlap with The Marquis de Sade (1740–1814), but what about location -- France vs England? Not canonical; can move down into other works and refs but be sure to cite a passage or two.
-
-* Stifter, The Indian Summer and Rock Crystal. 1857. Austria.
-
-* The Importance of Being Earnest, Oscar Wilde, Wilde's final play again returns to the theme of switched identities: the play's two protagonists engage in "bunburying" (the maintenance of alternative personas in the town and country) which allows them to escape Victorian social mores -- with simply idle cultivés, and the idealistic young women are not that innocent. Almost completely lacking in action or violence, Earnest lacks the self-conscious decadence found in The Picture of Dorian Gray and Salome. The play, now considered Wilde's masterpiece, was wrt in 1894. sh: HOW does switching identities switch their perspectives and interpretations??
-
-* Baudelaire: Les Fleurs du Mal or similar
-
-* Kafka The Castle
-* Musil, the man without qualities.
-* Broch, the sleepwalkers.
-
-* Dost, Notes from underground and the double. 
-* Flaubert, Madame Bovary
-* Camus, The Stranger; esp. The Rebel
 * Sartre, Intimacy and Other Stories
-* Marquez, 100 Years
 * Feuntes, Terra Notra
-
-
-* Kundera, The Book of Laughter and Forgetting and the Unbearable Lightness of Being.
-
-* Midnight's Children, Rushdie
-* Margeret Atwood, Handmaids
-
-* Bowles The Sheltering Sky
-* For Bread Alone By Mohamed Choukri Trans Bowles
-
-* Don Delillo, White Noise
-
 * David Foster Wallace (something shorter than jest; short stories??) 
-
 
 **Prelim short list Cannon of Literary Nonfiction**
 
@@ -172,7 +176,6 @@ Ludwig Wittgenstein. Philosophical Investigations; Culture and Value; On Certain
 * Camus, The Myth of Sypherus
 * Williams, Country and the City
 * Berman, All that is solid
-* Chatwin, Songlines
 * Kundera, The Curtain and the Art
 * Postman, Amuzing Ourselves to Death
 * Postman, Technopoly 
@@ -186,12 +189,12 @@ Ludwig Wittgenstein. Philosophical Investigations; Culture and Value; On Certain
 * Barthes, maybe Writing Degree Zero, wh have; also: essay titled The Third Meaning.
 * Kracauer: The Mass Ornament (esp "Cult of Distraction").
 
-
-	-----------------------------------------------------------
+---
 
 >order poss light reading: 
 The Importance of Being Earnest, Oscar Wilde (Audio)
-d Dorothy Parker: Selected Stories Dorothy Parker, Elaine Stritch (Reader)
+d  
+Dorothy Parker, Elaine Stritch (Reader)
 >Books to consider: 
 	Socrates on social conversations etc fr new yorker article.
 	Unbearable Lightness of Being. 
@@ -205,22 +208,10 @@ Heidegger: Basic Writings
 
 "the insurgent novelists of France, such as Jean Genet and Albert Camus and Jean-Paul Sartre."
 
-Kundera
-Robert Musil
-Broch
-Marquez
-Kafka The Castle
-Naguib Mahfouz
-	esp. The Quarter By Naguib Mahfouz, Elif Shafak · 2019; Midaq Alley; The Time and The Place and Other Stories; Karnak Cafe; Love in the Rain; The Coffeehouse; Cairo Modern. 
 Bowles
 For Bread Alone By Mohamed Choukri Trans Bowles
 Things Fall Apart: A Novel Chinua Achebe · 1994 (cf novel if he hollers by ...)
 
-Midnight's Children, Rushdie
-Toni Morrison
-Jhumpa Lahiri
-Ruth Prawer Jhabvala
-Doris Lessing
 Herta Müller
 Han Kang
 Czesław Miłosz
@@ -238,37 +229,20 @@ Indian Summer, by Stifter.
 
 Jacques Stephen Alexis's In the Blink of an Eye
 
-
-* Orhan Pamuk
-* Zadie Smith
-
 * Cervantes, Don Quixote
 
 -->
 
 
+<!--
+
+Here's a quote from _The Guardian_: 
+
+>"The internet is increasingly flooded with slanted reporting, misinformation and algorithmic drivel."
+
+"Algorithmic drivel" catches the eye of the head and shards of the heart better than my own usual reaction: _artificial stupidity_. See a recent book on the subject by a professor of linguistics at the University of Washington: _The AI Con_.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
 
 

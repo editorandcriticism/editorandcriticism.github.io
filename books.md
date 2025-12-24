@@ -6,18 +6,31 @@ keywords: criticism, culture, literature, policy, technology, philosophy, litera
 
 <i class="fa fa-random" aria-hidden="true"></i> Connecting the dots by reading and interpreting books at the interdisciplinary nexus of technology, psychology, philosophy, literature, and literary criticism. 
 
-### Reading Now
-
-<i class="fa fa-globe" aria-hidden="true"></i> _The Art of the Novel_, by Milan Kundera.
-
-
-
-### Recommended Reading to Interpret the Present and the Spirit of the Times
+<!-- ### Reading Now -->
+<!-- <i class="fa fa-globe" aria-hidden="true"></i> _The Art of the Novel_, by Milan Kundera. -->
 
 
 
-<i class="fa fa-globe" aria-hidden="true"></i>
-_The Country and the City_, by Raymond Williams.
+### Recommended Reading to Interpret the Present Moment and the Spirit of the Times
+
+* Zadie Smith, Dead and Alive.
+* Salmon Rushdie, Languages of Truth.
+* George Orwell, 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
+* Milan Kundera, The Art of the Novel.
+* Milan Kundera, The Curtain: An Essay in Seven Parts.
+* The Age of Extraction, by Tim Wu.
+
+---
+
+* Thomas Pynchon, Vineland.
+* Thomas Pynchon, Inherent Vice.
+* Kiran Desai, The Loneliness of Sonia and Sunny.
+* Haruki Murakami, The City and Its Uncertain Walls.
+* Broch, The Sleepwalkers.
+* Musil, The Man Without Qualities.
+* Franz Kafka, The Castle.
+
+<!-- <i class="fa fa-globe" aria-hidden="true"></i> _The Country and the City_, by Raymond Williams. -->
 
 <!-- link to book-reviews.md and critics-notebook.md -->
 <!-- image template for responsive images plus other reusable code for updated bootstrap and font awesome; stet here pls for reuse :: -->

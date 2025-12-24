@@ -20,12 +20,12 @@ title: On Technology
 <i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts](/cc/blog.html)
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i>
-[Author bio](/books/author-bio.html) of Steve Hoenisch.
+[Author bio](/books/author-bio.html) of Steve Hoenisch
 
 
 ---
 
-* [Writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html).
+* [On writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html).
 
 --- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
 
