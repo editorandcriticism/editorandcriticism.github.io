@@ -166,6 +166,7 @@ Thomas Wolff.
 
 
 
+
 <!--
 
 
@@ -178,13 +179,9 @@ Foucault.
 Freud. 
 
 Ludwig Wittgenstein. Philosophical Investigations; Culture and Value; On Certain; Aesthetics ... 
--->
-
-<!-- ## Writers I've Seen Read or Present in Person -->
 
 
-
-<!--
+## Writers I've Seen Read or Present in Person
 
 upcoming to read: 
 
@@ -255,10 +252,10 @@ Jacques Stephen Alexis's In the Blink of an Eye
 
 * Cervantes, Don Quixote
 
--->
 
-<!--  + The Dharma Bums. -->
-<!--
+
++ The Dharma Bums.
+
 
 Here's a quote from _The Guardian_: 
 
@@ -268,6 +265,8 @@ Here's a quote from _The Guardian_:
 
 
 -->
+
+
 
 ---
 
