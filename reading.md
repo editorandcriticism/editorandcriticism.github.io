@@ -2,9 +2,9 @@
 title: Bookshelf
 ---
 
-# I. Remember. Reading.
+## I. Remember. Reading.
 
-## Reading Now
+### Reading Now
 
 Books that I am reading, rereading, or thinking about now --- all highly recommended expository material to understand the historical context and the age-old conflicts of the present moment: 
 
@@ -33,7 +33,7 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
 
-## Fiction Bookshelf
+### Fiction Bookshelf
 
 <!-- + Start at high school soph or jr year and try to remember from there. -->
 
