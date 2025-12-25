@@ -85,8 +85,7 @@ Commercial Data Systems unit of Verizon Wireless. 2000-2004. Wrote position pape
 
 [Technical Documentation:](https://techdocs.broadcom.com/us/en/vmware-sde/telco-cloud/vmware-telco-cloud-platform/3-0/telco-cloud-platform-5g-edition-intrinsic-security-guide/introduction.html) Telco Cloud Platform 5G Edition Intrinsic Security Guide
 
-[Blog Post:](
-https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-End RAN Automation, Assurance, and Optimization
+[Blog Post:](https://blogs.vmware.com/telco/smo/) Implementing an SMO Framework for End-to-End RAN Automation, Assurance, and Optimization
 
 [Blog Post:](https://blogs.vmware.com/telco/deploy-open-ran/) Deploy Open RAN with Confidence: Implement a Commercially Proven, Operationally Ready 4G/5G Solution
 

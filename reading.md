@@ -1,8 +1,12 @@
+---
+title: Bookshelf
+---
+
 # I. Remember. Reading.
 
 ## Reading Now
 
-Books that I am reading, rereading, or thinking about now --- all highly recommended expository reading for the present moment: 
+Books that I am reading, rereading, or thinking about now --- all highly recommended expository material to understand the historical context and the age-old conflicts of the present moment: 
 
 * Zadie Smith, Dead and Alive.
 * Salmon Rushdie, Languages of Truth.
@@ -160,6 +164,8 @@ Thomas Wolff.
 
 
 
+
+
 <!--
 
 
@@ -262,5 +268,16 @@ Here's a quote from _The Guardian_:
 
 
 -->
+
+---
+
+
+<img src="/photos/whistler-mountain-feb-2024.jpg" class="img-fluid" alt="Photograph of Whistler Mountain">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Memories of public mountains: Whistler Mountain, February 2024. Photograph by Steve Hoenisch.
+
+
+
+
 
 
