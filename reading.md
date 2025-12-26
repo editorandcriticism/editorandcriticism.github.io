@@ -33,17 +33,18 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
 
-### Fiction Bookshelf
 
-<!-- + Start at high school soph or jr year and try to remember from there. -->
+### Bookshelf: Literature and Knowledge
+
+<!-- + Start at hs nd try to remember from there; include important nonfiction and fiction in same list: -->
 
 Chinua Achebe. Things Fall Apart: A Novel.
-
-Paul Auster. The New York Trilogy.
 
 Margeret Atwood. Cat's Eye; The Handmaid's Tale.
 
 Jane Austen. Pride and Prejudice; Sense and Sensibility.
+
+Paul Auster. The New York Trilogy.
 
 Balzac. ...
 
@@ -129,11 +130,15 @@ Bharati Mukherjee. Jasmine.
 
 Iris Murdoch. ...
 
+Nabokov. Laughter in the Dark; Lolita.
+
 Orhan Pamuk. ...
 
 Dorothy Parker. The Portable Dorothy Parker; Selected Stories.
 
-Thomas Pynchon. The Crying of Lot 49.
+Walker Percy. ... 
+
+Thomas Pynchon. The Crying of Lot 49; Inherent Vice.
 
 Michael Ondaatje. The English Patient. 
 
@@ -155,14 +160,15 @@ Bram Stoker. Dracula.
 
 Mark Twain. The Adventures of Huckleberry Finn; Life on the Mississippi.
 
-Gore Vidal. Myra Breckinridge and Myron.
+Gore Vidal. Myra Breckinridge and Myron; United States: Essays 1952–92.
 
 Kurt Vonnegut Jr. All. ... 
 
-Thomas Wolff. 
+Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities. 
 
 
 ---
+
 
 
 
