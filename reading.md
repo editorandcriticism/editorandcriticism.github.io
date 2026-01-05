@@ -56,17 +56,27 @@ Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House.
 
 Emily Bronte. Wuthering Heights.
 
+Italo Calvino. Cosmicomics; Invisible Cities.
+
 Camus. The Myth of Sisyphus; The Stranger; The Rebel.
 
 Raymond Carver. Cathedral; Will You Please Be Quiet, Please; Fires: Essays, Poems, Stories; What We Talk About When We Talk About Love: Stories; Where I’m Calling From: New and Selected Stories; Short Cuts.
 
+Raymond Chandler. The Long Goodbye.
+
 Bruce Chatwin. The Songlines; In Patagonia.
 
+Noam Chomsky. Syntactic Structures; Aspects of the Theory of Syntax; The Minimalist Program; Manufacturing Consent; Language and Problems of Knowledge. 
+
 Mohammed Choukri. For Bread Alone.
+
+Teju Cole. Open City.
 
 Joseph Conrad. The Heart of Darkness.
 
 Don DeLillo. White Noise.
+
+Charles Dickens. A Tale of Two Cities.
 
 Annie Dilliard. An American Childhood; Pilgrim at Tinker Creek; The Writing Life.
 
@@ -76,13 +86,13 @@ Dubus II, Andre: Selected Stories. (For a list of books in the Vintage Contempor
 
 Bret Easton Ellis. Less Than Zero. 
 
+Patrick Leigh Fermor. A Time of Gifts; Between the Woods and the Water.
+
 F. Scott Fitzgerald. The Great Gatsby; This Side of Paradise.
 
 Flaubert. Madame Bovary.
 
 E. M. Forster. A Room with a View. ...
-
-William Golding. Lord of the Flies. 
 
 Goethe. Faust; The Sorrows of Young Werther.
 
@@ -90,9 +100,15 @@ Gogol. Dead Souls.
 
 Graham Greene. Orient Express; Brighton Rock; The Quiet American. 
 
-Nathaniel Hawthorne. The Scarlet Letter.
-
 Ernest Hemingway. All: The Sun Also Rises;  
+
+Joseph Heller. Catch-22.
+
+Oscar Hijuelos. The Mambo Kings Play Songs of Love. 
+
+Aldous Huxley. Brave New World. 
+
+Kazuo Ishiguro. The Remains of the Day.
 
 Pico Iyer. ... 
 
@@ -110,11 +126,15 @@ Barbara Kingsolver. ...
 
 Jerzy Kosinski. Steps; Being There; ... 
 
-Milan Kundera. The Incredible Likeness of Being; The Book of Laughter and Forgetting; The Art of the Novel; The Curtain: An Essay in Sever Parts; Laughable Loves; Slowness.
+Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; The Art of the Novel; The Curtain: An Essay in Sever Parts; Laughable Loves; Slowness.
 
-John LaCarre. ...
+John le Carré. The Spy Who Came in from the Cold; A Small Town in Germany; Tinker Tailor Soldier Spy; The Honourable Schoolboy; The Russia House; The Night Manager; The Tailor of Panama; The Constant Gardener; Our Kind of Traitor.
 
 Doris Lessing. ... 
+
+Mikhail Lermontov. A Hero of Our Time.
+
+Robert Macfarlane. Mountains of the Mind: A History of a Fascination.
 
 Naguib Mahfouz. The Search; The Beginning and the End.
 
@@ -132,11 +152,13 @@ Iris Murdoch. ...
 
 Nabokov. Laughter in the Dark; Lolita.
 
-Orhan Pamuk. ...
+Orhan Pamuk. The White Castle. Memories of Distant Mountains. Want to read: A Strangeness in My Mind; The Naive and the Sentimental Novelist.
 
 Dorothy Parker. The Portable Dorothy Parker; Selected Stories.
 
-Walker Percy. ... 
+Walker Percy. The Thanatos Syndrome. 
+
+Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Mind Works; Words and Rules: The Ingredients of Language; The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century. 
 
 Thomas Pynchon. The Crying of Lot 49; Inherent Vice.
 
@@ -164,7 +186,11 @@ Gore Vidal. Myra Breckinridge and Myron; United States: Essays 1952–92.
 
 Kurt Vonnegut Jr. All. ... 
 
+E.B. White. Essays of E.B. White; The Elements of Style. 
+
 Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities. 
+
+Etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Letter; ...
 
 
 ---
@@ -182,3 +208,6 @@ Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities.
 
 
 
+<!-- Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, and especially Raymond Williams (*The Country and the City* is one of my favorite books). 
+
+-->
