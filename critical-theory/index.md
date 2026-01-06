@@ -1,10 +1,7 @@
 ---
-description: |
-	The critical theory menu at criticism.com.
-keywords: |
-	criticism, critical theory, the Frankfurt School, Max Weber, Wittgenstein, Bakhtin, Foucault, Roland Barthes, psychoanalysis, Freud, media criticism, Steve Hoenisch, media and technology, continental philosophy, Horkheimer, Adorno, Habermas, Nietzsche
-title: |
-	Critical Theory
+description: Critical Theory Menu
+keywords: criticism, critical theory, the Frankfurt School, Max Weber, Wittgenstein, Bakhtin, Foucault, Roland Barthes, psychoanalysis, Freud, media criticism, Steve Hoenisch, media and technology, continental philosophy, Horkheimer, Adorno, Habermas, Nietzsche
+title: Critical Theory
 ---
 
 
@@ -22,7 +19,7 @@ title: |
 
 <i class="fa fa-file-text"></i> **[Why Can't We Stop Watching TV?](https://www.criticism.com/md/theory1.html)** Roland Barthes, writing in The Pleasure of the Text, has an explanation for a befuddling recurrence: Why so many people, including myself, watch so much bad TV even when we know it is awful. Barthes's answer: pleasure. He elaborates thus: [Read more ...](https://www.criticism.com/md/theory1.html) 
 
-<i class="fa fa-file-text"></i> **[Using French Social Thought for Media Criticism](media-criticism-with-french-social-thought.html)** With a focus on Althusser, Barthes, and Foucault, this essay broadly delineates the theoretical approaches of the three schools in explaining the role of the mass media in society. As I proceed, I enumerate several strengths and weaknesses of each theory and make some comparisons among them. [Read more ...](https://www.criticism.com/md/media-criticism-with-french-social-thought.html) 
+<i class="fa fa-file-text"></i> **[Using French Social Thought for Media Criticism](https://www.criticism.com/md/media-criticism-with-french-social-thought.html)** With a focus on Althusser, Barthes, and Foucault, this essay broadly delineates the theoretical approaches of the three schools in explaining the role of the mass media in society. As I proceed, I enumerate several strengths and weaknesses of each theory and make some comparisons among them. [Read more](https://criticism.com/md/media-criticism-with-french-social-thought.html) 
 
 <i class="fa fa-file-text"></i> **[Interpretation and Indeterminancy](https://www.criticism.com/da/da_indet.html)** <img src="/images/0631166238.gif" align="right" /> Throughout the essay, I will argue a hard line: the exact meaning of a speaker's utterance in a contextualized exchange is often indeterminate. Within the context of the analysis of the teacher-pupil exchange, I will argue for the superiority of interactional linguistics over speech act theory because it reduces the indeterminacy and yields a more principled interpretation, especially when the interactional approach is complemented by elements from other sociologically influenced methods, namely the ethnography of communication and Labovian sociolinguistics. [Read on ...](https://www.criticism.com/da/da_indet.html) 
 
@@ -61,6 +58,9 @@ Weltanschauung](https://www.criticism.com/philosophy/weltanschauung.html)
 <i class="fa fa-file-text"></i> [Max Weber's Interest in Studying Capitalism](https://www.criticism.com/philosophy/max-weber-capitalism.html) 
 
 <i class="fa fa-file-text"></i> [Goals in Reading Max Weber's Early Works](https://www.criticism.com/philosophy/max-weber-reading-goals.html) 
+
+
+
 
 
 

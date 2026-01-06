@@ -21,7 +21,7 @@ Criticism.com presents white papers and essays on technology, critical theory, l
 
 <i class="fa fa-file-text"></i> [Interpretation and Indeterminacy in Discourse Analysis](/da/da_indet.html): This essay argues a hard line: the exact meaning of a speaker's utterance in a contextualized exchange is often indeterminate. Interactional linguistics, however, reduces the indeterminacy and yields a more principled interpretation than other approaches to discourse analysis. 
 
-
+<i class="fa fa-file-text"></i> [Using French Social Thought for Media Criticism](https://criticism.com/md/media-criticism-with-french-social-thought.html) With a focus on Althusser, Barthes, and Foucault, this essay broadly delineates the theoretical approaches of the three schools in explaining the role of the mass media in society and peers into several of their key books. As I proceed, I enumerate several strengths and weaknesses of each theory and make some comparisons among them. [Download PDF](https://criticism.com/md/media-criticism-with-french-social-thought.pdf). <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 
 ### Weber, Saussure, Wittgenstein, and Freud
 

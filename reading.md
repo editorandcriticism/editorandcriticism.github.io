@@ -42,6 +42,8 @@ Chinua Achebe. Things Fall Apart: A Novel.
 
 Margeret Atwood. Cat's Eye; The Handmaid's Tale.
 
+Anonymous. Arabian Nights: Tales from the Thousand and One Nights. 
+
 Jane Austen. Pride and Prejudice; Sense and Sensibility.
 
 Paul Auster. The New York Trilogy.
@@ -86,7 +88,7 @@ Dubus II, Andre: Selected Stories. (For a list of books in the Vintage Contempor
 
 Bret Easton Ellis. Less Than Zero. 
 
-Patrick Leigh Fermor. A Time of Gifts; Between the Woods and the Water.
+Patrick Leigh Fermor. A Time of Gifts; Between the Woods and the Water. (For A Time of Gifts, see [https://www.nyrb.com/collections/nyrb-series](https://www.nyrb.com/collections/nyrb-series).)
 
 F. Scott Fitzgerald. The Great Gatsby; This Side of Paradise.
 
@@ -190,6 +192,8 @@ E.B. White. Essays of E.B. White; The Elements of Style.
 
 Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities. 
 
+
+
 Etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Letter; ...
 
 
@@ -206,7 +210,11 @@ Etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Lette
 
 
 
-
+<!-- see 
+https://www.nyrb.com/collections/nyrb-series
+and
+https://www.nyrb.com/collections/classics
+-->
 
 <!-- Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, and especially Raymond Williams (*The Country and the City* is one of my favorite books). 
 
