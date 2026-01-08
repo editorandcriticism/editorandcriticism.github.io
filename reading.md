@@ -50,6 +50,8 @@ Paul Auster. The New York Trilogy.
 
 Balzac. ...
 
+Roland Barthes. **The Pleasure of the Text.**
+
 Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift. 
 
 Borges. Ficciones; Labyriths. 
@@ -74,7 +76,7 @@ Mohammed Choukri. For Bread Alone.
 
 Teju Cole. Open City.
 
-Joseph Conrad. The Heart of Darkness.
+Joseph Conrad. Heart of Darkness.
 
 Don DeLillo. White Noise.
 
@@ -130,6 +132,8 @@ Jerzy Kosinski. Steps; Being There; ...
 
 Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; The Art of the Novel; The Curtain: An Essay in Sever Parts; Laughable Loves; Slowness.
 
+Hanif Kureishi. The Buddha of Suburbia.
+
 John le Carré. The Spy Who Came in from the Cold; A Small Town in Germany; Tinker Tailor Soldier Spy; The Honourable Schoolboy; The Russia House; The Night Manager; The Tailor of Panama; The Constant Gardener; Our Kind of Traitor.
 
 Doris Lessing. ... 
@@ -160,8 +164,9 @@ Dorothy Parker. The Portable Dorothy Parker; Selected Stories.
 
 Walker Percy. The Thanatos Syndrome. 
 
-Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Mind Works; Words and Rules: The Ingredients of Language; The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century. 
+Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Mind Works; Words and Rules: The Ingredients of Language; The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century.
 
+Niel Postman: Amusing Ourselves to Death; **Technopoly.** 
 Thomas Pynchon. The Crying of Lot 49; Inherent Vice.
 
 Michael Ondaatje. The English Patient. 
@@ -175,6 +180,8 @@ Philip Roth. The Professor of Desire.
 Thomas Sanchez. Rabbit Boss; Zoot-Suit Murders.
 
 Mona Simpson. Anywhere But Here.
+
+Susan Sontag. Against Interpretation.
 
 Zadie Smith. White Teeth.
 
@@ -194,7 +201,8 @@ Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities.
 
 
 
-Etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Letter; ...
+<!-- Fiction, notable etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Letter; ... -->
+<!-- Nonfiction, notable, etc. but in literature and knowledge and mindfulness area only pls:  -->
 
 
 ---
@@ -210,12 +218,13 @@ Etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Lette
 
 
 
+
 <!-- see 
 https://www.nyrb.com/collections/nyrb-series
 and
 https://www.nyrb.com/collections/classics
 -->
 
-<!-- Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, and especially Raymond Williams (*The Country and the City* is one of my favorite books). 
+<!-- Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, Marshal Berman, and  especially Raymond Williams (*The Country and the City* is one of my favorite books). 
 
 -->
