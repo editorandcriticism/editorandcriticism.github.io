@@ -48,7 +48,7 @@ Jane Austen. Pride and Prejudice; Sense and Sensibility.
 
 Paul Auster. The New York Trilogy.
 
-Balzac. ...
+Balzac.
 
 Roland Barthes. **The Pleasure of the Text.**
 
@@ -166,7 +166,8 @@ Walker Percy. The Thanatos Syndrome.
 
 Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Mind Works; Words and Rules: The Ingredients of Language; The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century.
 
-Niel Postman: Amusing Ourselves to Death; **Technopoly.** 
+Niel Postman: Amusing Ourselves to Death; **Technopoly.**
+
 Thomas Pynchon. The Crying of Lot 49; Inherent Vice.
 
 Michael Ondaatje. The English Patient. 

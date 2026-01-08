@@ -12,7 +12,7 @@ title: |
 
 The email address of Steve Hoenisch: ![Steve Hoenisch email address](/images/em.png). 
 
-This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications](/publications.html), [list of blog posts](/cc/blog.html), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
+This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications](/publications.html), [list of blog posts](/cc/blog.html), [publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170), [profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
 
 **Current hometown:** Seattle.
 
@@ -60,7 +60,7 @@ Streets and city parks have always been a big part of my life. I like to walk ar
 -   Oak's Park Roller Rink.
 
 
-**Some Highlights:** Helicopter off Palisades at Squaw Valley; Robert D. Putnam cites essay on Weber; Weber gets best of social science for web award; backcountry skiing at Alpental, Crystal, and Mt. Hood.
+**Some Highlights:** Helicopter off Palisades at Squaw Valley; Robert D. Putnam cites [my essay on Weber](/md/weber1.html); Weber gets best of social science for web award; backcountry skiing at Alpental, Crystal, and Mt. Hood.
 
 
 <img alt="Skiing at Squaw Valley." src="/photos/steve-hoenisch-ski-jumping-off-palisades-squaw-valley.jpg" width="524" height="776" />
@@ -225,6 +225,14 @@ The future is critical. <i class="fa fa-coffee" aria-hidden="true"></i>
 
 <i class="fa fa-youtube-square" aria-hidden="true"></i> [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
 
+<i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) 
+
+<i class="fa fa-wikipedia-w" aria-hidden="true"></i> [Citations on Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1).
+
+<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en)
+
+<i class="fa fa-medium" aria-hidden="true"></i>
+ [Medium.com Page](https://medium.com/@steveski170)
 
 
 

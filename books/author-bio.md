@@ -45,7 +45,8 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf) on Semantic Scholar. 
 
-<i class="fa fa-university" aria-hidden="true"></i> My essay on Max Weber was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). In 2003, Encyclopaedia Britannica named my essay on Weber best of the web for social science. <i class="fa fa-trophy" aria-hidden="true"></i>
+<i class="fa fa-university" aria-hidden="true"></i> My [essay on Max Weber](https://criticism.com/md/weber1.html) was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). In 2003, Encyclopaedia Britannica named my [essay](https://criticism.com/md/weber1.html) on Weber best of the web for social science. <i class="fa fa-trophy" aria-hidden="true"></i>
+
 
 
 
