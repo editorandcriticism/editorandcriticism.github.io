@@ -35,13 +35,17 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf)
 
-<i class="fa fa-list" aria-hidden="true"></i> [List of Publications](/publications.html)
+<i class="fa fa-list" aria-hidden="true"></i> [List of  Publications on Technology](/publications.html)
 
-<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts](/cc/blog.html)
+<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html)
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Essays](/papers.html)
 
-<i class="fa fa-google" aria-hidden="true"></i> See also my publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). <i class="fa fa-wikipedia-w" aria-hidden="true"></i>
+<i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) 
+
+<i class="fa fa-wikipedia-w" aria-hidden="true"></i> [Citations on Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1).
+
+<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en). See also my publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). <i class="fa fa-wikipedia-w" aria-hidden="true"></i>
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf) on Semantic Scholar. 
 
