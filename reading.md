@@ -30,6 +30,11 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 ---
 
+**Some writers and critics** who I think have accurately analyzed what's happening now: Broch, Musil, Husserl, Heidegger, Nietzsche, Marcuse, and Kundera.
+
+The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; Catherine Wilson's How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/).
+
+
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
 
@@ -104,7 +109,7 @@ Gogol. Dead Souls.
 
 Graham Greene. Orient Express; Brighton Rock; The Quiet American. 
 
-Ernest Hemingway. All: The Sun Also Rises;  
+Ernest Hemingway. Nearly all: The Sun Also Rises; ...  
 
 Joseph Heller. Catch-22.
 
