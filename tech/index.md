@@ -1,5 +1,6 @@
 ---
 title: On Technology
+keywords: edge AI, telecom, telco, 5G, software stacks, artificial intelligence, machine learning, ML, edge computing, cloud computing, technology, techno, tech, genAI, generative AI
 ---
 
 ## Technology Portfolio and Showcase
@@ -15,9 +16,13 @@ title: On Technology
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf)
 
-<i class="fa fa-list" aria-hidden="true"></i> [List of Publications](/publications.html)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf)
 
-<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts](/cc/blog.html)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [List of Blog Posts and Papers on Edge AI for 2025](/tech/edge-ai-blogs-papers-2025.pdf) 
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of Publications on Technology](/publications.html)
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html)
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i>
 [Author bio](/books/author-bio.html) of Steve Hoenisch
@@ -25,7 +30,8 @@ title: On Technology
 
 ---
 
-* [On writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html).
+* [On writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html) in the age of AI.
+
 
 --- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
 
@@ -35,6 +41,7 @@ title: On Technology
 <img src="/photos/barcelona-beach1.jpg" class="img-fluid" alt="Photograph of Barceloneta Beach, Barcelona.">
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steve Hoenisch.
+
 
 
 

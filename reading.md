@@ -35,6 +35,7 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
 
 
+
 ---
 
 
