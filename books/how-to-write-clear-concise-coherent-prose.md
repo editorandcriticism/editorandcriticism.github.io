@@ -30,7 +30,7 @@ Want more information and examples? Here are some books that describe evidence-b
 
 * _On Writing Well_, by William Zinsser.
 
-* _The Sense of Style_, by Steven Pinker, who also supplies a quotation to end this guide with a reminder to balance a focus on style with more important things in life: 
+* _The Sense of Style_, by Steven Pinker, who also supplies a quotation to end this article with a reminder to balance a focus on style with more important things in life: 
 
 >"And for all the vitriol brought out by matters of correct usage, they are the smallest part of good writing. They pale in importance behind coherence, classic style, and overcoming the curse of knowledge, to say nothing of standards of intellectual conscientiousness. If you really want to improve the quality of your writing, or if you want to thunder about sins in the writing of others, the principles you should worry about the most are not the ones that govern fused participles and possessive antecedents but the ones that govern critical thinking and factual diligence."
 

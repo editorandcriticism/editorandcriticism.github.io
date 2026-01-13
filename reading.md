@@ -4,7 +4,7 @@ title: Bookshelf
 
 ## I. Remember. Reading.
 
-### Reading Now
+<!-- ### Reading Now -->
 
 Books that I am reading, rereading, or thinking about now --- all highly recommended expository material to understand the historical context and the age-old conflicts of the present moment: 
 
@@ -32,7 +32,12 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 **Some writers and critics** who I think have accurately analyzed what's happening now: Broch, Musil, Husserl, Heidegger, Nietzsche, Marcuse, and Kundera.
 
-The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; Catherine Wilson's How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/).
+The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
+
+
+---
+
+
 
 
 <!-- ## Fiction Books I Love  -->
@@ -209,6 +214,28 @@ Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities.
 
 <!-- Fiction, notable etc.: William Golding: Lord of the Flies; Nathaniel Hawthorne: The Scarlet Letter; ... -->
 <!-- Nonfiction, notable, etc. but in literature and knowledge and mindfulness area only pls:  -->
+
+
+---
+
+
+### Bookshelf: Writing and Editing
+
+Here are some books that describe evidence-based practices for editing word usage, syntax, sentence construction, and structural organization to produce clear, concise writing. 
+
+* _Style: Toward Clarity and Grace_ (or one of its variants), by Joseph M. Williams.
+
+* _Stylish Academic Writing_, by Helen Sword. 
+
+* _Developmental Editing: A Handbook for Freelancers, Authors, and Publishers_, by Scott Norton. 
+
+* _On Writing Well_, by William Zinsser.
+
+* _The Sense of Style_, by Steven Pinker, who also supplies a quotation to end this article with a reminder to balance a focus on style with more important things in life: 
+
+
+>"And for all the vitriol brought out by matters of correct usage, they are the smallest part of good writing. They pale in importance behind coherence, classic style, and overcoming the curse of knowledge, to say nothing of standards of intellectual conscientiousness. If you really want to improve the quality of your writing, or if you want to thunder about sins in the writing of others, the principles you should worry about the most are not the ones that govern fused participles and possessive antecedents but the ones that govern critical thinking and factual diligence."
+
 
 
 ---
