@@ -12,11 +12,11 @@ title: |
 
 The email address of Steve Hoenisch: ![Steve Hoenisch email address](/images/em.png). 
 
-This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications](/publications.html), [list of blog posts](/cc/blog.html), [publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170), [profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
+This page is my _personal_ profile; for my professional profile, see my [resume](https://criticism.com/md/resume.html), [list of publications on technology](/publications.html), [list of blog posts on technology](/cc/blog.html), [publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170), [profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en), or [LinkedIn page](https://www.linkedin.com/in/steve-hoenisch-4092344b). 
 
 **Current hometown:** Seattle.
 
-**Current home mountains:** Whistler Blackcomb. 
+**Current home mountain:** Whistler Blackcomb. 
 
 ![](/images/steve-hoenisch-skiing.jpg)
 
@@ -91,9 +91,11 @@ I also embrace the mission of the Congressional Progressive Caucus, which was, a
 * Musil.
 * Husserl.
 * Heidegger.
-* Nietzsche
+* Nietzsche.
 * Marcuse.
 * Kundera.
+
+The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; Catherine Wilson's How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). 
 
 **Some writers and critics** who I think have accurately analyzed what's previously happened in the world:
 
@@ -233,6 +235,7 @@ The future is critical. <i class="fa fa-coffee" aria-hidden="true"></i>
 
 <i class="fa fa-medium" aria-hidden="true"></i>
  [Medium.com Page](https://medium.com/@steveski170)
+
 
 
 
