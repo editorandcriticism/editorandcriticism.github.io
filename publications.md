@@ -26,6 +26,46 @@ keywords: white papers, blog posts, blogs, presentations, solution overviews, so
 
 <!-- ++ Add some citations below. Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto women's book along same lines.  -->
 
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on Evaluating Security Capabilities for Edge AI.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [More Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
+
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [white paper](https://github.com/user-attachments/files/22503833/os-image-composer-wp.pdf) titled Composing and Managing Custom OS Images for Performance, Scalability, and Security at the Edge that describes the vision, capabilities, and business benefits of the OS Image Composer tool.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> An end-of-the-year [LinkedIn post](https://www.linkedin.com/pulse/recent-blog-posts-papers-open-edge-platform-ai-steve-hoenisch-co90c) on various recent publications.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> The [Robotics AI Suite goes gold](https://github.com/open-edge-platform/edge-ai-suites/discussions/1481) with release 2025.2 of Edge AI Suites.  
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ringing in release 2025.2 of Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries/discussions/1601).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A GitHub Discussions blog post titled [Validating the Performance of Edge AI Workloads on Intel Processors with Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/497) on running easy-to-benchmark sample applications for smart traffic intersections and wind turbine predictive maintenance on Edge Microvisor Toolkit to showcase the power and performance of running edge AI workloads on Intel processors. 
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ringing in Release 2025.2 of Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1301).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A description of the [purpose and capabilities](https://docs.openedgeplatform.intel.com/dev/edge-microvisor-toolkit/index.html) of Edge Microvisor Toolkit and an [explanation](https://github.com/open-edge-platform/edge-microvisor-toolkit/blob/3.0/RELEASE_POLICY.md) of the toolkit's open source release policy model.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A short [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/616) on where to download the various versions of Edge Microvisor Toolkit.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> Deploying Edge Microvisor Toolkit with Edge Manageability Framework to Evaluate Intel Processors for AI Workloads, a GitHub Discussions [blog post](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1039) on using the different versions of the toolkit to evaluate the latest Intel processor optimizations.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/644) to highlight the latest release of Edge Microvisor Toolkit.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/591) on the public availability of OS Image Composer.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/585) on using the real-time version of Edge Microvisor Toolkit.  
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/521) on selecting a version of Edge Microvisor Toolkit for demonstrating the capabilities of Intel platforms.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> An [FAQ](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/545) on the Purpose and Uses of Edge Microvisor Toolkit. 
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> An evolving [list of resources](https://github.com/open-edge-platform/edge-ai-resources/blob/main/README.md) for participating in or [contributing to Open Edge Platform](https://github.com/open-edge-platform/edge-ai-resources/blob/main/oep-participate-contribute.md). 
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A GitHub Discussions [blog post](https://github.com/open-edge-platform/os-image-composer/discussions/229) that includes a concise section on how to download, install, and try out the OS Image Composer tool. 
+
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [White Paper:](https://www.vmware.com/docs/vwm-envisioning-service-management-and-orchestration-for-five-g) Envisioning Service Management and Orchestration for 5G: Toward a Modular Multi-Vendor, Multi-Cloud SMO Spanning Beyond RAN to Core and Edge
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Solution Brief:](https://www.vmware.com/docs/vmw-telco-smo-use-cases-overview) Orchestrate, Automate, and Assure O-RAN with SMO: Saving Energy in the RAN, Optimizing Services with AI/ML, Deploying CNFs, and Other SMO Use Cases
@@ -632,6 +672,38 @@ See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 <i class="fa fa-file-text"></i> [Resume](/md/resume.html)
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
+
+
+---
+
+
+
+<i class="fa fa-medium" aria-hidden="true"></i>
+ [Medium.com Page](https://medium.com/@steveski170).
+
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b).
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html).
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](/tech/edge-ai-blogs-papers-2025.pdf) 
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html).
+
+<i class="fa fa-files-o" aria-hidden="true"></i> [Essays](/papers.html).
+
+<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en). 
+
+<i class="fa fa-google" aria-hidden="true"></i> Publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch).
+
+<i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf) on Semantic Scholar. 
+
+<i class="fa fa-coffee" aria-hidden="true"></i> [Author bio](/books/author-bio.html) of Steve Hoenisch
+
+
+
+
 
 
 

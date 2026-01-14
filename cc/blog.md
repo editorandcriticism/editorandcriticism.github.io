@@ -4,6 +4,43 @@ description: Technology blog of Steve Hoenisch, technology evangelist. Covers em
 keywords: Linux, container host runtime, cloud-native applications, cloud computing, virtualized data center, virtualization, cloud applications, Kubernetes, containers, application container, cloud native, security, cybersecurity, telco, telecom, telecommunications.
 ---
 
+
+
+
+### Latest Blog Posts
+
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on Evaluating Security Capabilities for Edge AI.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [More Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> An end-of-the-year [LinkedIn post](https://www.linkedin.com/pulse/recent-blog-posts-papers-open-edge-platform-ai-steve-hoenisch-co90c) on various recent publications.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> The [Robotics AI Suite goes gold](https://github.com/open-edge-platform/edge-ai-suites/discussions/1481) with release 2025.2 of Edge AI Suites.  
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A GitHub Discussions blog post titled [Validating the Performance of Edge AI Workloads on Intel Processors with Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/497) on running easy-to-benchmark sample applications for smart traffic intersections and wind turbine predictive maintenance on Edge Microvisor Toolkit to showcase the power and performance of running edge AI workloads on Intel processors. 
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ringing in release 2025.2 of Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries/discussions/1601).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ringing in Release 2025.2 of Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1301).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A short [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/616) on where to download the various versions of Edge Microvisor Toolkit.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> Deploying Edge Microvisor Toolkit with Edge Manageability Framework to Evaluate Intel Processors for AI Workloads, a GitHub Discussions [blog post](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1039) on using the different versions of the toolkit to evaluate the latest Intel processor optimizations.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/644) to highlight the latest release of Edge Microvisor Toolkit.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/591) on the public availability of OS Image Composer.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/585) on using the real-time version of Edge Microvisor Toolkit.  
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/521) on selecting a version of Edge Microvisor Toolkit for demonstrating the capabilities of Intel platforms.
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A GitHub Discussions [blog post](https://github.com/open-edge-platform/os-image-composer/discussions/229) that includes a concise section on how to download, install, and try out the OS Image Composer tool. 
+
+
 ### Recent Blog Posts
 
 <i class="fa fa-info" aria-hidden="true"></i> For some of these blog posts, I acted as the ghost writer; for other posts, I worked with the original authors to rewrite or substantially revise the content. I wrote and edited many of them myself. 
@@ -161,5 +198,7 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 
 <!-- # Big Data -->
 <!-- <#include "limitations-of-data-driven-analysis.md"> -->
+
+
 
 
