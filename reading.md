@@ -41,6 +41,23 @@ The following books, perhaps more practical and accessible, also come to mind: T
 
 
 
+<!-- see also
+https://www.nyrb.com/collections/nyrb-series
+and
+https://www.nyrb.com/collections/classics
+-->
+
+<!-- nonfiction Lit K adds: Mikhail Bakhtin, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer. -->
+
+
+### Vectors of Ambivalence and Ambiguity 
+
+Philosophy and literature; literatue and knowledge; aesthetics; praxis; mindfulness; critical analysis; phenomenology; existentialism; critical theory; cosmopolitanism; psychanalysis and literary criticism; mindfulness-based stress reduction; praxis and cultural poetics; text linguistics; writing and editing; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines. 
+
+Literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; against reductionism; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic analytical, creative, and literary praxis. 
+
+
+
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
@@ -64,11 +81,15 @@ Balzac.
 
 Roland Barthes. Writing Degree Zero; S/Z; Mythologies; Camera Lucida; The Fashion System; Elements of Semiology; Empire of Signs; A Lover's Discourse; The Grain of the Voice; **The Pleasure of the Text.**
 
-Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift. 
+Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift.
+
+Marshall Berman. **All That Is Solid Melts Into Air.** ...
 
 Borges. Ficciones; Labyriths. 
 
-Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House. 
+Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House.
+
+Ray Bradbury. Fahrenheit 451.
 
 Emily Bronte. Wuthering Heights.
 
@@ -142,11 +163,9 @@ Barbara Kingsolver. ...
 
 Jerzy Kosinski. Steps; Being There; ... 
 
-Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; Laughable Loves; Slowness; The Curtain: An Essay in Sever Parts; The Art of the Novel.
+Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; Laughable Loves; Slowness; **The Curtain: An Essay in Sever Parts**; **The Art of the Novel.**
 
->“What does Cervantes’s great novel mean? Much has been written on the question. Some see in it a rationalist critique of Don Quixote’s hazy idealism. Others see it as a celebration of that same idealism. Both interpretations are mistaken because they both seek at the novel’s core not an inquiry but a moral position.”
-
-	---Excerpt From Milan Kundera's _The Art of the Novel_
+>“What does Cervantes’s great novel mean? Much has been written on the question. Some see in it a rationalist critique of Don Quixote’s hazy idealism. Others see it as a celebration of that same idealism. Both interpretations are mistaken because they both seek at the novel’s core not an inquiry but a moral position.” --- Excerpt From Milan Kundera's _The Art of the Novel_.
 
 
 Hanif Kureishi. The Buddha of Suburbia.
@@ -175,6 +194,8 @@ Iris Murdoch. Existentialists and Mystics; The Philosopher's Pupil; The Sacred a
 
 Nabokov. Laughter in the Dark; Lolita.
 
+George Orwell. 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
+
 Orhan Pamuk. The White Castle. Memories of Distant Mountains. Want to read: A Strangeness in My Mind; The Naive and the Sentimental Novelist.
 
 Dorothy Parker. The Portable Dorothy Parker; Selected Stories.
@@ -185,13 +206,13 @@ Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Min
 
 Niel Postman: Amusing Ourselves to Death; **Technopoly.**
 
-Thomas Pynchon. The Crying of Lot 49; Inherent Vice.
+Thomas Pynchon. The Crying of Lot 49; **Inherent Vice. Vineland.**
 
 Michael Ondaatje. The English Patient. 
 
 Richard Russo. Mohawk; The Risk Pool.
 
-Salman Rushdie. Midnight's Children; Haroon and the Sea of Stories; Luka and Fire of Life; Languages of Truth.
+Salman Rushdie. Midnight's Children; Haroon and the Sea of Stories; Luka and Fire of Life; **Languages of Truth.**
 
 Philip Roth. The Professor of Desire.
 
@@ -211,7 +232,9 @@ Mark Twain. The Adventures of Huckleberry Finn; Life on the Mississippi.
 
 Gore Vidal. Myra Breckinridge and Myron; United States: Essays 1952–92.
 
-Kurt Vonnegut Jr. All. ... 
+Kurt Vonnegut Jr. All. ...
+
+Raymond Williams. The Country and the City. ... 
 
 E.B. White. Essays of E.B. White; The Elements of Style. 
 
@@ -230,16 +253,15 @@ Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities.
 
 Here are some books that describe evidence-based practices for editing word usage, syntax, sentence construction, and structural organization to produce clear, concise writing. 
 
-* _Style: Toward Clarity and Grace_ (or one of its variants), by Joseph M. Williams.
+_Style: Toward Clarity and Grace_ (or one of its variants), by Joseph M. Williams.
 
-* _Stylish Academic Writing_, by Helen Sword. 
+_Stylish Academic Writing_, by Helen Sword. 
 
-* _Developmental Editing: A Handbook for Freelancers, Authors, and Publishers_, by Scott Norton. 
+_Developmental Editing: A Handbook for Freelancers, Authors, and Publishers_, by Scott Norton. 
 
-* _On Writing Well_, by William Zinsser.
+_On Writing Well_, by William Zinsser.
 
-* _The Sense of Style_, by Steven Pinker, who also supplies a quotation to end this article with a reminder to balance a focus on style with more important things in life: 
-
+_The Sense of Style_, by Steven Pinker, who also supplies a quotation to end this article with a reminder to balance a focus on style with more important things in life: 
 
 >"And for all the vitriol brought out by matters of correct usage, they are the smallest part of good writing. They pale in importance behind coherence, classic style, and overcoming the curse of knowledge, to say nothing of standards of intellectual conscientiousness. If you really want to improve the quality of your writing, or if you want to thunder about sins in the writing of others, the principles you should worry about the most are not the ones that govern fused participles and possessive antecedents but the ones that govern critical thinking and factual diligence."
 
@@ -259,12 +281,3 @@ Here are some books that describe evidence-based practices for editing word usag
 
 
 
-<!-- see 
-https://www.nyrb.com/collections/nyrb-series
-and
-https://www.nyrb.com/collections/classics
--->
-
-<!-- Mikhail Bakhtin, Roland Barthes, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer, Marshal Berman, and  especially Raymond Williams (*The Country and the City* is one of my favorite books). 
-
--->
