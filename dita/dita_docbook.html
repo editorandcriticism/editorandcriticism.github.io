@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>DITA and DocBook</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+  <link href="/css/nord.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/ccstyle.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+<div id="doc" class="container-fluid">
+
+<!-- ============================================= -->
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark"  data-bs-theme="dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" style="color: #40e0d0; font-variant: small-caps;" href="https://criticism.com">Criticism.Com</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link" href="/papers.html">Essays</a>
+        <a class="nav-link" href="/md/resume.html">Resume</a>
+        <a class="nav-link" href="/cc/blog.html">Blog Posts</a>
+        <a class="nav-link" href="/publications.html">Publications</a>
+        <a class="nav-link" href="/critics-notebook.html">Critic's Notebook</a>
+        <a class="nav-link" href="/photos/index.html">Photographs</a>
+<span class="navbar-text" style="font-variant: small-caps;"><i class="fa fa-balance-scale fa-inverse" aria-hidden="true"></i> Critical Thought, Text, and Technology.</span>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+<!-- ============================================= -->
+      <!-- your page content: -->
+<!-- ============================================= -->
+
+
+<p>&nbsp;</p>
+
+<!--
+Experiments at the interplay of critical thought, text, and technology.
+-->
+
+<header>
+<h1 class="title">DITA and DocBook</h1>
+</header>
+<h3 id="presentation-a-terse-overview-of-dita-and-docbook">Presentation:
+A Terse Overview of DITA and DocBook</h3>
+<p><em>The content in this presentation, which is from circa 2002, may
+be out of date.</em></p>
+<h3 id="contents">Contents</h3>
+<p>What Is DocBook?</p>
+<p>What Is DITA?</p>
+<p>DITA Details</p>
+<p>DITA Demonstration</p>
+<p>Resources for further Exploration</p>
+<h3 id="what-is-docbook">What is DocBook?</h3>
+<p>DocBook is an OASIS standard that provides a system for writing
+structured documents in SGML or XML.</p>
+<p>It is a large, robust, and easy-to-understand DTD, the main
+structures of which correspond to a book. There is also a small subset
+DTD, called simplified DocBook, for articles.</p>
+<p>It is especially well-suited to books and papers about computer
+hardware and software, but not limited to them. Simplified DocBook is
+well-suited for shorter, article-length material.</p>
+<p>DocBook has been widely adopted by a large community of authors and
+organizations. It is supported by a number of authoring programs,
+including XMLMind, which you can install and play with for free (see,
+for instance, www.xmlmind.com).</p>
+<h3 id="what-is-dita">What Is DITA?</h3>
+<p>DITA stands for Darwin Information Typing Architecture.</p>
+<p>Initially developed by IBM, the DITA DTD is now an OASIS
+standard.</p>
+<p>DITA defines:</p>
+<ul>
+<li>A set of document types for authoring and organizing topic-oriented
+information in XML.</li>
+<li>A set of mechanisms for combining and extending document types using
+a process called specialization.</li>
+</ul>
+<p>DITA is best suited for writing modular, topic-oriented
+documents.</p>
+<h3 id="dita-basics">DITA Basics</h3>
+<p>DITA is an architecture for creating topic-oriented,
+information-typed content that can be reused and single-sourced in a
+variety of ways.</p>
+<p>It is also an architecture for creating new topic types and
+describing new information domains based on existing types and
+domains.</p>
+<p>The process for creating new topic types and domains is called
+specialization.</p>
+<h3 id="information-typing">Information Typing</h3>
+<p>Information typing is the practice of identifying types of topics
+that contain distinct kinds information, such as concepts, tasks, and
+reference information.</p>
+<p>Information typing is part of the general authoring approach called
+structured writing, used across the technical writing to improve
+information quality.</p>
+<p>Topics that answer different kinds of questions can be categorized as
+different information types.</p>
+<p>The base topic types provided by DITA ( a generic topic, plus
+concept, task, and reference ) can be adopted for immediate authoring or
+extended through specialization.</p>
+<h3 id="generic-topic">Generic Topic</h3>
+<p>Concept, Task, Reference</p>
+<p>Concept topics answer ″What is…″ questions. They include a body-level
+element with a basic topic structure, including sections and
+examples.</p>
+<p>Task topics answer ″How do I?″ questions. They have a well-defined
+structure that describes how to complete a procedure to accomplish a
+specific goal.</p>
+<p>Reference topics describe regular features of a subject or product,
+such as commands in a programming language.</p>
+<h3 id="specialization">Specialization</h3>
+<p>Specialization allows the creation of specific, targeted document
+type definitions while still sharing common output transforms and design
+rules developed for more general types and domains. For example,
+elementref is a specialization based on DITA’s default reference topic.
+It is a DTD that describes a structure for documenting a schema or
+DTD:</p>
+<p>Because the elementref DTD shares output transforms developed for the
+reference type, a new XSLT stylesheet need not necessarily be created to
+transform it to HTML.</p>
+<h3 id="domains">Domains</h3>
+<p>A DITA domain defines a set of elements associated with a particular
+subject area or authoring requirement regardless of topic type.</p>
+<p>The elements in a domain are defined in a domain module that can be
+integrated with a topic type to provide access to the domain elements
+within the topic type structure.</p>
+<p>DITA’s default domains:</p>
+<ul>
+<li>Typographic</li>
+<li>Programming</li>
+<li>Software</li>
+<li>User interfaces</li>
+<li>Utilities</li>
+</ul>
+<p>You may define your own domains.</p>
+<h3 id="transclusion-mechanism">Transclusion Mechanism</h3>
+<p>DITA includes a transclusion mechanism that is validated under DTD
+processing rules: an element “can replace itself with the content of a
+like element elsewhere, either in the current topic or in a separate
+topic that shares the same content models.”</p>
+<p>Conref is stricter than XInclude: Only equivalent content can be
+incorporated.</p>
+<p>If there is a mismatch between the reusing and reused element types,
+the reference is not resolved. It also goes beyond standard entity
+reuse: It allows the reused content to be in a valid XML file with a
+DTD.</p>
+<p>The upshot is that reused content gets validated at authoring time,
+rather than at reuse time, catching problems when they can most easily
+be fixed.</p>
+<h3 id="dita-maps">DITA Maps</h3>
+<p>DITA maps organize references to DITA topics and specify the
+relationships among them.</p>
+<p>They can also serve as outlines or tables of contents for DITA
+deliverables and as build manifests for DITA projects.</p>
+<p>The maps represent the architecture of an information set – the
+topics that are needed and their relationships to one another.</p>
+<p>Maps describe the context in which the topics will be read – the
+audience, platform, or other requirements of the information set.</p>
+<p>Maps provide a mechanism that allows DITA documents to become
+relatively context-free, enabling them to be more easily reused in
+different contexts.</p>
+<h3 id="basic-map-elements-and-attributes">Basic Map Elements and
+Attributes</h3>
+<p>Layer Provides Scalable Reuse</p>
+<p>Maps allow scalable reuse of content across multiple contexts,
+including</p>
+<ul>
+<li>Defining an information architecture or online navigation</li>
+<li>Defining audience-specific document sets</li>
+<li>Defining sets of related links</li>
+</ul>
+<p>The map’s layer of abstraction provides a central file from which you
+can build, manage, and publish, with a single command, the content and
+navigational structures for an entire web site or a section of one.</p>
+<h3 id="key-metadata-qualification-constructs">Key Metadata
+Qualification Constructs</h3>
+<p>audience attribute: The type, job, experience level, and other
+characteristics of the reader for the topic. The audience element can
+elaborate values used by audience attributes.</p>
+<p>category element: A classification of the topic content, equivalent
+to both Dublin Core Coverage and</p>
+<p>Dublin Core Subject.</p>
+<p>DITA’s metadata attributes and elements can be used to create
+audience- or subject-specific document subsets from a given document
+set.</p>
+<h3 id="processing-maps">Processing Maps</h3>
+<p>The DITA package includes XSLT stylesheets that enable you, with a
+single command, to transform all the documents referenced by a map to
+HTML and build a table of contents that links to all of them.</p>
+<p>The package also includes a stylesheet for merging all the documents
+referenced by a map into a single DITA file.</p>
+<p>Authoring Software that Supports DITA</p>
+<ul>
+<li>XMetal by Blast Radius</li>
+<li>Epic Editor by Arbortext</li>
+</ul>
+<h3 id="dita-demonstration">DITA Demonstration</h3>
+<ul>
+<li>Specialization example: DTD element reference.</li>
+<li>Example document: Raw XML transformed to HTML.</li>
+<li>Example: DITA map.</li>
+<li>Example: Using map to transform all documents referenced by it and
+output a table of contents linking to all of them.</li>
+<li>Example: Merge all topics into single XML document and transform to
+HTML.</li>
+</ul>
+<h3 id="resources-for-exploration">Resources for Exploration</h3>
+<p>DITA and DocBook at OASIS:
+https://www.oasis-open.org/specs/index.php</p>
+<p>DITA documentation and downloads at the XML Cover Pages, hosted by
+OASIS: https://xml.coverpages.org/dita.html</p>
+<p>DITA articles at IBM’s developerWorks web site:
+https://www-128.ibm.com/developerworks/xml/library/x-dita1/</p>
+<p>DocBook: The Definitive Guide, at
+https://www.docbook.org/tdg/en/html/docbook.html</p>
+<p>DocBook.org</p>
+<hr />
+<h1 id="articles-on-xml">Articles on XML</h1>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="xml_intro.html">An Introduction to XML</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/structuring_docs.html">Structuring XML Documents</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/dtd1.html">Developing a DTD</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/dtd2.html">Attributes and Entities in DTDs</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/xsl1.html">Introduction to XSL: Using Stylesheets to
+Separate Content from Presentation</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/xsl2.html">XSLT: Elegance and Power</a></p>
+<p><i class="fa fa-file-o" aria-hidden="true"></i> <a
+href="/dita/xsl-switch.html">Switching Document Views with XML and
+Script</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/xml-definition.html">XML: A Metalanguage for Describing and
+Structuring Data</a></p>
+<p><i class="fa fa-file-o" aria-hidden="true"></i> <a
+href="/dita/dss.html">Using Data Structure Standards to Foster
+Efficiency and Opportunity</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/principles-of-separation.html">Principles of Separating
+Content from Presentation</a></p>
+<p><i class="fa fa-file-o" aria-hidden="true"></i> <a
+href="/dita/xml-hierarchical-trees.html">Hierarchical Trees in
+XML</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/xsl-and-css.html">Using XSL and CSS to Format XML
+Documents</a></p>
+<p><i class="fa fa-file-o" aria-hidden="true"></i> <a
+href="/dita/dita_docbook.html">DITA and DocBook: An Overview and
+Demonstration</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/markup_strategies.html">XML Markup Strategies: Approaches
+for Structuring Documents</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/seo/docbook.html">DocBook SEO: Tagging DocBook XML Documents for
+Search Engine Optimization</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/cc/about-xc.html">XC: A Minimalist, Structural DTD for XML Points
+Toward Markdown Documents</a></p>
+<p><i class="fa fa-file-text-o" aria-hidden="true"></i> <a
+href="/dita/xsl2_code/simple_doc.html">Review: Using XML to Separate
+Content from Prensentation</a> | <a
+href="https://criticism.com/dita/xsl2_code/simple_doc.pdf">PDF</a>
+<i class="fa fa-moon-o" aria-hidden="true"></i></p>
+<hr>
+<div class="footer">
+<span style="font-size: 80%;">
+<i class="fa fa-flask" aria-hidden="true"></i> <a href="/papers.html">Essays</a>
+| <i class="fa fa-language" aria-hidden="true"></i> <a href="/cc/blog.html"> Blog Posts</a>
+| <i class="fa fa-coffee" aria-hidden="true"></i> <a href="/publications.html"> Publications</a> 
+</span>
+<br/>
+<span style="font-size: 80%;"><font color="gray">Copyright © 1995-2026</font>  
+<a href="/md/resume.html" style="color: gray;">Steve Hoenisch</a> <font color="gray">and <a href="https://criticism.com" style="color: gray;">Criticism.Com</a>. All rights reserved. Disclaimer: The views and opinions expressed on Criticism.Com are strictly my own and are not the opinions or views of the company that I work for now or any company or organization that I have worked for in the past. </font><a href="/map.html"> Site Map</a> <i class="fa fa-globe" aria-hidden="true"></i>
+</span>
+<p/>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js" integrity="sha384-7qAoOXltbVP82dhxHAUje59V5r2YsVfBafyUDxEdApLPmcdhBPg1DKg1ERo0BZlK" crossorigin="anonymous"></script>
+</body>
+</html>
