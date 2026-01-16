@@ -35,12 +35,6 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
 
 
-
----
-
-
-
-
 <!-- see also
 https://www.nyrb.com/collections/nyrb-series
 and
@@ -52,12 +46,9 @@ https://www.nyrb.com/collections/classics
 
 ### Vectors of Ambivalence and Ambiguity 
 
-Philosophy and literature; literatue and knowledge; aesthetics; praxis; mindfulness; critical analysis; phenomenology; existentialism; critical theory; cosmopolitanism; psychanalysis and literary criticism; mindfulness-based stress reduction; praxis and cultural poetics; text linguistics; writing and editing; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines. 
+Philosophy and literature; literatue and knowledge; aesthetics; praxis; mindfulness; critical analysis; phenomenology; existentialism; critical theory; cosmopolitanism; psychanalysis and literary criticism; mindfulness-based stress reduction; praxis and cultural poetics; text linguistics; writing and editing; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
 
-Literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; against reductionism; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic analytical, creative, and literary praxis. 
-
-
-
+Literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; against reductionism; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
@@ -131,6 +122,8 @@ Flaubert. Madame Bovary.
 
 E. M. Forster. A Room with a View. ...
 
+Paulo Freire. Pedagogy of the Oppressed.
+
 Goethe. Faust; The Sorrows of Young Werther.
 
 Gogol. Dead Souls. 
@@ -153,7 +146,7 @@ Ruth Prawer Jhabvala. Heat and Dust.
 
 James Joyce. A Portrait of the Artist as a Young Man; Ulysses; Dubliners.
 
-Kafka. The Castle; The Trial; Metamorphosis and Other Stories.
+Kafka. The Trial; Metamorphosis and Other Stories; **The Castle**.
 
 Jack Kerouac. On the Road. 
 
@@ -222,10 +215,10 @@ Mona Simpson. Anywhere But Here.
 
 Susan Sontag. Against Interpretation.
 
-Zadie Smith. White Teeth.
+Zadie Smith. White Teeth. **Dead and Alive.**
 
-John Steinbeck. 
-
+John Steinbeck. ...
+ 
 Bram Stoker. Dracula.
 
 Mark Twain. The Adventures of Huckleberry Finn; Life on the Mississippi.
@@ -234,7 +227,7 @@ Gore Vidal. Myra Breckinridge and Myron; United States: Essays 1952–92.
 
 Kurt Vonnegut Jr. All. ...
 
-Raymond Williams. The Country and the City. ... 
+Raymond Williams. **The Country and the City.** ... 
 
 E.B. White. Essays of E.B. White; The Elements of Style. 
 
