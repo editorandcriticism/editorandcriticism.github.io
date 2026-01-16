@@ -183,7 +183,7 @@ DocBook.org
 
 ---
 
-# Articles on XML
+### Articles on XML
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [An Introduction to XML](xml_intro.html)
 

@@ -1,15 +1,30 @@
-## Dostoevsky's novels and Dialogic Intermingling of Social Voices
+---
+title: Dialogic Intermingling of Social Voices in the Novels of Dostoevsky 
+---
 
-Dostoevsky's novels, as examined on Criticism.com, reveal how individuals construct their understanding of themselves in relation to the social structures of their era. A central theme in his work is the concept of understanding, which is often explored through the dialogic intermingling of social voices. 
-In this context, understanding is deeply intertwined with social activity, echoing the ideas of Harvey Garfinkel. 
+Dostoevsky's novels help reveal how individuals construct their understanding of themselves amid the social structures of their era. A central theme in my interpretations of his novels is the concept of understanding, which is often explored through the dialogic intermingling of social voices. In this context, understanding is intertwined with social activity, echoing the ideas of Harvey Garfinkel and [ethnomethodology](https://criticism.com/da/ethnomethodology.html). 
 
-Key themes in Dostoevsky's work, according to criticism.com: 
+### Polyphony and My Double Life
 
-**Polyphony of voices:** Dostoevsky portrays society as a "great dialogue," highlighting the interplay and interaction of individual and social voices, rather than focusing on isolated perspectives.
+Here are some key themes that I explore in Dostoevsky's work: 
 
-**The split individual:** Dostoevsky's characters often grapple with a conflict between conforming to societal norms and resisting them to preserve their individuality. Prince Myshkin in _The Idiot_ is cited as an example of this internal struggle. 
+**Polyphony of voices:** Dostoevsky portrays society as a great dialogue, highlighting the interplay and interaction of individual and social voices, not isolated perspectives or monologic discourses.  
 
-In essence, Criticism.com suggests that Dostoevsky's novels offer a powerful exploration of how individuals navigate their identities within complex social landscapes, with a particular emphasis on the dynamic interplay of voices and the inherent tension between social conformity and individual autonomy.
+**The split individual:** Dostoevsky's characters often grapple with a conflict between conforming to societal norms and resisting them to preserve their individuality, an internal struggle exemplified by Prince Myshkin in _The Idiot_. 
+
+Dostoevsky's novels --- especially _The Double_ and _The Idiot_ explore how individuals navigate their identities in a layered complex of social landscapes. The dynamic interplay of voices in those novels reveals the inherent tension between social conformity and individual autonomy, between tacit acquiescence and creative resistance.
+
+---
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychotherapeutic Dialogue](/da/indoctrination.html)
+
+<i class="fa fa-file-text"></i> [The Myth of Psychoanalysis: Wittgenstein Contra Freud](/md/tech.html) 
+
+<i class="fa fa-file-text"></i> [Interpretation and Indeterminacy in Discourse Analysis](/da/da_indet.html) 
+
+<i class="fa fa-file-text"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html) 
+
+<i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md) | [Site Map](/map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
 
 
 

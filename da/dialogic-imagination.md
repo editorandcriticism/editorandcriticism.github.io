@@ -1,4 +1,7 @@
-## Dialogic Imagination 
+---
+title: Dialogic Imagination 
+---
+
 
 Dialogic imagination, a key concept in literary and cultural criticism largely from Mikhail Bakhtin's book _The Dialogic Imagination_, gives you a multifaceted lens for analyzing text, technology, and context. Apologies if I depreciate it by reducing it to a few bullet points, the following of which are but a few applications of Bakhtin's lens: 
 
@@ -17,9 +20,10 @@ Dialogic imagination supplies a subtle yet powerful and dynamic lens for analyzi
 
 What does this all mean? Why does it matter. Because lenses like the dialogic imagination empower your brain to break out of its box, to bore through the phenomenological walls so long imposed upon you by the totality of the system in which you're embedded. 
 
-...
 
------
+
+
+---
 
 <i class="fa fa-file-text" aria-hidden="true"></i> [Exploring subjects at the intersection of critical thought, text, and technology](/linguistics/writing-on-criticism-dot-com.html)
 
@@ -30,27 +34,6 @@ What does this all mean? Why does it matter. Because lenses like the dialogic im
 <i class="fa fa-file-text" aria-hidden="true"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html)
 
 <i class="fa fa-coffee" aria-hidden="true"></i> [Critical Theory Page](/critical-theory/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

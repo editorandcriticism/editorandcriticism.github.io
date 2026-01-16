@@ -62,7 +62,7 @@ Paul Auster. The New York Trilogy.
 
 Balzac.
 
-Roland Barthes. **The Pleasure of the Text.**
+Roland Barthes. Writing Degree Zero; S/Z; Mythologies; Camera Lucida; The Fashion System; Elements of Semiology; Empire of Signs; A Lover's Discourse; The Grain of the Voice; **The Pleasure of the Text.**
 
 Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift. 
 
@@ -142,7 +142,12 @@ Barbara Kingsolver. ...
 
 Jerzy Kosinski. Steps; Being There; ... 
 
-Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; The Art of the Novel; The Curtain: An Essay in Sever Parts; Laughable Loves; Slowness.
+Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; Laughable Loves; Slowness; The Curtain: An Essay in Sever Parts; The Art of the Novel.
+
+>“What does Cervantes’s great novel mean? Much has been written on the question. Some see in it a rationalist critique of Don Quixote’s hazy idealism. Others see it as a celebration of that same idealism. Both interpretations are mistaken because they both seek at the novel’s core not an inquiry but a moral position.”
+
+	---Excerpt From Milan Kundera's _The Art of the Novel_
+
 
 Hanif Kureishi. The Buddha of Suburbia.
 
@@ -166,7 +171,7 @@ Toni Morrison. ...
 
 Bharati Mukherjee. Jasmine. 
 
-Iris Murdoch. ...
+Iris Murdoch. Existentialists and Mystics; The Philosopher's Pupil; The Sacred and Profane Love Machine; Under The Net (Vintage Classics Murdoch Series).
 
 Nabokov. Laughter in the Dark; Lolita.
 
