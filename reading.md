@@ -46,9 +46,9 @@ https://www.nyrb.com/collections/classics
 
 ### Vectors of Ambivalence and Ambiguity 
 
-Philosophy and literature; literatue and knowledge; aesthetics; praxis; mindfulness; critical analysis; phenomenology; existentialism; critical theory; cosmopolitanism; psychanalysis and literary criticism; mindfulness-based stress reduction; praxis and cultural poetics; text linguistics; writing and editing; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
+Philosophy and literature; literatue and knowledge; praxis; mindfulness; critical analysis; literary criticism; phenomenology; existentialism; critical theory; cosmopolitanism; text linguistics; writing and editing; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
 
-Literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; against reductionism; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
+Literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
@@ -59,6 +59,10 @@ Literature as social knowledge; the dialogic voice and the dialogic imagination;
 <!-- + Start at hs nd try to remember from there; include important nonfiction and fiction in same list: -->
 
 Chinua Achebe. Things Fall Apart: A Novel.
+
+Martin Amis. London Fields; Money; The Moronic Inferno and Other Visits to America. Want to read: The War Against Cliché: Essays and Reviews, 1971-2000; a quotation from it: 
+
+>"To idealise: all writing is a campaign against cliche. Not just cliches of the pen but cliches of the mind and cliches of the heart. When I dispraise, I am usually quoting cliches. When I praise, I am usually quoting the opposed qualities of freshness, energy and reverberation of voice."
 
 Margeret Atwood. Cat's Eye; The Handmaid's Tale.
 
