@@ -46,12 +46,13 @@ https://www.nyrb.com/collections/classics
 
 ### Vectors of Ambivalence and Ambiguity 
 
-Philosophy and literature; literatue and knowledge; praxis; mindfulness; critical analysis; literary criticism; phenomenology; existentialism; critical theory; cosmopolitanism; text linguistics; writing and editing; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
+Philosophy and world literature; literatue and knowledge; praxis; mindfulness; critical analysis; literary criticism; phenomenology; existentialism; critical theory; cosmopolitanism; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
 
-Literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
+Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
+
 
 
 ### Bookshelf: Literature and Knowledge
@@ -60,7 +61,7 @@ Literature as social knowledge; the dialogic voice and the dialogic imagination;
 
 Chinua Achebe. Things Fall Apart: A Novel.
 
-Martin Amis. London Fields; Money; The Moronic Inferno and Other Visits to America. Want to read: The War Against Cliché: Essays and Reviews, 1971-2000; a quotation from it: 
+Martin Amis. London Fields; Money; The Pregnant Widow; The Moronic Inferno and Other Visits to America. Want to read: The War Against Cliché: Essays and Reviews, 1971-2000; a quotation from it: 
 
 >"To idealise: all writing is a campaign against cliche. Not just cliches of the pen but cliches of the mind and cliches of the heart. When I dispraise, I am usually quoting cliches. When I praise, I am usually quoting the opposed qualities of freshness, energy and reverberation of voice."
 
@@ -94,6 +95,8 @@ Camus. The Myth of Sisyphus; The Stranger; The Rebel.
 
 Raymond Carver. Cathedral; Will You Please Be Quiet, Please; Fires: Essays, Poems, Stories; What We Talk About When We Talk About Love: Stories; Where I’m Calling From: New and Selected Stories; Short Cuts.
 
+Miguel de Cervantes. Don Quixote.
+
 Raymond Chandler. The Long Goodbye.
 
 Bruce Chatwin. The Songlines; In Patagonia.
@@ -112,7 +115,7 @@ Charles Dickens. A Tale of Two Cities.
 
 Annie Dilliard. An American Childhood; Pilgrim at Tinker Creek; The Writing Life.
 
-Dostevsky. Notes from Underground; The Double; The Idiot. 
+Dostevsky. **Notes from Underground**; The Double; The Idiot. 
 
 Dubus II, Andre: Selected Stories. (For a list of books in the Vintage Contemporaries series, see [https://vintagecontemporariesbib.com/bibliography/](https://vintagecontemporariesbib.com/bibliography/).)
 
@@ -162,7 +165,7 @@ Jerzy Kosinski. Steps; Being There; ...
 
 Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; Laughable Loves; Slowness; **The Curtain: An Essay in Sever Parts**; **The Art of the Novel.**
 
->“What does Cervantes’s great novel mean? Much has been written on the question. Some see in it a rationalist critique of Don Quixote’s hazy idealism. Others see it as a celebration of that same idealism. Both interpretations are mistaken because they both seek at the novel’s core not an inquiry but a moral position.” --- Excerpt From Milan Kundera's _The Art of the Novel_.
+>“What does Cervantes’s great novel mean? Much has been written on the question. Some see in it a rationalist critique of Don Quixote’s hazy idealism. Others see it as a celebration of that same idealism. Both interpretations are mistaken because they both seek at the novel’s core not an inquiry but a moral position.” --- From Milan Kundera's _The Art of the Novel_.
 
 
 Hanif Kureishi. The Buddha of Suburbia.
@@ -190,6 +193,8 @@ Bharati Mukherjee. Jasmine.
 Iris Murdoch. Existentialists and Mystics; The Philosopher's Pupil; The Sacred and Profane Love Machine; Under The Net (Vintage Classics Murdoch Series).
 
 Nabokov. Laughter in the Dark; Lolita.
+
+Friedrich Nietzsche. Thus Spoke Zarathustra; Beyond Good and Evil: Prelude to a Philosophy of the Future; On the Genealogy of Morality; The Gay Science; The Birth of Tragedy; Twilight of the Idols; Human, All Too Human. 
 
 George Orwell. 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
 
