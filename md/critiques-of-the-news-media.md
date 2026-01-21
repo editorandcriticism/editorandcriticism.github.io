@@ -5,6 +5,8 @@ title: Timeless Critiques of the News Media Amplified by the Age of AI
 I have influenced critiques of the news media primarily by highlighting the negative impact of
 corporate ownership on journalistic integrity and public service. I argue that [prioritizing revenue, appeasing advertisers, and enriching stockholders](https://criticism.com/md/crit1.html) has superseded the media's traditional role as "guardians of our ... right to know," as the Fourth Estate, a role that would be particularly useful in this age of imbalance (2026).  
 
+My work is frequently cited in academic contexts to illustrate the real-world implications of media ownership and control. 
+
 Here on some the critiques of the corporate news media that I highlight on Criticism.com: 
 
 * Critique of Corporate Monopolization: Near-monopoly ownership of daily newspapers by a few corporations fundamentally changes their relationship with democracy. Consolidation leads to a lack of diverse perspectives and places an undue focus on entertainment and superficiality over substantive news, which I typically refer to as image over substance.
@@ -15,9 +17,8 @@ Here on some the critiques of the corporate news media that I highlight on Criti
 
 * Emphasis on Objectivity vs. Control: I discuss how, despite the public's expectation of objective reporting, journalists and editors exert significant control (among other things) over information, raising questions about objectivity in the corporate news landscape. 
 
-I typically use accessible language to expose how the commercial structure of the news industry has corrupted its own legacy --- its original core mission of public service --- undermined democracy in favor of a totality, a sort of informational totalitarianism, a wall of totalizing and reductionist diversions and distractions from real life.
+I typically use accessible language to expose how the commercial structure of the news industry has corrupted its own legacy --- its original core mission of public service --- undermined democracy in favor of a totality, a sort of misinformational totalitarianism, a wall of totalizing and reductionist disinformation, diversions, and distractions from real life.
 
-My work is frequently cited in academic contexts to illustrate the real-world implications of media ownership and control. 
 
 --- Steve Hoenisch <i class="fa fa-coffee" aria-hidden="true"></i>
 
