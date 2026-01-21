@@ -9,6 +9,8 @@ title: Books and Book Reviews at Criticism.Com
 
 * [Reading Books as an Act of Critical Resistance](/books.html).
 
+* [I. Remember. Reading.](https://criticism.com/reading.html)
+
 * [Dostoevsky](/books/dostoevsky-on-criticism-dot-com.html).
 
 * [Polyphonic voice](/books/polyphonic-voice-on-criticism-dot-com.html).

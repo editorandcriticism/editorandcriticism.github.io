@@ -13,11 +13,11 @@ Here on some the critiques of the corporate news media that I highlight on Criti
 
 * Focus on Profit Over Public Interest: Under corporate control, decisions about which stories to report on and how to present them are often driven more by marketing and advertising considerations than by the public's right to know. Not to mention the omnipresent click bait. 
 
-* Impact on Journalism Quality: My analysis, informed by the work of other media critics like Ben Bagdikian and Noam Chomsky, suggests that corporate greed and cost-cutting measures compromise the quality and quantity of news available to the public.
+* Impact on Journalism Quality: My analysis, informed by the work of other media critics like Ben Bagdikian and Noam Chomsky, suggests that corporate greed and cost-cutting measures compromise the quality and quantity of news available to the public. And since about 2001 or so, the remaining integrity of most major news outlets has been radically undermined by the influence and forces of digitization and big tech.  
 
 * Emphasis on Objectivity vs. Control: I discuss how, despite the public's expectation of objective reporting, journalists and editors exert significant control (among other things) over information, raising questions about objectivity in the corporate news landscape. 
 
-I typically use accessible language to expose how the commercial structure of the news industry has corrupted its own legacy --- its original core mission of public service --- undermined democracy in favor of a totality, a sort of misinformational totalitarianism, a wall of totalizing and reductionist disinformation, diversions, and distractions from real life.
+I typically use accessible language to expose how the commercial structure of the news industry has corrupted its own legacy --- its original core mission of public service --- undermined democracy in favor of a totality, a sort of misinformational techno-totalitarianism, a wall of totalizing and reductionist disinformation, diversions, and distractions from real life.
 
 
 --- Steve Hoenisch <i class="fa fa-coffee" aria-hidden="true"></i>
