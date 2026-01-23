@@ -9,10 +9,9 @@ By Steve Hoenisch
 Last updated on May 25, 2002.
 
 
-_Note: This article is likely to be out of date._ 
+_Note: The information in this article is likely out of date._ 
 
-
-Because the example stylesheets in my XML tutorials conform to the W3C's XSL Recommendation while the MSXML parser with which Internet Explorer 5 is natively equipped does not, you must have installed at least version 3 of the MSXML parser and be running it in replace mode for the code to work. 
+Because the example stylesheets in my [XML tutorials](xml_intro.html) conform to the W3C's XSL Recommendation while the MSXML parser with which Internet Explorer 5 is natively equipped does not, you must have installed at least version 3 of the MSXML parser and be running it in replace mode for the code to work. 
 
 Running the parser in replace mode requires manual intervention, so if you don't remember installing and activating it, you're most likely running the old version of the parser, which does not conform to the XSL specification and takes a different XSL namespace. 
 
@@ -31,7 +30,7 @@ Michael Kay's XSLT Programmer's Reference, published by Wrox, covers XSLT in ful
 
 
 
-### Resources	
+### XSL Resources	
 
 W3C's XSL Recommendation
 
@@ -81,6 +80,9 @@ Wrox books
 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Review: Using XML to Separate Content from Prensentation](/dita/xsl2_code/simple_doc.html) | [PDF](https://criticism.com/dita/xsl2_code/simple_doc.pdf) <i class="fa fa-moon-o" aria-hidden="true"></i>
+
+
+
 
 
 

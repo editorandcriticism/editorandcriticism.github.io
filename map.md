@@ -251,18 +251,17 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Live Show: The Connotations of Visual Signs](/md/liveshow.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or
-    Cultural Orientation](/md/newslang.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Motivations for News Language Style: Audience Perception or Cultural Orientation](/md/newslang.html)
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Timeless Critiques of the News Media Amplified by the Age of AI](https://criticism.com/md/critiques-of-the-news-media.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: Reclaim the Media](/md/reclaim-the-media.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: On the FCC and Media Ownership](/md/media-ownership.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Relation Between Civic Society and Newspapers in the Writings of
-    Alexis de Tocqueville and Robert Putnam](/md/putnam1.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Relation Between Civic Society and Newspapers in the Writings of Alexis de Tocqueville and Robert Putnam](/md/putnam1.html)
 
-<i class="fa fa-file-o" aria-hidden="true"></i> [The Future of American Newspapers: A Forecast Written in
-    1991](/md/future.html)
+<i class="fa fa-file-o" aria-hidden="true"></i> [The Future of American Newspapers: A Forecast Written in 1991](/md/future.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [The Mythological Language Of American Newspapers](/md/mythlang.html)
 
@@ -561,6 +560,7 @@ tent: &#9978;
 
 <i class="fa fa-youtube-square" aria-hidden="true"></i>
  [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
+
 
 
 

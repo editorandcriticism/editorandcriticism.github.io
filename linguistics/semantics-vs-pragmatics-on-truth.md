@@ -136,11 +136,6 @@ indeterminacy of translation. [Read more ...](philosophy-of-language-answers.htm
 
 
 
-<i class="fa fa-file-text"></i> **[Schonfinkeled Characteristic
-Functions](schonfinkeled-functions.html)**
-
-
-
 
 
 <i class="fa fa-file-text"></i> **[Distinguishing Pragmatics from

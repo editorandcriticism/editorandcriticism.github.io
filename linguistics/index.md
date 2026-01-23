@@ -106,8 +106,6 @@ Pragmatics](semantics-vs-pragmatics-on-truth.html)
 <i class="fa fa-file-text"></i> [Carnap's Intensionalist
 Approach](carnap-intensionalist.html)
 
-<i class="fa fa-file-text"></i> [Schonfinkeled Characteristic
-Functions](schonfinkeled-functions.html)
 
 
 

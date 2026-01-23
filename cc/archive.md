@@ -16,6 +16,6 @@ These pages are old:
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [Old Cover letter for Technical Writer and Web Developer](/md/cover-letter-sample.html)
 
-<i class="fa fa-file-o" aria-hidden="true"></i> [Schonfinkeled Characteristic
-    Functions](/linguistics/schonfinkeled-functions.html)
+<!-- <i class="fa fa-file-o" aria-hidden="true"></i> [Schonfinkeled Characteristic Functions](/linguistics/schonfinkeled-functions.html) -->
+
 

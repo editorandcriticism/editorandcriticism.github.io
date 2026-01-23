@@ -17,10 +17,13 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 ---
 
-* Thomas Pynchon, Vineland.
-* Kiran Desai, The Loneliness of Sonia and Sunny.
-* Jorge Luis Borges, The Aleph and Other Stories.
-* Jorge Luis Borges, Collected Fictions.
+
+_Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases. Thank you for supporting Criticism.com._ 
+
+* Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl).
+* Kiran Desai, [The Loneliness of Sonia and Sunny](https://amzn.to/3YQEZMb).
+* Jorge Luis Borges, [The Aleph and Other Stories](https://amzn.to/4ba5p2M).
+* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD).
 * Haruki Murakami, The City and Its Uncertain Walls.
 * Gabriel Garcia Marquez, One Hundred Years of Solitude.
 * Thomas Pynchon, Inherent Vice.
@@ -32,7 +35,7 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 **Some writers and critics** who I think have accurately analyzed what's happening now: Broch, Musil, Husserl, Heidegger, Nietzsche, Marcuse, and Kundera.
 
-The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's  Enshittification; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
+The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's Enshittification; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
 
 
 <!-- see also
@@ -81,7 +84,7 @@ Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift.
 
 Marshall Berman. **All That Is Solid Melts Into Air.** ...
 
-Borges. Ficciones; Labyriths. 
+Borges. [Ficciones](https://amzn.to/49zs5IC); [Labyriths](https://amzn.to/4qARiIv). 
 
 Paul Bowles. Stories; Travels; The Sheltering Sky; The Spider's House.
 
@@ -196,6 +199,8 @@ Nabokov. Laughter in the Dark; Lolita.
 
 Friedrich Nietzsche. Thus Spoke Zarathustra; Beyond Good and Evil: Prelude to a Philosophy of the Future; On the Genealogy of Morality; The Gay Science; The Birth of Tragedy; Twilight of the Idols; Human, All Too Human. 
 
+Joyce Carol Oates. ...
+
 George Orwell. 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
 
 Orhan Pamuk. The White Castle. Memories of Distant Mountains. Want to read: A Strangeness in My Mind; The Naive and the Sentimental Novelist.
@@ -214,11 +219,13 @@ Michael Ondaatje. The English Patient.
 
 Richard Russo. Mohawk; The Risk Pool.
 
-Salman Rushdie. Midnight's Children; Haroon and the Sea of Stories; Luka and Fire of Life; **Languages of Truth.**
+Salman Rushdie. **Midnight's Children**; Haroon and the Sea of Stories; Luka and Fire of Life; **Languages of Truth.**
 
 Philip Roth. The Professor of Desire.
 
 Thomas Sanchez. Rabbit Boss; Zoot-Suit Murders.
+
+Sartre. ... 
 
 Mona Simpson. Anywhere But Here.
 
