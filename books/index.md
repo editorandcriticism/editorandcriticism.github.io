@@ -42,11 +42,3 @@ years: Corporate control is ruining our daily newspapers. [Download PDF](/md/cri
 <i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md) | [Site Map](/map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
 
 
-
-
-
-
-
-
-
-

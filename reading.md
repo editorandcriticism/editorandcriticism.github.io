@@ -17,17 +17,19 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 ---
 
->Critical Reading: [The transcript of a special address by Mark Carney, Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered at the World Economic Forum's Annual Meeting 2026 in Davos. Excerpts: 
+Critical Reading: [The transcript of a special address by Mark Carney, Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered at the World Economic Forum's Annual Meeting 2026 in Davos. Excerpts (the emphasis is mine): 
 
 >"So, we placed the sign in the window. We participated in the rituals, and we largely avoided calling out the gaps between rhetoric and reality. This bargain no longer works. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons, tariffs as leverage, financial infrastructure as coercion, supply chains as vulnerabilities to be exploited. You cannot live within the lie of mutual benefit through integration, when integration becomes the source of your subordination. ...
 
->"Canada is a pluralistic society that works. Our public square is loud, diverse and free. Canadians remain committed to sustainability. We are a stable and reliable partner in a world that is anything but.. A partner that builds and values relationships for the long term. And we have something else. We have a recognition of what's happening and a determination to act accordingly. We understand that this rupture calls for more than adaptation. It calls for honesty about the world as it is. We are taking the sign out of the window. ...
+>"**Canada is a pluralistic society that works. Our public square is loud, diverse and free.** Canadians remain committed to sustainability. We are a stable and reliable partner in a world that is anything but. A partner that builds and values relationships for the long term. 
+
+>"And we have something else. **We have a recognition of what's happening and a determination to act accordingly.** We understand that this rupture calls for more than adaptation. It calls for honesty about the world as it is. We are taking the sign out of the window. ...
 
 >"We know the old order is not coming back. We shouldn't mourn it. Nostalgia is not a strategy, but we believe that from the fracture, we can build something bigger, better, stronger, more just. ... This is the task of the middle powers, the countries that have the most to lose from a world of fortresses and most to gain from genuine cooperation. The powerful have their power. But we have something too – the capacity to stop pretending, to name reality, to build our strength at home and to act together."
 
+The references to the sign in the window are from Václav Havel's essay [The Power of the Powerless](https://hac.bard.edu/amor-mundi/the-power-of-the-powerless-vaclav-havel-2011-12-23), where Havel writes: 
 
-
-
+>The essential aims of life are present naturally in every person. In everyone there is some longing for humanity's rightful dignity, for moral integrity, for free expression of being and a sense of transcendence over the world of existence. Yet, at the same time, each person is capable, to a greater or lesser degree, of coming to terms with living within the lie. Each person somehow succumbs to a profane trivialization of his inherent humanity, and to utilitarianism. In everyone there is some willingness to merge with the anonymous crowd and to flow comfortably along with it down the river of pseudolife. This is much more than a simple conflict between two identities. It is something far worse: it is a challenge to the very notion of identity itself.
 
 
 ---
@@ -66,7 +68,7 @@ https://www.nyrb.com/collections/classics
 
 Philosophy and world literature; literatue and knowledge; praxis; mindfulness; critical analysis; literary criticism; phenomenology; existentialism; critical theory; cosmopolitanism; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
 
-Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; double life; polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
+Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; [double life](/books/double-life.html); polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
