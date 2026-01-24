@@ -16,20 +16,46 @@ The references to the sign in the window are from Václav Havel's 1978 essay [Th
 
 >"The essential aims of life are present naturally in every person. In everyone there is some longing for humanity's rightful dignity, for moral integrity, for free expression of being and a sense of transcendence over the world of existence. Yet, at the same time, each person is capable, to a greater or lesser degree, of coming to terms with living within the lie. Each person somehow succumbs to a profane trivialization of his inherent humanity, and to utilitarianism. In everyone there is some willingness to merge with the anonymous crowd and to flow comfortably along with it down the river of pseudolife. This is much more than a simple conflict between two identities. It is something far worse: it is a challenge to the very notion of identity itself."
 
+---
+
+Milan Kundera, writing in The Art of the Novel, illuminates the connection between the self and the real world of life:   
+
+>“The crisis Husserl spoke of seemed to him so profound that he wondered whether Europe was still able to survive it. The roots of the crisis lay for him at the beginning of the Modern Era, in Galileo and Descartes, in the one-sided nature of the European sciences, which reduced the world to a mere object of technical and mechanical investigation and put the concrete world of life, die Lebenswelt as he called it, beyond their horizon.
+
+>The rise of the sciences propelled man into the tunnels of the specialized disciplines. The more he advanced in knowledge, the less clearly could he see either the world as a whole or his own self, and he plunged further into what Husserl’s pupil Heidegger called, in a beautiful and almost magical phrase, “the forgetting of being.”
+
+>Once elevated by Descartes to “master and proprietor of nature,” man has now become a mere thing to the forces (of technology, of politics, of history) that bypass him, surpass him, possess him. To those forces, man’s concrete being, his “world of life” (die Lebenswelt), has neither value nor interest: it is eclipsed, forgotten from the start.”
+
 
 ---
 
+So: How do we maintain our connection to the real world of life, to our humanity, sanity, empathy, privacy, and security in the face of corruption, corrosion, and coercion? 
 
-<i class="fa fa-file-text"></i> [Book Review of Read All About It: The Corporate Takeover of America's Newspapers](/md/crit1.html): *Read
-All About It: The Corporate Takeover of America's Newspapers* is an
-institutional acknowledgement of what many wary readers have known for
-years: Corporate control is ruining our daily newspapers. [Download PDF](/md/crit1.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+Re-evaluate ideas that are [uncritically adopted](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/) from the system in which we are embedded. Develop a critical awareness of the bureaucratic rationalization of everyday life, dispense with its abstractions, and resist its colonization of being in the world. 
+
+Or, to make it simplier still: Breathe. Meditate. Practice mindfulness and resistance. Move. Go outside. Travel. [Read literature](https://criticism.com/reading.html). **Play.** <i class="fa fa-futbol-o" aria-hidden="true"></i>
+
+ 
+
+<!-- what crisis was Husserl speaking of? See also Kafka's The Castle and The Curtain on Weber. -->
+
+
+---
+
+<i class="fa fa-file-text"></i> [Book Review of Read All About It: The Corporate Takeover of America's Newspapers](/md/crit1.html): *Read All About It: The Corporate Takeover of America's Newspapers* is an institutional acknowledgement of what many wary readers have known for years: Corporate control is ruining our daily newspapers.
+
+<i class="fa fa-file-text"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
 
 <i class="fa fa-file-text"></i> [Reading Books as an Act of Critical Resistance](/books.html).
 
 <i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md)
 
-<i class="fa fa-file-text"></i> [I. Remember. Reading.](https://criticism.com/reading.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i>
+[I. Remember. Reading.](https://criticism.com/reading.html)
+
+
+
+
 
 
 
