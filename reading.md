@@ -17,7 +17,7 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 ---
 
-Critical Reading: [The transcript of a special address by Mark Carney, Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered at the World Economic Forum's Annual Meeting 2026 in Davos. Excerpts (the emphasis is mine): 
+Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting 2026 in Davos. Excerpts: 
 
 >"So, we placed the sign in the window. We participated in the rituals, and we largely avoided calling out the gaps between rhetoric and reality. This bargain no longer works. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons, tariffs as leverage, financial infrastructure as coercion, supply chains as vulnerabilities to be exploited. You cannot live within the lie of mutual benefit through integration, when integration becomes the source of your subordination. ...
 
@@ -277,7 +277,7 @@ Tom Wolfe. The Electric Kool-Aid Acid Test; The Bonfire of the Vanities.
 
 ### Bookshelf: Writing and Editing
 
-Here are some books that describe evidence-based practices for editing word usage, syntax, sentence construction, and structural organization to produce clear, concise writing. 
+Here are some books that describe principled methods for editing word usage, syntax, sentence construction, and structural organization to produce [clear, concise, coherent writing](https://criticism.com/books/how-to-write-clear-concise-coherent-prose.html): 
 
 _Style: Toward Clarity and Grace_ (or one of its variants), by Joseph M. Williams.
 

@@ -2,9 +2,7 @@
 title: Double Life
 ---
 
-### The Connection of a Conscious Individual's Double Life to the Lies of the System
-
-Critical Reading: [The transcript of a special address by Mark Carney, Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered at the World Economic Forum's Annual Meeting 2026 in Davos. Excerpts (the emphasis is mine): 
+Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting 2026 in Davos. Excerpts: 
 
 >"So, we placed the sign in the window. We participated in the rituals, and we largely avoided calling out the gaps between rhetoric and reality. This bargain no longer works. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons, tariffs as leverage, financial infrastructure as coercion, supply chains as vulnerabilities to be exploited. You cannot live within the lie of mutual benefit through integration, when integration becomes the source of your subordination. ...
 
@@ -12,7 +10,7 @@ Critical Reading: [The transcript of a special address by Mark Carney, Prime Min
 
 >"And we have something else. We have a recognition of what's happening and a determination to act accordingly. We understand that this rupture calls for more than adaptation. It calls for honesty about the world as it is. We are taking the sign out of the window. ...
 
->"We know the old order is not coming back. We shouldn't mourn it. Nostalgia is not a strategy, but we believe that from the fracture, we can build something bigger, better, stronger, more just. ... This is the task of the middle powers, the countries that have the most to lose from a world of fortresses and most to gain from genuine cooperation. The powerful have their power. But we have something too – **the capacity to stop pretending, to name reality**, to build our strength at home and to act together."
+>"We know the old order is not coming back. We shouldn't mourn it. Nostalgia is not a strategy, but we believe that from the fracture, we can build something bigger, better, stronger, more just. ... This is the task of the middle powers, the countries that have the most to lose from a world of fortresses and most to gain from genuine cooperation. The powerful have their power. But we have something too – the capacity to stop pretending, to name reality, to build our strength at home and to act together."
 
 The references to the sign in the window are from Václav Havel's 1978 essay [The Power of the Powerless](https://hac.bard.edu/amor-mundi/the-power-of-the-powerless-vaclav-havel-2011-12-23), where Havel writes: 
 
