@@ -42,17 +42,19 @@ Or, to make it simplier still: Breathe. Meditate. Practice mindfulness and resis
 
 ---
 
-<i class="fa fa-file-text"></i> [Book Review of Read All About It: The Corporate Takeover of America's Newspapers](/md/crit1.html): *Read All About It: The Corporate Takeover of America's Newspapers* is an institutional acknowledgement of what many wary readers have known for years: Corporate control is ruining our daily newspapers.
+<i class="fa fa-file-text-o"></i> [Book Review of Read All About It: The Corporate Takeover of America's Newspapers](/md/crit1.html): *Read All About It: The Corporate Takeover of America's Newspapers* is an institutional acknowledgement of what many wary readers have known for years: Corporate control is ruining our daily newspapers.
 
-<i class="fa fa-file-text"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
+<i class="fa fa-file-text-o"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
 
-<i class="fa fa-file-text" aria-hidden="true"></i> [Indoctrination and Resistance in Psychoanalytic Dialogue](/da/indoctrination.html) 
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychoanalytic Dialogue](/da/indoctrination.html) 
 
-<i class="fa fa-file-text"></i> [Reading Books as an Act of Critical Resistance](/books.html).
+<i class="fa fa-file-text-o"></i> [Reading Books as an Act of Critical Resistance](/books.html).
 
-<i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md)
+<i class="fa fa-file-text-o"></i> [Critic's Notebook](https://criticism.com/critics-notebook.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 [I. Remember. Reading.](https://criticism.com/reading.html)
+
+
 
 

@@ -17,7 +17,7 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 
 ---
 
-Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting 2026 in Davos. Excerpts: 
+Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting in Davos. Excerpts: 
 
 >"So, we placed the sign in the window. We participated in the rituals, and we largely avoided calling out the gaps between rhetoric and reality. This bargain no longer works. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons, tariffs as leverage, financial infrastructure as coercion, supply chains as vulnerabilities to be exploited. You cannot live within the lie of mutual benefit through integration, when integration becomes the source of your subordination. ...
 
@@ -68,7 +68,7 @@ https://www.nyrb.com/collections/classics
 
 Philosophy and world literature; literatue and knowledge; praxis; mindfulness; critical analysis; literary criticism; phenomenology; existentialism; critical theory; cosmopolitanism; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
 
-Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; [double life](/books/double-life.html); polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
+Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; [double life](https://criticism.com/books/double-life.html); polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
