@@ -2,7 +2,7 @@
 title: Double Life
 ---
 
-Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting 2026 in Davos. Excerpts: 
+Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting in Davos. Excerpts:
 
 >"So, we placed the sign in the window. We participated in the rituals, and we largely avoided calling out the gaps between rhetoric and reality. This bargain no longer works. Let me be direct. We are in the midst of a rupture, not a transition. Over the past two decades, a series of crises in finance, health, energy and geopolitics have laid bare the risks of extreme global integration. But more recently, great powers have begun using economic integration as weapons, tariffs as leverage, financial infrastructure as coercion, supply chains as vulnerabilities to be exploited. You cannot live within the lie of mutual benefit through integration, when integration becomes the source of your subordination. ...
 
@@ -46,20 +46,13 @@ Or, to make it simplier still: Breathe. Meditate. Practice mindfulness and resis
 
 <i class="fa fa-file-text"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
 
+<i class="fa fa-file-text" aria-hidden="true"></i> [Indoctrination and Resistance in Psychoanalytic Dialogue](/da/indoctrination.html) 
+
 <i class="fa fa-file-text"></i> [Reading Books as an Act of Critical Resistance](/books.html).
 
 <i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 [I. Remember. Reading.](https://criticism.com/reading.html)
-
-
-
-
-
-
-
-
-
 
 
