@@ -6,7 +6,7 @@ title: Author Bio of Steven Hoenisch
 
 Steven Hoenisch is a writer, editor, educator, and critic working at the interdisciplinary nexus of critical thought, text, and technology. His writing has been published in the _Chicago Tribune_, _Willamette Week_, _XML Journal_, _Snow Country_ magazine, and _The Hartford Courant_. He has worked as an editor at the _Oregon Daily Emerald_, _The Salem News_, _The Hartford Courant_, _Willamette Week_, _American Banker_, the _New York Daily News_, and _New Age Journal_ magazine. He has contributed to or edited several major book projects. 
 
-Steven has a master's degree in Linguistics from The Graduate Center, City University of New York, and has taught classes at Bronx Community College, Harlem Hospital, Maimonides Medical Center, UTA, the New York Public Library, and the New York City College of Technology (City Tech). 
+Steven has a master's degree in Linguistics from The Graduate Center, City University of New York, and has taught classes at Bronx Community College, Harlem Hospital, Maimonides Medical Center, UTA, the Brooklyn Public Library, and the New York City College of Technology (City Tech). 
 
 More recently, he has worked as a technology writer, editor, or educator at AT&T, Verizon, Microsoft, EMC, VMware, Broadcom, and Intel. 
 
@@ -29,7 +29,7 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 <i class="fa fa-youtube-square" aria-hidden="true"></i> [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/).
 
-<i class="fa fa-comment" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](/cc/kudos.html).
+<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en). 
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html).
 
@@ -41,9 +41,9 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Essays](/papers.html).
 
-<!-- <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170)  -->
+<i class="fa fa-comment" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](/cc/kudos.html).
 
-<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en). 
+<!-- <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170)  -->
 
 <i class="fa fa-google" aria-hidden="true"></i> Publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch).
 

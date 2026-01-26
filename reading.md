@@ -74,7 +74,6 @@ Protean; interpretative lenses; literature as social knowledge; the dialogic voi
 <!-- ## Nonfiction Books I Love (Core Canon) -->
 
 
-
 ### Bookshelf: Literature and Knowledge
 
 <!-- + Start at hs nd try to remember from there; include important nonfiction and fiction in same list: -->
@@ -153,7 +152,7 @@ Paulo Freire. Pedagogy of the Oppressed.
 
 Goethe. Faust; The Sorrows of Young Werther.
 
-Gogol. Dead Souls. 
+Gogol. Dead Souls. Diary of a Madman and Other Stories. 
 
 Graham Greene. Orient Express; Brighton Rock; The Quiet American. 
 

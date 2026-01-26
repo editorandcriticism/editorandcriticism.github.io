@@ -40,11 +40,9 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Technical publications: white papers and blog posts](publications.html)
 
-<i class="fa fa-list" aria-hidden="true"></i> [List of publications](/publications.html)
-
-<i class="fa fa-list" aria-hidden="true"></i> [List of blog posts](/cc/blog.html)
-
 <i class="fa fa-file-text-o"></i> [Resume of Steve Hoenisch](/md/resume.html) | [PDF](/md/resume.pdf)
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
 
 <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
 [Author bio](/books/author-bio.html) of Steve Hoenisch
@@ -60,6 +58,12 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 
 <i class="fa fa-youtube-square" aria-hidden="true"></i> [YouTube Page](https://www.youtube.com/channel/UC_KCZTlBJvDLC8DUPNcFJzg/)
 
+<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en). 
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of publications on technology](/publications.html)
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of blog posts on technology](/cc/blog.html)
+
 <i class="fa fa-comment-o" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](/cc/kudos.html)
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) 
@@ -67,7 +71,6 @@ Criticism.com presents papers, essays, and blog posts on technology, psychology,
 <i class="fa fa-google" aria-hidden="true"></i> See also my publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). <i class="fa fa-wikipedia-w" aria-hidden="true"></i>
  
 <i class="fa fa-sitemap" aria-hidden="true"></i> [Site Map](map.html)
-
 
 ---
 
