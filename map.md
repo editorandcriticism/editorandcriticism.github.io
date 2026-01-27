@@ -432,11 +432,11 @@ author: Steve Hoenisch
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Likewise Enterprise Installation and Administration Guide](/cc/lwe.pdf)
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Likewise Open Installation and Administration Guide](/cc/lwo.pdf)
+
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Criticism: Reclaim the Media](/md/reclaim-the-media.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Linguistics and Cognitive Psychology in the
     Media](/linguistics/linguistics-news.html)
-
 
 
 <i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies, 2nd Edition](https://github.com/imtrinity94/vmware-for-dummies/blob/main/Kubernetes%20on%20vSphere%20For%20Dummies%C2%AE%2C%20VMware%202nd%20Special%20Edition.pdf). Book published by Wiley and VMware.

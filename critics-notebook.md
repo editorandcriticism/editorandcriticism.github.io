@@ -127,6 +127,19 @@ book publishers.
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Walking into the City.
 
+---
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Double Life](https://criticism.com/books/double-life.html)
+ 
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i>
+[I. Remember. Reading.](https://criticism.com/reading.html)
+
+
+
+
+
 
 
 

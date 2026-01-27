@@ -33,7 +33,7 @@ So: How do we maintain our connection to the real world of life, to our humanity
 
 Re-evaluate ideas that are [uncritically adopted](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/) from the system in which we are embedded. Develop a critical awareness of the bureaucratic rationalization of everyday life, dispense with its abstractions, and resist its colonization of being in the world. 
 
-Or, to make it simplier still: Breathe. Meditate. Practice mindfulness and resistance. Move. Go outside. Travel. [Read literature](https://criticism.com/reading.html). **Play.** <i class="fa fa-futbol-o" aria-hidden="true"></i>
+Or, to make it simplier still, at least for myself: Breathe. Meditate. Practice mindfulness and resistance. Move. Go outside. Travel. [Read literature](https://criticism.com/reading.html). **Play.** <i class="fa fa-futbol-o" aria-hidden="true"></i>
 
  
 
