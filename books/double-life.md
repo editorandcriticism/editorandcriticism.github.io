@@ -39,6 +39,14 @@ Or, to make it simplier still, at least for myself: Breathe. Meditate. Practice 
 
 <!-- what crisis was Husserl speaking of? See also Kafka's The Castle and The Curtain on Weber. -->
 
+---
+
+
+
+<img src="/photos/burnaby-brentwood-and-all.jpg" class="img-fluid" alt="Photograph of Burnaby, Brentwood, and All">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Between the City and the Mountain: Burnaby, Brentwood, and All. December 2025. Photograph by Steve Hoenisch.
+
 
 ---
 

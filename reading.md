@@ -94,6 +94,8 @@ Paul Auster. The New York Trilogy.
 
 Balzac.
 
+Julian Barnes. The Sense of an Ending; Flaubert's Parrot.
+
 Roland Barthes. Writing Degree Zero; S/Z; Mythologies; Camera Lucida; The Fashion System; Elements of Semiology; Empire of Signs; A Lover's Discourse; The Grain of the Voice; **The Pleasure of the Text.**
 
 Saul Bellow. The Adventures of Augie March; Herzog; Humbolt's Gift.
