@@ -41,19 +41,17 @@ Here are links to my recent blog posts and papers:
 
 * A [Medium Blog Post](https://medium.com/open-edge-platform/evaluating-security-capabilities-for-edge-ai-workloads-on-intel-platforms-with-edge-microvisor-4977eb686ffc) on evaluating security capabilities for edge AI.
 
+* A GitHub Discussions blog post titled [Validating the Performance of Edge AI Workloads on Intel Processors with Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/497) on running easy-to-benchmark sample applications for smart traffic intersections and wind turbine predictive maintenance on Edge Microvisor Toolkit to showcase the power and performance of running edge AI workloads on Intel processors. 
+
+* A short [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/616) on where to download the various versions of Edge Microvisor Toolkit.
+
+* Deploying Edge Microvisor Toolkit with Edge Manageability Framework to Evaluate Intel Processors for AI Workloads, a GitHub Discussions [blog post](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1039) on using the different versions of the toolkit to evaluate the latest Intel processor optimizations.
+
 * The [Robotics AI Suite goes gold](https://github.com/open-edge-platform/edge-ai-suites/discussions/1481) with release 2025.2 of Edge AI Suites.  
 
 * [Ringing in release 2025.2 of Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries/discussions/1601).
 
 * [Ringing in Release 2025.2 of Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1301).
-
-* A GitHub Discussions blog post titled [Validating the Performance of Edge AI Workloads on Intel Processors with Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/497) on running easy-to-benchmark sample applications for smart traffic intersections and wind turbine predictive maintenance on Edge Microvisor Toolkit to showcase the power and performance of running edge AI workloads on Intel processors. 
-
-* A description of the [purpose and capabilities](https://docs.openedgeplatform.intel.com/dev/edge-microvisor-toolkit/index.html) of Edge Microvisor Toolkit and an [explanation](https://github.com/open-edge-platform/edge-microvisor-toolkit/blob/3.0/RELEASE_POLICY.md) of the toolkit's open source release policy model.
-
-* A short [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/616) on where to download the various versions of Edge Microvisor Toolkit.
-
-* Deploying Edge Microvisor Toolkit with Edge Manageability Framework to Evaluate Intel Processors for AI Workloads, a GitHub Discussions [blog post](https://github.com/open-edge-platform/edge-manageability-framework/discussions/1039) on using the different versions of the toolkit to evaluate the latest Intel processor optimizations.
 
 * A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/644) to highlight the latest release of Edge Microvisor Toolkit.
 
@@ -66,6 +64,8 @@ Here are links to my recent blog posts and papers:
 * A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on evaluating security capabilities for edge AI.
 
 * An [FAQ](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/545) on the Purpose and Uses of Edge Microvisor Toolkit. 
+
+* A description of the [purpose and capabilities](https://docs.openedgeplatform.intel.com/dev/edge-microvisor-toolkit/index.html) of Edge Microvisor Toolkit and an [explanation](https://github.com/open-edge-platform/edge-microvisor-toolkit/blob/3.0/RELEASE_POLICY.md) of the toolkit's open source release policy model.
 
 * An evolving [list of resources](https://github.com/open-edge-platform/edge-ai-resources/blob/main/README.md) for participating in or [contributing to Open Edge Platform](https://github.com/open-edge-platform/edge-ai-resources/blob/main/oep-participate-contribute.md). 
 

@@ -39,9 +39,9 @@ keywords: white papers, blog posts, blogs, presentations, technology, solution o
 <!-- ++ Add some citations below. Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto women's book along same lines.  -->
 
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on Evaluating Security Capabilities for Edge AI.
-
 <i class="fa fa-external-link-square" aria-hidden="true"></i> Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://medium.com/open-edge-platform/evaluating-security-capabilities-for-edge-ai-workloads-on-intel-platforms-with-edge-microvisor-4977eb686ffc) on evaluating security capabilities for edge AI.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [More Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
 
@@ -73,6 +73,8 @@ keywords: white papers, blog posts, blogs, presentations, technology, solution o
 <i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/521) on selecting a version of Edge Microvisor Toolkit for demonstrating the capabilities of Intel platforms.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> An [FAQ](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/545) on the Purpose and Uses of Edge Microvisor Toolkit. 
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on evaluating security capabilities for edge AI.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> An evolving [list of resources](https://github.com/open-edge-platform/edge-ai-resources/blob/main/README.md) for participating in or [contributing to Open Edge Platform](https://github.com/open-edge-platform/edge-ai-resources/blob/main/oep-participate-contribute.md). 
 

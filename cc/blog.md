@@ -12,7 +12,7 @@ keywords: Linux, container host runtime, cloud-native applications, cloud comput
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
 
-<i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on Evaluating Security Capabilities for Edge AI.
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://medium.com/open-edge-platform/evaluating-security-capabilities-for-edge-ai-workloads-on-intel-platforms-with-edge-microvisor-4977eb686ffc) on evaluating security capabilities for edge AI.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [More Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
 
@@ -35,6 +35,8 @@ keywords: Linux, container host runtime, cloud-native applications, cloud comput
 <i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/591) on the public availability of OS Image Composer.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/585) on using the real-time version of Edge Microvisor Toolkit.  
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on evaluating security capabilities for edge AI.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/521) on selecting a version of Edge Microvisor Toolkit for demonstrating the capabilities of Intel platforms.
 
