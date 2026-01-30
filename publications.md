@@ -221,9 +221,23 @@ https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/)
 
 ## Books and E-Books 
 
-<i class="fa fa-book" aria-hidden="true"></i> Data Lakes for Big Data and Analytics. R Peterson, S Hoenisch - 2018 - Addison-Wesley Professional Books.
+<i class="fa fa-book" aria-hidden="true"></i> [Data Lakes for Big Data and Analytics](https://www.amazon.com/Data-Lakes-Big-Analytics/dp/0134575989). R Peterson, S Hoenisch - 2018 - Addison-Wesley Professional Books.
 
 <i class="fa fa-book" aria-hidden="true"></i> [Kubernetes on vSphere For Dummies](https://k8s.vmware.com/kubernetes-on-vsphere-for-dummies/). Book published by Wiley and VMware.
+
+<i class="fa fa-book" aria-hidden="true"></i> [E-book: Telco Cloud for
+Dummies](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmware-telco-cloud-for-dummies.pdf) (Contributing writer and contributing editor.)
+
+<i class="fa fa-book" aria-hidden="true"></i> [E-Book: RAN Transformation for Dummies](https://www.vmware.com/content/dam/learn/en/amer/fy23/pdf/1742210_RAN-Transaformation.pdf) (Contributing writer and contributing editor.)
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-design-deploy-operate-5g-networks.pdf) Modernize to Monetize: Reimagine the Telco Cloud to Capitalize on 5G: Efficiently Design, Deploy, Operate, and Protect 5G Networks
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco-ran-ric-use-cases.pdf) RAN Programmability: Tapping RIC Use Cases to Monetize 5G Services
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Ebook:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/microsites/telco/vmw-telco-cloud-cnf-benefits.pdf) Inherent Value: The Benefits of Running CNFs on VMs: Optimizing Mixed Workloads on Shared Infrastructure with Kubernetes on VMware Telco Cloud Platform
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [E-Book:](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-edge-of-opportunity-identifying-use-cases-driving-market-demand.pdf) Edge of Opportunity: Identifying Use Cases Driving Market Demand: Edge Computing Use Cases to Generate Revenue, Gain Efficiency and Improve Customer Experiences 
+
 
 <i class="fa fa-book" aria-hidden="true"></i> [Accelerating Digital Transformation with Containers and Kubernetes: An Introduction to Cloud-Native Technology](https://pages.cloud.vmware.com/accelerating-digital-transformation-with-containers-and-kubernetes). This e-book introduces you to containers and Kubernetes, explains their business value, explores their use cases, and illuminates how they can accelerate your organization’s digital transformation. Published by VMware Press.
 
