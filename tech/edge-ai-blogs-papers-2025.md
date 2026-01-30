@@ -39,7 +39,7 @@ In addition, the [OS Image Composer](https://github.com/open-edge-platform/os-im
 
 Here are links to my recent blog posts and papers: 
 
-* A [Medium Blog Post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on Evaluating Security Capabilities for Edge AI.
+* A [Medium Blog Post](https://medium.com/open-edge-platform/evaluating-security-capabilities-for-edge-ai-workloads-on-intel-platforms-with-edge-microvisor-4977eb686ffc) on evaluating security capabilities for edge AI.
 
 * The [Robotics AI Suite goes gold](https://github.com/open-edge-platform/edge-ai-suites/discussions/1481) with release 2025.2 of Edge AI Suites.  
 
@@ -63,6 +63,8 @@ Here are links to my recent blog posts and papers:
 
 * A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/521) on selecting a version of Edge Microvisor Toolkit for demonstrating the capabilities of Intel platforms.
 
+* A [blog post](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/624) on evaluating security capabilities for edge AI.
+
 * An [FAQ](https://github.com/open-edge-platform/edge-microvisor-toolkit/discussions/545) on the Purpose and Uses of Edge Microvisor Toolkit. 
 
 * An evolving [list of resources](https://github.com/open-edge-platform/edge-ai-resources/blob/main/README.md) for participating in or [contributing to Open Edge Platform](https://github.com/open-edge-platform/edge-ai-resources/blob/main/oep-participate-contribute.md). 
@@ -73,9 +75,9 @@ Here are links to my recent blog posts and papers:
 
 * An end-of-the-year [LinkedIn post](https://www.linkedin.com/pulse/recent-blog-posts-papers-open-edge-platform-ai-steve-hoenisch-co90c) on various recent publications.
 
-* Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
+* Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6). | [More edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
 
-* [More Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
+
 
 
 
