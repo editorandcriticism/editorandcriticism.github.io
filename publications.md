@@ -1,20 +1,32 @@
 ---
 title: Publications
-description: Papers, blog posts, conference presentations, and other works by Steven Hoenisch. 
-keywords: white papers, blog posts, blogs, presentations, solution overviews, solution briefs, solution architecture, books, e-books, marketing communications, technical documentation
+description: Technology papers, blog posts, conference presentations, and other works by Steven Hoenisch. 
+keywords: white papers, blog posts, blogs, presentations, technology, solution overviews, solution briefs, solution architecture, books, e-books, ebooks, marketing communications, technical documentation, technical marketing, technology writing, editing
 ---
 
+## Recent Portfolio Overviews
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](https://criticism.com/tech/publishing-portfolio.pdf)
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
 ## See Also 
+
+<i class="fa fa-linkedin-square" aria-hidden="true"></i>
+ [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
+
+<i class="fa fa-medium" aria-hidden="true"></i>
+ [Medium.com Page](https://medium.com/@steveski170)
 
 <i class="fa fa-university" aria-hidden="true"></i> See also my publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
 
 <i class="fa fa-university" aria-hidden="true"></i> My cited essay in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; or [find it on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Resume](https://criticism.com/md/resume.html) | <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://criticism.com/md/resume.pdf) 
+
+
 --- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
 
-
-<i class="fa fa-linkedin-square" aria-hidden="true"></i>
- [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go to those companies' respective websites.</p>
 
@@ -699,7 +711,8 @@ See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf) on Semantic Scholar. 
 
-<i class="fa fa-coffee" aria-hidden="true"></i> [Author bio](/books/author-bio.html) of Steve Hoenisch
+<i class="fa fa-coffee" aria-hidden="true"></i> [Author bio](https://criticism.com/books/author-bio.html) of Steve Hoenisch
+
 
 
 

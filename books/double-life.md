@@ -26,7 +26,6 @@ Milan Kundera, writing in The Art of the Novel, illuminates the connection betwe
 
 >Once elevated by Descartes to “master and proprietor of nature,” man has now become a mere thing to the forces (of technology, of politics, of history) that bypass him, surpass him, possess him. To those forces, man’s concrete being, his “world of life” (die Lebenswelt), has neither value nor interest: it is eclipsed, forgotten from the start.”
 
-
 ---
 
 So: How do we maintain our connection to the real world of life, to our humanity, sanity, empathy, privacy, and security in the face of corruption, corrosion, and coercion? 

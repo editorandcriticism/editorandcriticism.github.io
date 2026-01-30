@@ -35,6 +35,8 @@ He writes about technology, philosophy, critical theory, literature, and literar
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
 <i class="fa fa-list" aria-hidden="true"></i> [List of  Publications on Technology](/publications.html).
 
 <i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html).

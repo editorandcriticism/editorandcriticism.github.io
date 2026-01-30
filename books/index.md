@@ -5,23 +5,25 @@ title: Books and Book Reviews at Criticism.Com
 ### Books, Authors, Publishers, and Book Reviews <i class="fa fa-book" aria-hidden="true"></i>
 
 
-* [Book reviews on Criticism.com](/book-reviews.html).
-
-* [Reading Books as an Act of Critical Resistance](/books.html).
+* [Book reviews on Criticism.com](/https://criticism.com/book-reviews.html).
 
 * [I. Remember. Reading.](https://criticism.com/reading.html)
 
-* [Dostoevsky](/books/dostoevsky-on-criticism-dot-com.html).
+* [Double Life](https://criticism.com/books/double-life.html).
 
-* [Polyphonic voice](/books/polyphonic-voice-on-criticism-dot-com.html).
+* [Dialogic Intermingling of Social Voices in the Novels of Dostoevsky](https://criticism.com/books/dostoevsky-on-criticism-dot-com.html).
 
-* [Writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html).
+* [Polyphonic Voice](/books/polyphonic-voice-on-criticism-dot-com.html).
+
+* [Reading Books as an Act of Critical Resistance](https://criticism.com/books.html).
+
+* [Writing clear, concise, coherent prose](https://criticism.com/books/how-to-write-clear-concise-coherent-prose.html).
 
 ---
 
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i>
-[Author bio](/books/author-bio.html) of Steve Hoenisch.
+[Author bio](https://criticism.com/books/author-bio.html) of Steve Hoenisch.
 
 
 
@@ -32,14 +34,14 @@ title: Books and Book Reviews at Criticism.Com
 ### Book Reviews
 
 
-<i class="fa fa-file-text"></i> [Book Review of Read All About It: The Corporate Takeover of America's Newspapers](/md/crit1.html): *Read
+<i class="fa fa-file-text"></i> [Book Review of Read All About It: The Corporate Takeover of America's Newspapers](https://criticism.com/md/crit1.html): *Read
 All About It: The Corporate Takeover of America's Newspapers* is an
 institutional acknowledgement of what many wary readers have known for
-years: Corporate control is ruining our daily newspapers. [Download PDF](/md/crit1.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+years: Corporate control is ruining our daily newspapers. [Download PDF](https://criticism.com/md/crit1.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 
-<i class="fa fa-file-text"></i> [An Analysis of Kellner's Theory of Media Culture](/md/kellner.html) In an era when the media have grown to be one of the most dominant forms of culture in North American --- so dominant, in fact, that the they can now be seen as the pinnacle of commercial culture --- an explanatory theory of the media becomes paramount. Yet considering the intimate relationship between culture and media and that, for many, the media have become their culture, a theory that views the media outside the context of culture will be afflicted with myopia. Thus, for completeness, a theory of the media requires a firm connection to culture in its every step. Douglas Kellner, in his book _Media Culture: Cultural Studies, Identity and Politics Between the Modern and the Postmodern_, sets out to make these connections. [Download PDF](/md/kellner.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+<i class="fa fa-file-text"></i> [An Analysis of Kellner's Theory of Media Culture](https://criticism.com/md/kellner.html) In an era when the media have grown to be one of the most dominant forms of culture in North American --- so dominant, in fact, that the they can now be seen as the pinnacle of commercial culture --- an explanatory theory of the media becomes paramount. Yet considering the intimate relationship between culture and media and that, for many, the media have become their culture, a theory that views the media outside the context of culture will be afflicted with myopia. Thus, for completeness, a theory of the media requires a firm connection to culture in its every step. Douglas Kellner, in his book _Media Culture: Cultural Studies, Identity and Politics Between the Modern and the Postmodern_, sets out to make these connections. [Download PDF](https://criticism.com/md/kellner.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 
-<i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md) | [Site Map](/map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
+<i class="fa fa-file-text"></i> [Critic's Notebook](https://criticism.com/critics-notebook.md) | [Site Map](https://criticism.com/map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
 
 ---
 
@@ -50,6 +52,8 @@ years: Corporate control is ruining our daily newspapers. [Download PDF](/md/cri
 
 
 [Critical Theory at the CUNY Graduate Center](https://www.gc.cuny.edu/critical-theory) and [Events at the Graduate Center](https://www.gc.cuny.edu/events).
+
+
 
 
 
