@@ -420,7 +420,7 @@ analytics. Published by EMC Isilon.
 
 
 <i class="fa fa-file-pdf-o"></i> [Monitoring Unstructured
-Data](monitoring-unstructured-data.pdf): Uniting Multi-Protocol Storage
+Data](https://criticism.com/cc/monitoring-unstructured-data.pdf): Uniting Multi-Protocol Storage
 and Cross-Platform Access Control for File Activity Monitoring and
 Context-Aware Security. This white paper maintains that a multi-protocol
 file server or NAS system with an integrated cross-platform access
@@ -429,13 +429,13 @@ unstructured data.
 
 
 <i class="fa fa-file-pdf-o"></i> [Securing Unstructured
-Data](securing-unstructured-data.pdf): Protecting Sensitive Files by
+Data](https://criticism.com/cc/securing-unstructured-data.pdf): Protecting Sensitive Files by
 Uniting Identity, Security, and Storage. This white paper describes a
 number of problems that make it difficult to secure unstructured data
 and then highlights technologies to overcome them.
 
 
-<i class="fa fa-file-o" aria-hidden="true"></i> [Auditing Unstructured Data](auditing-unstructured-data.html): Identity-Aware Storage, File Activity Monitoring, and Compliance Reporting Across Platforms. This white paper argues that a multiprotocol file server with an integrated cross-platform access control system is the architectural basis for solving many problems in auditing unstructured data. | [PDF](auditing-unstructured-data.pdf) <i class="fa fa-file-pdf-o"></i>
+<i class="fa fa-file-o" aria-hidden="true"></i> [Auditing Unstructured Data](https://criticism.com/cc/auditing-unstructured-data.html): Identity-Aware Storage, File Activity Monitoring, and Compliance Reporting Across Platforms. This white paper argues that a multiprotocol file server with an integrated cross-platform access control system is the architectural basis for solving many problems in auditing unstructured data. | [PDF](https://criticism.com/cc/auditing-unstructured-data.pdf) <i class="fa fa-file-pdf-o"></i>
 
 
 
