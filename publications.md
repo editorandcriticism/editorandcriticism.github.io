@@ -16,7 +16,7 @@ keywords: white papers, blog posts, blogs, presentations, technology, solution o
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
 
 <i class="fa fa-medium" aria-hidden="true"></i>
- [Medium.com Page](https://medium.com/@steveski170)
+ [Medium.com Page](https://medium.com/@steveski170) and my [Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42)
 
 <i class="fa fa-university" aria-hidden="true"></i> See also my publications and citations listed on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch) and [Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1). 
 
@@ -435,12 +435,10 @@ number of problems that make it difficult to secure unstructured data
 and then highlights technologies to overcome them.
 
 
-<i class="fa fa-file-pdf-o"></i> [Auditing Unstructured
-Data](auditing-unstructured-data.pdf): Identity-Aware Storage, File
-Activity Monitoring, and Compliance Reporting Across Platforms. This
-white paper argues that a multiprotocol file server with an integrated
-cross-platform access control system is the architectural basis for
-solving many problems in auditing unstructured data.
+<i class="fa fa-file-o" aria-hidden="true"></i> [Auditing Unstructured Data](auditing-unstructured-data.html): Identity-Aware Storage, File Activity Monitoring, and Compliance Reporting Across Platforms. This white paper argues that a multiprotocol file server with an integrated cross-platform access control system is the architectural basis for solving many problems in auditing unstructured data. | [PDF](auditing-unstructured-data.pdf) <i class="fa fa-file-pdf-o"></i>
+
+
+
 
 <i class="fa fa-chain-broken" aria-hidden="true"></i> **Disclaimer:** Although some of the pages of Criticism.Com contain links to white papers, articles, and blog posts that I've written while employed at various companies, the views expressed in the pages published on Criticism.Com are strictly my own and are not the opinions or views of any company that I work for now or have worked for in the past. The white papers, articles, and blog posts are published on the companies' respective web sites; the links for the white papers, blog posts, articles, and other content go those companies' respective websites.</p>
 

@@ -8,7 +8,7 @@ keywords: edge AI, telecom, telco, 5G, software stacks, artificial intelligence,
 <!-- add separate pages called eg showcase1.md etc. to present latest papers and blogs with cover imgs and short abstracts and links to posts; cf publications.html etc. -->
 
 <i class="fa fa-medium" aria-hidden="true"></i>
- [Medium.com Page](https://medium.com/@steveski170)
+ [Medium.com Page](https://medium.com/@steveski170) and [Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
 
@@ -28,7 +28,8 @@ keywords: edge AI, telecom, telco, 5G, software stacks, artificial intelligence,
 
 ---
 
-<i class="fa fa-file-o" aria-hidden="true"></i> [On writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html) in the age of AI.
+<!-- <i class="fa fa-file-o" aria-hidden="true"></i> [On writing clear, concise, coherent prose](/books/how-to-write-clear-concise-coherent-prose.html) in the age of AI. -->
+
 
 
 --- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
