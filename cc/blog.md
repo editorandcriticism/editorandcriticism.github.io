@@ -189,10 +189,7 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Announcing VMware Telco Cloud Platform — A Cloud-Native Architecture to Propel CSPs Toward 5G](https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/). How can you modernize your network and your infrastructure in a way that gives you the agility and efficiency to be able to pursue your 5G objectives while maintaining carrier-grade performance, quality, and reliability? This blog post announces VMware Telco Cloud Platform and explains how its cloud-native architecture can modernize your network for 5G. Published on the [VMware Telco Cloud Blog](https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/).
 
-
-[A 2010 Big Data Odyssey: Notes on Using Big Data Analytics to Mitigate Security Risks](/cc/analyzing-unstructured-data.html)
-
-
+<i class="fa fa-file-o" aria-hidden="true"></i> [A 2010 Big Data Odyssey](/cc/analyzing-unstructured-data.html): Notes on Using Big Data Analytics to Mitigate Security Risks.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Adapting to a Changing Telco Landscape and Shifting Requirements with Built-in Security](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/). Published on the VMware Telco Cloud Blog.
 

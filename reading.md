@@ -15,6 +15,7 @@ Books that I am reading, rereading, or thinking about now --- all highly recomme
 * Milan Kundera, The Curtain: An Essay in Seven Parts.
 * The Age of Extraction, by Tim Wu.
 
+
 ---
 
 Critical reading: Here's a link to [the transcript of a special address by Mark Carney, the Prime Minister of Canada](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/), delivered during the 2026 World Economic Forum's annual meeting in Davos. Excerpts: 
@@ -52,7 +53,7 @@ _Disclosure: Some of the following links are paid links or ads for buying a book
 
 **Some writers and critics** who I think have accurately analyzed what's happening now: Broch, Musil, Husserl, Heidegger, Nietzsche, Marcuse, and Kundera.
 
-The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's Enshittification; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
+The following books, perhaps more practical and accessible, also come to mind: Tim Wu's The Age of Extraction; recent work by Alex Hanna and Emily M. Bender (please check my sources); Cory Doctorow's Enshittification; Robert D. Putnam and Shaylyn Romney Garrett's The Upswing: How America Came Together a Century Ago and How We Can Do It Again; [Catherine Wilson](https://www.youtube.com/watch?v=Z3Gby6huoZ8)'s How to Be an Epicurean: The Ancient Art of Living Well; and the [essays and books of William Deresiewicz](https://billderesiewicz.com/). If all else fails: Wherever You Go, There You are, by Jon Kabat-Zinn.
 
 
 <!-- see also
@@ -231,6 +232,8 @@ Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Min
 
 Niel Postman: Amusing Ourselves to Death; **Technopoly.**
 
+Robert D. Putnam. The Upswing: How America Came Together a Century Ago and How We Can Do It Again (with Shaylyn Romney Garrett); Making Democracy Work: Civic Traditions in Modern Italy; Bowling Alone: The Collapse and Revival of American Community; [APSA Presidential Address: The Public Role of Political Science (2003)](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf).
+
 Thomas Pynchon. The Crying of Lot 49; **Inherent Vice. Vineland.**
 
 Michael Ondaatje. The English Patient. 
@@ -307,6 +310,7 @@ _The Sense of Style_, by Steven Pinker, who also supplies a quotation to end thi
 <img src="/photos/whistler-mountain-feb-2024.jpg" class="img-fluid" alt="Photograph of Whistler Mountain">
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Memories of public mountains: Whistler Mountain, February 2024. Photograph by Steve Hoenisch.
+
 
 
 

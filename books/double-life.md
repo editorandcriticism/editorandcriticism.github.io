@@ -34,7 +34,20 @@ Re-evaluate ideas that are [uncritically adopted](https://www.theamericanscholar
 
 Or, to make it simplier still, at least for myself: Breathe. Meditate. Practice mindfulness and resistance. Move. Go outside. Travel. [Read literature](https://criticism.com/reading.html). **Play.** <i class="fa fa-futbol-o" aria-hidden="true"></i>
 
- 
+In her essay “The Dream of the Raised Arm” in _Dead and Alive_, Zadie Smith supplies one possible answer, and you can do it right now. She writes: 
+
+>"I began as follows: in a hyper-capitalist economy – one that has found a way to monetize human attention itself --- we are the product. Well, sure, everybody knows that by now, even the fourteen-year-olds. But within this fact does there not lurk the not-so-hidden possibility of a radical and thrillingly simple act of resistance? ... to seriously damage the billionaire empires that have been built on your attention and are now manipulating your democracies? To achieve that right now? _All you guys would need to do is look away._"
+
+
+I'll leave it to you to figure out how that simple act of resistance is closely related to my point about playing. So why not stop reading here, now --- stop using the Internet --- and go outside and play. Or at least walk over to a bookstore, a real, live bookstore, and pick yourself up a copy of _Dead and Alive_ by Zadie Smith. And then go play. 
+
+
+
+
+
+
+
+
 
 <!-- what crisis was Husserl speaking of? See also Kafka's The Castle and The Curtain on Weber. -->
 
@@ -57,10 +70,14 @@ Or, to make it simplier still, at least for myself: Breathe. Meditate. Practice 
 
 <i class="fa fa-file-text-o"></i> [Reading Books as an Act of Critical Resistance](/books.html).
 
+<i class="fa fa-sticky-note" aria-hidden="true"></i> [About the Author Page for Steve Hoenisch on Amazon.Com](https://amazon.com/author/steven-hoenisch)
+
 <i class="fa fa-file-text-o"></i> [Critic's Notebook](https://criticism.com/critics-notebook.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 [I. Remember. Reading.](https://criticism.com/reading.html)
+
+
 
 
 
