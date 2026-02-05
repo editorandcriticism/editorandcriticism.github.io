@@ -189,6 +189,11 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Announcing VMware Telco Cloud Platform — A Cloud-Native Architecture to Propel CSPs Toward 5G](https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/). How can you modernize your network and your infrastructure in a way that gives you the agility and efficiency to be able to pursue your 5G objectives while maintaining carrier-grade performance, quality, and reliability? This blog post announces VMware Telco Cloud Platform and explains how its cloud-native architecture can modernize your network for 5G. Published on the [VMware Telco Cloud Blog](https://blogs.vmware.com/telco/announcing-vmware-telco-cloud-platform-a-cloud-native-architecture-to-propel-csps-toward-5g/).
 
+
+[A 2010 Big Data Odyssey: Notes on Using Big Data Analytics to Mitigate Security Risks](/cc/analyzing-unstructured-data.html)
+
+
+
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Adapting to a Changing Telco Landscape and Shifting Requirements with Built-in Security](https://blogs.vmware.com/telco/adapting-to-a-changing-landscape-and-shifting-requirements-with-built-in-security/). Published on the VMware Telco Cloud Blog.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [A Dash of Security](https://blogs.vmware.com/cloudnative/2018/07/20/a-dash-of-security-locking-down-kubernetes-admin-access-to-thwart-crytojacking/): Locking Down Kubernetes Admin Access to Thwart Crytojacking. An unsecured Kubernetes Dashboard on the Internet is an open invitation for hackers to hijack your cloud compute resources to mine cryptocurrency. Here's how to lock the dashboard down. Published on the VMware cloud-native apps blog. 
@@ -200,6 +205,29 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 
 <!-- # Big Data -->
 <!-- <#include "limitations-of-data-driven-analysis.md"> -->
+
+
+
+
+---
+
+
+
+<i class="fa fa-medium" aria-hidden="true"></i>
+ [Medium.com Page](https://medium.com/@steveski170).
+
+<i class="fa fa-external-link-square" aria-hidden="true"></i> [Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
+
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b).
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html).
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](/tech/edge-ai-blogs-papers-2025.pdf) 
+
+<i class="fa fa-sticky-note" aria-hidden="true"></i> [About the Author Page for Steve Hoenisch on Amazon.Com](https://amazon.com/author/steven-hoenisch)
+
 
 
 
