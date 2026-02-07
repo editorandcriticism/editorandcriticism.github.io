@@ -58,6 +58,26 @@ title: 'Criticism.Com: Articles, Essays, and Other Papers'
 -----
 
 
+<i class="fa fa-coffee" aria-hidden="true"></i> [Philosophy](/philosophy/)
+
+<i class="fa fa-coffee" aria-hidden="true"></i> [Critical Theory](/critical-theory/)
+
+<i class="fa fa-file-text" aria-hidden="true"></i> [Media Criticism and Media Culture](/md/)
+
+<i class="fa fa-language" aria-hidden="true"></i> [Writing, Editing, and Composition](/linguistics/writing-page.html)
+
+<i class="fa fa-random" aria-hidden="true"></i> [Discourse Analysis and Text Linguistics](/da/)
+
+<i class="fa fa-language" aria-hidden="true"></i> [Linguistics](/linguistics/)
+
+
+<i class="fa fa-sitemap" aria-hidden="true"></i> [Site Map](/map.html) 
+
+
+-----
+
+
+
 <i class="fa fa-commenting-o" aria-hidden="true"></i> [What Others Are Saying About Criticism.Com](/cc/kudos.html)
 
 
@@ -73,7 +93,7 @@ title: 'Criticism.Com: Articles, Essays, and Other Papers'
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychoanalytic Dialogue](/da/indoctrination.html) 
 
-i class="fa fa-file-text-o" aria-hidden="true"></i> [The Construction of the Double as Social Object](/da/eth_dost.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Construction of the Double as Social Object](/da/eth_dost.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Double Life](https://criticism.com/books/double-life.html) 
 

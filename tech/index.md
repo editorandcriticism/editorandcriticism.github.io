@@ -12,6 +12,9 @@ keywords: edge AI, telecom, telco, 5G, software stacks, artificial intelligence,
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
 
+
+<i class="fa fa-sticky-note" aria-hidden="true"></i> [About the Author Page for Steve Hoenisch on Amazon.Com](https://amazon.com/author/steven-hoenisch)
+
 <i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html) | <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/md/resume.pdf) 
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf)

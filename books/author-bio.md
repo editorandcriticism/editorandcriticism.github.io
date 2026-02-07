@@ -10,7 +10,7 @@ Steven has a master's degree in Linguistics from The Graduate Center, City Unive
 
 More recently, he has worked as a technology writer, editor, or educator at AT&T, Verizon, Microsoft, EMC, VMware, Broadcom, and Intel. 
 
-He writes about technology, philosophy, critical theory, literature, and literary criticism. <i class="fa fa-tree" aria-hidden="true"></i>
+He writes about technology, philosophy, critical theory, literature, linguistics, and literary criticism. <i class="fa fa-tree" aria-hidden="true"></i>
 
 
 
