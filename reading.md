@@ -79,6 +79,10 @@ Protean; interpretative lenses; literature as social knowledge; the dialogic voi
 
 <!-- + Start at hs nd try to remember from there; include important nonfiction and fiction in same list: -->
 
+Theodor W. Adorno. [Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment) (with Max Horkheimer).
+
+>"Enlightenment's program was the disenchantment of the world. It wanted to dispel myths, to overthrow fantasy with knowledge. ... The "happy match" between human understanding and the nature of things that [Francis Bacon] envisaged is a patriarchal one: the mind, conquering superstition, is to rule over disenchanted nature. Knowledge, which is power, knows no limits, either in its enslavement of creation or in its deference to worldly masters. Just as it serves all the purposes of the bourgeois economy both in factories and on the battlefield, it is at the disposal of entrepreneurs regardless of their origins. Kings control technology no more directly than do merchants: it is as democratic as the economic system with which it evolved. Technology is the essence of this knowledge. It aims to produce neither concepts nor images, nor the joy of understanding, but method, exploitation of the labor of others, capital. ... On their way toward modern science human beings have discarded meaning. The concept is replaced by the formula, the cause by rules and probability."
+
 Chinua Achebe. Things Fall Apart: A Novel.
 
 Martin Amis. London Fields; Money; The Pregnant Widow; The Moronic Inferno and Other Visits to America. Want to read: The War Against Cliché: Essays and Reviews, 1971-2000; a quotation from it: 
@@ -127,6 +131,8 @@ Noam Chomsky. Syntactic Structures; Aspects of the Theory of Syntax; The Minimal
 
 Mohammed Choukri. For Bread Alone.
 
+Paulo Coelho. The Alchemist. 
+
 Teju Cole. Open City.
 
 Joseph Conrad. Heart of Darkness.
@@ -140,6 +146,8 @@ Annie Dilliard. An American Childhood; Pilgrim at Tinker Creek; The Writing Life
 Dostevsky. **Notes from Underground**; The Double; The Idiot. 
 
 Dubus II, Andre: Selected Stories. (For a list of books in the Vintage Contemporaries series, see [https://vintagecontemporariesbib.com/bibliography/](https://vintagecontemporariesbib.com/bibliography/).)
+
+Katherine Dunn. Geek Love.
 
 Bret Easton Ellis. Less Than Zero. 
 
@@ -164,6 +172,8 @@ Ernest Hemingway. Nearly all: The Sun Also Rises; ...
 Joseph Heller. Catch-22.
 
 Oscar Hijuelos. The Mambo Kings Play Songs of Love. 
+
+Max Horkheimer. **[Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment)** (with Theodor W. Adorno).
 
 Aldous Huxley. Brave New World. 
 
@@ -257,6 +267,8 @@ Zadie Smith. White Teeth. **Dead and Alive.**
 John Steinbeck. ...
  
 Bram Stoker. Dracula.
+
+John Kennedy Toole. A Confederacy of Dunces.
 
 Mark Twain. The Adventures of Huckleberry Finn; Life on the Mississippi.
 

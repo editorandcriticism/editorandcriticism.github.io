@@ -28,6 +28,13 @@ Milan Kundera, writing in The Art of the Novel, illuminates the connection betwe
 
 ---
 
+Max Horkheimer and Theodor W. Adorno, in the [Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment), connect this split with enlightment and technology: 
+
+>"Enlightenment's program was the disenchantment of the world. It wanted to dispel myths, to overthrow fantasy with knowledge. ... The "happy match" between human understanding and the nature of things that [Francis Bacon] envisaged is a patriarchal one: the mind, conquering superstition, is to rule over disenchanted nature. Knowledge, which is power, knows no limits, either in its enslavement of creation or in its deference to worldly masters. Just as it serves all the purposes of the bourgeois economy both in factories and on the battlefield, it is at the disposal of entrepreneurs regardless of their origins. Kings control technology no more directly than do merchants: it is as democratic as the economic system with which it evolved. Technology is the essence of this knowledge. It aims to produce neither concepts nor images, nor the joy of understanding, but method, exploitation of the labor of others, capital. ... On their way toward modern science human beings have discarded meaning. The concept is replaced by the formula, the cause by rules and probability."
+
+
+---
+
 So: How do we maintain our connection to the real world of life, to our humanity, sanity, empathy, privacy, and security in the face of corruption, corrosion, and coercion? 
 
 Re-evaluate ideas that are [uncritically adopted](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/) from the system in which we are embedded. Develop a critical awareness of the bureaucratic rationalization of everyday life, dispense with its abstractions, and resist its colonization of being in the world. 
@@ -76,6 +83,7 @@ I'll leave it to you to figure out how that simple act of resistance is closely 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 [I. Remember. Reading.](https://criticism.com/reading.html)
+
 
 
 

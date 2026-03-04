@@ -16,6 +16,15 @@ Dostoevsky's novels --- especially _The Double_ and _The Idiot_ explore how indi
 
 ---
 
+<img src="/photos/maxs-eugene-oregon.jpg" class="img-fluid" alt="Photograph of Max's in Eugene, Oregon.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Voices intermingling between the campus and the city. Max's, Eugene, Oregon, near the University of Oregon. February 2026. Photograph by Steve Hoenisch.
+
+
+
+
+---
+
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychotherapeutic Dialogue](/da/indoctrination.html)
 
 <i class="fa fa-file-text"></i> [The Myth of Psychoanalysis: Wittgenstein Contra Freud](/md/tech.html) 
