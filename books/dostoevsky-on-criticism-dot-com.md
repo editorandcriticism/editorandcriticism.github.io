@@ -18,7 +18,7 @@ Dostoevsky's novels --- especially _The Double_ and _The Idiot_ explore how indi
 
 <img src="/photos/maxs-eugene-oregon.jpg" class="img-fluid" alt="Photograph of Max's in Eugene, Oregon.">
 
-<i class="fa fa-picture-o" aria-hidden="true"></i> Voices intermingling between the campus and the city. Max's, Eugene, Oregon, near the University of Oregon. February 2026. Photograph by Steve Hoenisch.
+<i class="fa fa-picture-o" aria-hidden="true"></i> Voices and memories intermingling between the campus and the city. Max's, Eugene, Oregon, near the University of Oregon. February 2026. Photograph by Steve Hoenisch.
 
 
 
@@ -33,7 +33,14 @@ Dostoevsky's novels --- especially _The Double_ and _The Idiot_ explore how indi
 
 <i class="fa fa-file-text"></i> [A Wittgensteinian Approach to Discourse Analysis](/da/lw_da.html) 
 
+<i class="fa fa-file-text"></i> [Double Life](https://criticism.com/books/double-life.html)
+
 <i class="fa fa-file-text"></i> [Critic's Notebook](/critics-notebook.md) | [Site Map](/map.html) <i class="fa fa-sitemap" aria-hidden="true"></i>
+
+
+
+
+
 
 
 
