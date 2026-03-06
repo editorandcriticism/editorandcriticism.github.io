@@ -37,7 +37,7 @@ pandoc --toc --pdf-engine=lualatex -V geometry:margin=1.5in -V urlcolor=NavyBlue
 
 ---
 
-This essay was named best of the web for social science in 2003 by Encyclopaedia Britannica. \
+<i class="fa fa-trophy" aria-hidden="true"></i> This essay was named best of the web for social science in 2003 by Encyclopaedia Britannica. \
 <i class="fa fa-file-pdf-o"></i> [Download Essay in PDF](https://www.criticism.com/md/weber1.pdf)
 
 ---
@@ -232,17 +232,19 @@ Vocation of Politics," p. 354.
 ---
 
 
-<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en). <i class="fa fa-google" aria-hidden="true"></i> Publications and citations on [Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch).
+<i class="fa fa-google" aria-hidden="true"></i> [Profile on Google Scholar](https://scholar.google.com/citations?user=WX8kNssAAAAJ&hl=en) and publications and [citations on Google Scholar](https://scholar.google.com/scholar?hl=en&q=steve+hoenisch).
 
 <i class="fa fa-wikipedia-w" aria-hidden="true"></i> [Citations on Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1) (in Indeterminacy (philosophy) and Friedrich Nietzsche).
 
 <i class="fa fa-file-text"></i> [Comments and Kudos](https://criticism.com/cc/kudos.html)
 
-<i class="fa fa-university" aria-hidden="true"></i> This [essay on Max Weber](https://criticism.com/md/weber1.html) was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). 
-
 <i class="fa fa-trophy" aria-hidden="true"></i> In 2003, Encyclopaedia Britannica named this [essay on Weber](https://criticism.com/md/weber1.html) best of the web for social science.
 
-<i class="fa fa-language" aria-hidden="true"></i> Thank you for supporting Criticism.Com. <i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch
+<i class="fa fa-university" aria-hidden="true"></i> This [essay on Max Weber](https://criticism.com/md/weber1.html) was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). 
+
+<i class="fa fa-language" aria-hidden="true"></i> Thank you for supporting Criticism.Com. <i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch.
+
+
 
 
 
