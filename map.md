@@ -45,7 +45,7 @@ author: Steve Hoenisch
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Psychoanalysis as Weltanschauung](/philosophy/weltanschauung.html)
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Relation Between Civic Society and Newss in the Writings
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [The Relation Between Civic Society and News in the Writings
     of Alexis de Tocqueville and Robert Putnam](/md/putnam1.html)
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Wittgenstein and Freud: Points of Contact and

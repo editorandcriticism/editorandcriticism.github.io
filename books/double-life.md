@@ -28,9 +28,13 @@ Milan Kundera, writing in The Art of the Novel, illuminates the connection betwe
 
 ---
 
-Max Horkheimer and Theodor W. Adorno, in the [Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment), connect this split with enlightment and technology: 
+Max Horkheimer and Theodor W. Adorno, in the [Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment), published in 1947, connect this split with enlightment and technology: 
 
 >"Enlightenment's program was the disenchantment of the world. It wanted to dispel myths, to overthrow fantasy with knowledge. ... The "happy match" between human understanding and the nature of things that [Francis Bacon] envisaged is a patriarchal one: the mind, conquering superstition, is to rule over disenchanted nature. Knowledge, which is power, knows no limits, either in its enslavement of creation or in its deference to worldly masters. Just as it serves all the purposes of the bourgeois economy both in factories and on the battlefield, it is at the disposal of entrepreneurs regardless of their origins. Kings control technology no more directly than do merchants: it is as democratic as the economic system with which it evolved. Technology is the essence of this knowledge. It aims to produce neither concepts nor images, nor the joy of understanding, but method, exploitation of the labor of others, capital. ... On their way toward modern science human beings have discarded meaning. The concept is replaced by the formula, the cause by rules and probability."
+
+And then, critically, Horkheimer and Adorno connect reason and technology with media, with machine, with manipulation:
+
+>"Propaganda directed at changing the world---what an absurdity! Propaganda turns language into an instrument, a lever, a machine. ... All people know in their innermost awareness that through this medium they are turned into media, as in a factory. The rage they feel in following it is the old rage against the yoke, reinforced by the dim knowledge that the way out pointed by propaganda is the wrong one. Propaganda manipulates human beings; when it screams freedom it contradicts itself. Mendacity is inseparable from it. It is the community of lies in which the leader and the led come together ... In it even truth becomes a mere means, to the end of gaining adherents; it falsifies truth simply by taking it into its mouth. That is why true resistance is without propaganda. Propaganda is antihuman."
 
 
 ---
