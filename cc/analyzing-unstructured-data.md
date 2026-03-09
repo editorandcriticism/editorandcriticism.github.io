@@ -47,4 +47,7 @@ Well, analyzing it all with AI/ML, of course.
 
 <i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html).
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html).
+
+
 

@@ -9,7 +9,7 @@ title: Auditing Unstructured Data
 
 <!-- Byline: -->
 
-By Steve Hoenisch, Technology Writer, 2020.
+By Steve Hoenisch, Technology Writer, 2011.
 
 
 <!-- FROM the file marked with NEW in filename. -->
@@ -346,6 +346,27 @@ Here's a ten-step program to organize, protect, and audit your unstructured data
 
 
 <!-- END SIDEBAR 2 END SIDEBAR 2 -->
+
+
+---
+
+
+<i class="fa fa-medium" aria-hidden="true"></i>
+ [Medium.com Page](https://medium.com/@steveski170).
+
+<i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b).
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of  Publications on Technology](/publications.html).
+
+<i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html).
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html).
+
+
 
 
 
