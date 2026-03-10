@@ -77,6 +77,8 @@ I'll leave it to you to figure out how that simple act of resistance is closely 
 
 <i class="fa fa-file-text-o"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
 
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](/philosophy/max-weber-capitalism.html)
+
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Indoctrination and Resistance in Psychoanalytic Dialogue](/da/indoctrination.html) 
 
 <i class="fa fa-file-text-o"></i> [Reading Books as an Act of Critical Resistance](/books.html).
@@ -87,6 +89,7 @@ I'll leave it to you to figure out how that simple act of resistance is closely 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 [I. Remember. Reading.](https://criticism.com/reading.html)
+
 
 
 

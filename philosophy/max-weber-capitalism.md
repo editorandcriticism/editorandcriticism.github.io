@@ -72,7 +72,35 @@ compatible with -- democracy, authoritarianism, monarchy?
 
 
 
-Weber's also concerned with the increasing bureaucratization of life.
+Weber was also concerned with the increasing [bureaucratization of everyday life](https://criticism.com/books/double-life.html).
+
+
+---
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Goals in Reading Max Weber's Early Works](/philosophy/max-weber-reading-goals.html)
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html).
+
+
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Double Life](https://criticism.com/books/double-life.html).
+
+
+---
+
+
+
+<img src="/photos/amsterdam-in-the-last-night-of-winter.png" class="img-fluid" alt="Photograph of Amsterdam, the Netherlands, at night.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> A Dark Night in Winter, Amsterdam, the Netherlands, January 2025. Photograph by Steven Hoenisch.
+
+
+
+
+
+
+
 
 
 
