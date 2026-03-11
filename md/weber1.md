@@ -248,8 +248,5 @@ Vocation of Politics," p. 354.
 
 
 
-## Notes
-
-
 
 
