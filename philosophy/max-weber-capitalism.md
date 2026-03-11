@@ -72,7 +72,7 @@ compatible with -- democracy, authoritarianism, monarchy?
 
 
 
-Weber was also concerned with the increasing [bureaucratization of everyday life](https://criticism.com/books/double-life.html).
+Weber was also concerned with the increasing [bureaucratization of life](https://criticism.com/books/double-life.html).
 
 
 ---
