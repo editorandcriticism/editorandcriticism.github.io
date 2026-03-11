@@ -246,4 +246,13 @@ National Institute of Standards and Technology.
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="steve-hoenisch-4092344b"><a class="LI-simple-link" href='https://www.linkedin.com/in/steve-hoenisch-4092344b?trk=profile-badge'>Steve Hoenisch</a></div>
 
 
+---
+
+
+<img src="/photos/bridge-vail.jpg" class="img-fluid" alt="Photograph of a Purple-Lit Pedestrian Bridge in Vail.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> The Purple Pedestrian Bridge, Vail, Colorado, late autumn 2022. Photograph by Steve Hoenisch.
+
+
+
 

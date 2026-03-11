@@ -42,6 +42,19 @@ Steve Hoenisch skiing near Flute Bowl and Symphony Express, Whistler Mountain, B
 
 
 
+---
+
+<img src="/photos/crans-montana-ski-resort-switzerland-january-2025.png" class="img-fluid" alt="Photograph of Crans-Montana ski resort, Switzerland.">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Crans-Montana ski resort, Switzerland, January 2025. Photograph by Steve Hoenisch.
+
+
+
+
+
+
+
+
 
 
 

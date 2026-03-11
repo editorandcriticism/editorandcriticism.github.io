@@ -73,7 +73,7 @@ the nature of the analysis:
 ---
 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](/philosophy/max-weber-capitalism.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](/philosophy/max-weber-capitalism.html).
 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html).

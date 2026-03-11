@@ -78,7 +78,7 @@ Weber was also concerned with the increasing [bureaucratization of life](https:/
 ---
 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Goals in Reading Max Weber's Early Works](/philosophy/max-weber-reading-goals.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Goals in Reading Max Weber's Early Works](/philosophy/max-weber-reading-goals.html).
 
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html).

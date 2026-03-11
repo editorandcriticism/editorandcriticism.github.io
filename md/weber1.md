@@ -37,9 +37,10 @@ pandoc --toc --pdf-engine=lualatex -V geometry:margin=1.5in -V urlcolor=NavyBlue
 
 ---
 
+<i class="fa fa-file-pdf-o"></i> [Download Essay in PDF](https://www.criticism.com/md/weber1.pdf). \
 <i class="fa fa-trophy" aria-hidden="true"></i> This essay was named best of the web for social science in 2003 by Encyclopaedia Britannica. \
 <i class="fa fa-university" aria-hidden="true"></i> This essay was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam. \
-<i class="fa fa-file-pdf-o"></i> [Download Essay in PDF](https://www.criticism.com/md/weber1.pdf).
+
 
 ---
 
@@ -213,22 +214,22 @@ Vocation of Politics," p. 354.
 
 
 
-##  9 Related
+##  8 Related
 
-<i class="fa fa-file-text"></i> [Goals in Reading Max Weber's Early Works](https://criticism.com/philosophy/max-weber-reading-goals.html)
+<i class="fa fa-file-text"></i> [Goals in Reading Max Weber's Early Works](https://criticism.com/philosophy/max-weber-reading-goals.html).
 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](https://criticism.com/philosophy/max-weber-capitalism.html)
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](https://criticism.com/philosophy/max-weber-capitalism.html).
 
-<i class="fa fa-file-text"></i> [Interpretation and Indeterminacy in Discourse Analysis](https://criticism.com/da/da_indet.html)
+<i class="fa fa-file-text"></i> [Interpretation and Indeterminacy in Discourse Analysis](https://criticism.com/da/da_indet.html).
 
-<i class="fa fa-file-text"></i> [Durkheim and Educational Systems](https://criticism.com/philosophy/durkheim-on-education.html) 
+<i class="fa fa-file-text"></i> [Durkheim and Educational Systems](https://criticism.com/philosophy/durkheim-on-education.html). 
 
-<i class="fa fa-file-text"></i> [Habermas and Discourse Ethics](https://criticism.com/philosophy/habermas-ethics.html) 
+<i class="fa fa-file-text"></i> [Habermas and Discourse Ethics](https://criticism.com/philosophy/habermas-ethics.html). 
 
-<i class="fa fa-file-text"></i> [Wittgenstein on Discourse Analysis](https://criticism.com/da/lw_da.html)
+<i class="fa fa-file-text"></i> [Wittgenstein on Discourse Analysis](https://criticism.com/da/lw_da.html).
 
-<i class="fa fa-file-text"></i> [Putnam and Tocqueville on Newspapers](https://criticism.com/md/putnam1.html)
+<i class="fa fa-file-text"></i> [Putnam and Tocqueville on Newspapers](https://criticism.com/md/putnam1.html).
 
 ---
 
@@ -237,7 +238,7 @@ Vocation of Politics," p. 354.
 
 <i class="fa fa-wikipedia-w" aria-hidden="true"></i> [Citations on Wikipedia](https://en.wikipedia.org/w/index.php?search=%22steve+Hoenisch%22&ns0=1) (in Indeterminacy (philosophy) and Friedrich Nietzsche).
 
-<i class="fa fa-file-text"></i> [Comments and Kudos](https://criticism.com/cc/kudos.html)
+<i class="fa fa-file-text"></i> [Comments and Kudos](https://criticism.com/cc/kudos.html).
 
 <i class="fa fa-trophy" aria-hidden="true"></i> In 2003, Encyclopaedia Britannica named this [essay on Weber](https://criticism.com/md/weber1.html) best of the web for social science.
 
@@ -246,6 +247,8 @@ Vocation of Politics," p. 354.
 <i class="fa fa-language" aria-hidden="true"></i> Thank you for supporting Criticism.Com. <i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch.
 
 
+
+## Notes
 
 
 
