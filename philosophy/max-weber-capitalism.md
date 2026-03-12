@@ -87,15 +87,6 @@ Weber was also concerned with the increasing [bureaucratization of life](https:/
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Double Life](https://criticism.com/books/double-life.html).
 
 
----
-
-
-
-<img src="/photos/amsterdam-in-the-last-night-of-winter.png" class="img-fluid" alt="Photograph of Amsterdam, the Netherlands, at night.">
-
-<i class="fa fa-picture-o" aria-hidden="true"></i> A Dark Night in Winter, Amsterdam, the Netherlands, January 2025. Photograph by Steven Hoenisch.
-
-
 
 
 

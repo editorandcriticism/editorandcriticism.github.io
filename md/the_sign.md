@@ -11,7 +11,8 @@ title: |
 
 
 By Steve Hoenisch \
-Copyright 1996-2024 [www.Criticism.Com](https://www.criticism.com/) \
+Copyright 1996-2026 [www.Criticism.Com](https://www.criticism.com/) \
+_First published in 1998._ \
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Download Essay in PDF](https://www.criticism.com/md/the_sign.pdf)
 
 

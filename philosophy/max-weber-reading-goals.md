@@ -5,7 +5,7 @@ description: |
 keywords: |
     Max Weber, sociology, political economy, methodology, social science,
     interpretative analysis, comparative analysis, cultural analysis,
-    cultural studies, political science, pluralism
+    cultural studies, political science
 title: 'Goals in Reading Max Weber\''s Early Works'
 ---
 
@@ -79,13 +79,8 @@ the nature of the analysis:
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html).
 
 
----
 
 
-
-<img src="/photos/path-to-knowledge-university-of-oregon-campus.png" class="img-fluid" alt="Photograph of the University of Oregon campus">
-
-<i class="fa fa-picture-o" aria-hidden="true"></i> Come in from the Cold: Walking toward the library at the University of Oregon, February 2026. Photograph by Steven Hoenisch.
 
 
 

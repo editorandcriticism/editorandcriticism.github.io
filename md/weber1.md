@@ -1,7 +1,7 @@
 ---
 title: Max Weber\'s View of Objectivity in Social Science
 description: An essay on Max Weber's view of objectivity in social science, by Steve Hoenisch. 
-keywords: Max Weber, objectivity, philosophy, social science, journalism, sociology, newspapers, news, media theory, media sociology, Steven Hoenisch, Weber, fact-value, critical theory, pluralism
+keywords: Max Weber, objectivity, philosophy, social science, journalism, sociology, newspapers, news, media theory, media sociology, Steven Hoenisch, Weber, fact-value, critical theory
 author: By Steve Hoenisch
 output:
   pdf_document:
@@ -37,6 +37,7 @@ pandoc --toc --pdf-engine=lualatex -V geometry:margin=1.5in -V urlcolor=NavyBlue
 
 ---
 
+_First published in 1998; minor formatting revisions and link additions in March 2026._ \
 <i class="fa fa-file-pdf-o"></i> [Download Essay in PDF](https://www.criticism.com/md/weber1.pdf). \
 <i class="fa fa-trophy" aria-hidden="true"></i> This essay was named best of the web for social science in 2003 by Encyclopaedia Britannica. \
 <i class="fa fa-university" aria-hidden="true"></i> This essay was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam. \

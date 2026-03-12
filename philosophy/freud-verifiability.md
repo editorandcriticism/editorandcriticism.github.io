@@ -36,3 +36,13 @@ unconscious.
 
 
 
+---
+
+
+
+<img src="/photos/path-to-knowledge-university-of-oregon-campus.png" class="img-fluid" alt="Photograph of the University of Oregon campus">
+
+<i class="fa fa-picture-o" aria-hidden="true"></i> Come in from the Cold: Walking toward the library at the University of Oregon, February 2026. Photograph by Steven Hoenisch.
+
+
+
