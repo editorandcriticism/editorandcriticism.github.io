@@ -36,6 +36,20 @@ And then, critically, Horkheimer and Adorno connect reason and technology with m
 
 >"Propaganda directed at changing the world---what an absurdity! Propaganda turns language into an instrument, a lever, a machine. ... All people know in their innermost awareness that through this medium they are turned into media, as in a factory. The rage they feel in following it is the old rage against the yoke, reinforced by the dim knowledge that the way out pointed by propaganda is the wrong one. Propaganda manipulates human beings; when it screams freedom it contradicts itself. Mendacity is inseparable from it. It is the community of lies in which the leader and the led come together ... In it even truth becomes a mere means, to the end of gaining adherents; it falsifies truth simply by taking it into its mouth. That is why true resistance is without propaganda. Propaganda is antihuman."
 
+---
+
+
+And then, in 1963, comes The Port Huron Statement, written by Tom Hayden for the Students for a
+Democratic Society and referenced in the cult classic film _The Big Lebowski_ (1998), written and directed by Joel and Ethan Coen, that whacky stoner comedy in which The Dude says to Maude, "I was, uh, one of the authors of the Port Huron Statement.---The original Port Huron Statement." 
+
+Why is the Port Huron Statement referenced in the film, why is it in this piece on Double Life, why is it relevant now, in 2026? Because, both the reference in the movie and the text in the Port Huron Statement itself, it exposes how empiricism, that brain child of the Enlightment, slams shut the door of reproach of those seeking to live a concrete life, a real life, in the world they inhabit. Instead, that empiricism, in Kundera's words, "reduced the world to a mere object of technical and mechanical investigation." Here's an excerpt from the [Port Huron Statement](https://archive.org/details/PortHuronStatement/Phs00-211Copy/):
+
+>[Making values explicit](https://criticism.com/md/weber1.html)---an initial task in establishing alternatives---is an activity that has been devalued and corrupted. The conventional moral terms of the age, the politician moralities---"free world", "people's democracies"---reflect realities poorly, if at all, and seem to function more as ruling myths than as descriptive principles. But neither has our experience in the universities brought as moral enlightenment. Our professors and administrators sacrifice controversy to public relations; their curriculums change more slowly than the living events of the world; their skills and silence are purchased by investors in the arms race; passion is called un-scholastic. The questions we might want raised---what is really important? can we live in a different and better way? if we wanted to change society, how would we do it?---are not thought to be questions of a "fruitful, empirical nature", and thus are brushed aside.
+
+
+
+<!-- what crisis was Husserl speaking of? See also Kafka's The Castle and The Curtain on Weber. -->
+
 
 ---
 
@@ -60,7 +74,6 @@ I'll leave it to you to figure out how that simple act of resistance is closely 
 
 
 
-<!-- what crisis was Husserl speaking of? See also Kafka's The Castle and The Curtain on Weber. -->
 
 ---
 

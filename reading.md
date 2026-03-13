@@ -195,6 +195,8 @@ Barbara Kingsolver. ...
 
 Jerzy Kosinski. Steps; Being There; ... 
 
+Jonathon Kozol. Death at an Early Age; On Being a Teacher; Savage Inequalities.
+
 Milan Kundera. The Unbearable Lightness of Being; The Book of Laughter and Forgetting; Laughable Loves; Slowness; **The Curtain: An Essay in Sever Parts**; **The Art of the Novel.**
 
 >“What does Cervantes’s great novel mean? Much has been written on the question. Some see in it a rationalist critique of Don Quixote’s hazy idealism. Others see it as a celebration of that same idealism. Both interpretations are mistaken because they both seek at the novel’s core not an inquiry but a moral position.” --- From Milan Kundera's _The Art of the Novel_.

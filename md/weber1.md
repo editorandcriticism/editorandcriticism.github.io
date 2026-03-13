@@ -37,7 +37,7 @@ pandoc --toc --pdf-engine=lualatex -V geometry:margin=1.5in -V urlcolor=NavyBlue
 
 ---
 
-<i class="fa fa-telegram" aria-hidden="true"></i> _First published in 1998; minor formatting revisions and link additions in March 2026._ \
+<i class="fa fa-calendar" aria-hidden="true"></i> _First published in 1998; minor formatting revisions and link and first-published year additions in March 2026._ \
 <i class="fa fa-file-pdf-o"></i> [Download Essay in PDF](https://www.criticism.com/md/weber1.pdf). \
 <i class="fa fa-trophy" aria-hidden="true"></i> This essay was named best of the web for social science in 2003 by Encyclopaedia Britannica. \
 <i class="fa fa-university" aria-hidden="true"></i> This essay was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam. \
@@ -246,6 +246,7 @@ Vocation of Politics," p. 354.
 <i class="fa fa-university" aria-hidden="true"></i> This [essay on Max Weber](https://criticism.com/md/weber1.html) was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). 
 
 <i class="fa fa-language" aria-hidden="true"></i> Thank you for supporting Criticism.Com. <i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch.
+
 
 
 

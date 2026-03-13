@@ -9,8 +9,8 @@ keywords: |
 title: 'Goals in Reading Max Weber\''s Early Works'
 ---
 
-Here are a few goals and questions to keep in mind while reading Max
-Weber\'s early works:
+
+Here are a few goals and questions to keep in mind while reading Max Weber's early works:
 
 
 
@@ -73,10 +73,12 @@ the nature of the analysis:
 ---
 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](/philosophy/max-weber-capitalism.html).
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's Interest in Studying Capitalism](https://criticism.com/philosophy/max-weber-capitalism.html).
 
 
-<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](/md/weber1.html).
+<i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
+
+
 
 
 
