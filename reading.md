@@ -242,13 +242,15 @@ Walker Percy. The Thanatos Syndrome.
 
 Steven Pinker. The Language Instinct: How the Mind Creates Language; How the Mind Works; Words and Rules: The Ingredients of Language; The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century.
 
-Niel Postman: Amusing Ourselves to Death; **Technopoly.**
+Niel Postman: Amusing Ourselves to Death; [Teaching as a Subversive Activity](https://www.penguinrandomhouse.com/books/132782/teaching-as-a-subversive-activity-by-neil-postman/); **Technopoly.**
 
 Robert D. Putnam. The Upswing: How America Came Together a Century Ago and How We Can Do It Again (with Shaylyn Romney Garrett); Making Democracy Work: Civic Traditions in Modern Italy; Bowling Alone: The Collapse and Revival of American Community; [APSA Presidential Address: The Public Role of Political Science (2003)](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf).
 
 Thomas Pynchon. The Crying of Lot 49; **Inherent Vice. Vineland.**
 
 Michael Ondaatje. The English Patient. 
+
+Robert Reich. [The Common Good](https://www.penguinrandomhouse.com/books/564303/the-common-good-by-robert-b-reich/); [Aftershock (Inequality for All---Movie Tie-in Edition): The Next Economy and America's Future](https://www.penguinrandomhouse.com/books/200720/aftershockinequality-for-all--movie-tie-in-edition-by-robert-reich/9780345807229/). 
 
 Richard Russo. Mohawk; The Risk Pool.
 
