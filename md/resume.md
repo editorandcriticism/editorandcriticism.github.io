@@ -21,10 +21,10 @@ keywords: technical marketing, technology writer, editor, educator, evangelist, 
 
 ## Experience
 
-**Writer, Intel**\
-Open Edge Platform. April 2025-present:
+**Writer, Editor, and AI Educator at Intel**\
+Open Edge Platform and AI. April 2025-present:
 
-* Working on edge computing and AI.  
+* Working on artificial intelligence, edge computing, and edge AI.
 
 **Sr. Technical Marketing Manager and Technical Marketing Engineer, Telco Business Unit, VMware and Broadcom**\
 Also formerly in the Cloud-Native Applications Business Unit. VMware was acquired by Broadcom in November 2023. 2016-January 2025:

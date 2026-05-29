@@ -54,11 +54,11 @@ Why is the Port Huron Statement referenced in the film, why is it in this piece 
 
 ---
 
-So: How do we maintain our connection to the real world of life, to our humanity, sanity, empathy, privacy, and security in the face of corruption, corrosion, and coercion? 
+So: How do we maintain our connection to the real world of life, to our humanity, sanity, empathy, privacy, and security in the face of systemic corruption, corrosion, and coercion? 
 
 Re-evaluate ideas that are [uncritically adopted](https://www.theamericanscholar.org/the-disadvantages-of-an-elite-education/) from the system in which we are embedded. Develop a critical awareness of the bureaucratic rationalization of everyday life, dispense with its abstractions, and resist its colonization of being in the world. 
 
-Or, to make it simplier still, at least for myself: Breathe. Meditate. Practice mindfulness and resistance. Move. Go outside. Travel. [Read literature](https://criticism.com/reading.html). **Play.** <i class="fa fa-futbol-o" aria-hidden="true"></i>
+Or, to make it simplier still, at least for myself: Breathe. Meditate. Practice mindfulness and resistance. Move. Go outside. Travel. Walk. [Read literature](https://criticism.com/reading.html). **Play.** <i class="fa fa-futbol-o" aria-hidden="true"></i>
 
 In her essay “The Dream of the Raised Arm” in _Dead and Alive_, Zadie Smith supplies one possible answer, and you can do it right now. She writes: 
 

@@ -4,13 +4,16 @@ description: Technology papers, blog posts, conference presentations, and other 
 keywords: white papers, blog posts, blogs, presentations, technology, solution overviews, solution briefs, solution architecture, books, e-books, ebooks, marketing communications, technical documentation, technical marketing, technology writing, editing
 ---
 
-## Recent Portfolio Overviews
+## Recent Portfolio Overviews and Blog Posts on AI
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](https://criticism.com/tech/publishing-portfolio.pdf)
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts on Edge AI for January through April 2026](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.html) | [PDF](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 
-## See Also 
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](https://criticism.com/tech/publishing-portfolio.pdf)
+
+
+## Publications on LinkedIn, GitHub, and Google Scholar 
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
  [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b)
@@ -24,6 +27,7 @@ keywords: white papers, blog posts, blogs, presentations, technology, solution o
 
 <i class="fa fa-file-o" aria-hidden="true"></i> [Resume](https://criticism.com/md/resume.html) | <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://criticism.com/md/resume.pdf) 
 
+<i class="fa fa-github" aria-hidden="true"></i> [GitHub Profile Page: Writer, Editor, and AI Educator](https://github.com/stevenhoenisch) 
 
 --- _Steven Hoenisch_ <i class="fa fa-coffee" aria-hidden="true"></i>
 
@@ -38,13 +42,15 @@ keywords: white papers, blog posts, blogs, presentations, technology, solution o
 
 <!-- ++ Add some citations below. Add link to putnam's asps address with citation and link to weber with short desc on theoretical plurality; ditto women's book along same lines.  -->
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts on Edge AI for January through April 2026](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.html) | [PDF](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> A [Medium Blog Post](https://medium.com/open-edge-platform/evaluating-security-capabilities-for-edge-ai-workloads-on-intel-platforms-with-edge-microvisor-4977eb686ffc) on evaluating security capabilities for edge AI.
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [More Edge AI blog posts on Medium](https://medium.com/@steveski170/list/blog-posts-on-edge-ai-68cafc64db42).
-
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> A [white paper](https://github.com/user-attachments/files/22503833/os-image-composer-wp.pdf) titled Composing and Managing Custom OS Images for Performance, Scalability, and Security at the Edge that describes the vision, capabilities, and business benefits of the OS Image Composer tool.
 
@@ -204,6 +210,8 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-telco
 
 <i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical: Podcast Episode on Avoiding Unplanned Downtime](
 https://blogs.vmware.com/telco/tgt-podcast-reduce-downtime/)
+
+<i class="fa fa-podcast" aria-hidden="true"></i> [More Telcos Get Technical Podcasts on AI, Edge, and Telecommunications cohosted by Steve Hoenisch](https://www.youtube.com/playlist?list=PLSWmdl-iQ4fuUYOWhu45WwspZhY2m4Bsu)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> [Streamlining Operations and Automating Lifecycle Management with Telco Cloud Platform: Insights from Analysys Mason](https://blogs.vmware.com/telco/analysys-mason-automation-is-key-to-operationalize-5g-multi-cloud-networks-and-digital-services-at-scale/)
 
@@ -709,13 +717,19 @@ See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 
 <i class="fa fa-linkedin-square" aria-hidden="true"></i> [LinkedIn Page](https://www.linkedin.com/in/steve-hoenisch-4092344b).
 
+<i class="fa fa-github" aria-hidden="true"></i> [GitHub Profile Page: Writer, Editor, and AI Educator](https://github.com/stevenhoenisch) 
+
 <i class="fa fa-file-o" aria-hidden="true"></i> [Resume of Steven Hoenisch](/md/resume.html).
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](/tech/edge-ai-blogs-papers-2025.pdf) 
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts on Edge AI for January through April 2026](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.html) | [PDF](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
 <i class="fa fa-list" aria-hidden="true"></i> [List of Blog Posts on Technology](/cc/blog.html).
+
+<i class="fa fa-podcast" aria-hidden="true"></i> [Telcos Get Technical Podcasts on AI, Edge, and Telecommunications cohosted by Steve Hoenisch](https://www.youtube.com/playlist?list=PLSWmdl-iQ4fuUYOWhu45WwspZhY2m4Bsu)
 
 <i class="fa fa-files-o" aria-hidden="true"></i> [Essays](/papers.html).
 
@@ -726,6 +740,7 @@ See The Country By Car And Save In A Drive-away, in the *Chicago Tribune*.
 <i class="fa fa-files-o" aria-hidden="true"></i> [Publications on Semantic Scholar](https://www.semanticscholar.org/author/S.-Hoenisch/148060170) and my paper on topical structure at [Research Frontiers in Writing Analysis](https://www.semanticscholar.org/paper/Research-Frontiers-in-Writing-Analysis-Connor/7ecff082e82dd6d307a29ed60edc760a4154c8cf) on Semantic Scholar. 
 
 <i class="fa fa-coffee" aria-hidden="true"></i> [Author bio](https://criticism.com/books/author-bio.html) of Steve Hoenisch
+
 
 
 

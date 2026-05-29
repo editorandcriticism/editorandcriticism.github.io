@@ -9,6 +9,11 @@ keywords: Linux, container host runtime, cloud-native applications, cloud comput
 
 ### Latest Blog Posts
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts on Edge AI for January through April 2026](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.html) | [PDF](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](https://criticism.com/tech/publishing-portfolio.pdf)
 
 <i class="fa fa-external-link-square" aria-hidden="true"></i> Blog post on Medium: [Composing Custom Linux Images with the Inaugural Release of OS Image Composer](https://medium.com/@steveski170/composing-custom-linux-images-with-the-inaugural-release-of-os-image-composer-1810fc83a8d6).
 
@@ -223,7 +228,27 @@ Although one of these imperatives is cultural, the other is technical: Open acce
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](/tech/edge-ai-blogs-papers-2025.pdf) 
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts on Edge AI for January through April 2026](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.html) | <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.pdf) 
+
+<i class="fa fa-github" aria-hidden="true"></i> [GitHub Profile Page: Writer, Editor, and AI Educator](https://github.com/stevenhoenisch) 
+
 <i class="fa fa-sticky-note" aria-hidden="true"></i> [About the Author Page for Steve Hoenisch on Amazon.Com](https://amazon.com/author/steven-hoenisch)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
