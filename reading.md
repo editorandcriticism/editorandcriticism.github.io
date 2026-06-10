@@ -8,29 +8,25 @@ title: Bookshelf
 
 Books that I am reading, rereading, or thinking about now --- all highly recommended expository material to understand the historical context and the age-old conflicts of the present moment: 
 
-* Zadie Smith, Dead and Alive.
-* Salmon Rushdie, Languages of Truth.
-* George Orwell, 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
-* Milan Kundera, The Art of the Novel.
-* Milan Kundera, The Curtain: An Essay in Seven Parts.
-* The Age of Extraction, by Tim Wu.
-
-
----
-
-
 _Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases. Thank you for supporting Criticism.com._ 
 
 * Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl).
+* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD), [The Aleph and Other Stories](https://amzn.to/4ba5p2M), [Ficciones](https://amzn.to/49zs5IC), [Labyriths](https://amzn.to/4qARiIv).
 * Kiran Desai, [The Loneliness of Sonia and Sunny](https://amzn.to/3YQEZMb).
-* Jorge Luis Borges, [The Aleph and Other Stories](https://amzn.to/4ba5p2M).
-* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD).
+* Max Weber, [Weber: Political Writings](https://amzn.to/4unp6tP), [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79).
+* [The Age of Extraction](https://amzn.to/4ol0osM), by Tim Wu.
+* Zadie Smith, [Dead and Alive](https://amzn.to/43qRS1S).
+* Salmon Rushdie, [Languages of Truth](https://amzn.to/4e5RNFq).
+* George Orwell, 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
+* Milan Kundera, [The Art of the Novel](https://amzn.to/49QvP8e).
+* Milan Kundera, [The Curtain: An Essay in Seven Parts](https://amzn.to/4eAYNvq).
+* Milan Kundera, [The Unbearable Lightness of Being](https://amzn.to/4dZwmHw); [The Book of Laughter and Forgetting](https://amzn.to/4ut9R2u).
+* George Orwell, 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
+* Thomas Pynchon, [Inherent Vice](https://amzn.to/49TCoXI).
 * Haruki Murakami, The City and Its Uncertain Walls.
-* Gabriel Garcia Marquez, One Hundred Years of Solitude.
-* Thomas Pynchon, Inherent Vice.
-* Broch, The Sleepwalkers.
+* Broch, [The Sleepwalkers](https://amzn.to/4gigq4q).
 * Musil, The Man Without Qualities.
-* Franz Kafka, The Castle.
+* Franz Kafka, [The Castle](https://amzn.to/4ey4PNw).
 
 ---
 
@@ -48,11 +44,11 @@ https://www.nyrb.com/collections/classics
 <!-- nonfiction Lit K adds: Mikhail Bakhtin, Michel Foucault, [Max Weber](https://www.criticism.com/md/weber1.html), Karl Marx, Jurgen Habermas, Max Horkheimer, Walter Benjamin, Herbert Marcuse, Siegfried Kracauer. -->
 
 
-### Vectors of Ambivalence and Ambiguity 
+### Vectors of Ambivalence, Ambiguity, and Abstraction 
 
 Philosophy and world literature; literatue and knowledge; praxis; mindfulness; critical analysis; literary criticism; phenomenology; existentialism; critical theory; cosmopolitanism; technology; artificial matrices; relativity and reactivity; fragments of rationality; fragments of replication; fragmented realities; fault lines; the forgetting of being. 
 
-Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; [double life](https://criticism.com/books/double-life.html); polyphonic praxis; writing resistance; sense and sensibility; substance over image; bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
+Protean; interpretative lenses; literature as social knowledge; the dialogic voice and the dialogic imagination; [double life](https://criticism.com/books/double-life.html); polyphonic praxis; writing resistance; sense and sensibility; [substance over image](https://criticism.com/md/cult1.html); [escape from the media quagmire](https://criticism.com/md/media-criticism-with-french-social-thought.html); bibliotherapy; inclusion over ritual exclusion; open universities; open seminiars; re-evaluating ideas uncritically adopted from the system in which we are embedded; freedom from the [iron cage](https://criticism.com/md/weber1.html), the silicon cage, and the totality through a polyphonic critical literary praxis. 
 
 <!-- ## Fiction Books I Love  -->
 <!-- ## Nonfiction Books I Love (Core Canon) -->
@@ -62,7 +58,7 @@ Protean; interpretative lenses; literature as social knowledge; the dialogic voi
 
 <!-- + Start at hs nd try to remember from there; include important nonfiction and fiction in same list: -->
 
-Theodor W. Adorno. [Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment) (with Max Horkheimer).
+Theodor W. Adorno. [Dialectic of Enlightenment](https://www.sup.org/books/theory-and-philosophy/dialectic-enlightenment) (with Max Horkheimer):
 
 >"Enlightenment's program was the disenchantment of the world. It wanted to dispel myths, to overthrow fantasy with knowledge. ... The "happy match" between human understanding and the nature of things that [Francis Bacon] envisaged is a patriarchal one: the mind, conquering superstition, is to rule over disenchanted nature. Knowledge, which is power, knows no limits, either in its enslavement of creation or in its deference to worldly masters. Just as it serves all the purposes of the bourgeois economy both in factories and on the battlefield, it is at the disposal of entrepreneurs regardless of their origins. Kings control technology no more directly than do merchants: it is as democratic as the economic system with which it evolved. Technology is the essence of this knowledge. It aims to produce neither concepts nor images, nor the joy of understanding, but method, exploitation of the labor of others, capital. ... On their way toward modern science human beings have discarded meaning. The concept is replaced by the formula, the cause by rules and probability."
 

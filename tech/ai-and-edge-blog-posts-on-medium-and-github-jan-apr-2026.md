@@ -33,7 +33,7 @@ pandoc --toc --pdf-engine=lualatex -V geometry:margin=1in -V urlcolor=NavyBlue -
 <!-- d (done in publications.md): add telco and edge podcasts link to cc and youtube if poss: https://www.youtube.com/playlist?list=PLSWmdl-iQ4fuUYOWhu45WwspZhY2m4Bsu
 -->
 
-## Blog Posts and Papers Published During the First Months of 2026
+# Blog Posts and Papers Published During the First Months of 2026
 
 ### Robotics AI Suite Races Forward on Panther Lake and Bartlett Lake
 

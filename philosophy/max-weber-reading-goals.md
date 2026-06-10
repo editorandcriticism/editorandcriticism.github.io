@@ -78,6 +78,13 @@ the nature of the analysis:
 
 <i class="fa fa-file-text-o" aria-hidden="true"></i> [Max Weber's View of Objectivity in Social Science](https://criticism.com/md/weber1.html).
 
+---
+
+_Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases of these books. Thank you for supporting Criticism.com._
+
+* [Weber: Political Writings](https://amzn.to/4unp6tP)
+* [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79), by Max Weber.
+
 
 
 

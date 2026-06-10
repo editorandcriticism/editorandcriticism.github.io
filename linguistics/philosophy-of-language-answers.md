@@ -1208,7 +1208,7 @@ animals," which are true because they are based on scientific knowledge,
 from truths of the sort "all bachelors are unmarried," which are true by
 definition. The former, Putnam says, are "less necessary" than the
 latter. Scientific knowledge has no bearing on whether all bachelors are
-thought to be unmarried or not.
+thought to be unmarried or not. (That said, sometimes people lie.)
 
 
 

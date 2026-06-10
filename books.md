@@ -34,22 +34,25 @@ The references to the sign in the window are from Václav Havel's essay [The Pow
 
 ### Recommended Reading to Interpret the Present Moment and the Spirit of the Times
 
-* Zadie Smith, Dead and Alive.
-* Salmon Rushdie, Languages of Truth.
+_Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases. Thank you for supporting Criticism.com._ 
+
+* Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl).
+* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD), [The Aleph and Other Stories](https://amzn.to/4ba5p2M), [Ficciones](https://amzn.to/49zs5IC), [Labyriths](https://amzn.to/4qARiIv).
+* Kiran Desai, [The Loneliness of Sonia and Sunny](https://amzn.to/3YQEZMb).
+* Max Weber, [Weber: Political Writings](https://amzn.to/4unp6tP), [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79).
+* [The Age of Extraction](https://amzn.to/4ol0osM), by Tim Wu.
+* Zadie Smith, [Dead and Alive](https://amzn.to/43qRS1S).
+* Salmon Rushdie, [Languages of Truth](https://amzn.to/4e5RNFq).
 * George Orwell, 1984 (the 75th anniversary edition from the Berkley imprint of Penguin Random House with the introduction by Thomas Pynchon).
-* Milan Kundera, The Art of the Novel.
-* Milan Kundera, The Curtain: An Essay in Seven Parts.
-* The Age of Extraction, by Tim Wu.
-
----
-
-* Thomas Pynchon, Vineland.
+* Milan Kundera, [The Art of the Novel](https://amzn.to/49QvP8e).
+* Milan Kundera, [The Curtain: An Essay in Seven Parts](https://amzn.to/4eAYNvq).
+* Milan Kundera, [The Unbearable Lightness of Being](https://amzn.to/4dZwmHw); [The Book of Laughter and Forgetting](https://amzn.to/4ut9R2u).
 * Thomas Pynchon, Inherent Vice.
-* Kiran Desai, The Loneliness of Sonia and Sunny.
 * Haruki Murakami, The City and Its Uncertain Walls.
-* Broch, The Sleepwalkers.
+* Broch, [The Sleepwalkers](https://amzn.to/4gigq4q).
 * Musil, The Man Without Qualities.
-* Franz Kafka, The Castle.
+* Franz Kafka, [The Castle](https://amzn.to/4ey4PNw).
+
 
 <!-- <i class="fa fa-globe" aria-hidden="true"></i> _The Country and the City_, by Raymond Williams. -->
 

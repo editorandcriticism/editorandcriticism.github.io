@@ -88,6 +88,19 @@ Weber was also concerned with the increasing [bureaucratization of life](https:/
 
 
 
+---
+
+_Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases. Thank you for supporting Criticism.com._ 
+
+* Max Weber, [Weber: Political Writings](https://amzn.to/4unp6tP), [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79).
+* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD), [The Aleph and Other Stories](https://amzn.to/4ba5p2M), [Ficciones](https://amzn.to/49zs5IC), [Labyriths](https://amzn.to/4qARiIv).
+* Kiran Desai, [The Loneliness of Sonia and Sunny](https://amzn.to/3YQEZMb).
+* Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl).
+
+
+
+
+
 
 
 

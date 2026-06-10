@@ -243,9 +243,14 @@ Vocation of Politics," p. 354.
 
 <i class="fa fa-trophy" aria-hidden="true"></i> In 2003, Encyclopaedia Britannica named this [essay on Weber](https://criticism.com/md/weber1.html) best of the web for social science.
 
-<i class="fa fa-university" aria-hidden="true"></i> This [essay on Max Weber](https://criticism.com/md/weber1.html) was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=). 
+<i class="fa fa-university" aria-hidden="true"></i> This [essay on Max Weber](https://criticism.com/md/weber1.html) was cited in the 2002 [APSA Presidential Address: The Public Role of Political Science](https://www.uvm.edu/~dguber/POLS293/articles/putnam.pdf) by Robert D. Putnam; you can also [find Putnam's address on Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=APSA+presidential+address+Putnam&btnG=).
 
-<i class="fa fa-language" aria-hidden="true"></i> Thank you for supporting Criticism.Com. <i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch.
+<i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch. <i class="fa fa-book" aria-hidden="true"></i> _Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases. Thank you for supporting Criticism.com._ <i class="fa fa-language" aria-hidden="true"></i>
+
+
+* Max Weber, [Weber: Political Writings](https://amzn.to/4unp6tP), [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79).
+* Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl).
+* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD), [Ficciones](https://amzn.to/49zs5IC), [Labyriths](https://amzn.to/4qARiIv).
 
 
 
