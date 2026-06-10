@@ -247,13 +247,12 @@ Vocation of Politics," p. 354.
 
 <i class="fa fa-copyright" aria-hidden="true"></i> Essay Copyright © 1995-2026 Steven Hoenisch. <i class="fa fa-book" aria-hidden="true"></i> _Disclosure: Some of the following links are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases. Thank you for supporting Criticism.com._ <i class="fa fa-language" aria-hidden="true"></i>
 
-
-* Max Weber, [Weber: Political Writings](https://amzn.to/4unp6tP), [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79).
-* Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl).
-* Jorge Luis Borges, [Collected Fictions](https://amzn.to/3LWkLxD), [Ficciones](https://amzn.to/49zs5IC), [Labyriths](https://amzn.to/4qARiIv).
-
-
-
-
+* Max Weber, [Weber: Political Writings](https://amzn.to/4unp6tP); [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79).
+* Thomas Pynchon, [Vineland](https://amzn.to/4r3PdVl); [Inherent Vice](https://amzn.to/49TCoXI).
+* Zadie Smith, [Dead and Alive](https://amzn.to/43qRS1S).
+* Salmon Rushdie, [Languages of Truth](https://amzn.to/4e5RNFq).
+* Franz Kafka, [The Castle](https://amzn.to/4ey4PNw).
+* Milan Kundera, [The Art of the Novel](https://amzn.to/49QvP8e); [The Curtain: An Essay in Seven Parts](https://amzn.to/4eAYNvq).
+* Tim Wu, [The Age of Extraction](https://amzn.to/4ol0osM).
 
 
