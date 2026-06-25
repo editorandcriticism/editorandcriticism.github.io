@@ -313,3 +313,14 @@ _The Sense of Style_, by Steven Pinker, who also supplies a quotation to end thi
 
 
 
+---
+
+<span style="font-size: 80%;">
+<i class="fa fa-usd" aria-hidden="true"></i> [Curated List of Critical Books](https://criticism.com/reading.html)<br/>
+<font color="gray">Disclosure: The following are paid links or ads for buying a book on Amazon.com. As an Amazon Associate, I earn from qualifying purchases of these books. Thank you for your support.</font><br/>
+<i class="fa fa-external-link-square" aria-hidden="true"></i> Jorge Luis Borges: [Collected Fictions](https://amzn.to/3LWkLxD), [The Aleph and Other Stories](https://amzn.to/4ba5p2M), [Ficciones](https://amzn.to/49zs5IC), [Labyriths](https://amzn.to/4qARiIv); Hermann Broch: [The Sleepwalkers](https://amzn.to/4gigq4q); Franz Kafka: [The Castle](https://amzn.to/4ey4PNw); Milan Kundera: [The Art of the Novel](https://amzn.to/49QvP8e), [The Unbearable Lightness of Being](https://amzn.to/4dZwmHw), [The Curtain: An Essay in Seven Parts](https://amzn.to/4eAYNvq); George Orwell: 1984; Thomas Pynchon: [Vineland](https://amzn.to/4r3PdVl), [Inherent Vice](https://amzn.to/49TCoXI); Salmon Rushdie: [Languages of Truth](https://amzn.to/4e5RNFq); Zadie Smith: [Dead and Alive](https://amzn.to/43qRS1S); Max Weber: [Weber: Political Writings](https://amzn.to/4unp6tP), [The Protestant Ethic and the "Spirit" of Capitalism: and Other Writings](https://amzn.to/4xDxB79); Tim Wu: [The Age of Extraction](https://amzn.to/4ol0osM).
+</span>
+
+---
+
+

@@ -35,6 +35,8 @@ He writes about technology, philosophy, critical theory, literature, linguistics
 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Publishing Portfolio: Technology Writing and Technical Marketing](/tech/publishing-portfolio.pdf).
 
+<i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts on Edge AI for January through April 2026](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.html) | [PDF](https://criticism.com/tech/ai-and-edge-blog-posts-on-medium-and-github-jan-apr-2026.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+
 <i class="fa fa-file-o" aria-hidden="true"></i> [Blog Posts and Papers on Edge AI for 2025](https://criticism.com/tech/edge-ai-blogs-papers-2025.html) | [PDF](https://criticism.com/tech/edge-ai-blogs-papers-2025.pdf) <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 
 <i class="fa fa-list" aria-hidden="true"></i> [List of  Publications on Technology](/publications.html).
@@ -74,6 +76,7 @@ Major contributor to the *American Encyclopedia of the Democratic Party and the 
 <img src="/photos/barcelona-beach1.jpg" class="img-fluid" alt="Photograph of Barceloneta Beach, Barcelona.">
 
 <i class="fa fa-picture-o" aria-hidden="true"></i> Barceloneta Beach, Barcelona. Photograph by Steve Hoenisch.
+
 
 
 
